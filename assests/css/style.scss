@@ -1,0 +1,22 @@
+---
+---
+
+@import "jekyll-theme-minimal";
+
+body {
+	font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	color:#626262;
+}
+
+section{
+  float:inline-start;
+  width:inherit;
+}
+
+header, footer {
+  display:none;
+}
+
+.wrapper{
+	width: 720px;
+}
