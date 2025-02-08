@@ -14,6 +14,8 @@ Molly is from the *Poeciliidae* family of fish. The commun mllies that we usuall
 
 ### Characteristics
 
+//TODO - talk about varieties : commun, lyretail, halfmoon lyretail, sailfin molly
+
 | Family              | Poeciliidae                                 |
 |:--------------------|:--------------------------------------------|
 | Diet                | Omnivores                                   |
@@ -44,7 +46,7 @@ Once the job is finished, you can put her back with her tank mates, though it ma
 > experience, when approching their end of life, mollies tend to stop having babies and basically become infertile. How general of a condition this personnal
 > observation is is yet to be investigated.
 
-//TODO - talk abut genetics
+//TODO - talk abut genetics, male and female difference in body and character. include pictures of males and females; For genetics, include a picture of eye color and body color (three colors).
 
 ### Conclusion
 
