@@ -10,7 +10,7 @@ Mollies are one of the most commun species in the fishkeeping hobby. They are ea
 
 ### Overview
 
-The molly fish is from the *Poeciliidae* family of fish. It is livebearer (meaning they reproduce by giving birth to live youngs) that can live from 3 to 5 years in optimal conditions. It is easy to breed and care for, can eat pretty much anything and is peaceful with other tank mates. The commun mollies that we usually find in LFSs are *Poecilia sphenops*. Other variaties exist like the *Poecilia mexicana* and the *Poecilia velifera*.
+The molly fish is from the *Poeciliidae* family of fish. It is livebearer (meaning they reproduce by giving birth to live youngs) that can live from 3 to 5 years in optimal conditions. It is easy to breed and care for, can eat pretty much anything and is peaceful with other tank mates. The commun mollies we usually find in LFSs are *Poecilia sphenops*. Other variaties exist like the *Poecilia mexicana* and the *Poecilia velifera*.
 
 ### Characteristics
 
