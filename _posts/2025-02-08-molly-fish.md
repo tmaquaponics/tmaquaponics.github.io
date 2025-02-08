@@ -13,12 +13,22 @@ Molly is from the *Poeciliidae* family of fish. The commun molly that we usually
 
 ### Characteristics
 |    Family              |    Poeciliidae                                 |
-| :----                  | :-----                                         |
+|:----                   |:-----                                          |
 |    Diet                |    Omnivores                                   |
 |    Social behavior     |    peaceful                                    |
 |    Care                |    easy                                        |
 |    Temp                |    26° c                                       |
 |    Reprduction         |    Livebearer                                  |
+
+
+| head1        | head two          | three |
+|:-------------|:------------------|:------|
+| ok           | good swedish fish | nice  |
+| out of stock | good and plenty   | nice  |
+| ok           | good `oreos`      | hmm   |
+| ok           | good `zoute` drop | yumm  |
+
+
 
 ### Environment
 
