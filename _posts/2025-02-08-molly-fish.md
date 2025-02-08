@@ -24,6 +24,8 @@ Molly is from the *Poeciliidae* family of fish. The commun mllies that we usuall
 
 ### Environment
 
+**water params, lighting, ph, kh, gh, temperature, tank mates, flow of water, filtration**
+
 ### Diet
 
 Mollies are omnivores. They will eat anything and everything you throw at them, from plants, frozen food, flakes, pellets, everything ! In fact, they will destroy your delicat plantes as they constantly munch on and look for food throughout the day. So, best not to have fragile plants in the tank. Prefer plants with a thick body structure. It is prefered to give them a varied diet to keep them healthy and alert. Thus, the best food is a comnbination of live worms, mosquito larvae, scuds or daphnia, and steamed or slightly boiled vegetables like beans or cucumbers. But honestly, you can give them any fish food you have.
@@ -41,6 +43,8 @@ Once the job is finished, you can put her back with her tank mates, though it ma
 > Depending on water parameters and temperature, adult mollies can cease to reproduce. I personnaly witnessed this during cold temperatures. However, from
 > experience, when approching their end of life, mollies tend to stop having babies and basically become infertile. How general of a condition this personnal
 > observation is is yet to be investigated.
+
+//TODO - talk abut genetics
 
 ### Conclusion
 
