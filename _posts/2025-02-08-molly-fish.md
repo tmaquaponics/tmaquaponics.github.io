@@ -30,11 +30,11 @@ The molly fish is from the *Poeciliidae* family of fish. It is livebearer (meani
 
 ### Diet
 
-Mollies are omnivores. They will eat anything and everything you throw at them, from plants, frozen food, flakes, pellets, everything ! In fact, they will destroy your delicat plantes as they constantly munch on and look for food throughout the day. So, best not to have fragile plants in the tank. Prefer plants with a thick body structure. It is prefered to give them a varied diet to keep them healthy and alert. Thus, the best food is a comnbination of live worms, mosquito larvae, scuds or daphnia, and steamed or slightly boiled vegetables like beans or cucumbers. But honestly, you can give them any fish food you have.
+Mollies are omnivores. They will eat anything and everything you throw at them, from plants, frozen food, flakes, pellets, everything ! In fact, they will destroy your delicat plantes as they constantly munch on and look for food throughout the day -- Previledge plants with a thick body structure. It is prefered to give them a varied diet for optimal health and alertness. Thus, the best food is a comnbination of live worms, mosquito larvae, scuds or daphnia, and steamed or slightly boiled vegetables like beans or cucumbers. But honestly, you can give them any fish food you have.
 
 ### Reproduction
 
-Molly are constantly breeding, so much that you can up their population pretty quickly. And we're talking exponential growth ! They give birth every month to about 20 fry. Sometimes less, sometimes more, depending on the size of the female. On average, you can expect about 25 younglings per female per month.
+Mollies are constantly breeding, so much that you can up their population pretty quickly. And we're talking exponential growth ! They give birth every month to about 20 fry. Sometimes less, sometimes more, depending on the size of the females. On average, you can expect about 25 younglings per female per month.
 
 When a pregant female is about to give birth, she starts isolating herself and chasing other females. At that time, it is best put her in a seperate tank to ensure the survivol of the fry. 
 
@@ -58,6 +58,6 @@ Finally, don't keep her with her fry as it will most definitely eat them.
 
 ### Conclusion
 
-We have briefly explored the molly fish profile and how you can keep moliies. Many varieties exist in the wild and in the hobby with different care specifics. With the information provided here, you can be confident in keeping them. 
+We have briefly explored the molly fish profile and how you can keep mollies. Many varieties exist in the wild and in the hobby with different care specifics. With the information provided here, you can be confident in keeping them. 
 
 Happy fishkeeping !!
