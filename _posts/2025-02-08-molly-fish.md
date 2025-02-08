@@ -10,7 +10,7 @@ Mollies are one of the most commun species in the fishkeeping hobby. They are ea
 
 ### Overview
 
-The molly fish is from the *Poeciliidae* family of fish. It is livebearer (meaning they reproduce by giving birth to live youngs) that can live from 3 to 5 years in optimal conditions. It is easy to breed and care for, can eat pretty much anything and is peaceful with other tank mates. The commun mollies we usually find in LFSs are *Poecilia sphenops*. Other variaties exist like the *Poecilia mexicana* and the *Poecilia velifera*.
+The molly fish is from the *Poeciliidae* family of fish. It is a livebearer (meaning they reproduce by giving birth to live youngs) that can live from 3 to 5 years in optimal conditions. It is easy to breed and care for, can eat pretty much anything and is peaceful with other tank mates. The commun mollies we usually find in LFSs are *Poecilia sphenops*. Other variaties exist like the *Poecilia mexicana* and the *Poecilia velifera*.
 
 ### Characteristics
 
@@ -30,7 +30,9 @@ The molly fish is from the *Poeciliidae* family of fish. It is livebearer (meani
 
 ### Diet
 
-Mollies are omnivores. They will eat anything and everything you throw at them, from plants, frozen food, flakes, pellets, everything ! In fact, they will destroy your delicat plantes as they constantly munch on and look for food throughout the day -- Previledge plants with a thick body structure. It is prefered to give them a varied diet for optimal health and alertness. Thus, the best food is a comnbination of live worms, mosquito larvae, scuds or daphnia, and steamed or slightly boiled vegetables like beans or cucumbers. But honestly, you can give them any fish food you have.
+Mollies are omnivores. They will eat anything and everything you throw at them - from plants, frozen food, flakes, pellets, everything ! In fact, they will destroy your delicat plantes as they constantly munch on and look for food throughout the day. For this reason, if you want to keep them in a planted tank, previledge plants with a thick body structure, keep their number low and feed them regularly.
+
+For optimal health and alertness, you should give your mollies a varied diet. The best food is a comnbination of live worms, mosquito larvae, scuds or daphnia, and steamed or slightly boiled vegetables like beans or cucumbers. But honestly, you can give them any fish food you have.
 
 ### Reproduction
 
@@ -43,12 +45,12 @@ When a pregant female is about to give birth, she starts isolating herself and c
 
 Mollies will predate on everything that moves and will decimate every batch of fry in minutes. So, if you decide to keep her with her mates, make sure to provide ample hiding spots with plants and decorations. 
 
-Once her job is done, you can put her back with her tank mates, though it may need a few minutes to recover before being chased again by other males.
+Once her job is done, you can put her back with her tank mates, though she may need a few minutes to recover before being chased again by other males.
 
 > Males chase females to reproduce. Actually, that's pretty much what they do all day. Because of this, the minimum ratio to keep between males and females is
 > usually one male to three females. This will ensure an even distribution of 'stress' between all the females.
 
-Finally, don't keep her with her fry as it will most definitely eat them.
+Finally, don't keep her with her fry as she will most definitely eat them.
 
 > Depending on water parameters and temperature, adult mollies can cease to reproduce. I personnaly witnessed this during cold temperatures. However, from
 > experience, when approching their end of life, mollies tend to stop having babies and basically become infertile. How general of a condition this personnal
