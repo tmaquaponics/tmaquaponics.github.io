@@ -36,7 +36,9 @@ Mollies give birth every month to about 20 fry. Somtimes less, smetimes more, de
 
 When a pregant female is about to give birth, it is best put her in a seperate tank to ensure the survivol of the fry. Mollies will predate on everything that moves and will decimate every fry batch in minutes. If you decide to keep her with her mates, make sure to provide ample hiding spots with plants and decorations. With experience, you will start to recognise the right time with a day or two margin from giving birth. Once the job is finished, you can put her back with her tank mates, though it may need a few minutes to recover before getting chased again by other males. Don't keep her with her fry, it will certainly eat them.
 
-*Depending on water parameters and temperature, adult mollies can cease to reproduce. I personnaly witnessed this during cold temperatures. However, from experience, when approching their end of life, mollies tend to stop having babies and basically become infertile. How general of a condition this personnal observation is is yet to be investigated.*
+```
+Depending on water parameters and temperature, adult mollies can cease to reproduce. I personnaly witnessed this during cold temperatures. However, from experience, when approching their end of life, mollies tend to stop having babies and basically become infertile. How general of a condition this personnal observation is is yet to be investigated.
+```
 
 ### Conclusion
 
