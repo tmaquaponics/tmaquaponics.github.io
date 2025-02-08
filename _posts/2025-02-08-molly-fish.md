@@ -34,7 +34,7 @@ Mollies are omnivores. They will eat anything and everything you throw at them, 
 
 ### Reproduction
 
-Molly are constantly breeding, so much that you can up their population pretty qucikly. And we're talking exponential growth ! They give birth every month to about 20 fry. Somtimes less, smetimes more, depending on the size of the female. On average, you can expect about 25 younglings.
+Molly are constantly breeding, so much that you can up their population pretty quickly. And we're talking exponential growth ! They give birth every month to about 20 fry. Sometimes less, sometimes more, depending on the size of the female. On average, you can expect about 25 younglings per female per month.
 
 When a pregant female is about to give birth, she starts isolating herself and chasing other females. At that time, it is best put her in a seperate tank to ensure the survivol of the fry. 
 
@@ -58,6 +58,6 @@ Finally, don't keep her with her fry as it will most definitely eat them.
 
 ### Conclusion
 
-We have briefly explored the Molly fish and how you can keep them. Many varieties exist in the wild and in the hobby with different care specifics. With the information provided here, you can be confident in keeping them. 
+We have briefly explored the molly fish profile and how you can keep moliies. Many varieties exist in the wild and in the hobby with different care specifics. With the information provided here, you can be confident in keeping them. 
 
 Happy fishkeeping !!
