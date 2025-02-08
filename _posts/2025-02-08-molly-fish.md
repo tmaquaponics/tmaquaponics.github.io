@@ -34,17 +34,25 @@ Mollies are omnivores. They will eat anything and everything you throw at them, 
 
 ### Reproduction
 
-Molly are constantly breeding, and with the right parameters, you can up the population pretty qucikly. Males chase females to reproduce. Actually, that's pretty much what they do all day. Because of this, the minimum ratio to keep between males and females is usually one male to three females. This will ensure an even distribution of 'stress' between all the females.
+Molly are constantly breeding, so much that you can up their population pretty qucikly. And we're talking exponential growth ! They give birth every month to about 20 fry. Somtimes less, smetimes more, depending on the size of the female. On average, you can expect about 25 younglings.
 
-Mollies give birth every month to about 20 fry. Somtimes less, smetimes more, depending on the size of the female. On average, you can expect about 25 younglings.
+When a pregant female is about to give birth, she starts isolating herself and chasing other females. At that time, it is best put her in a seperate tank to ensure the survivol of the fry. 
 
-When a pregant female is about to give birth, it is best put her in a seperate tank to ensure the survivol of the fry. Mollies will predate on everything that moves and will decimate every fry batch in minutes. If you decide to keep her with her mates, make sure to provide ample hiding spots with plants and decorations. With experience, you will start to recognise the right time within a day or two from giving birth. 
+> With experience, you will start to recognise the right time within a day or two from giving birth.
 
-Once the job is finished, you can put her back with her tank mates, though it may need a few minutes to recover before getting chased again by other males. Don't keep her with her fry, it will definitely eat them.
+
+Mollies will predate on everything that moves and will decimate every batch of fry in minutes. So, if you decide to keep her with her mates, make sure to provide ample hiding spots with plants and decorations. 
+
+Once her job is done, you can put her back with her tank mates, though it may need a few minutes to recover before being chased again by other males.
+
+> Males chase females to reproduce. Actually, that's pretty much what they do all day. Because of this, the minimum ratio to keep between males and females is
+> usually one male to three females. This will ensure an even distribution of 'stress' between all the females.
+
+Finally, don't keep her with her fry as it will most definitely eat them.
 
 > Depending on water parameters and temperature, adult mollies can cease to reproduce. I personnaly witnessed this during cold temperatures. However, from
 > experience, when approching their end of life, mollies tend to stop having babies and basically become infertile. How general of a condition this personnal
-> observation is is yet to be investigated.
+> observation is is yet to be determined.
 
 //TODO - talk abut genetics, male and female difference in body and character. include pictures of males and females; For genetics, include a picture of eye color and body color (three colors).
 
