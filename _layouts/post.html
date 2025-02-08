@@ -1,0 +1,14 @@
+---
+layout: default
+---
+<ul><li><a href="{{ site.url }}">Back</a></li></ul>
+
+<h1>{{ page.title }}</h1>
+<span>{{ page.date | date: "%-d %B %Y" }}</span>
+<br>
+{% if page.tags %}
+  <p>tags: <span class="tag-label-blue">{{ page.tags | join: "</span> - <span class='tag-label-blue'>" }}</span></p>
+{% endif %}
+<p class="view">by {{ page.author | default: site.author }}</p>
+
+{{content}}
