@@ -13,7 +13,7 @@ Molly is from the *Poeciliidae* family of fish. The commun molly that we usually
 
 ### Characteristics
 |    Family              |    Poeciliidae                                 |
-| ----                   | -----                                          |
+| :----                  | :-----                                         |
 |    Diet                |    Omnivores                                   |
 |    Social behavior     |    peaceful                                    |
 |    Care                |    easy                                        |
