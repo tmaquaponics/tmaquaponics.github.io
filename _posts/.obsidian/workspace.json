@@ -1,0 +1,171 @@
+{
+  "main": {
+    "id": "d3844a93610aef32",
+    "type": "split",
+    "children": [
+      {
+        "id": "52f409530956d1b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "66018e1ad95e61cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2025-02-08-molly-fish.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-02-08-molly-fish"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b939d8f2753d4e90",
+    "type": "split",
+    "children": [
+      {
+        "id": "05e64102ccdcd0b6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ac98a5833485432",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "09ca6b18626d2a37",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "48943bfc9005f406",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f63c62adb4e6de8a",
+    "type": "split",
+    "children": [
+      {
+        "id": "533b5fcc5deecd49",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6d2b9a0802fc7ce6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2025-02-08-molly-fish.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2025-02-08-molly-fish"
+            }
+          },
+          {
+            "id": "f41379808072b359",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2025-02-08-molly-fish.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2025-02-08-molly-fish"
+            }
+          },
+          {
+            "id": "8bb49d4ec28e1b73",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ee6a273c89064bdd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2025-02-08-molly-fish.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2025-02-08-molly-fish"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "66018e1ad95e61cf",
+  "lastOpenFiles": [
+    "img/1739095689440.jpg",
+    "img/1739095689433.jpg",
+    "img"
+  ]
+}
