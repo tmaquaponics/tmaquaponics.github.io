@@ -53,7 +53,7 @@ observation is is yet to be investigated.
 
 **Genetics**
 
-![Two young mollies, one with a genetic defect](../_posts/img/1739095689433.jpg)
+![Two young mollies, one with a genetic defect](/assets/img/1739095689433.jpg)
 
 In the picture above, at the right, you can see a molly with a short back and swayback spine, probably a remnant of a cross breeding with balloon mollies. The one on the left however, is a crossbreed between a white male and an orange and black female. The orange molly above has a white belly and a dark spot on her left eye, while her right eye (which is not visible here) is completely black. 
 
