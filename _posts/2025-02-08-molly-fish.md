@@ -25,10 +25,6 @@ The molly fish is from the *Poeciliidae* family of fish. It is a live-bearer (me
 | Temp                | 26° c                                       |
 | Reprduction         | Livebearer                                  |
 
-### Environment
-
-under construction
-
 ### Diet
 
 Mollies are omnivores. They will eat anything and everything you throw at them - from plants, frozen food, flakes, pellets, everything ! In fact, they will destroy your delicate plants as they constantly munch on and look for food throughout the day. For this reason, if you want to keep them in a planted tank, privileged plants with a thick body structure, keep their number low and feed them regularly.
