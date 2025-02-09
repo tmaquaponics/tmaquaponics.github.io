@@ -38,12 +38,10 @@ For optimal health and alertness, you should give your mollies a varied diet. Th
 
 Mollies are constantly breeding, so much that you can up their population pretty quickly. And we're talking exponential growth ! They give birth every month to about 20 fry. Sometimes less, sometimes more, depending on the size of the females. On average, you can expect about 25 younglings per female per month.
 
-When a pregant female is about to give birth, she starts isolating herself and chasing other females. At that time, it is best put her in a seperate tank to ensure the survivol of the fry. 
+When a pregnant female is about to give birth, she starts isolating herself and chasing other females. At that time, it is best put her in a seperate tank to ensure the survivol of the fry. With experience, you will start to recognise the right time within a day or two from giving birth.
 
-> With experience, you will start to recognise the right time within a day or two from giving birth.
-
-
-Mollies will predate on everything that moves and will decimate every batch of fry in minutes. So, if you decide to keep her with her mates, make sure to provide ample hiding spots with plants and decorations. 
+> Mollies will predate on everything that moves and will decimate every batch of fry in minutes. So, if you decide to keep her with her mates, make sure to
+> provide ample hiding spots with plants and decorations.
 
 Once her job is done, you can put her back with her tank mates, though she may need a few minutes to recover before being chased again by other males.
 
