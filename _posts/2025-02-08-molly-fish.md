@@ -22,7 +22,7 @@ The molly fish is from the *Poeciliidae* family of fish. It is a live-bearer (me
 | Diet                | Omnivores                                   |
 | Social behavior     | Peaceful                                    |
 | Care                | Easy                                        |
-| Temp                | 26° c                                       |
+| Temp                | 24-26° c                                       |
 | Reprduction         | Livebearer                                  |
 
 ### Diet
@@ -37,7 +37,7 @@ Mollies are constantly breeding, so much that you can up their population pretty
 
 When a pregnant female is about to give birth, she starts isolating herself and chasing other females. At that time, it is best put her in a separate tank to ensure the survival of the fry. With experience, you will start to recognize the right time within a day or two from giving birth.
 
-![Two young mollies, one with a genetic defect](/assets/img/1739119332498.jpg)
+![Molly fry](/assets/img/1739119332498.jpg)
 *Molly fry*
 
 > Mollies will predate on everything that moves and will decimate every batch of fry in minutes. So, if you decide to keep her with her mates, make sure to
@@ -54,6 +54,7 @@ observation is is yet to be investigated.
 **Genetics**
 
 ![Two young mollies, one with a genetic defect](/assets/img/1739095689433.jpg)
+*Orange molly (left) - Freckle molly (right)*
 
 In the picture above, at the right, you can see a molly with a short back and swayback spine, probably a remnant of a cross breeding with balloon mollies. The one on the left however, is a crossbreed between a white male and an orange and black female. The orange molly above has a white belly and a dark spot on her left eye, while her right eye (which is not visible here) is completely black. 
 
