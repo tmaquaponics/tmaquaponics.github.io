@@ -6,6 +6,10 @@ tags: species-profile molly
 
 ### Introduction
 
+**Gold dust molly**
+
+![Two young mollies, one with a genetic defect](/assets/img/1739103569781.jpg)
+
 Mollies are one of the most common species in the fishkeeping hobby. They are easy beginner fish that can be kept in small aquariums. In this article, we will explore their diet, breeding and general care.
 
 ### Overview
