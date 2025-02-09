@@ -37,6 +37,9 @@ Mollies are constantly breeding, so much that you can up their population pretty
 
 When a pregnant female is about to give birth, she starts isolating herself and chasing other females. At that time, it is best put her in a separate tank to ensure the survival of the fry. With experience, you will start to recognize the right time within a day or two from giving birth.
 
+![Two young mollies, one with a genetic defect](/assets/img/1739119332498.jpg)
+*Molly fry*
+
 > Mollies will predate on everything that moves and will decimate every batch of fry in minutes. So, if you decide to keep her with her mates, make sure to
 > provide ample hiding spots with plants and decorations.
 
