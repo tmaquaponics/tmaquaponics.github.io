@@ -43,16 +43,13 @@ When a pregnant female is about to give birth, she starts isolating herself and 
 > Mollies will predate on everything that moves and will decimate every batch of fry in minutes. So, if you decide to keep her with her mates, make sure to
 > provide ample hiding spots with plants and decorations.
 
-Once her job is done, you can put her back with her tank mates, though she may need a few minutes to recover before being chased again by other males.
+Once her job is done, you can put her back with her tank mates (she will most definitely eat her own fry!), though she may need a few minutes to recover before being chased again by other males.
 
-> Males chase females to reproduce. Actually, that's pretty much what they do all day. Because of this, the minimum ratio to keep between males and females is
-> usually one male to three females. This will ensure an even distribution of 'stress' between all the females.
+That's right, males chase females to reproduce. Actually, that's pretty much what they do all day. Because of this, the minimum ratio to keep between males and females is usually one male to three females. This will ensure an even distribution of 'stress' between all the females.
 
-Finally, don't keep her with her fry as she will most definitely eat them.
-
-> Depending on water parameters and temperature, adult mollies can cease to reproduce. I personnaly witnessed this during cold temperatures. However, from
-> experience, when approching their end of life, mollies tend to stop having babies and basically become infertile. How general of a condition this personnal
-> observation is is yet to be determined.
+Depending on water parameters and temperature, adult mollies can cease to reproduce. I personnaly witnessed this during cold temperatures. However, from
+experience, when approching their end of life, mollies tend to stop having babies and basically become infertile. How general of a condition this personnal
+observation is is yet to be determined.
 
 //TODO - talk abut genetics, male and female difference in body and character. include pictures of males and females; For genetics, include a picture of eye color and body color (three colors).
 
