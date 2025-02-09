@@ -49,7 +49,7 @@ That's right, males chase females to reproduce. Actually, that's pretty much wha
 
 Depending on water parameters and temperature, adult mollies can cease to reproduce. I personnaly witnessed this during cold temperatures. However, from
 experience, when approching their end of life, mollies tend to stop having babies and basically become infertile. How general of a condition this personnal
-observation is is yet to be determined.
+observation is is yet to be investigated.
 
 //TODO - talk abut genetics, male and female difference in body and character. include pictures of males and females; For genetics, include a picture of eye color and body color (three colors).
 
