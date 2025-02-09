@@ -57,7 +57,7 @@ observation is is yet to be investigated.
 
 In the picture above, at the right, you can see a molly with a short back and swayback spine, probably a remnant of a cross breeding with balloon mollies. The one on the left however, is a crossbreed between a white male and an orange and black female. The orange molly above has a white belly and a dark spot on her left eye, while her right eye (which is not visible here) is completely black. 
 
-You can appreciate here the genetics at play. If we want to develop this orange strain further, say to have both eyes black while the rest of the body is white and orange, we can continue breeding this particular female with her offspring until we get one with the desired traits. From there we can continue the inbreeding until the trait is fixed in the population.
+You can appreciate the genetics at play here. If we want to develop this orange strain further, say to have both eyes black while the rest of the body is white and orange, we can continue breeding this particular female with her offspring until we get one with the desired traits. From there we can continue the inbreeding until the trait is fixed in the population.
 ### Conclusion
 
 We have briefly explored the molly fish profile and how you can keep mollies. Many varieties exist in the wild and in the hobby with different care specifics. With the information provided here, you can be confident in keeping them. 
