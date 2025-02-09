@@ -17,8 +17,6 @@ The molly fish is from the *Poeciliidae* family of fish. It is a live-bearer (me
 
 ### Characteristics
 
-//TODO - talk about varieties : commun, lyretail, halfmoon lyretail, sailfin molly
-
 | Family              | Poeciliidae                                 |
 |:--------------------|:--------------------------------------------|
 | Diet                | Omnivores                                   |
@@ -29,7 +27,7 @@ The molly fish is from the *Poeciliidae* family of fish. It is a live-bearer (me
 
 ### Environment
 
-**water params, lighting, ph, kh, gh, temperature, tank mates, flow of water, filtration**
+under construction
 
 ### Diet
 
