@@ -22,8 +22,10 @@ At the conceptual level, your dirty water should go through a series of filtrati
 Three stages of filtration are to be expected : 
 
 1. <ins>Mechanical</ins>, which cleans your water from bigger to smaller particles like detritus, excess food and the fine particles suspended in your water.
-2. <ins>Biological</ins>, which is performed by beneficial bacteria responsible for converting ammonia (The toxic substance that gets input in your tank thru fish waste, fish food, decaying plants, etc...) into other compounds, namely nitrite then nitrate. Remaining toxic compounds should be absorbed by your plants and removed through water changes.
+2. <ins>Biological</ins>, which is performed by beneficial bacteria responsible for converting ammonia (The toxic substance that gets input in your tank thru fish waste, fish food, decaying plants, etc...) into other compounds, namely nitrite then nitrate. 
 3. <ins>Chemical</ins> filtration, which is responsible for removing compounds like medication and tannins.
+
+Remaining toxic compounds should be absorbed by your plants and removed through water changes.
 
 > Chemical filtration is usually done with things like activated carbon. Though how effective available products are at performing chemical filtration is yet to be scientifically verified. Some people in the hobby argue that chemical filtration is a scam, what do you think ? I think it is not a scam, chemically filtering water is a thing, but I am not a chemist nor a water treatment PhD. I do believe however that there is an abuse of the consumer in that regard and do firmly believe that you should educate yourself on the subject before buying anything.
 
@@ -39,7 +41,7 @@ More biological media does not always equate better filtration. Indeed, if you h
 Mechanical filtration is usually done with media like sponges, filter socks, pot scrubbers, and filter floss. Manufacturers tend to combine different media into a single product. Sponge filter below is a good example of both mechanical and biological filtration.
 
 ![Sponge filter with gauge valve](/assets/img/71Tf1BcM1aL.jpg)
-*sponge filter*
+*Sponge filter*
 
 ### Cycle
 
