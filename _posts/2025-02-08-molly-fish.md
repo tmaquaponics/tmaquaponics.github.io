@@ -27,6 +27,10 @@ The molly fish is from the *Poeciliidae* family of fish. It is a live-bearer (me
 
 ### Diet
 
+![Assortment of fish food](/assets/img/1739188248718.jpg)
+*Assortment of food, from left to right : chips, granule, pellets, micro pellets, round pellets, crushed flakes, powder mix (for fry), micro worms*
+
+
 Mollies are omnivores. They will eat anything and everything you throw at them - from plants, frozen food, flakes, pellets, everything ! In fact, they will destroy your delicate plants as they constantly munch on and look for food throughout the day. For this reason, if you want to keep them in a planted tank, privilege plants with a thick body structure, keep their number low and feed them regularly.
 
 For optimal health and alertness, you should give your mollies a varied diet. The best food is a combination of live worms, mosquito larvae, scuds or daphnia, and steamed or slightly boiled vegetables like beans or cucumbers. But honestly, you can give them any fish food you have.
