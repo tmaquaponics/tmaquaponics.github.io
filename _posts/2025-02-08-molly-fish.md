@@ -15,19 +15,19 @@ Mollies are one of the most common species in the fishkeeping hobby. They are ea
 
 The molly fish is from the *Poeciliidae* family of fish. It is a live-bearer (meaning they reproduce by giving birth to live young) that can live from 3 to 5 years in optimal conditions. It is easy to breed and care for, can eat pretty much anything and is peaceful with other tank mates. The common mollies we usually find in LFSs are *Poecilia sphenops*, which is the focus of our article. Other varieties exist like the *Poecilia mexicana* and the *Poecilia velifera*.
 
-### Characteristics
+**Characteristics**
 
 | Family              | Poeciliidae                                 |
 |:--------------------|:--------------------------------------------|
 | Diet                | Omnivores                                   |
 | Social behavior     | Peaceful                                    |
 | Care                | Easy                                        |
-| Temp                | 24-26° c                                       |
+| Temp                | 24-26° c                                    |
 | Reprduction         | Livebearer                                  |
 
 ### Diet
 
-Mollies are omnivores. They will eat anything and everything you throw at them - from plants, frozen food, flakes, pellets, everything ! In fact, they will destroy your delicate plants as they constantly munch on and look for food throughout the day. For this reason, if you want to keep them in a planted tank, privileged plants with a thick body structure, keep their number low and feed them regularly.
+Mollies are omnivores. They will eat anything and everything you throw at them - from plants, frozen food, flakes, pellets, everything ! In fact, they will destroy your delicate plants as they constantly munch on and look for food throughout the day. For this reason, if you want to keep them in a planted tank, privilege plants with a thick body structure, keep their number low and feed them regularly.
 
 For optimal health and alertness, you should give your mollies a varied diet. The best food is a combination of live worms, mosquito larvae, scuds or daphnia, and steamed or slightly boiled vegetables like beans or cucumbers. But honestly, you can give them any fish food you have.
 
@@ -40,8 +40,8 @@ When a pregnant female is about to give birth, she starts isolating herself and 
 ![Molly fry](/assets/img/1739119332498.jpg)
 *Molly fry*
 
-> Mollies will predate on everything that moves and will decimate every batch of fry in minutes. So, if you decide to keep her with her mates, make sure to
-> provide ample hiding spots with plants and decorations.
+> Mollies will predate on everything that moves and will decimate every batch of fry in minutes. So, if you decide to keep a soon to give birth female with her
+> mates, make sure to provide ample hiding spots with plants and decorations.
 
 Once her job is done, you can put her back with her tank mates (she will most definitely eat her own fry!), though she may need a few minutes to recover before being chased again by other males.
 
@@ -59,6 +59,17 @@ observation is is yet to be investigated.
 In the picture above, at the right, you can see a molly with a short back and swayback spine, probably a remnant of a cross breeding with balloon mollies. The one on the left however, is a crossbreed between a white male and an orange and black female. The orange molly above has a white belly and a dark spot on her left eye, while her right eye (which is not visible here) is completely black. 
 
 You can appreciate the genetics at play here. If we want to develop this orange strain further, say to have both eyes black while the rest of the body is white and orange, we can continue breeding this particular female with her siblings until we get one with the desired traits. From there we can continue the inbreeding until the trait is fixed in the population.
+
+### General care
+
+I raise my mollies in a bare bottom tank, but for a natural environment, a dirted or gravel (sand) tank is better. Mollies thrive in tanks with a natural ecosystem. You should therefore set up your tank with a food chain containing isopodes, scuds, shrimps, worms etc...There is nothing better than recreating at a small scale what happens in nature. I also like to recreate a seasonality in my tank and tend to not keep the temperature at a constant value. However, if you're setting up a breeding project, go with a bare bottom tank and keep the temperature at 26° c to encourage breeding. It's easier to clean the detritus that way and mollies don't seem to be bothered by it. I tend to keep my fry in a wormer temperature at first.
+
+**Feeding** 
+You should feed your mollie once a day in the morning an amount they can finish in 2 to 3 minutes. If you want to grow and condition your mollies quickly, you can feed them at least 6 times a day (every 4 hours). Fry have a big enough mouth on day one and can eat powdered flakes. Feed them at least 6 times a day for rapid developemnt.
+
+**Filtration** 
+Mollies like fresh, clean and oxigenated water. They are somewhat hardy if they have been raised in hard conditions but in general they are pretty sensitive to amonia spikes. The best setup for a smalll number of mollies (like 4 or 5) is a 20 gallons aquarium with good filtration, soft flow and plenty of plants for the fry and adults to hide and rest. The pH of the water should be between 7.5 to 8.5. 
+
 ### Conclusion
 
 We have briefly explored the molly fish profile and how you can keep mollies. Many varieties exist in the wild and in the hobby with different care specifics. With the information provided here, you can be confident in keeping them. 
