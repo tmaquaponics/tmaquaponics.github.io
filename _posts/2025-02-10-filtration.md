@@ -21,7 +21,7 @@ At the conceptual level, your dirty water should go through a series of filtrati
 
 Three stages of filtration are to be expected : 
 
-1. <ins>Mechanical</ins>, which cleans your water from bigger to smaller particles like detritus, decaying organisms, excess food and the fine particles suspended in your water.
+1. <ins>Mechanical</ins>, which cleans your water from bigger to smaller particles like detritus, excess food and the fine particles suspended in your water.
 2. <ins>Biological</ins>, which is performed by beneficial bacteria responsible for converting ammonia (The toxic substance that gets input in your tank thru fish waste, fish food, decaying plants, etc...) into other compounds, namely nitrite then nitrate. 
 3. <ins>Chemical</ins> filtration, which is responsible for removing compounds like medication and tannins.
 
