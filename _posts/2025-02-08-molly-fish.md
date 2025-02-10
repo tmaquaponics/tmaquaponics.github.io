@@ -62,13 +62,15 @@ You can appreciate the genetics at play here. If we want to develop this orange 
 
 ### General care
 
-I raise my mollies in a bare bottom tank, but for a natural environment, a dirted or gravel (sand) tank is better. Mollies thrive in tanks with a natural ecosystem. You should therefore set up your tank with a food chain containing isopodes, scuds, shrimps, worms etc...There is nothing better than recreating at a small scale what happens in nature. I also like to recreate a seasonality in my tank and tend to not keep the temperature at a constant value. However, if you're setting up a breeding project, go with a bare bottom tank and keep the temperature at 26° c to encourage breeding. It's easier to clean the detritus that way and mollies don't seem to be bothered by it. I tend to keep my fry in a wormer temperature at first.
-
 **Feeding** 
 You should feed your mollie once a day in the morning an amount they can finish in 2 to 3 minutes. If you want to grow and condition your mollies quickly, you can feed them at least 6 times a day (every 4 hours). Fry have a big enough mouth on day one and can eat powdered flakes. Feed them at least 6 times a day for rapid developemnt.
 
-**Filtration** 
+**Tank setup** 
 Mollies like fresh, clean and oxigenated water. They are somewhat hardy if they have been raised in hard conditions but in general they are pretty sensitive to amonia spikes. The best setup for a smalll number of mollies (like 4 or 5) is a 20 gallons aquarium with good filtration, soft flow and plenty of plants for the fry and adults to hide and rest. The pH of the water should be between 7.5 to 8.5. 
+
+I raise my mollies in a bare bottom tank, but for a natural environment, a dirted or gravel (sand) tank is better. Mollies thrive in tanks with a natural ecosystem. You should therefore set up your tank with a food chain containing isopodes, scuds, shrimps, worms etc...There is nothing better than recreating at a small scale what happens in nature. I also like to recreate a seasonality in my tank and tend to not keep the temperature at a constant value. However, if you're setting up a breeding project, go with a bare bottom tank and keep the temperature at 26° c to encourage breeding. It's easier to clean the detritus that way and mollies don't seem to be bothered by it. I tend to keep my fry in a wormer temperature at first.
+
+Although molies can live in brackish waters, you should not add salt to your water. Salt should be used only to treat sick mollies.
 
 ### Conclusion
 
