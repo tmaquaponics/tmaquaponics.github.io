@@ -27,9 +27,9 @@ Three stages of filtration are to be expected :
 
 Remaining toxic compounds should be absorbed by your plants and removed through water changes.
 
-> Chemical filtration is usually done with things like activated carbon. Though how effective available products are at performing chemical filtration is yet to be scientifically verified. Some people in the hobby argue that chemical filtration is a scam, what do you think ? I think it is not a scam, chemically filtering water is a thing, but I am not a chemist nor a water treatment PhD. I do believe however that there is an abuse of the consumer in that regard and do firmly believe that you should educate yourself on the subject before buying anything.
+> Chemical filtration is usually done with things like activated carbon. Though how effective available products are at performing chemical filtration is yet to be scientifically verified. Some people in the hobby argue that chemical filtration is a scam. What do you think ? I think it is not a scam, chemically filtering water is a thing, but I am not a chemist nor a water treatment PhD. I do believe however that there is an abuse of the consumer in that regard and do firmly believe that you should educate yourself on the subject before buying anything.
 
-The media responsible for biological filtration should be specifically designed to hold a lot of the beneficial bacteria. Meaning, it should have a big surface area for the bacteria to colonize. The Bigger the surface area the better for your filtration, as more beneficial bacteria can take home into your media. For example, lava rock in the picture below is a popular media in the hobby due to its porous nature, which gives it a big surface area relative to its volume.
+The media responsible for biological filtration should be specifically designed to hold a lot of the beneficial bacteria. Meaning, it should have a big surface area for the bacteria to colonize. The bigger the surface area the better for your filtration, as more beneficial bacteria can take home into your media. For example, lava rock in the picture below is a popular media in the hobby due to its porous nature, which gives it a big surface area relative to its volume.
 
 ![Lava rock](/assets/img/1739217878488.jpg)
 *Lava rock, pouzzolane*
@@ -48,6 +48,21 @@ Mechanical filtration is usually done with media like sponges, filter socks, pot
 ### Types
 
 ### Projects
+
+**20 gallons setup**
+20 gallons aquarium is the perfect size to start fishkeeping. It is big enough for small fish and small enough that you can put it everywhere.
+
+To filter the tank, you first need to specify what you want to do with it :
+Do you want to setup a natural aquarium? A breeding project? An aquascaping tank? Or do you want to raise shrimp ?
+
+If you want to use the tank for breeding fish, say [molly fish](https://tmaquaponics.github.io/2025/02/08/molly-fish.html), then you have three options :
+
+1. <ins>Sponge filter</ins> is easy to setup, maintain and clean. Having a bare bottom tank here is a plus as it is easier to clean, but you get murky water all the time (the fish will constantly stir up detritus that collects at the bottom) and the sponge filter will get dirty quicker. A gravel or dirted bottom will collect fish waste and your sponge filter will remain operational for a longer period of time before requiring any cleaning. But, you will also have to clean the gravel from time to time.
+2. <ins>Undergravel filter</ins>, the set it and forget about it filter. Gravel filter will enable you to have a clear access to all your tank, making catching fish easier. You will have to clean it once every 6 to 8 months, which is really really good if you are lazy like me.
+3. <ins>HOB filter</ins> is the way to go if you want to do and aquascaping/planted tank. It is easy to setup and clean, and you have access to all the corners of your tank. However, you shouldn't use the provided cartridges. Instead, replace them with a sponge and filter media like lava rock or the provided media. That way, you have the same benefits and you save money not buying new cartridges every now and then.
+
+| You can combine an undergravel filter with a sponge or HOB filter, to get the benefits of both.
+
 
 ### Conclusion
 
