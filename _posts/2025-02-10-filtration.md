@@ -27,7 +27,7 @@ Three stages of filtration are to be expected :
 
 Remaining toxic compounds should be absorbed by your plants and removed through water changes.
 
-> Chemical filtration is usually done with things like activated carbon. Though how effective available products are at performing chemical filtration is yet to be scientifically verified. Some people in the hobby argue that chemical filtration is a scam. What do you think ? I think it is not a scam, chemically filtering water is a thing, but I am not a chemist nor a water treatment PhD. I do believe however that there is an abuse of the consumer in that regard and do firmly believe that you should educate yourself on the subject before buying anything.
+> Chemical filtration is usually done with things like activated carbon and ammonia absorbing zeolite. Though how effective available products are at performing chemical filtration is yet to be scientifically verified (1). Some people in the hobby argue that chemical filtration is a scam. What do you think ? I think it is not a scam, chemically filtering water is a thing, but I am not a chemist nor a water treatment PhD. I do believe however that there is an abuse of the consumer in that regard and do firmly believe that you should educate yourself on the subject before buying anything.
 
 The media responsible for biological filtration should be specifically designed to hold a lot of the beneficial bacteria. Meaning, it should have a big surface area for the bacteria to colonize. The bigger the surface area the better for your filtration, as more beneficial bacteria can take home into your media. For example, lava rock in the picture below is a popular media in the hobby due to its porous nature, which gives it a big surface area relative to its volume.
 
@@ -47,7 +47,23 @@ Mechanical filtration is usually done with media like sponges, filter socks, pot
 
 ### Types
 
+**Undergravel filter**
+
+![Undergravel filter plates](/assets/img/1739370179638.jpg)
+
+The set it and forget about it filter. Perfect for shrimp and fish breeding, an undergravel filter will enable you to have a clear access to all your tank, making catching fish easier. You will have to clean it once every 6 to 8 months, which is always good as you can allocate your time to do something else. Undergravel filter will catch a great amount of waste and particles and if not cleaned its effectiveness will reduce overtime. 
+
+The problem with this type of filter is you have to take everything apart to do the cleaning. Also, fish that dig the substrate, like convict cichlid for example, will compromise the integrity of the filter rendering it non operational.
+
+For this reason, the gravel filter is also used.
+
+**The gravel filter**
+
+The gravel filter has the same benefits as the undergravel filter without the downsides. It is basically a box filter with only gravel in it. Easy to clean and maintain, and like the box filter, can be built fairly cheaply.
+
 ### Projects
+
+**DIY box filter**
 
 **20 gallons setup**
 
@@ -58,15 +74,23 @@ Do you want to setup a natural aquarium? A breeding project? An aquascaping tank
 
 If you want to use the tank for breeding fish, say [molly fish](https://tmaquaponics.github.io/2025/02/08/molly-fish.html){:target="_blank"}, then you have three options :
 
-1. <ins>Sponge filter</ins> is easy to setup, maintain and clean. Having a bare bottom tank here is a plus as it is easier to clean, but you get particles floating around in water all the time (the fish will constantly stir up detritus that collects at the bottom) and the sponge filter will get dirty quicker. A gravel bottom will collect fish waste and your sponge filter will remain operational for a longer period of time before requiring any cleaning. But, you will also have to clean the gravel from time to time.
-2. <ins>Undergravel filter</ins>, the set it and forget about it filter. Gravel filter will enable you to have a clear access to all your tank, making catching fish easier. You will have to clean it once every 6 to 8 months, which is really really good if you are lazy like me.
-3. <ins>HOB filter</ins> is the way to go if you want to do and aquascaping tank. It is easy to setup and clean, and you have access to all the corners of your tank. However, you shouldn't use the provided cartridges. Instead, replace them with a sponge and filter media like lava rock or the provided media. That way, you have the same benefits and you save money not buying new cartridges every now and then. The downside is you can't properly cover the tank. You have to custom cut a lid for the tank.
+1. <ins>Sponge or box filter</ins> is easy to setup, maintain and clean. Having a bare bottom tank here is a plus as it is easier to clean, but you get particles floating around in water all the time (the fish will constantly stir up detritus that collects at the bottom) and the sponge filter will get dirty quicker. A gravel bottom will collect fish waste and your sponge filter will remain operational for a longer period of time before requiring any cleaning. But, you will also have to clean the gravel from time to time.
+2. <ins>Undergravel filter</ins>, the set it and forget about it filter. Perfect for shrimp and fish breeding.
+3. <ins>HOB filter</ins> is the way to go if you want to do an aquascaping tank. It is easy to setup and clean, and you have access to all the corners of your tank. However, you shouldn't use the provided cartridges. Instead, replace them with a sponge and filter media like lava rock or the provided media. That way, you have the same benefits and you save money not buying new cartridges every now and then. The downside is you can't properly cover the tank. You have to custom cut a lid for the tank.
 
 > You can combine an undergravel filter with a sponge or HOB filter, to get the benefits of both.
 
+<ins>Author's pick : </ins> keep a bare bottom tank with a box filter. That way, you can siphon the bottom of the tank more easily and the box filter can be customized at your convenience. Zero moving parts, minimum maintenance.
+
+<ins>Seeding and cycling your tank</ins> 
+
+Seeding and cycling are a common practice in the hobby when setting up a new aquarium. It takes about a month for the beneficial bacteria to colonize your tank and media, so we want to take some from an established tank to jump start that process and reduce the time before we can put fish in our tank.
+
+You can seed and aquarium using different methods.
+
 **Breeding project**
 
-The following setup is built using totes but it will work with every water container, from small 20 gallons glass tanks to big 1000L totes. It's objectif is to reduce maintenace and establish a filtration system with minimum cost and humain intervention.
+Our setup is built using 100 Litres totes but it will work with every water container, from small 20 gallons glass tanks to big 1000L totes. It's objective is to reduce maintenance and establish a filtration system with minimum cost and human intervention.
 
 <ins>Specifications :</ins>
 
@@ -74,8 +98,15 @@ The following setup is built using totes but it will work with every water conta
 5. Each container is a filter of its own.
 6. Combine multiple filtration systems for maximum benefits.
 
+
+
 ### Conclusion
 
 We have explored the basics of filtration, with examples from commercial and DIY solutions. With the information provided here, you can be confident in providing a clean water to your fish, in navigating different products available in the market or in building custom solutions yourself. 
 
 Happy fishkeeping !!
+
+
+### References
+
+1. https://www.sciencedirect.com/science/article/abs/pii/S1387700321005335
