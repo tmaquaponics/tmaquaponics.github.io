@@ -40,24 +40,24 @@ More biological media does not always equate better filtration. Indeed, if you h
 
 Mechanical filtration is usually done with media like sponges, filter socks, pot scrubbers, and filter floss. 
 
-Manufacturers tend to combine different media into a single product.
+-
 
-### Cycle
-
-### Types
-
-The following is a small list of the different types of filters that you can find in the market.
+Manufacturers tend to combine different media to provide the three types of filtration into a single product. The following is a small list of the different types of filters you can find on the market.
 
 **Undergravel filter**
 
 ![Undergravel filter plates](/assets/img/1739370179638.jpg)
 *Undergravel filter plates*
 
-The set it and forget about it filter. Perfect for shrimp and fish breeding, an undergravel filter will enable you to have a clear access to all your tank, making catching fish easier. You will have to clean it once every 6 to 8 months, which is always good as you can allocate your time to do something else. Undergravel filter will catch a great amount of waste and particles and if not cleaned its effectiveness will reduce over time. 
+The set it and forget about it filter. Perfect for shrimp and fish breeding, an undergravel filter is composed of plate(s) and a lift tube. The plates are placed on the bottom of the tank with a layer of gravel on top of them.
+
+The filter works by creating a lift of water using an air stone or a power head attached to the tube. As water is sucked from underneath the gravel, it is filtered by the gravel and the beneficial bacteria it hosts.
+
+An undergravel filter will enable you to have a clear access to all your tank, making catching fish easier. You will have to clean it from time to time (from months to years) which is always good as you can allocate your time to do something else. Undergravel filter will catch a great amount of waste and particles but its effectiveness may be reduced over time if not cleaned.
 
 The problem with this type of filter is you have to take everything apart to do the cleaning. Also, fish that dig the substrate, like convict cichlid for example, will compromise the integrity of the filter rendering it non operational.
 
-For this reason, the gravel filter is also used.
+For these reasons, the gravel filter is also used.
 
 **Gravel filter**
 
@@ -78,13 +78,22 @@ Sponge filter is a good example of both mechanical and biological filtration. It
 
 **Hang on back filter**
 
-The HOB filter is a box that you hang on your tank. It has an inlet tube that pumps water from your tank. The water gets filtered by the cartridges and media, then flows back to the tank. It is easy to use and maintain but its downside is you can't properly cover the tank. You have to custom cut a lid for the tank to do that.
+The HOB filter is a box that you hang on your tank. It has an inlet tube that pumps water from your tank. The water gets filtered by the cartridges and media then flows back to the tank. It is easy to use and maintain but its downside is you can't properly cover the tank. You have to custom cut a lid for the tank to do that.
 
 >Instead of using the provided cartridges, replace them with a sponge and filter media like lava rock or the provided media. That way, you have the same benefits and you save money not buying new cartridges every now and then.
 
 **No filter**
 
 The no filter 'movement' is based on the premise that you establish a stable ecosystem in your tank between fish, microorganisms and plants. Usually, this is a heavily planted aquarium with a deep substrate and nano fish like endlers or neon tetras.
+
+### Cycle
+nitrogen cycle
+
+### Types
+types of filtration
+
+Anoxic aerobic anaerobic
+
 
 ### Projects
 
