@@ -50,6 +50,7 @@ Mechanical filtration is usually done with media like sponges, filter socks, pot
 ### Projects
 
 **20 gallons setup**
+
 20 gallons aquarium is the perfect size to start fishkeeping. It is big enough for small fish and small enough that you can put it everywhere.
 
 To filter the tank, you first need to specify what you want to do with it :
@@ -61,8 +62,17 @@ If you want to use the tank for breeding fish, say [molly fish](https://tmaquapo
 2. <ins>Undergravel filter</ins>, the set it and forget about it filter. Gravel filter will enable you to have a clear access to all your tank, making catching fish easier. You will have to clean it once every 6 to 8 months, which is really really good if you are lazy like me.
 3. <ins>HOB filter</ins> is the way to go if you want to do and aquascaping/planted tank. It is easy to setup and clean, and you have access to all the corners of your tank. However, you shouldn't use the provided cartridges. Instead, replace them with a sponge and filter media like lava rock or the provided media. That way, you have the same benefits and you save money not buying new cartridges every now and then.
 
-| You can combine an undergravel filter with a sponge or HOB filter, to get the benefits of both.
+> You can combine an undergravel filter with a sponge or HOB filter, to get the benefits of both.
 
+**Breeding project**
+
+The following setup is built using totes but it will work with every water container, from small 20 gallons glass tanks to big 1000L totes. It's objectif is to reduce maintenace and establish a filtration system with minimum cost and humain intervention.
+
+<ins>Specifications :</ins>
+
+1. All container are connected together.
+2. Each container is a filter of its own.
+3. Combine multiple filtration systems for maximum benefits.
 
 ### Conclusion
 
