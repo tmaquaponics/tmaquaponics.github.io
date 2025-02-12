@@ -56,11 +56,11 @@ Mechanical filtration is usually done with media like sponges, filter socks, pot
 To filter the tank, you first need to specify what you want to do with it :
 Do you want to setup a natural aquarium? A breeding project? An aquascaping tank? Or do you want to raise shrimp ?
 
-If you want to use the tank for breeding fish, say [molly fish](https://tmaquaponics.github.io/2025/02/08/molly-fish.html), then you have three options :
+If you want to use the tank for breeding fish, say [molly fish](https://tmaquaponics.github.io/2025/02/08/molly-fish.html){:target="_blank"}, then you have three options :
 
-1. <ins>Sponge filter</ins> is easy to setup, maintain and clean. Having a bare bottom tank here is a plus as it is easier to clean, but you get murky water all the time (the fish will constantly stir up detritus that collects at the bottom) and the sponge filter will get dirty quicker. A gravel or dirted bottom will collect fish waste and your sponge filter will remain operational for a longer period of time before requiring any cleaning. But, you will also have to clean the gravel from time to time.
+1. <ins>Sponge filter</ins> is easy to setup, maintain and clean. Having a bare bottom tank here is a plus as it is easier to clean, but you get particles floating around in water all the time (the fish will constantly stir up detritus that collects at the bottom) and the sponge filter will get dirty quicker. A gravel bottom will collect fish waste and your sponge filter will remain operational for a longer period of time before requiring any cleaning. But, you will also have to clean the gravel from time to time.
 2. <ins>Undergravel filter</ins>, the set it and forget about it filter. Gravel filter will enable you to have a clear access to all your tank, making catching fish easier. You will have to clean it once every 6 to 8 months, which is really really good if you are lazy like me.
-3. <ins>HOB filter</ins> is the way to go if you want to do and aquascaping tank. It is easy to setup and clean, and you have access to all the corners of your tank. However, you shouldn't use the provided cartridges. Instead, replace them with a sponge and filter media like lava rock or the provided media. That way, you have the same benefits and you save money not buying new cartridges every now and then. The dwnside is you can't properly cover the tank. You have to custom cut a lid for the tank.
+3. <ins>HOB filter</ins> is the way to go if you want to do and aquascaping tank. It is easy to setup and clean, and you have access to all the corners of your tank. However, you shouldn't use the provided cartridges. Instead, replace them with a sponge and filter media like lava rock or the provided media. That way, you have the same benefits and you save money not buying new cartridges every now and then. The downside is you can't properly cover the tank. You have to custom cut a lid for the tank.
 
 > You can combine an undergravel filter with a sponge or HOB filter, to get the benefits of both.
 
@@ -70,9 +70,9 @@ The following setup is built using totes but it will work with every water conta
 
 <ins>Specifications :</ins>
 
-1. All containers are connected together.
-2. Each container is a filter of its own.
-3. Combine multiple filtration systems for maximum benefits.
+4. All containers are connected together.
+5. Each container is a filter of its own.
+6. Combine multiple filtration systems for maximum benefits.
 
 ### Conclusion
 
