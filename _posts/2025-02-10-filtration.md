@@ -38,21 +38,22 @@ The media responsible for biological filtration should be specifically designed 
 
 More biological media does not always equate better filtration. Indeed, if you have a small fish load (your dirty input is small) then adding more surface area does nothing, because the colonies of bacteria are relative to the load. If you have 1M bacteria for example, and your water parameters and fish load are stable, then adding more media will not host more beneficial bacteria (they will have nothing more to eat). Your bacteria population will remain at 1M. On the flip side, not having enough media for a given load will cause your tank to crash and you will have an ammonia spike.
 
-Mechanical filtration is usually done with media like sponges, filter socks, pot scrubbers, and filter floss. Manufacturers tend to combine different media into a single product. Sponge filter below is a good example of both mechanical and biological filtration.
+Mechanical filtration is usually done with media like sponges, filter socks, pot scrubbers, and filter floss. 
 
-![Sponge filter with gauge valve](/assets/img/71Tf1BcM1aL.jpg)
-*Sponge filter*
+Manufacturers tend to combine different media into a single product.
 
 ### Cycle
 
 ### Types
+
+The following is a small list of the different types of filters that you can find in the market.
 
 **Undergravel filter**
 
 ![Undergravel filter plates](/assets/img/1739370179638.jpg)
 *Undergravel filter plates*
 
-The set it and forget about it filter. Perfect for shrimp and fish breeding, an undergravel filter will enable you to have a clear access to all your tank, making catching fish easier. You will have to clean it once every 6 to 8 months, which is always good as you can allocate your time to do something else. Undergravel filter will catch a great amount of waste and particles and if not cleaned its effectiveness will reduce overtime. 
+The set it and forget about it filter. Perfect for shrimp and fish breeding, an undergravel filter will enable you to have a clear access to all your tank, making catching fish easier. You will have to clean it once every 6 to 8 months, which is always good as you can allocate your time to do something else. Undergravel filter will catch a great amount of waste and particles and if not cleaned its effectiveness will reduce over time. 
 
 The problem with this type of filter is you have to take everything apart to do the cleaning. Also, fish that dig the substrate, like convict cichlid for example, will compromise the integrity of the filter rendering it non operational.
 
@@ -66,13 +67,24 @@ The gravel filter has the same benefits as the undergravel filter without the do
 
 **Sponge filter**
 
+![Sponge filter with gauge valve](/assets/img/71Tf1BcM1aL.jpg)
+*Sponge filter*
+
+Sponge filter is a good example of both mechanical and biological filtration. It is easy to setup, maintain and clean. Sponge filters tend to clog over time but its fairly easy to unclog them.
+
 **Sump filter**
 
 **Canister filter**
 
 **Hang on back filter**
 
+The HOB filter is a box that you hang on your tank. It has an inlet tube that pumps water from your tank. The water gets filtered by the cartridges and media, then flows back to the tank. It is easy to use and maintain but its downside is you can't properly cover the tank. You have to custom cut a lid for the tank to do that.
+
+>Instead of using the provided cartridges, replace them with a sponge and filter media like lava rock or the provided media. That way, you have the same benefits and you save money not buying new cartridges every now and then.
+
 **No filter**
+
+The no filter 'movement' is based on the premise that you establish a stable ecosystem in your tank between fish, microorganisms and plants. Usually, this is a heavily planted aquarium with a deep substrate and nano fish like endlers or neon tetras.
 
 ### Projects
 
@@ -87,9 +99,10 @@ Do you want to setup a natural aquarium? A breeding project? An aquascaping tank
 
 If you want to use the tank for breeding fish, say [molly fish](https://tmaquaponics.github.io/2025/02/08/molly-fish.html){:target="_blank"}, then you have three options :
 
-1. <ins>Sponge or box filter</ins> is easy to setup, maintain and clean. Having a bare bottom tank here is a plus as it is easier to clean, but you get particles floating around in water all the time (the fish will constantly stir up detritus that collects at the bottom) and the sponge filter will get dirty quicker. A gravel bottom will collect fish waste and your sponge filter will remain operational for a longer period of time before requiring any cleaning. But, you will also have to clean the gravel from time to time. Sponge filters tend to clog over time but its fairly easy to declog them.
-2. <ins>Undergravel filter</ins>, the set it and forget about it filter. Perfect for shrimp and fish breeding.
-3. <ins>HOB filter</ins> is the way to go if you want to do an aquascaping tank. It is easy to setup and clean, and you have access to all the corners of your tank. However, you shouldn't use the provided cartridges. Instead, replace them with a sponge and filter media like lava rock or the provided media. That way, you have the same benefits and you save money not buying new cartridges every now and then. The downside is you can't properly cover the tank. You have to custom cut a lid for the tank.
+1. A bare bottom tank with a sponge or box filter. No substrate means the tank is easier to clean, but you get particles floating around in the water all the time (the fish will constantly stir up detritus that collects at the bottom) and the sponge filter will get dirty quicker. A gravel bottom will collect fish waste and your sponge filter will remain operational for a longer period of time before requiring any cleaning. But, you will also have to clean the gravel from time to time. 
+
+2. Undergravel filter
+3. HOB filter is the way to go if you want to do an aquascaping tank. It is easy to setup and clean, and you have access to all the corners of your tank.
 
 > You can combine an undergravel filter with a sponge or HOB filter, to get the benefits of both. The general advice however is to keep a bare bottom tank with a box filter. That way, you can siphon the bottom of the tank more easily and the box filter can be customized at your convenience. Zero moving parts, minimum maintenance.
 
@@ -118,4 +131,4 @@ Happy fishkeeping !!
 
 ### References
 
-1. [https://www.sciencedirect.com/science/article/abs/pii/S1387700321005335](https://www.sciencedirect.com/science/article/abs/pii/S1387700321005335){:target="_blank"} 
+7. [https://www.sciencedirect.com/science/article/abs/pii/S1387700321005335](https://www.sciencedirect.com/science/article/abs/pii/S1387700321005335){:target="_blank"} 
