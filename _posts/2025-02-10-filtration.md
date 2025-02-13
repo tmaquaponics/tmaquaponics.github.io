@@ -42,7 +42,7 @@ Mechanical filtration is usually done with media like sponges, filter socks, pot
 
 -
 
-Manufacturers tend to combine different media to provide the three types of filtration into a single product. The following is a small list of the different types of filters you can find on the market.
+Manufacturers tend to combine different media to provide the three stages of filtration into a single product. The following is a small list of the different types of filters you can find on the market.
 
 **Undergravel filter**
 
@@ -65,6 +65,22 @@ The gravel filter has the same benefits as the undergravel filter without the do
 
 **Box Filter**
 
+**Hang on back filter**
+
+The HOB filter is a box that you hang on your tank. It has an inlet tube that pumps water from your tank. The water gets filtered by the cartridges and media then flows back to the tank. It is easy to use and maintain but its downside is you can't properly cover the tank. You have to custom cut a lid for the tank to do that.
+
+>Instead of using the provided cartridges, replace them with a sponge and filter media like lava rock or the provided media. That way, you have the same benefits and you save money not buying new cartridges every now and then.
+
+**Internal filter**
+
+![Disassembled internal filter](/assets/img/1739445302068.jpg)
+*Disassembled internal filter*
+
+![Internal filter](/assets/img/1739445302074.jpg)
+*Internal filter*
+
+**Canister filter**
+
 **Sponge filter**
 
 ![Sponge filter with gauge valve](/assets/img/71Tf1BcM1aL.jpg)
@@ -73,14 +89,6 @@ The gravel filter has the same benefits as the undergravel filter without the do
 Sponge filter is a good example of both mechanical and biological filtration. It is easy to setup, maintain and clean. Sponge filters tend to clog over time but its fairly easy to unclog them.
 
 **Sump filter**
-
-**Canister filter**
-
-**Hang on back filter**
-
-The HOB filter is a box that you hang on your tank. It has an inlet tube that pumps water from your tank. The water gets filtered by the cartridges and media then flows back to the tank. It is easy to use and maintain but its downside is you can't properly cover the tank. You have to custom cut a lid for the tank to do that.
-
->Instead of using the provided cartridges, replace them with a sponge and filter media like lava rock or the provided media. That way, you have the same benefits and you save money not buying new cartridges every now and then.
 
 **No filter**
 
