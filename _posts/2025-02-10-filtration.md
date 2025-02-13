@@ -40,9 +40,11 @@ More biological media does not always equate better filtration. Indeed, if you h
 
 Mechanical filtration is usually done with media like sponges, filter socks, pot scrubbers, and filter floss. 
 
+Manufacturers tend to combine different media to provide the three stages of filtration into a single product.
+
 -
 
-Manufacturers tend to combine different media to provide the three stages of filtration into a single product. The following is a small list of the different types of filters you can find on the market.
+The following is a small list of the different types of filters you can find on the market.
 
 **Undergravel filter**
 
@@ -53,11 +55,11 @@ The set it and forget about it filter. Perfect for shrimp and fish breeding, an 
 
 The filter works by creating a lift of water using an air stone or a power head attached to the lift tube. As water is sucked from underneath the gravel, it is filtered by the gravel and the beneficial bacteria it hosts.
 
-An undergravel filter will enable you to have a clear access to all your tank, making catching fish a lot easier. You will have to clean it every few months (some report years), which is always good as you can allocate your time to do something else. Undergravel filter will catch a great amount of waste and particles but its effectiveness may be reduced over time if not cleaned.
+Undergravel filter will catch a great amount of waste and particles but its effectiveness may be reduced over time if not cleaned. You will have to clean it every few months (some people report years), which is always good as you can allocate your time to do something else. 
 
-The problem with this type of filter is you have to take everything apart to do the cleaning. Also, fish that dig the substrate, like convict cichlid for example, will compromise the integrity of the filter rendering it non operational.
+The problem with this type of filter is you have to take everything apart to do the cleaning, although you can gravel vacume the substrate. Another inconvenience is that fish dig up the substrate, like convict cichlid for example, will compromise the integrity of the filter rendering it non operational.
 
-For those reasons, the gravel filter is also used.
+> Undergravel filter has been somewhat 'forgotten' and replaced by other means of filtration. It is however a cheap and reliable way of achieving a full cycle in your tank.
 
 **Gravel filter**
 
@@ -80,6 +82,8 @@ Sponge filter is a good example of both mechanical and biological filtration. It
 **Hang on back filter**
 
 The HOB filter is a box that you hang on your tank. It has an inlet tube that pumps water from your tank. The water gets filtered by the cartridges and media then flows back to the tank. It is easy to use and maintain but its downside is you can't properly cover the tank. You have to custom cut a lid for the tank to do that.
+
+The HOB filter is the way to go if you want to do an aquascaping tank. It gives you clear access to all your tank, which makes plant maintenance easier.
 
 >Instead of using the provided cartridges, replace them with a sponge and filter media like lava rock or the provided media. That way, you have the same benefits and you save money not buying new cartridges every now and then.
 
@@ -111,26 +115,29 @@ Anoxic aerobic anaerobic
 To filter the tank, you first need to specify what you want to do with it :
 Do you want to setup a natural aquarium? A breeding project? An aquascaping tank? Or do you want to raise shrimp ?
 
-If you want to use the tank for breeding fish, say [molly fish](https://tmaquaponics.github.io/2025/02/08/molly-fish.html){:target="_blank"}, then you have three options :
+If you want to use the tank for breeding fish, say [molly fish](https://tmaquaponics.github.io/2025/02/08/molly-fish.html){:target="_blank"}, then we suggest the following options :
 
 1. A bare bottom tank with a sponge or box filter. No substrate means the tank is easier to clean, but you get particles floating around in the water all the time (the fish will constantly stir up detritus that collects at the bottom) and the sponge filter will get dirty quicker. A gravel bottom will collect fish waste and your sponge filter will remain operational for a longer period of time before requiring any cleaning. But, you will also have to clean the gravel from time to time. 
+2. An undergravel filter.
+3. A HOB filter. It is easy to setup and clean, and you have access to all the corners of your tank. For our use case, it can be used as a complementary filtration if you want to stock up the tank.
 
-2. Undergravel filter
-3. HOB filter is the way to go if you want to do an aquascaping tank. It is easy to setup and clean, and you have access to all the corners of your tank.
-
-> You can combine an undergravel filter with a sponge or HOB filter, to get the benefits of both. The general advice however is to keep a bare bottom tank with a box filter. That way, you can siphon the bottom of the tank more easily and the box filter can be customized at your convenience. Zero moving parts, minimum maintenance.
+> You can combine an undergravel filter with a sponge or HOB filter to get the benefits of both.
 
 <ins>Seeding and cycling your tank</ins> 
 
 Seeding and cycling are a common practice in the hobby when setting up a new aquarium. It takes about a month for the beneficial bacteria to colonize your tank and media, so we want to take some from an established tank to jump start that process and reduce the time before we can put fish in our tank.
 
-You can seed and aquarium using different methods.
+You can seed and aquarium using different methods :
+
+1. Squeezing a dirty sponge filter into your water.
+2. Using colonized media from another tank.
+3. Using commercial products.
 
 **Breeding project**
 
 Our setup is built using 100 Litres totes but it will work with every water container, from small 20 gallons glass tanks to big 1000L totes. It's objective is to reduce maintenance and establish a filtration system with minimum cost and human intervention.
 
-<ins>Specifications :</ins>
+<ins>Specifications</ins>
 
 4. All containers are connected together.
 5. Each container is a filter of its own.
