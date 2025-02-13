@@ -49,19 +49,19 @@ Manufacturers tend to combine different media to provide the three stages of fil
 ![Undergravel filter plates](/assets/img/1739370179638.jpg)
 *Undergravel filter plates*
 
-The set it and forget about it filter. Perfect for shrimp and fish breeding, an undergravel filter is composed of plate(s) and a lift tube. The plates are placed on the bottom of the tank with a layer of gravel on top of them.
+The set it and forget about it filter. Perfect for shrimp and fish breeding, an undergravel filter is composed of a single or multiple plates and a lift tube. The plates are placed at the bottom of the tank with a layer of gravel on top of them.
 
-The filter works by creating a lift of water using an air stone or a power head attached to the tube. As water is sucked from underneath the gravel, it is filtered by the gravel and the beneficial bacteria it hosts.
+The filter works by creating a lift of water using an air stone or a power head attached to the lift tube. As water is sucked from underneath the gravel, it is filtered by the gravel and the beneficial bacteria it hosts.
 
-An undergravel filter will enable you to have a clear access to all your tank, making catching fish easier. You will have to clean it from time to time (from months to years) which is always good as you can allocate your time to do something else. Undergravel filter will catch a great amount of waste and particles but its effectiveness may be reduced over time if not cleaned.
+An undergravel filter will enable you to have a clear access to all your tank, making catching fish a lot easier. You will have to clean it every few months (some report years), which is always good as you can allocate your time to do something else. Undergravel filter will catch a great amount of waste and particles but its effectiveness may be reduced over time if not cleaned.
 
 The problem with this type of filter is you have to take everything apart to do the cleaning. Also, fish that dig the substrate, like convict cichlid for example, will compromise the integrity of the filter rendering it non operational.
 
-For these reasons, the gravel filter is also used.
+For those reasons, the gravel filter is also used.
 
 **Gravel filter**
 
-The gravel filter has the same benefits as the undergravel filter without the downsides. It is basically a box filter with only gravel in it. Easy to clean and maintain, and like the box filter, can be built fairly cheaply.
+The gravel filter has the same benefits as the undergravel filter without the downsides. It is basically a box filter with only gravel in it. Easy to clean and maintain and, like the box filter, can be built fairly cheaply.
 
 **Box Filter**
 
@@ -73,11 +73,8 @@ The HOB filter is a box that you hang on your tank. It has an inlet tube that pu
 
 **Internal filter**
 
-![Disassembled internal filter](/assets/img/1739445302068.jpg)
-*Disassembled internal filter*
-
 ![Internal filter](/assets/img/1739445302074.jpg)
-*Internal filter*
+*Disassembled internal filter*
 
 **Canister filter**
 
