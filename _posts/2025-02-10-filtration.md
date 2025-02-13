@@ -65,25 +65,25 @@ The gravel filter has the same benefits as the undergravel filter without the do
 
 **Box Filter**
 
-**Hang on back filter**
-
-The HOB filter is a box that you hang on your tank. It has an inlet tube that pumps water from your tank. The water gets filtered by the cartridges and media then flows back to the tank. It is easy to use and maintain but its downside is you can't properly cover the tank. You have to custom cut a lid for the tank to do that.
-
->Instead of using the provided cartridges, replace them with a sponge and filter media like lava rock or the provided media. That way, you have the same benefits and you save money not buying new cartridges every now and then.
-
-**Internal filter**
-
-![Internal filter](/assets/img/1739445302074.jpg)
-*Disassembled internal filter*
-
-**Canister filter**
-
 **Sponge filter**
 
 ![Sponge filter with gauge valve](/assets/img/71Tf1BcM1aL.jpg)
 *Sponge filter*
 
 Sponge filter is a good example of both mechanical and biological filtration. It is easy to setup, maintain and clean. Sponge filters tend to clog over time but its fairly easy to unclog them.
+
+**Internal filter**
+
+![Internal filter](/assets/img/1739445302074.jpg)
+*Disassembled internal filter*
+
+**Hang on back filter**
+
+The HOB filter is a box that you hang on your tank. It has an inlet tube that pumps water from your tank. The water gets filtered by the cartridges and media then flows back to the tank. It is easy to use and maintain but its downside is you can't properly cover the tank. You have to custom cut a lid for the tank to do that.
+
+>Instead of using the provided cartridges, replace them with a sponge and filter media like lava rock or the provided media. That way, you have the same benefits and you save money not buying new cartridges every now and then.
+
+**Canister filter**
 
 **Sump filter**
 
