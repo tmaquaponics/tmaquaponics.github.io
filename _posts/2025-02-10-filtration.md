@@ -55,11 +55,11 @@ The set it and forget about it filter. Perfect for shrimp and fish breeding, an 
 
 The filter works by creating a lift of water using an air stone or a power head attached to the lift tube. As water is sucked from underneath the gravel, it is filtered by the gravel and the beneficial bacteria it hosts.
 
-Undergravel filter will catch a great amount of waste and particles but its effectiveness may be reduced over time if not cleaned. You will have to clean it every few months (some people report years), which is always good as you can allocate your time to do something else. 
+An undergravel filter will catch a great amount of waste and particles but its effectiveness may be reduced over time if not cleaned. You will have to clean it every few months (some people report years), which is always good as you can allocate your time to do something else. 
 
-The problem with this type of filter is you have to take everything apart to do the cleaning, although you can gravel vacume the substrate. Another inconvenience is that fish dig up the substrate, like convict cichlid for example, will compromise the integrity of the filter rendering it non operational.
+The problem with this type of filter is you have to take everything apart to do the cleaning, although you can gravel vacume the substrate. Another inconvenience is that fish that dig up the substrate, like convict cichlid for example, will compromise the integrity of the filter rendering it non operational.
 
-> Undergravel filter has been somewhat 'forgotten' and replaced by other means of filtration. It is however a cheap and reliable way of achieving a full cycle in your tank.
+> The undergravel filter has been somewhat 'forgotten' and replaced by other means of filtration. It is however a cheap and reliable way of achieving a full cycle in your tank.
 
 **Gravel filter**
 
@@ -78,6 +78,10 @@ Sponge filter is a good example of both mechanical and biological filtration. It
 
 ![Internal filter](/assets/img/1739445302074.jpg)
 *Disassembled internal filter*
+
+The internal filter is the standard filter you can buy for your tank. They come in a variety of sizes, usually in a rectangular shape. Some have many compartments where you can put different types of media.
+
+> Prefer to buy an internal filter with adjustable speed so that it can be used in different tank sizes without a problem.
 
 **Hang on back filter**
 
@@ -131,11 +135,11 @@ You can seed and aquarium using different methods :
 
 1. Squeezing a dirty sponge filter into your water.
 2. Using colonized media from another tank.
-3. Using commercial products.
+3. Using bottled bacteria products.
 
 **Breeding project**
 
-Our setup is built using 100 Litres totes but it will work with every water container, from small 20 gallons glass tanks to big 1000L totes. It's objective is to reduce maintenance and establish a filtration system with minimum cost and human intervention.
+Our setup is built using 100 Liters totes but it will work with every water container, from small 20 gallons glass tanks to big 1000 L totes. It's objective is to reduce maintenance and establish a filtration system with minimum cost and human intervention.
 
 <ins>Specifications</ins>
 
