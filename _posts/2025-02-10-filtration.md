@@ -89,7 +89,9 @@ The HOB filter is a box that you hang on your tank. It has an inlet tube that pu
 
 The HOB filter is the way to go if you want to do an aquascaping tank. It gives you clear access to all your tank, which makes plant maintenance easier.
 
->Instead of using the provided cartridges, replace them with a sponge and filter media like lava rock or the provided media. That way, you have the same benefits and you save money not buying new cartridges every now and then.
+>Instead of using the provided cartridges, replace them with a sponge and filter media like lava rock or the provided media. That way, you have the same benefits and you save money not buying new cartridges every now and then. 
+>
+>Another great tip is to add a sponge n the filter's intake. This prevents things from getting into the propeller and adds more surface area for the beneficial bacteria.
 
 **Canister filter**
 
@@ -123,7 +125,7 @@ If you want to use the tank for breeding fish, say [molly fish](https://tmaquapo
 
 1. A bare bottom tank with a sponge or box filter. No substrate means the tank is easier to clean, but you get particles floating around in the water all the time (the fish will constantly stir up detritus that collects at the bottom) and the sponge filter will get dirty quicker. A gravel bottom will collect fish waste and your sponge filter will remain operational for a longer period of time before requiring any cleaning. But, you will also have to clean the gravel from time to time. 
 2. An undergravel filter.
-3. A HOB filter. It is easy to setup and clean, and you have access to all the corners of your tank. For our use case, it can be used as a complementary filtration if you want to stock up the tank.
+3. A HOB filter. It is easy to setup and clean, and you have access to all the corners of your tank. For our use case, it can be used as a complementary filtration in case you want to stock up the tank.
 
 > You can combine an undergravel filter with a sponge or HOB filter to get the benefits of both.
 
@@ -133,9 +135,9 @@ Seeding and cycling are a common practice in the hobby when setting up a new aqu
 
 You can seed and aquarium using different methods :
 
-1. Squeezing a dirty sponge filter into your water.
-2. Using colonized media from another tank.
-3. Using bottled bacteria products.
+4. Squeezing a dirty sponge filter into your water.
+5. Using colonized media from another tank.
+6. Using bottled bacteria products.
 
 **Breeding project**
 
@@ -143,17 +145,15 @@ Our setup is built using 100 Liters totes but it will work with every water cont
 
 <ins>Specifications</ins>
 
-4. All containers are connected together.
-5. Each container is a filter of its own.
-6. Combine multiple filtration systems for maximum benefits.
+7. All containers are connected together.
+8. Each container is a filter of its own.
+9. Combine multiple filtration systems for maximum benefits.
 
 ### Conclusion
 
-We have explored the basics of filtration, with examples from commercial and DIY solutions. With the information provided here, you can be confident in providing a clean water to your fish, in navigating different products available in the market or in building custom solutions yourself. 
+We have explored the basics of filtration, with examples from commercial and DIY solutions. With the information provided here, you can be confident in providing a clean water to your fish, in navigating different products available on the market or in building custom solutions yourself. 
 
 Happy fishkeeping !!
-
-
 ### References
 
-7. [https://www.sciencedirect.com/science/article/abs/pii/S1387700321005335](https://www.sciencedirect.com/science/article/abs/pii/S1387700321005335){:target="_blank"} 
+10. [https://www.sciencedirect.com/science/article/abs/pii/S1387700321005335](https://www.sciencedirect.com/science/article/abs/pii/S1387700321005335){:target="_blank"} 
