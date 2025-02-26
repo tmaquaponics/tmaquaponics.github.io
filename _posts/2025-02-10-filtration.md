@@ -3,8 +3,12 @@ layout: post
 title: "Filration"
 tags: filtration aquarium
 ---
+<div class="message-info">UNDER CONSTRUCTION.
 
-UNDER CONSTRUCTION
+<p>This post gives a brief overview on filtration. It is a work in progress.</p>
+</div>
+
+<br>
 
 ### Introduction
 
