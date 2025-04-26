@@ -16,7 +16,16 @@ header img {
 }
 
 footer {
-  display:none;
+  header, display:none;
+}
+
+.wrapper{
+	width: 720px;
+}
+
+section{
+  float:inline-start;
+  width:inherit;
 }
 
 .message-warning{
