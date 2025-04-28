@@ -23,7 +23,7 @@ The molly fish is from the *Poeciliidae* family of fish. It is a live-bearer (me
 | Social behavior     | Peaceful                                    |
 | Care                | Easy                                        |
 | Temp                | 24-26° c                                    |
-| Reprduction         | Livebearer                                  |
+| Reproduction         | Livebearer                                  |
 
 ### Diet
 
