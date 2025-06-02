@@ -8,6 +8,19 @@ body {
 	color:#626262;
 }
 
+.viewlets {
+  display: flex;
+  gap: 20px;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.viewlets > div {
+  flex-basis: 150px;
+  align-self: flex-start;
+}
+
 image {
   display: block;
   margin-left: auto;
