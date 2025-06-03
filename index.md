@@ -3,12 +3,6 @@ layout: default
 title: Tank-Mates Aquaponics
 ---
 
-# Tank-Mates Aquaponics
-> A website about fishkeeping !
-> -- [RSS feed](https://tmaquaponics.github.io/feed.xml)
-
-<hr>
-
 You can find all posts ordered by date below :
 
 ### All Posts
