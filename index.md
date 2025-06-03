@@ -3,7 +3,8 @@ layout: default
 title: Tank-Mates Aquaponics
 ---
 
-You can find all posts ordered by date below :
+Welcome to the Tank-Mates Aquaponics website. We provide a variety of products which you can find in the shop section. 
+You can also find all our posts below. For any business inquiries you can reach us at <strong>tankmatesaquaponics@gmail.com</strong>. 
 
 ### All Posts
 
