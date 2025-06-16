@@ -1,3 +1,9 @@
+<div class="message-info">UNDER CONSTRUCTION.
+
+<p>This is a work in progress.</p>
+</div>
+
+
 <div class="viewlets">
  <div class="product">
    <div class="product_desc"><p>Black water starter kit</p></div>
