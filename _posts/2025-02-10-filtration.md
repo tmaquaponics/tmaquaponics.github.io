@@ -12,7 +12,7 @@ tags: filtration aquarium
 
 ### Introduction
 
-Filtration is one of the most important aspects of fishkeeping. In this article we will explore the nitrogen cycle, the different types of filters there is and setting up a filtration system for both a 20 gallons tank and a breeding project.
+Filtration is one of the most important aspects of fishkeeping. In this article we will explore the nitrogen cycle, the different types of filters there is and setting up a filtration system for a 20 gallons tank.
 
 ### Overview
 
@@ -113,29 +113,24 @@ types of filtration
 
 Anoxic aerobic anaerobic
 
+### Filtering a 20 gallons aquarium
 
-### Projects
-
-**DIY box filter**
-
-**20 gallons setup**
-
-20 gallons aquarium is the perfect size to start fishkeeping. It is big enough for small fish and small enough that you can put it everywhere.
+A 20 gallons aquarium is the perfect size to start fishkeeping. It is big enough for small fish and small enough that you can put it everywhere.
 
 To filter the tank, you first need to specify what you want to do with it :
-Do you want to setup a natural aquarium? A breeding project? An aquascaping tank? Or do you want to raise shrimp ?
+Do you want to setup a natural aquarium? A breeding project? An aquascaping tank? Or maybe you want to keep some shrimp ?
 
 If you want to use the tank for breeding fish, say [molly fish](https://tmaquaponics.github.io/2025/02/08/molly-fish.html){:target="_blank"}, then we suggest the following options :
 
-1. A bare bottom tank with a sponge or box filter. No substrate means the tank is easier to clean, but you get particles floating around in the water all the time (the fish will constantly stir up detritus that collects at the bottom) and the sponge filter will get dirty quicker. A gravel bottom will collect fish waste and your sponge filter will remain operational for a longer period of time before requiring any cleaning. But, you will also have to clean the gravel from time to time. 
+1. A bare bottom tank with a sponge or box filter : no substrate means the tank is easier to clean. However, you will get particles floating around in the water all the time (the fish will constantly stir up detritus that collects at the bottom) and the sponge filter will get dirty quicker. A gravel bottom will collect fish waste and your sponge filter will remain operational for a longer period of time before requiring any cleaning. But, you will also have to clean the gravel from time to time.
 2. An undergravel filter.
 3. A HOB filter. It is easy to setup and clean, and you have access to all the corners of your tank. For our use case, it can be used as a complementary filtration in case you want to stock up the tank.
 
 > You can combine an undergravel filter with a sponge or HOB filter to get the benefits of both.
 
-<ins>Seeding and cycling your tank</ins> 
+**Seeding and cycling your tank** 
 
-Seeding and cycling are a common practice in the hobby when setting up a new aquarium. It takes about a month for the beneficial bacteria to colonize your tank and media, so we want to take some from an established tank to jump start that process and reduce the time before we can put fish in our tank.
+Seeding and cycling are a common practice in the hobby when setting up a new aquarium. It takes about a month for the beneficial bacteria to colonize your tank and media. What we want is to take some media from an established tank to jump start that process and reduce the time before we can put fish in our tank.
 
 You can seed and aquarium using different methods :
 
@@ -143,19 +138,9 @@ You can seed and aquarium using different methods :
 5. Using colonized media from another tank.
 6. Using bottled bacteria products.
 
-**Breeding project**
-
-Our setup is built using 100 Liters totes but it will work with every water container, from small 20 gallons glass tanks to big 1000 L totes. It's objective is to reduce maintenance and establish a filtration system with minimum cost and human intervention.
-
-<ins>Specifications</ins>
-
-7. All containers are connected together.
-8. Each container is a filter of its own.
-9. Combine multiple filtration systems for maximum benefits.
-
 ### Conclusion
 
-We have explored the basics of filtration, with examples from commercial and DIY solutions. With the information provided here, you can be confident in providing a clean water to your fish, in navigating different products available on the market or in building custom solutions yourself. 
+We have explored the basics of filtration, with examples from commercial and DIY solutions. With the information provided here, you can be confident in providing a clean water to your fish, in navigating different products available on the market or in building custom solutions yourself.
 
 Happy fishkeeping !!
 ### References
