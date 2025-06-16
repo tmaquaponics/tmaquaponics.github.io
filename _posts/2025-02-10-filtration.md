@@ -46,7 +46,21 @@ Mechanical filtration is usually done with media like sponges, filter socks, pot
 
 Manufacturers tend to combine different media to provide the three stages of filtration into a single product.
 
--
+**The nitrogen cycle**
+nitrogen cycle
+
+**Types of filtration**
+
+Different types of filtration can occur depending on your setup and the level of oxygen available :
+
+1. Anoxic :  occurs in the absence or limited amounts of oxygen. Here, microorganisms relay on the availability of nitrates and nitrites to oxidize organic matter. This type of filtration can occur in an aquarium with a deep substrate.
+2. Anaerobic : occurs in the absence of oxygen. Here, microorganisms breakdown organic matter into methane, carbon dioxide, and biomass.
+3. Aerobic : occurs in an oxygenated environment. Here, microorganisms consume oxygen to oxidize pollutants. This is typically the environment you will find in most aquariums.
+
+The three levels can be combined to achieve proper water treatment. These filtration methods are primarily used in water treatment facilities but their science
+can serve as an inspiration to built filtration mechanisms for ornamental fish.
+
+### Types of filters
 
 The following is a small list of the different types of filters you can find on the market.
 
@@ -105,13 +119,6 @@ The HOB filter is the way to go if you want to do an aquascaping tank. It gives 
 
 The no filter 'movement' is based on the premise that you establish a stable ecosystem in your tank between fish, microorganisms and plants. Usually, this is a heavily planted aquarium with a deep substrate and nano fish like endlers or neon tetras.
 
-### Cycle
-nitrogen cycle
-
-### Types
-types of filtration
-
-Anoxic aerobic anaerobic
 
 ### Filtering a 20 gallons aquarium
 
