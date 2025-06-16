@@ -106,14 +106,14 @@ The HOB filter is the way to go if you want to do an aquascaping tank. It gives 
 
 **Canister filter**
 
-A canister filter is basically a sealable box with multiple levels, an input flow and and output flow. In each level of the filter you can put different types of media. The water is sucked from the aquarium, passes through every level of the filter then is expelled by the internal pump to return to the aquarium. The canister filter is a very popular choice amongst aquarists but they sometimes lose their seal which makes them leak. 
+A canister filter is basically a sealable box with multiple trays, an input flow and and output flow. In each tray of the filter you can put different types of media. The water is sucked from the aquarium through the input flow, goes to to bottom of the canister using a tube, then raises through every tray of the filter to be finally expelled and returned to the aquarium. The canister filter is a very popular choice amongst aquarists but they sometimes lose their seal which makes them leak.
 
 **Sump filter**
 
 ![Sump filter](/assets/img/Sump-Filter.jpg)
 *Sump filter*
 
-A sump is a container divided in multiple chambers. Each chamber plays a role in filtration. Usually a sump is placed under an aquarium. it receives water from the main aquarium using an overflow system. The water then travels from chamber to chamber, is filtered then is returned to the main aquarium using a pump. Sump filters can be external or integrated into the main aquarium (internal). 
+A sump is a container divided into multiple chambers. Each chamber plays a role in the filtration. Usually a sump is placed under an aquarium. It receives water from the main aquarium using an overflow system. The water then travels from chamber to chamber to be filtered. From the last chamber, it is returned to the main aquarium using a pump. Sump filters can be external or integrated into the main aquarium (internal). 
 
 **No filter**
 
