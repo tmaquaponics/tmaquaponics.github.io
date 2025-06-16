@@ -117,6 +117,8 @@ The HOB filter is the way to go if you want to do an aquascaping tank. It gives 
 
 **Sump filter**
 
+![Sump filter](/assets/img/Sump-Filter.jpg)
+
 A sump is a container divided in multiple chambers. Each chamber plays a role in filtration. Usually a sump is placed under an aquarium. it receives water from the main aquarium using an overflow system. The water then travels from chamber to chamber, is filtered then is returned to the main aquarium using a pump. Sump filters can be external or integrated into the main aquarium (internal). 
 
 **No filter**
