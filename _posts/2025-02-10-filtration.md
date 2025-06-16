@@ -3,16 +3,10 @@ layout: post
 title: "Filration"
 tags: filtration aquarium
 ---
-<div class="message-info">UNDER CONSTRUCTION.
-
-<p>This post gives a brief overview on filtration. It is a work in progress.</p>
-</div>
-
-<br>
 
 ### Introduction
 
-Filtration is one of the most important aspects of fishkeeping. In this article we will explore the nitrogen cycle, the different types of filters there is and setting up a filtration system for a 20 gallons tank.
+Filtration is one of the most important aspects of fishkeeping. In this article we will explore the different types of filters there is and setting up a filtration system for a 20 gallons tank.
 
 ### Overview
 
@@ -42,9 +36,6 @@ More biological media does not always equate better filtration. Indeed, if you h
 Mechanical filtration is usually done with media like sponges, filter socks, pot scrubbers, and filter floss. 
 
 Manufacturers tend to combine different media to provide the three stages of filtration into a single product.
-
-**The nitrogen cycle**
-nitrogen cycle
 
 **Types of filtration**
 
@@ -115,9 +106,12 @@ The HOB filter is the way to go if you want to do an aquascaping tank. It gives 
 
 **Canister filter**
 
+A canister filter is basically a sealable box with multiple levels, an input flow and and output flow. In each level of the filter you can put different types of media. The water is sucked from the aquarium, passes through every level of the filter then is expelled by the internal pump to return to the aquarium. The canister filter is a very popular choice amongst aquarists but they sometimes lose their seal which makes them leak. 
+
 **Sump filter**
 
 ![Sump filter](/assets/img/Sump-Filter.jpg)
+*Sump filter*
 
 A sump is a container divided in multiple chambers. Each chamber plays a role in filtration. Usually a sump is placed under an aquarium. it receives water from the main aquarium using an overflow system. The water then travels from chamber to chamber, is filtered then is returned to the main aquarium using a pump. Sump filters can be external or integrated into the main aquarium (internal). 
 
