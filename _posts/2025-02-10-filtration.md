@@ -16,9 +16,6 @@ Filtration is one of the most important aspects of fishkeeping. In this article 
 
 ### Overview
 
-![A DIY version of the infamous box filter](/assets/img/1739216366952.jpg)
-*A DIY version of the infamous box filter*
-
 Getting your water parameters right is the first step towards a successful fishkeeping process. Though the filtration is simple in concept (input dirty water through a filter and output clean water), it is in fact a complicated process that involves many steps and microorganisms. Fortunately, you can setup a pretty good filtration system without delving too much into the sciency aspect of it. 
 
 At the conceptual level, your dirty water should go through a series of filtration stages using different types of media and tools. 
@@ -85,6 +82,11 @@ The gravel filter has the same benefits as the undergravel filter without the do
 
 **Box Filter**
 
+![A DIY version of the infamous box filter](/assets/img/1739216366952.jpg)
+*A DIY version of the infamous box filter*
+
+A box filter is a box with a lift tube. You can fill the box with filter media topped with filter floss or a sponge. The water is sucked from beneath or from the top of the filter (see picture above), passes through the filter media then exists through the lift tube. The box filter is very popular amongst hardcore aquarists for its simplicity and versatility.
+
 **Sponge filter**
 
 ![Sponge filter with gauge valve](/assets/img/71Tf1BcM1aL.jpg)
@@ -114,6 +116,8 @@ The HOB filter is the way to go if you want to do an aquascaping tank. It gives 
 **Canister filter**
 
 **Sump filter**
+
+A sump is a container divided in multiple chambers. Each chamber plays a role in filtration. Usually a sump is placed under an aquarium. it receives water from the main aquarium using an overflow system. The water then travels from chamber to chamber, is filtered then is returned to the main aquarium using a pump. Sump filters can be external or integrated into the main aquarium (internal). 
 
 **No filter**
 
