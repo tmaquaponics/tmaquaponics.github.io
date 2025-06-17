@@ -20,12 +20,14 @@ In this article we will build a minimal maintenance breeding setup. Our setup us
 
 ![Breeding setup](/assets/img/1750154145561.jpg)
 
-The first thing to build is the tubing that connects the totes. Put the flexible tube inside the rigid one as shown in the picture above. You should build (n-1) tubing connections where n is the number of totes to connect.
+The first thing to build is the tubing that connects the totes. Put the flexible tube inside the rigid one as shown in the picture above. The flexible tubing should go all the way inside the rigid one, entering from one side and emerging from the other.
 
-There is no need to glue the U shaped tubing parts together since it's the flexible tubing that guarantees the siphon is not interrupted. The flexible tubing should go all the way inside the rigid one, entering from one side and emerging from the other.
+There is no need to glue the U shaped tubing parts together since it's the flexible tubing that guarantees the siphon is not interrupted.
 
 ![Breeding setup](/assets/img/1750154145553.jpg)
 *U shaped connection tubing*
+
+You should build (n-1) tubing connections where n is the number of totes to connect.
 
 Out basic setup contains 6 totes : 4 totes for breeding and grow-out and the remaining 2 for filtration.
 
