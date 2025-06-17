@@ -11,7 +11,7 @@ tags: filtration aquarium breeding tote
 <br>
 ### Introduction
 
-In this article we will build a minimal maintenance breeding setup. Our setup uses 100 Liters totes but it will work with every water container, from small 20 gallons glass tanks to big 1000L totes. It's objective is to reduce maintenance and establish a filtration system with minimum cost and human intervention.
+In this article we will build a minimal maintenance breeding setup. Our setup uses 100 Liters totes but it will work with every water container, from small 20 gallons glass tanks to big 1000L totes. Its objective is to reduce maintenance and establish a filtration system with minimum cost and human intervention.
 
 <ins>Specifications</ins>
 
@@ -38,6 +38,8 @@ Take the tubing connection out from the water and place each one of its ends in 
 
 ![Breeding setup](/assets/img/1750154145539.jpg)
 *Breeding setup*
+
+There is no need to glue the U shaped tubing parts together since it's the flexible tubing that guarantees the siphon is not interrupted.
 
 **Closed water system**
 
