@@ -34,7 +34,10 @@ Out basic setup contains 6 totes : 4 totes for breeding and grow-out and the rem
 
 Fill the totes with water then put the U shaped connection under water. Move and tilt each connection until there is no air in it. Close the tubing connection under water with end caps.
 
-Take the tubing connection out from the water and place each one of its ends in a tote. Remove the end caps. The two totes are now connected together. Repeat this operation for the remaining totes until they are all connected.
+Take the tubing connection out from the water and place each one of its ends in a tote. Remove the end caps. The two totes are now connected together (see picture below). Repeat this operation for the remaining totes until they are all connected.
+
+![Breeding setup](/assets/img/1750154145539.jpg)
+*Breeding setup*
 
 **Closed water system**
 
@@ -46,10 +49,6 @@ Take the tubing connection out from the water and place each one of its ends in 
 The first tote in the middle will serve for breeding, the other three on the right will serve for grow-out. For each new spawn, you will move the previous generation to the right and put the new generation in the middle. That way you have three months of grow-out for each spawn (assuming a once in a month breeding for the parents).
 
 ### Conclusion
-
-
-![Breeding setup](/assets/img/1750154145539.jpg)
-*Breeding setup*
 
 The downside of this system is that it takes a lot of horizontal space and if there is a problem with a tote in the middle, you have to move all the other totes to reconnect them. But overall, the system has a lot of water (600L in total). Plants filtration don't interfere with the space in the totes and the maintenance is reduced to cleaning the sponge filters. 
 
