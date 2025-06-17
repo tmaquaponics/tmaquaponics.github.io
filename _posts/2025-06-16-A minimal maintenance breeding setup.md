@@ -22,6 +22,8 @@ In this article we will build a minimal maintenance breeding setup. Our setup us
 
 The first thing to build is the tubing that connects the totes. Put the flexible tube inside the rigid one as shown in the picture above. You should build (n-1) tubing connections where n is the number of totes to connect.
 
+There is no need to glue the U shaped tubing parts together since it's the flexible tubing that guarantees the siphon is not interrupted. The flexible tubing should go all the way inside the rigid one, entering from one side and emerging from the other.
+
 ![Breeding setup](/assets/img/1750154145553.jpg)
 *U shaped connection tubing*
 
@@ -33,8 +35,6 @@ Take the tubing connection out from the water and place each one of its ends in 
 
 ![Breeding setup](/assets/img/1750154145539.jpg)
 *Breeding setup*
-
-There is no need to glue the U shaped tubing parts together since it's the flexible tubing that guarantees the siphon is not interrupted.
 
 **Closed water system**
 
