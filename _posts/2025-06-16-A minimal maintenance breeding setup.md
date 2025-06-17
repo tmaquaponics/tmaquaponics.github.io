@@ -19,11 +19,18 @@ In this article we will build a minimal maintenance breeding setup. Our setup us
 - Each container is a filter of its own.
 - Combine multiple filtration systems for maximum benefits.
 
+![Breeding setup](/assets/img/1750154145539.jpg)
+*Breeding setup*
+
 ### Assembly
 
 **Connecting the totes**
 
 The first thing to build is the tubing that connects the totes. Put the flexible tube inside the rigid one as shown in the picture below. You should build (n-1) tubing connections where n is the number of totes to connect.
+
+![Breeding setup](/assets/img/1750154145553.jpg)
+![Breeding setup](/assets/img/1750154145561.jpg)
+*U shaped connection tubing*
 
 Out basic setup contains 6 totes : 4 totes for breeding and grow-out and the remaining 2 for filtration.
 
