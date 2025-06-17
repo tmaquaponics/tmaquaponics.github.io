@@ -27,9 +27,9 @@ The first thing to build is the tubing that connects the totes. Put the flexible
 
 Out basic setup contains 6 totes : 4 totes for breeding and grow-out and the remaining 2 for filtration.
 
-Fill the totes with water then put the connection under water. Move and tilt each connection until there is no air in it. Close the tubing connection under water with end caps.
+Fill the totes with water then put the U shaped connection under water. Move and tilt each connection until there is no air in it. Close the tubing connection under water with end caps.
 
-Take the tubing connection out from the water and place each one of its end in a tote. Remove the end caps. The two totes are now connected together. Repeat this operation for the remaining totes.
+Take the tubing connection out from the water and place each one of its ends in a tote. Remove the end caps. The two totes are now connected together. Repeat this operation for the remaining totes until they are all connected.
 
 **Closed water system**
 
@@ -42,4 +42,4 @@ The first tote in the middle will serve for breeding, the other three on the rig
 
 ### Conclusion
 
-The downside of this system is that it takes a lot of horizontal space and if there is a problem with a tote in the middle, you have to move all the other totes to reconnect them. But overall, the system has a lot of water (600L in total). Plants filtration don't interfere with the space in the totes. And the maintenance is reduced to cleaning the sponge filters. If the two totes of filtration are not enough for the bio-load, you can add as many totes of filtration as you want, or for example, place an additional undergravel filter in each tote. You can also put a solar powered pump to reduce cost, place a UV light on top of one of the filtration totes to kill harmful bacteria. Basically, you can modify the setup as you want, that's the beauty of the system.
+The downside of this system is that it takes a lot of horizontal space and if there is a problem with a tote in the middle, you have to move all the other totes to reconnect them. But overall, the system has a lot of water (600L in total). Plants filtration don't interfere with the space in the totes. And the maintenance is reduced to cleaning the sponge filters. If the two totes of filtration are not enough for the bio-load, you can add as many totes of filtration as you want, or for example, place an additional undergravel filter in each tote. You can also put a solar powered pump to reduce cost, place a UV light on top of one of the filtration totes to kill harmful bacteria. Basically, you can modify the setup as you want, and add as many modules as you want, that's the beauty of the system.
