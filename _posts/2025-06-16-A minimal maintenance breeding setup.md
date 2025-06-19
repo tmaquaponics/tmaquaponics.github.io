@@ -49,6 +49,6 @@ The first tote in the middle will serve for breeding, the other three on the rig
 
 ### Conclusion
 
-The downside of this system is that it takes a lot of horizontal space and if there is a problem with a tote in the middle, you have to move all the other totes to reconnect them. But overall, the system has a lot of water (600L in total). Plants filtration don't interfere with the space in the totes and the maintenance is reduced to cleaning the sponge filters. 
+The downside of this system is that it takes a lot of horizontal space and if there is a problem with one of the middle totes, you will have to move all the other totes to reconnect them together. But overall, the system holds a lot of water (600L in total). Plants filtration doesn't interfere with the space in the totes and the maintenance is reduced to cleaning the sponge filters. 
 
-If the two totes of filtration are not enough for the bio-load, you can add as many totes of filtration as you want or for example place an additional undergravel filter in each tote. You can also put a solar powered pump to reduce cost and place a UV light on top of one of the filtration totes to kill harmful bacteria. Basically, you can modify the setup as you want and add as many modules as you want, that's the beauty of the system.
+If the two totes of filtration are not enough for the bioload, you can add as many totes of filtration as you want or, for example, place an additional undergravel filter in each tote. You can also put a solar powered pump to reduce cost, place a UV light to kill harmful bacteria or even add an external filtration like a canister filter. Basically, you can modify the setup as you want and add as many modules as you want, that's the beauty of the system.
