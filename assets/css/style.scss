@@ -17,8 +17,9 @@ body {
 }
 
 .viewlets > .product {
-  flex-basis: 230px;
+  flex-basis: auto;
   align-self: flex-start;
+  flex-grow: 2;
 }
 
 .product {
