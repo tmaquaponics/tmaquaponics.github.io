@@ -11,18 +11,27 @@
  </div>
 
  <div class="product">
-   <div class="product_desc"><p>Fishroom tower</p></div>
-   <div class="product_status">Buy now</div>
- </div>
-
- <div class="product">
-   <div class="product_desc"><p>A6 aquarium</p></div>
-   <div class="product_status">Buy now</div>
- </div>
-
- <div class="product">
-   <div class="product_desc"><p>A3 aquarium</p></div>
+   <div class="product_desc"><p>Blue dream Neocaridina</p></div>
    <div class="product_status">Buy now</div>
  </div>
  
+ <div class="product">
+   <div class="product_desc"><p>Golden back Neocaridina</p></div>
+   <div class="product_status">Buy now</div>
+ </div>
+ 
+  <div class="product">
+   <div class="product_desc"><p>Brown Neocaridina</p></div>
+   <div class="product_status">Buy now</div>
+ </div>
+ 
+ <div class="product">
+   <div class="product_desc"><p>Mystery snail</p></div>
+   <div class="product_status">Buy now</div>
+ </div>
+
+ <div class="product">
+   <div class="product_desc"><p>Java moss</p></div>
+   <div class="product_status">Buy now</div>
+ </div> 
 </div>
