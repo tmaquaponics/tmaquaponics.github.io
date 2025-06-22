@@ -14,7 +14,7 @@ Neocaridina shrimp is one of the most popular pet to keep in the fish hobby. In 
 ![Burried blue dream shrimp](/assets/img/blue-dream-velvet-neocaridina-davidi.jpg)
 *Burried blue dream shrimp*
 
-Neocardinia is a freshwater shrimp measuring up to 3 cm. It is a detritivore, meaning, its diet is composed of detritus and decaying matter. It can live up to 2 years in optimal conditions. It comes in many colors and variations. Among the most popular varieties are red cherry shrimp, blue dream shrimp and golden back yellow shrimp.
+Neocardinia is a freshwater shrimp measuring up to 3 cm. It is a detritivore, meaning, its diet is composed of detritus and decaying matter. It can live up to 2 years in optimal conditions. It comes in many colors and variations. Among the most popular varieties, we can cite red cherry shrimp, blue dream shrimp and golden back yellow shrimp.
 
 ### Diet
 
@@ -24,44 +24,45 @@ Neocaridina will eat everything that is decaying and can grow biofilm on.
 
 Neocaridina shrimp breed every other month, with females carrying eggs under their belly for about a month. 
 
-Females signal that they are ready to breed by releasing pheromones that attract males. This usually occurs after a female molts, which is the time its shell is still soft. A male attracted by pheromones mounts on top of a female and fertilizes her.
+Females signal that they are ready to breed by releasing pheromones that attract males. This usually occurs after a female molts, which is the time its shell is still soft. A male attracted by pheromones the chases a female, mounts on top of a her and fertilizes her.
 
-A female carries its eggs first behind its head. The clutch of eggs is then called a saddle (like a horse saddle). The eggs then migrate from behind the had to its under-flaps, where they will grow until they hatch. During pregnancy, a female oxygenates the eggs by constantly moving its under-flaps. 
+The female carries its eggs first behind its head. The clutch of eggs is called a saddle (like a horse saddle). The eggs then migrate from behind the head to its under-flaps, where they will grow until they hatch. The female keeps the eggs oxygenated by constantly moving its under-flaps.
 
 When the time has come to release the eggs, the female looks for a safe place like java moss and releases its eggs. Baby shrimps remain in the same place the first few days, which is why they should have some biofilm to munch on. Baby shrimps are a miniature version of their parents.
 
 **Selctive breeding** [1]
 
 Selective breeding is the process of breeding neocaridina shrimp to produce specific traits. 
-To get the pattern and color you want, you can breed the children with their parents to fortify a dominant gene or get rid of a recessive gene. Too much inbreeding can however slow the breeding rate and problems in the line start to show up.  Problems like a short nose, a small body, or too weak shrimps. This usually happens around the sixth generation.
+To get the pattern and color you want, you can breed the children with their parents to fortify a dominant gene or get rid of a recessive gene. However, too much inbreeding can slow the breeding rate and problems in the line start to show up.  Problems like a short nose, a small body, or too weak shrimps. This usually happens around the sixth generation.
 
-To counteract inbreeding problems, master breeders do the breeding in a controlled manner. They start from a single line 'group A' divided into three groups. The three groups A1, A2, and A3, all children of group A, are each placed in their own tank, T1, T2 and T3 respectively.
+To counteract inbreeding problems, master breeders do the breeding in a controlled manner. They start from a single line 'group A' that is divided into three groups, A1, A2, and A3, all children of group A. Each group is placed in its own tank, T1, T2 and T3 respectively. . 
+The children of A1 are in turn placed in the tank T4, the children of A2 in tank T5, and the children of A3 in the tank T6. Then all the males from T4 must go to tank T2, and all the female go to tank T3. From Tank T5, all the females go to tank T1, and all the males go to tank T3. From tank T6, all the males go to tank T1 and all the females go to tank T2.
 
-The children of A1 are in turn placed in the tank T4, the children of A2 in tank T5, and the children of A3 in the tank T6. Then select all the males from T4 to go to tank T2, and all the female go to tank T3. From Tank T5, all the males go to tank T1, and all the females g to tank t3. From tank T6, all the males go to tank T1 and all the females go to tank T2.
+The objective of this crossing is to cut the breeding between brother and sister shrimps.
 
-The objective of this crossing to cut the breeding between brothers and sisters shrimps.
-
-Then, after certain time, consider breeding with a line you get from a supplier to mix up genetics and reduce inbreeding problems.
+Then, after a certain time, one should consider breeding with a line from a supplier to mix up genetics and reduce the inbreeding problems.
 
 **Culling**
 
-Culling refers to the process of taking out from the tank shrimp that do not posses the traits we are looking for, and therefore should not be allowed to breed with our line. Culls usually have dull colors, malformations, or are simply week.
+Culling refers to the process of taking out from the tank shrimps that do not posses the traits we are looking for, and therefore should not be allowed to breed with our line. Culls usually have dull colors, malformations, or are simply week.
 
 ### General care
 
 **Feeding**
 
-To feed your shrimp, place some dry eaves in the tank as a constant source of food. Examples include Loquat laves, which decay really slowly, almond leaves and various aquarium safe cones.
+To feed your shrimp, place some dry leaves in the tank as a constant source of food. Examples include loquat laves, which decay really slowly, almond leaves and various aquarium safe cones.
 
 Feed them fish food once a day. Blanched vegetables like cucumber and spinach every other day. Nettle and mulberry leaves (they absolutely love them) as much as you can.
 
 **Tank mates**
 
-The best tank mates for neocaridnia shrimp are Asian trumpet snails. Because they will eat excess food and bury themselves in the substrate which prevents pockets of gas from forming. I don't personally recommend ramshorn snails but they are also a popular choice to keep with neocaridina.
+The best tank mates for neocaridnia shrimp are Asian trumpet snails. Because they will eat excess food and bury themselves in the substrate. This burring prevents the formation of pockets of gas. I don't personally recommend ramshorn snails but they are also a popular choice to keep with neocaridina.
 
 **Tank setup**
 
-The best setup to start a thriving neocaridina colony is about 15 shrimp in a 20 gallons tank, equipped with a sponge and an undergravel filter, and with a temperature of 22 to 24 Celsius. The most important aspect of the setup is algae and biofilm, so make sure that green walls are well established in the tank. The best plant to keep with neocaridina shrimp is java moss. They absolutely love it as it provides a source of food and cover. They love to graze on it and it is perfect for adult and baby shrimp to hide in.
+The best setup to start a thriving neocaridina colony is about 15 shrimp in a 20 gallons tank, equipped with a sponge and an undergravel filter, with a temperature of 22 to 24 Celsius. 
+
+The most important aspect of the setup is algae and biofilm, so make sure that green walls are well established in the tank. The best plant to keep with neocaridina shrimp is java moss. They absolutely love it as it provides a source of food and cover. They love to graze on it and it is perfect for adult and baby shrimp to hide in.
 
 ### Conclusion
 
