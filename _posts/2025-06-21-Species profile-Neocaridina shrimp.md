@@ -11,7 +11,8 @@ Neocaridina shrimp is one of the most popular pet to keep in the fish hobby. In 
 
 ### Overview
 
-*Blue dream shrimp*
+![Burried blue dream shrimp](/assets/img/blue-dream-velvet-neocaridina-davidi.jpg)
+*Burried blue dream shrimp*
 
 Neocardinia is a freshwater shrimp measuring up to 3 cm. It is a detritivore, meaning, its diet is composed of detritus and decaying matter. It can live up to 2 years in optimal conditions. It comes in many colors and variations. Among the most popular varieties are red cherry shrimp, blue dream shrimp and golden back yellow shrimp.
 
@@ -36,3 +37,9 @@ The best tank mates for neocaridnia shrimp are Asian trumpet snails. Because the
 **Tank setup**
 
 The best setup to start a thriving neocaridina colony is about 15 shrimp in a 20 gallons tank, equipped with a sponge and an undergravel filter. The most important aspect of the setup is a algae and biofilm, so make sure that green walls are well established in the tank. The best plant to keep with neocaridina shrimp is java moss. They absolutely love it as it provides a source of food and cover. They love to graze on it and it is perfect for adult and baby shrimp to hide in.
+
+### Conclusion
+
+We have briefly explored the Neocaridina shrimp profile and how you can keep this type of shrimp. Many varieties exist in the wild and in the hobby. With the information provided here, you can be confident in keeping them. 
+
+Happy shrimpkeeping !!
