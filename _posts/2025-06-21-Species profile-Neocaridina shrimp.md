@@ -26,7 +26,7 @@ Neocaridina will eat everything that is decaying and can grow biofilm on.
 
 **Feeding**
 
-To feed your shrimp, place some(sèche) leaves in the tank as a constant source of food. Examples include Loqwat laves, which decay really slowly, almond leaves and various aquarium safe cones.
+To feed your shrimp, place some dry eaves in the tank as a constant source of food. Examples include Loquat laves, which decay really slowly, almond leaves and various aquarium safe cones.
 
 Feed them fish food once a day. Blanched vegetables like cucumber and spinach every other day. Nettle and mulberry leaves (they absolutely love them) as much as you can.
 
@@ -36,7 +36,7 @@ The best tank mates for neocaridnia shrimp are Asian trumpet snails. Because the
 
 **Tank setup**
 
-The best setup to start a thriving neocaridina colony is about 15 shrimp in a 20 gallons tank, equipped with a sponge and an undergravel filter. The most important aspect of the setup is a algae and biofilm, so make sure that green walls are well established in the tank. The best plant to keep with neocaridina shrimp is java moss. They absolutely love it as it provides a source of food and cover. They love to graze on it and it is perfect for adult and baby shrimp to hide in.
+The best setup to start a thriving neocaridina colony is about 15 shrimp in a 20 gallons tank, equipped with a sponge and an undergravel filter. The most important aspect of the setup is algae and biofilm, so make sure that green walls are well established in the tank. The best plant to keep with neocaridina shrimp is java moss. They absolutely love it as it provides a source of food and cover. They love to graze on it and it is perfect for adult and baby shrimp to hide in.
 
 ### Conclusion
 
