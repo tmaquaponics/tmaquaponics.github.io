@@ -22,6 +22,17 @@ Neocaridina will eat everything that is decaying and can grow biofilm on.
 
 ### Breeding
 
+Neocaridina shrimp breed every other month, with females carrying eggs under their belly for about a month. 
+
+Females signal that they are ready to breed by releasing pheromones to attract males. This usually occurs after a female molts, which is the time its shell is still soft. A male attracted by pheromones mounts on top of a female and fertilizes her.
+
+A female carries its eggs first behind its back. The clutch of eggs is then called a saddle (like a horse saddle). They then migrate to its under-flaps where they will grow until they hatch. During pregnancy, a female oxygenates the eggs by constantly moving its under-flaps. 
+
+When a time has com to release the eggs, the female looks for a safe place like java moss and releases its eggs. Baby shrimps remain in the same place the first days, which is why they should have some biofilm to munch on. Baby shrimps are a miniature version of their parents.
+
+**Selctive breeding**
+
+
 ### General care
 
 **Feeding**
