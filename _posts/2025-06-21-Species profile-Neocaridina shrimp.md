@@ -35,11 +35,13 @@ When the time has come to release the eggs, the female looks for a safe place li
 Selective breeding is the process of breeding neocaridina shrimp to produce specific traits. 
 To get the pattern and color you want, you can breed the children with their parents to fortify a dominant gene or get rid of a recessive gene. Too much inbreeding can however slow the breeding rate and problems in the line start to show up.  Problems like a short nose, a small body, or too weak shrimps. This usually happens around the sixth generation.
 
-To counteract inbreeding problems, master breeders do the breeding in a controlled manner. They start from a single line 'group A' divided into three groups. The three groups A1, A2, and A3, all children of group A, are each placed in their own tank, T1, T2 and T3.
+To counteract inbreeding problems, master breeders do the breeding in a controlled manner. They start from a single line 'group A' divided into three groups. The three groups A1, A2, and A3, all children of group A, are each placed in their own tank, T1, T2 and T3 respectively.
 
 The children of A1 are in turn placed in the tank T4, the children of A2 in tank T5, and the children of A3 in the tank T6. Then select all the males from T4 to go to tank T2, and all the female go to tank T3. From Tank T5, all the males go to tank T1, and all the females g to tank t3. From tank T6, all the males go to tank T1 and all the females go to tank T2.
 
 The objective of this crossing to cut the breeding between brothers and sisters shrimps.
+
+Then, after certain time, consider breeding with a line you get from a supplier to mix up genetics and reduce inbreeding problems.
 
 **Culling**
 
