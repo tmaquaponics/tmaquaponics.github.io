@@ -26,12 +26,17 @@ Neocaridina shrimp breed every other month, with females carrying eggs under the
 
 Females signal that they are ready to breed by releasing pheromones to attract males. This usually occurs after a female molts, which is the time its shell is still soft. A male attracted by pheromones mounts on top of a female and fertilizes her.
 
-A female carries its eggs first behind its back. The clutch of eggs is then called a saddle (like a horse saddle). They then migrate to its under-flaps where they will grow until they hatch. During pregnancy, a female oxygenates the eggs by constantly moving its under-flaps. 
+A female carries its eggs first behind its head. The clutch of eggs is then called a saddle (like a horse saddle). The eggs then migrate to its under-flaps where they will grow until they hatch. During pregnancy, a female oxygenates the eggs by constantly moving its under-flaps. 
 
-When a time has com to release the eggs, the female looks for a safe place like java moss and releases its eggs. Baby shrimps remain in the same place the first days, which is why they should have some biofilm to munch on. Baby shrimps are a miniature version of their parents.
+When a time has com to release the eggs, the female looks for a safe place like java moss and releases its eggs. Baby shrimps remain in the same place the first few days, which is why they should have some biofilm to munch on. Baby shrimps are a miniature version of their parents.
 
 **Selctive breeding**
 
+Selective breeding is a process of breeding neocaridina shrimp to produce specific traits. Usually this is done in a controlled manner where we start from a single line divided into three groups. The three groups are all children of group A, which is the colony you started from, so they are A1, A2, and A3. Each Ai is placed in its own tank.
+
+**Culling**
+
+Culling refers to the process of taking out from the tank shrimp that do not posses the traits we are looking for, and therefore should not be allowed to breed with our line. Culls usually have dull colors, malformations, or are simply week.
 
 ### General care
 
@@ -47,7 +52,7 @@ The best tank mates for neocaridnia shrimp are Asian trumpet snails. Because the
 
 **Tank setup**
 
-The best setup to start a thriving neocaridina colony is about 15 shrimp in a 20 gallons tank, equipped with a sponge and an undergravel filter. The most important aspect of the setup is algae and biofilm, so make sure that green walls are well established in the tank. The best plant to keep with neocaridina shrimp is java moss. They absolutely love it as it provides a source of food and cover. They love to graze on it and it is perfect for adult and baby shrimp to hide in.
+The best setup to start a thriving neocaridina colony is about 15 shrimp in a 20 gallons tank, equipped with a sponge and an undergravel filter, and with a temperature of 22 to 24 Celsius. The most important aspect of the setup is algae and biofilm, so make sure that green walls are well established in the tank. The best plant to keep with neocaridina shrimp is java moss. They absolutely love it as it provides a source of food and cover. They love to graze on it and it is perfect for adult and baby shrimp to hide in.
 
 ### Conclusion
 
