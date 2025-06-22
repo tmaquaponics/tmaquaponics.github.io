@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Species profile - Guppy
+title: Species profile - Neocaridina shrimp
 tags:
   - species-profile
   - neocaridina
