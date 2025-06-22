@@ -30,13 +30,13 @@ The female carries its eggs first behind its head. The clutch of eggs is called 
 
 When the time has come to release the eggs, the female looks for a safe place like java moss and releases its eggs. Baby shrimps remain in the same place the first few days, which is why they should have some biofilm to munch on. Baby shrimps are a miniature version of their parents.
 
-**Selctive breeding** [1]
+**Selective breeding** [1]
 
 Selective breeding is the process of breeding neocaridina shrimp to produce specific traits. 
 To get the pattern and color you want, you can breed the children with their parents to fortify a dominant gene or get rid of a recessive gene. However, too much inbreeding can slow the breeding rate and problems in the line start to show up.  Problems like a short nose, a small body, or too weak shrimps. This usually happens around the sixth generation.
 
 To counteract inbreeding problems, master breeders do the breeding in a controlled manner. They start from a single line 'group A' that is divided into three groups, A1, A2, and A3, all children of group A. Each group is placed in its own tank, T1, T2 and T3 respectively. . 
-The children of A1 are in turn placed in the tank T4, the children of A2 in tank T5, and the children of A3 in the tank T6. Then all the males from T4 must go to tank T2, and all the female go to tank T3. From Tank T5, all the females go to tank T1, and all the males go to tank T3. From tank T6, all the males go to tank T1 and all the females go to tank T2.
+The children of A1 are in turn placed in the tank T4, the children of A2 in tank T5, and the children of A3 in the tank T6. Then, after maturing, all the males from T4 must go to tank T2, and all the female go to tank T3. From Tank T5, all the females go to tank T1, and all the males go to tank T3. From tank T6, all the males go to tank T1 and all the females go to tank T2.
 
 The objective of this crossing is to cut the breeding between brother and sister shrimps.
 
