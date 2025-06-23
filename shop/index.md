@@ -1,12 +1,12 @@
 <div class="message-info">UNDER CONSTRUCTION.
 
 <p>This is a work in progress.</p>
-</div>
+</div> 
 
 <div class="viewlets">
  <div class="product">
    <div class="product_desc"><p>Black water starter kit</p></div>
-   <div class="product_status">Out of stock</div>
+   <div class="product_status"><a href="https://payhip.com/b/2f3DS" class="payhip-add-to-cart-button" data-theme="green" data-product="2f3DS">Buy Now</a></div>
  </div>
  
  <div class="product">
