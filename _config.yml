@@ -8,6 +8,7 @@ author: tmaquaponics
 excerpt_separator: <!--more-->
 collections:
   - products
+  - posts
 collections_dir: db
 
 plugins:
