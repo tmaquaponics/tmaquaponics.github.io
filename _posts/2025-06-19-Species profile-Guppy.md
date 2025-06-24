@@ -14,7 +14,7 @@ Guppies are one of the most common species in the fishkeeping hobby. They are ea
 *Common guppy*
 
 The Guppy fish is from the *Poeciliidae* family of fish. It is a live-bearer (meaning they reproduce by giving birth to live young) that can live up to 2 years in optimal conditions. It is easy to breed and care for, can eat pretty much anything and is peaceful with other tank mates. The common guppies we usually find in LFSs are *Poecilia reticulata*, which is the focus of our article.
-
+<!--more-->
 **Characteristics**
 
 | Family          | Poeciliidae |

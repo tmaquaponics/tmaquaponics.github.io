@@ -13,7 +13,7 @@ In this article we will build a minimal maintenance breeding setup. Our setup us
 - All containers are connected together.
 - Each container is a filter of its own.
 - Combine multiple filtration systems for maximum benefits.
-
+<!--more-->
 ### Assembly
 
 **Connecting the totes**

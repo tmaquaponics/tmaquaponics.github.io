@@ -12,7 +12,7 @@ Filtration is one of the most important aspects of fishkeeping. In this article 
 
 Getting your water parameters right is the first step towards a successful fishkeeping process. Though the filtration is simple in concept (input dirty water through a filter and output clean water), it is in fact a complicated process that involves many steps and microorganisms. Fortunately, you can setup a pretty good filtration system without delving too much into the sciency aspect of it. 
 
-At the conceptual level, your dirty water should go through a series of filtration stages using different types of media and tools. 
+At the conceptual level, your dirty water should go through a series of filtration stages using different types of media and tools.
 
 Three stages of filtration are to be expected : 
 
@@ -21,7 +21,7 @@ Three stages of filtration are to be expected :
 3. <ins>Chemical</ins> filtration, which is responsible for removing compounds like medication and tannins.
 
 Remaining toxic compounds should be absorbed by your plants and removed through water changes.
-
+<!--more-->
 > Chemical filtration is usually done with things like activated carbon and ammonia absorbing zeolite. Though how effective available products are at performing chemical filtration is yet to be scientifically verified (1). Some people in the hobby argue that chemical filtration is a scam. What do you think ? I think it is not a scam, chemically filtering water is a thing, but I am not a chemist nor a water treatment PhD. I do believe however that there is an abuse of the consumer in that regard and do firmly believe that you should educate yourself on the subject before buying anything.
 
 The media responsible for biological filtration should be specifically designed to hold a lot of the beneficial bacteria. Meaning, it should have a big surface area for the bacteria to colonize. The bigger the surface area the better for your filtration, as more beneficial bacteria can take home into your media. For example, lava rock in the picture below is a popular media in the hobby due to its porous nature, which gives it a big surface area relative to its volume.

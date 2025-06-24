@@ -15,7 +15,7 @@ Neocaridina shrimp is one of the most popular pet to keep in the hobby. In this 
 *Burried blue dream shrimp*
 
 Neocardinia is a freshwater shrimp measuring up to 3 cm. It is a detritivore, meaning, its diet is composed of detritus and decaying matter. It can live up to 2 years in optimal conditions, and comes in many colors and variations. Among the most popular varieties, we can cite red cherry shrimp, blue dream shrimp and golden back yellow shrimp.
-
+<!--more-->
 ### Diet
 
 Neocaridina will eat everything that is decaying and can grow biofilm on. 

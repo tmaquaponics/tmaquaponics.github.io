@@ -5,7 +5,7 @@ show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
 author: tmaquaponics
-
+excerpt_separator: <!--more-->
 
 plugins:
  - jekyll-feed

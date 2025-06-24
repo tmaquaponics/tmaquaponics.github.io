@@ -14,7 +14,7 @@ Mollies are one of the most common species in the fishkeeping hobby. They are ea
 *Gold dust molly*
 
 The molly fish is from the *Poeciliidae* family of fish. It is a live-bearer (meaning they reproduce by giving birth to live young) that can live from 3 to 5 years in optimal conditions. It is easy to breed and care for, can eat pretty much anything and is peaceful with other tank mates. The common mollies we usually find in LFSs are *Poecilia sphenops*, which is the focus of our article. Other varieties exist like the *Poecilia mexicana* and the *Poecilia velifera*.
-
+<!--more-->
 **Characteristics**
 
 | Family              | Poeciliidae                                 |
