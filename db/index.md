@@ -3,7 +3,7 @@
 
 
 <ul>
-  {% for item in site.posts %}
+  {% for item in site.fish %}
     <li>
       <a href="#">{{ item.title }}</a> 
     </li>
