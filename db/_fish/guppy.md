@@ -8,7 +8,7 @@ title: Guppy
 *Common guppy*
 
 The Guppy fish is from the *Poeciliidae* family of fish. It is a live-bearer (meaning they reproduce by giving birth to live young) that can live up to 2 years in optimal conditions. It is easy to breed and care for, can eat pretty much anything and is peaceful with other tank mates. The common guppies we usually find in LFSs are *Poecilia reticulata*, which is the focus of our article.
-<!--more-->
+
 **Characteristics**
 
 | Family          | Poeciliidae |
@@ -18,6 +18,7 @@ The Guppy fish is from the *Poeciliidae* family of fish. It is a live-bearer (me
 | Care            | Easy        |
 | Temp            | 20-26° c    |
 | Reproduction    | Livebearer  |
+| pH              | 6.8 - 7.8   |
 
 ### General care
 
@@ -32,5 +33,3 @@ To my opinion, the best tank mates for guppies are corydoras catfish, neocaridin
 **Tank setup**
 
 A good starting point to keep guppies is a 10 gallons or 30 liters tank with an inch or two of fine gravel. Guppies love a lush planted aquarium so don't hesitate to put as many plants as you can. We recommend vallisneria and bacopa monnieri as these two plants grow in low tech conditions. The pH of the water should be kept between 6.8 to 7.8.
-
-

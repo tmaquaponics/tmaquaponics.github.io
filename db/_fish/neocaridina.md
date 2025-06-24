@@ -9,6 +9,19 @@ title: Neocaridina
 
 Neocardinia is a freshwater shrimp measuring up to 3 cm. It is a detritivore, meaning, its diet is composed of detritus and decaying matter. It can live up to 2 years in optimal conditions, and comes in many colors and variations. Among the most popular varieties, we can cite red cherry shrimp, blue dream shrimp and golden back yellow shrimp.
 
+**Characteristics**
+
+| Family              | Neocaridina davidi                          |
+|:--------------------|:--------------------------------------------|
+| Diet                | Omnivores                                   |
+| Social behavior     | Peaceful                                    |
+| Care                | Easy                                        |
+| Temp                | 22-24° c                                    |
+| Reproduction        | eggs                                        |
+| pH                  | 7.5 - 8.5                                   |
+
+
+6.5-8.0
 ### General care
 
 **Feeding**
