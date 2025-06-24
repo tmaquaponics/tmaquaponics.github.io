@@ -3,9 +3,9 @@
 
 
 <ul>
-  {% for item in site.fish %}
+  {% for fsh in site.fish %}
     <li>
-      <a href="#">{{ item.title }}</a> 
+      <a href="#">{{ fsh.title }}</a> 
     </li>
   {% endfor %}
 </ul>

@@ -7,6 +7,10 @@ theme: jekyll-theme-minimal
 author: tmaquaponics
 excerpt_separator: <!--more-->
 collections_dir: db
+collections:
+  - fish
+  - plants
+
 
 plugins:
  - jekyll-feed
