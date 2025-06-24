@@ -1,14 +1,8 @@
 <div class="viewlets">
-
-
-
-<ul>
   {% for fsh in site.fish %}
-    <li>
-      <a href="{{ fsh.url }}">{{ fsh.title }}</a>
-      
-    </li>
+    <div class="product">
+      <div class="product_desc"><p>{{ fsh.title }}</p></div>
+      <div class="product_status"><a href="{{ fsh.url }}">view</a></div>
+    </div>
   {% endfor %}
-</ul>
- 
 </div>
