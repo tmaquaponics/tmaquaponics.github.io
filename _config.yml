@@ -6,10 +6,7 @@ google_analytics:
 theme: jekyll-theme-minimal
 author: tmaquaponics
 excerpt_separator: <!--more-->
-collections:
-  - products
-  - posts
-collections_dir: db
+
 
 plugins:
  - jekyll-feed
