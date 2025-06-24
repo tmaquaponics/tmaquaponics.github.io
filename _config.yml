@@ -10,7 +10,7 @@ collections_dir: db
 collections:
   fish:
   	output: true
-  - plants
+  plants:
 
 
 plugins:
