@@ -36,10 +36,11 @@ body {
 	padding:10px;
 }
 
-image {
+.product_image {
   display: block;
   margin-left: auto;
   margin-right: auto;
+  object-fit: cover;
 }
 
 header img {
