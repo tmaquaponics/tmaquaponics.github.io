@@ -9,7 +9,6 @@ excerpt_separator: <!--more-->
 collections_dir: db
 collections:
   fish:
-  	output: true
 
 
 plugins:
