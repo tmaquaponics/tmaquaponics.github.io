@@ -17,11 +17,11 @@ Neocardinia is a freshwater shrimp measuring up to 3 cm. It is a detritivore, me
 | Social behavior     | Peaceful                                    |
 | Care                | Easy                                        |
 | Temp                | 22-24° c                                    |
-| Reproduction        | eggs                                        |
-| pH                  | 7.5 - 8.5                                   |
+| Reproduction        | Eggs producers                              |
+| pH                  | 6.5 - 8.0                                   |
 
 
-6.5-8.0
+
 ### General care
 
 **Feeding**
