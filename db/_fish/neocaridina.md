@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Neocaridina
+image: blue-dream-velvet-neocaridina-davidi.jpg
 ---
 <ul><li><a href="{{ site.url }}/db">Back</a></li></ul>
 

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Molly
+image: 1739103569781.jpg
 ---
 <ul><li><a href="{{ site.url }}/db">Back</a></li></ul>
 
