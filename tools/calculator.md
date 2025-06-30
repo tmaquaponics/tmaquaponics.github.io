@@ -50,8 +50,6 @@ function calculateAquarium(length, width, height){
 	
 	
 	return {
-		
-		calculatedVolume: [length, height, width],
 		volume: volumeLiters.toFixed(2),
 		thickness: recommendedThickness
 	};
@@ -65,7 +63,7 @@ function calculate(){
 		
 		const result = calculateAquarium(length, width, height);
 		
-		document.getElementById('result').innerHTML=`calculated Volume: ${result.calculatedVolume} liters<br>Water Volume: ${result.volume} liters<br>Recommended Glass Thickness: ${result.thickness} mm`;
+		document.getElementById('result').innerHTML=`Water Volume: ${result.volume} liters<br>Recommended Glass Thickness: ${result.thickness} mm`;
 		
 	} catch(error){
 		document.getElementById('result').innerHTML = `Error: ${error.message}`;
