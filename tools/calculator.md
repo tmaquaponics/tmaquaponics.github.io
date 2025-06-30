@@ -67,7 +67,7 @@ function calculate(){
 		document.getElementById('result').innerHTML='Water Volume: ${result.volume} liters<br>Recommended Glass Thickness : ${result.thickness} mm';
 		
 	} catch(error){
-		document.getElementById('result').innerHTML = 'Error : ${error.message}';
+		document.getElementById('result').innerHTML = Error : `${error.message}`;
 	}
 }
 
