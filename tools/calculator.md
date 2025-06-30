@@ -31,9 +31,8 @@ function calculateAquarium(legnth, width, height){
 	
 	//Calculate volume (90% of height for water level)
 	
-	const waterHeight = height * 0.9;
-	const volumeCm3 = length * width * waterHeight;
-	const volumeLiters = volumeCm3 /1000;
+	const volumeCm3 = length * width * height;
+	const volumeLiters = volumeCm3 / 1000;
 	
 	
 	//Calculate glass thikness
