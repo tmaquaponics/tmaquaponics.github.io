@@ -32,7 +32,7 @@ function calculateAquarium(legnth, width, height){
 	//Calculate volume (90% of height for water level)
 	
 	const waterHeight = height * 0.9;
-	const volumeCm3 = lenght * width * waterHeight;
+	const volumeCm3 = length * width * waterHeight;
 	const volumeLiters = volumeCm3 /1000;
 	
 	
@@ -67,7 +67,7 @@ function calculate(){
 		document.getElementById('result').innerHTML='Water Volume: ${result.volume} liters<br>Recommended Glass Thickness: ${result.thickness} mm';
 		
 	} catch(error){
-		document.getElementById('result').innerHTML = error.message;
+		document.getElementById('result').innerHTML = `Error: ${error.message}`;
 	}
 }
 
