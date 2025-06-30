@@ -25,19 +25,19 @@
 function calculateAquarium(legnth, width, height){
 	
 	//input validation
-	if(lenght <= 0 || width <=0 || height <=0){
+	if(length <= 0 || width <=0 || height <=0){
 		throw new Error("Dimensions must be positive numbers.");
 	}
 	
 	//Calculate volume (90% of height for water level)
 	
 	const waterHeight = height * 0.9;
-	const volumeCm3 = lenght * width * watrHeight;
+	const volumeCm3 = lenght * width * waterHeight;
 	const volumeLiters = volumeCm3 /1000;
 	
 	
 	//Calculate glass thikness
-	let thikness = 0.015 * height * Math.sqrt(lenght * width) + 1;
+	let thickness = 0.015 * height * Math.sqrt(length * width) + 1;
 	if(height > 60 || volumeLiters > 500) {
 		thickness *= 1.5;
 	}
@@ -58,11 +58,11 @@ function calculateAquarium(legnth, width, height){
 
 function calculate(){
 	try {
-		const lenght = parseFloat(document.getElementById('lenght').value);
+		const length = parseFloat(document.getElementById('length').value);
 		const width = parseFloat(document.getElementById('width').value);
 		const height = parseFloat(document.getElementById('height').value);
 		
-		const result = calculateAquarium(lenght, width, height);
+		const result = calculateAquarium(length, width, height);
 		
 		document.getElementById('result').innerHTML='
 		Water Volume: ${result.volume} liters<br>
