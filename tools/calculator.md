@@ -1,3 +1,5 @@
+<ul><li><a href="{{ site.url }}/tools">Back</a></li></ul>
+
 <h1>Aquarium calculator</h1>
 
 <p>Enter dimensions in centimeters:</p>
@@ -18,6 +20,60 @@
 </div>
 
 <button onClick="calculate()">Calculate</button>
-div id="result"></div>
+<div id="result"></div>
+<script>
+function calculateAquarium(legnth, width, height){
+	
+	//input validation
+	if(lenght <= 0 || width <=0 || height <=0){
+		throw new Error("Dimensions must be positive numbers.");
+	}
+	
+	//Calculate volume (90% of height for water level)
+	
+	const waterHeight = height * 0.9;
+	const volumeCm3 = lenght * width * watrHeight;
+	const volumeLiters = volumeCm3 /1000;
+	
+	
+	//Calculate glass thikness
+	let thikness = 0.015 * height * Math.sqrt(lenght * width) + 1;
+	if(height > 60 || volumeLiters > 500) {
+		thickness *= 1.5;
+	}
+	
+	//Standard glass thickness(mm)
+	const standardThicknesses = [4, 5, 6, 8, 10, 12, 15, 19, 25];
+	
+	//find the next standard thickness
+	
+	let recommendedThickness = standardThicknesses.find(t => t => thickness) || 25;
+	
+	
+	return {
+		volume: volumeLiters.toFixed(2);
+		thickness: recommendedThickness
+	};
+}
+
+function calculate(){
+	try {
+		const lenght = parseFloat(document.getElementById('lenght').value);
+		const width = parseFloat(document.getElementById('width').value);
+		const height = parseFloat(document.getElementById('height').value);
+		
+		const result = calculateAquarium(lenght, width, height);
+		
+		document.getElementById('result').innerHTML='
+		Water Volume: ${result.volume} liters<br>
+		Recommended Glass Thickness : ${result.thickness} mm
+		';
+		
+	} catch(error){
+		document.getElementById('result').innerHTML = 'Error : ${error.message}';
+	}
+}
+
+</script>
 
 
