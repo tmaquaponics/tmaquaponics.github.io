@@ -22,7 +22,7 @@
 <button onClick="calculate()">Calculate</button>
 <div id="result"></div>
 <script>
-function calculateAquarium(legnth, width, height){
+function calculateAquarium(length, width, height){
 	
 	//input validation
 	if(length <= 0 || width <=0 || height <=0){
