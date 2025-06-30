@@ -2,7 +2,7 @@
 
  <div class="product">
    <div class="product_desc">Aquarium Dimensions Calculator</div>
-   <div class="product_status">View</div>
+   <div class="product_status"><a href="">View</a></div>
  </div>
  
  <div class="product">
