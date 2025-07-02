@@ -47,7 +47,7 @@ function calculateAquarium(length, width, height){
 	
 	//Calculate glass thikness
 	let thickness = 0.015 * height * Math.sqrt(length * width) + 1;
-	if(height > 60 || volumeLiters > 500) {
+	if(height >= 60 || volumeLiters >= 500) {
 		thickness *= 1.5;
 	}
 	
