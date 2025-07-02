@@ -19,6 +19,11 @@
 	<input type="number" id="height" min="1" step="1" required>
 </div>
 
+<div>
+	<label for="safety">Safety factor:</label>
+	<input type="number" id="safety" min="1" step="1" value="4.0" required>
+</div>
+
 <button onClick="calculate()">Calculate</button>
 <div id="result"></div>
 <script>
