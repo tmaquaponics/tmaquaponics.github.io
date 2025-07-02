@@ -46,7 +46,7 @@ function calculateAquarium(length, width, height, safety){
 	
 	
 	//Calculate glass thikness
-	let thickness = 0.015 * height * Math.sqrt(length * width) + 1;
+	let thickness = 0.015 * height * Math.sqrt(length * width);
 	
 	thickness = thickness / safety;
 	
@@ -60,7 +60,7 @@ function calculateAquarium(length, width, height, safety){
 	
 	return {
 		volume: volumeLiters.toFixed(2),
-		thickness: thickness
+		thickness: recommendedThickness
 	};
 }
 
