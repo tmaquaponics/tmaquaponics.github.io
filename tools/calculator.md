@@ -41,7 +41,7 @@ function calculateAquarium(length, width, height, safety){
 	
 	//Convert dimensions from cm to m
 	const heightM = height / 100;
-	const lenghtM = lenght / 100;
+	const lengthM = length / 100;
 	const widthM = width / 100;
 	
 	
@@ -52,7 +52,7 @@ function calculateAquarium(length, width, height, safety){
 	//Maximum stress on glass
 	
 	const allowableStress = 19e6;
-	const stress = (0.5 * pressure * lenghtM * heightM) / (allowableStress / safety);
+	const stress = (0.5 * pressure * lengthM * heightM) / (allowableStress / safety);
 	
 	
 	const thicknessM = Math.sqrt(stress);
