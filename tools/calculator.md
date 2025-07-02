@@ -51,7 +51,7 @@ function calculateAquarium(length, width, height){
 	
 	return {
 		volume: volumeLiters.toFixed(2),
-		thickness: thickness
+		thickness: recommendedThickness
 	};
 }
 
