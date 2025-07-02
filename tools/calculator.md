@@ -1,5 +1,7 @@
 <ul><li><a href="{{ site.url }}/tools">Back</a></li></ul>
 
+<div style="width:100%; display:block;">
+
 <h1>Aquarium calculator</h1>
 
 <p>Enter dimensions in centimeters:</p>
@@ -21,11 +23,14 @@
 
 <div>
 	<label for="safety">Safety factor:</label>
-	<input type="number" id="safety" min="1" step="1" value="4.0" required>
+	<input type="number" id="safety" min="1" step="0.1" value="4.0" required>
 </div>
 
 <button onClick="calculate()">Calculate</button>
 <div id="result"></div>
+
+</div>
+
 <script>
 function calculateAquarium(length, width, height){
 	
