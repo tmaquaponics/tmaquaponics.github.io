@@ -46,7 +46,7 @@ function calculateAquarium(length, width, height){
 	
 	//find the next standard thickness
 	
-	let recommendedThickness = standardThicknesses.find(t => t => thickness) || 25;
+	let recommendedThickness = standardThicknesses.find(t => t >= thickness) || 25;
 	
 	
 	return {
