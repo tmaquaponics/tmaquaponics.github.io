@@ -39,23 +39,35 @@ function calculateAquarium(length, width, height, safety){
 		throw new Error("Dimensions must be positive numbers.");
 	}
 	
-	//Calculate volume
+	//Convert dimensions from cm to m
+	const heightM = height / 100;
+	const lenghtM = lenght / 100;
+	const widthM = width / 100;
 	
+	
+	//Calculate water pressure in pascals : p * g * h
+	// p = watr density (1000 kg/m3), g = gravity(9.81 m/s2)
+	const pressure = 1000 * 9.81 * heightM;
+	
+	//Maximum stress on glass
+	
+	const allowableStress = 19e6;
+	const stress = (0.5 * pressure * lenghtM * heightM) / (allowableStress / safety);
+	
+	
+	const thicknessM = Math.sqrt(stress);
+	const thicknessMM = thicknessM * 1000;
+	
+	//Calculate volume
 	const volumeCm3 = length * width * height;
 	const volumeLiters = volumeCm3 / 1000;
 	
-	
-	//Calculate glass thikness
-	let thickness = 0.01279 * height * Math.sqrt(length * width);
-	
-	thickness = thickness / safety;
-	
 	//Standard glass thickness(mm)
-	const standardThicknesses = [4, 5, 6, 8, 10, 12, 15, 19, 25];
+	const standardThicknesses = [3, 4, 5, 6, 8, 10, 12, 15, 19, 25];
 	
 	//find the next standard thickness
 	
-	let recommendedThickness = standardThicknesses.find(t => t >= thickness) || 25;
+	let recommendedThickness = standardThicknesses.find(t => t >= thicknessMM) || 25;
 	
 	
 	return {
