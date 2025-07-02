@@ -52,7 +52,7 @@ function calculateAquarium(length, width, height, safety){
 	//Maximum stress on glass
 	
 	const allowableStress = 19e6;
-	const stress = (0.25 * pressure * lengthM * heightM) / (allowableStress / safety);
+	const stress = (0.5 * pressure * lengthM * heightM) / (allowableStress / safety);
 	
 	
 	const thicknessM = Math.sqrt(stress);
@@ -72,7 +72,7 @@ function calculateAquarium(length, width, height, safety){
 	
 	return {
 		volume: volumeLiters.toFixed(2),
-		thickness: recommendedThickness
+		thickness: thicknessMM / 2
 	};
 }
 
