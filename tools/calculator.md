@@ -32,7 +32,7 @@
 </div>
 
 <script>
-function calculateAquarium(length, width, height){
+function calculateAquarium(length, width, height, safety){
 	
 	//input validation
 	if(length <= 0 || width <=0 || height <=0){
@@ -46,10 +46,9 @@ function calculateAquarium(length, width, height){
 	
 	
 	//Calculate glass thikness
-	let thickness = 0.015 * height * Math.sqrt(length * width) + 1;
-	if(height >= 60 || volumeLiters >= 500) {
-		thickness *= 1.5;
-	}
+	let thickness = 0.01279 * height * Math.sqrt(length * width) + 1;
+	
+	thickness = thickness / safety;
 	
 	//Standard glass thickness(mm)
 	const standardThicknesses = [4, 5, 6, 8, 10, 12, 15, 19, 25];
@@ -70,8 +69,9 @@ function calculate(){
 		const length = parseFloat(document.getElementById('length').value);
 		const width = parseFloat(document.getElementById('width').value);
 		const height = parseFloat(document.getElementById('height').value);
+		const safety = parseFloat(document.getElementById('safety').value);
 		
-		const result = calculateAquarium(length, width, height);
+		const result = calculateAquarium(length, width, height, safety);
 		
 		document.getElementById('result').innerHTML=`Water Volume: ${result.volume} liters<br>Recommended Glass Thickness: ${result.thickness} mm`;
 		
