@@ -1,3 +1,8 @@
+<div class="message-info">UNDER CONSTRUCTION.
+
+<p>This is a work in progress. The tool doesn't gives false results at the moment. Working to fix the issue.</p>
+</div> 
+
 <ul><li><a href="{{ site.url }}/tools">Back</a></li></ul>
 
 <div style="width:100%; display:block;">
@@ -12,13 +17,13 @@
 </div>
 
 <div>
-	<label for="width">Width:</label>
-	<input type="number" id="width" min="1" step="1" required>
+	<label for="height">Height:</label>
+	<input type="number" id="height" min="1" step="1" required>
 </div>
 
 <div>
-	<label for="height">Height:</label>
-	<input type="number" id="height" min="1" step="1" required>
+	<label for="width">Width:</label>
+	<input type="number" id="width" min="1" step="1" required>
 </div>
 
 <div>
