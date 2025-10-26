@@ -8,6 +8,32 @@ body {
 	color:#626262;
 }
 
+ul.left-menu {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background-color:#f6f8fa;
+}
+
+ul.left-menu li a {
+  display: block;
+  color: #626262;
+  padding: 8px 16px;
+  text-decoration: none;
+	
+}
+
+ul.left-menu li a:hover {
+  background-color: #59656f;
+  color: white;
+}
+
+ul.left-menu li.active a {
+  background-color: #59656f;
+  color: white;
+  font-weight:bold;
+}
+
 .viewlets {
   display: flex;
   gap: 20px;
