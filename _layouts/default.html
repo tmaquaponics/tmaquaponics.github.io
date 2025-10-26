@@ -23,13 +23,14 @@
         <a href="https://tmaquaponics.github.io/feed.xml">RSS feed</a></p>
         </blockquote>
         <hr>
-        <h3><a href="{{ "/" | absolute_url }}">{{ "Home" | default: site.github.repository_name }}</a></h3>
 
-
-        <h3><a href="https://tmaquaponics.github.io/blog/">Blog</a></h3>
-        <h3><a href="https://tmaquaponics.github.io/db/">Database</a></h3>
-
-        <h3><a href="https://tmaquaponics.github.io/contact.html">Contact</a></h3>
+		<ul class="left-menu">
+   		{% for item in site.data.samplelist.docs %}
+      		<li class="{% if item.url == page.url %}active{% endif %}"> {{site.baseurl}}
+      			<a href="{{site.url}}{{ item.url }}">{{ item.title }}</a>
+      		</li>
+   		{% endfor %}
+		</ul>
 
       </header>
       <section>
