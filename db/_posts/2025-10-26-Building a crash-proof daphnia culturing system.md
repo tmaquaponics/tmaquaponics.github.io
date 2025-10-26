@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Building a crash-proof daphnia culturing system
+title: Building a crash-proof Daphnia culturing system
 tags:
   - green water
   - daphnia
@@ -8,7 +8,7 @@ tags:
 
 ### Introduction
 
-![Daphnia Magna](/assets/img/daphnia-magna.jpeg)
+![Daphnia Magna](/assets/img/daphnia-magna.jpeg)daphnia-tote.jpg
 *Daphnia Magna*
 
 Daphnia Magna is a small freshwater crustacean usually called water flea. It reproduces really quickly, sexually and asexually. It feeds by filtering the water from small suspended particles like chlorella. It can range in size from less than a millimeter for the juveniles to about 5 millimeters for the adults. This difference in sizes makes it a great choice as a live food in the aquarium hobby. In this blog post, we describe a system for culturing daphnia that is crash proof, easy to maintain and basically free.
@@ -18,7 +18,12 @@ Daphnia Magna is a small freshwater crustacean usually called water flea. It rep
 Culturing daphia is really simple and easy. It is based on the premise that you can provide daphnia with green water. So, if you want to culture daphnia, you should learn how to culture green water.
 
 For our system, we need 6 100 liters totes. 3 totes to culture daphnia on a rotation and 3 totes to culture green water.
-All the the totes are outside getting full sunlight from sunrise to 1 pm (Choose a place that is shaded in the afternoon). We will use mosquito nets to cover the totes to prevent mosquitoes and dragonfly larvae. We can fold the mosquitoes nets many times over to reduce the intensity of the sun and better control the temperatures fluctuations. We use 100 liters totes but you can use other container sizes.
+All the the totes are outside getting full sunlight from sunrise to 1 pm (Choose a place that is shaded in the afternoon). We will use mosquito nets to cover the totes to prevent mosquitoes and dragonfly larvae. We can fold the mosquitoes nets many times over to reduce the intensity of the sun and better control the temperatures fluctuations. 
+
+![Green water tote](/assets/img/daphnia-tote.jpg)
+*100 liters Green water tote*
+
+We use 100 liters totes but you can use other container sizes.
 
 **Culturing green water**
 
