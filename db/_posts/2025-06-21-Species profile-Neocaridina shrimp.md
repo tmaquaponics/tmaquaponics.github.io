@@ -5,6 +5,7 @@ tags:
   - species-profile
   - neocaridina
 ---
+
 ### Introduction
 
 Neocaridina shrimp is one of the most popular pet to keep in the hobby. In this article, we will explore its diet, breeding and general care.

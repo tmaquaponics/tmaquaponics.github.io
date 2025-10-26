@@ -1,0 +1,71 @@
+---
+layout: post
+title: Building a crash-proof daphnia culturing system
+tags:
+  - green water
+  - daphnia
+---
+
+### Introduction
+
+![Daphnia Magna](/assets/img/daphnia-magna.jpeg)
+*Daphnia Magna*
+
+Daphnia Magna is a small fresh water crustacian usually called water flea. It reproduces really qucikly, sexually and asexually. It feeds by filtering the water from small suspended particules like chlorella. It can range in size from less than a milimeter for the juveniles to about 5 milimeters for the adults. This difference in sizes makes it a great choice as a live food in the aquarium hobby. In this blog post, we describe a system for cultureing daphnia that is crash proof, easy to maintain and basically free.
+
+### Culturing system
+
+Culturing daphia is really simple and easy. It is based on the premise that you can provide daphnia with green water. So, if you want to culture daphnia, you should learn how to culture green water.
+
+For our system, we need 6 100 liters totes. 3 totes to culture daphnia on a rotation and 3 totes to culture green water.
+All the the totes are outside getting full sunlight from sunrise to 1 pm (Choose a place that is shaded in the afternoon). We will use mosquito nets to cover the totes to prevent mosquitos and dragonfly larvaes. We can fold the mosquitos nets many imes over to reduce the intensity of the sun and better control the temperatures fluctuations. We use 100 liters totes but you can use other container sizes.
+
+**Culturing green water**
+
+In the first tote to culture green water, we will actually breed guppies. Guppies will provide the necessary waste for green water to proliferate. Add an aerator to this tote.
+In the second tote, we will culture green water using a manure based fertilizer. Also put an aerator in this tote.
+The third tote is used as a container to host waste water from our aquariums water changes. This tote will not be covered by a mosquitto net and doesn't have an aerator.
+
+Having three totes to make green water will actually allow us to test which method produces the best green water and let us play around with the results.
+
+
+**Culturing Daphnia**
+
+We will culture daphnia in three totes on a rotation. Meaning, we will harvest from one tote at a time while daphnia is still multiplying in the two other totes. The tote we harvest from now will be the last one we harvest from next time. This method allows Daphnia to multiply quickly and for the harvest to occur when population peaks in each tote. The rotation should allow enough time for the juveniles daphnia to become adults and repeat the breeding cycle.
+
+In each daphia tote, put an aerator and some plants, like hornworth, elodia or guppy-grass. The aerator should not have fine bubbles because they get trappd under the daphnia exoskeleton. 
+
+**Feeding Daphnia**
+
+Feeding Daphnia is really simple. Each Daphnia tote receives 3 liters of green water daily, 1 liter from each green water tote. Adjust the quantities according to your needs.
+From time to time, you can feed your daphnia some yeast. However, you should let your yeast degas completely for about 20 minutes before using it.
+
+**Culturing daphnia indoors**
+
+You can culture daphnia indoors using the same process by scaling down the system from 3 totes of green water to only one aquarium of green water. This aquarium will host a population of guppies to provide waste for the green water. To culture the green water, use a grow light (usually 6500 kalvins) for about 6 hours a day.
+
+For the daphnia culture, use three buckets on a rotation.
+
+### Maintenance
+
+By the time the daphnia totes are full of water, empty the totes halfway. To empty a daphnia tote without sucking daphnia, put a water pump into two pantyhoses (so 4 layers of pantyhose legs). Put the pump in the tote and empty the water halfway.
+
+By a frequence of 3 liters of green water a day, daphnia totes will be full of water again after two weeks.
+
+Refill the guppy tote with tap water (they can normally tolerate the chlorine and it's only 3 liters a day. The aerator will degas the water and get rid of the chlorine, not sure about chloramine. Use a safe dchlorinator if in doubt).
+
+Refill the waste water tote from the daphnia water or your aquarium water.
+
+Refill the fertilizer tote with tap water. Replenish with fertilizer once every two months (read the instructions on the fertilizer to be sure)
+
+Use your waste water from your daphnia totes to water your plants, trees, flush your toilet, wash your car or anywhere drinking water is not required. (We don't like wasting water at Tank-Mates Aquaponics).
+
+### Conclusion
+
+In this article, I compiled the informations I gathered from watching videos and reading articles on culturing daphnia. You will find many ressources that use spirulina powder t omake green water or even use flour mixtures to feed the daphnia. Those methods work but is better to feed your daphnia natural green water, as it is a live food filled with microorganisms and rich in protein and vitamins.   
+
+### ressources
+
+1. [Daphnia Magna](https://en.wikipedia.org/wiki/Daphnia_magna){:target="_blank"}
+2. [Mastering Daphnia and Moina Cultures A Complete Guide to Success](https://www.youtube.com/watch?v=H0Zp9NgoAw0){:target="_blank"}
+3. [Water Fleas: Look Weird, Adapt Weirder](https://www.youtube.com/watch?v=6_ZuIG_fbTA){:target="_blank"}
