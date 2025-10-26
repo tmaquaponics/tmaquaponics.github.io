@@ -35,7 +35,7 @@ The third tote is used as a container to host waste water from our aquariums wat
 
 Having three totes to make green water will actually allow us to test which method produces the best green water and let us play around with the results.
 
-In the three totes throw in some snails to and to the bioload and eat debris and chlorella that precipitates at the bottom.
+In the three totes throw in some snails to add to the bioload and eat debris and chlorella that precipitates at the bottom.
 
 **Culturing Daphnia**
 
