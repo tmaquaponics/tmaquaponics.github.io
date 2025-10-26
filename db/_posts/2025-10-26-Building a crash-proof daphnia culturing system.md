@@ -63,7 +63,7 @@ When the daphnia totes are full of water, empty the totes halfway. To empty a da
 
 By a frequency of 3 liters of green water a day, daphnia totes will be full of water again after two weeks.
 
-Refill the guppy tote with tap water (they can normally tolerate the chlorine and it's only 3 liters a day. The aerator will degas the water and get rid of the chlorine. Not sure about chloramine. Use a safe dechlorinator if in doubt).
+Refill the guppy tote with tap water (they can normally tolerate the chlorine. The aerator will degas the water and get rid of the chlorine. Not sure about chloramine. Use a safe dechlorinator if in doubt).
 
 Refill the waste water tote with the daphnia water you pumped out or your aquarium water.
 
