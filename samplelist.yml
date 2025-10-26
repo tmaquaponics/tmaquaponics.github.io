@@ -1,0 +1,17 @@
+docs_list_title: Tank-Mates Aquaponics
+docs:
+
+- title: Home
+  url: /
+  
+- title: Plants
+  url: /plants/
+
+- title: Database
+  url: /db/
+  
+- title: Blog
+  url: /blog/
+  
+- title: Contact
+  url: /contact.html
