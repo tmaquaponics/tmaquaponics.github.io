@@ -4,7 +4,7 @@ title: Tank-Mates Aquaponics
 ---
 
 Welcome to the Tank-Mates Aquaponics website. A website about fishkeeping and aquaponics.
-You can also find all our posts below. For business inquiries you can reach us at <strong>tankmatesaquaponics@gmail.com</strong>. 
+You can find all our posts below. For business inquiries you can reach us at <strong>tankmatesaquaponics@gmail.com</strong>. 
 
 ### All Posts
 
