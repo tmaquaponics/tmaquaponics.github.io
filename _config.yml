@@ -11,6 +11,7 @@ collections:
   fish:
     output: true
   plants:
+    output: true
 
 
 plugins:
