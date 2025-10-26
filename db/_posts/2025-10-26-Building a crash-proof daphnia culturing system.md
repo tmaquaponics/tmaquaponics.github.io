@@ -8,7 +8,7 @@ tags:
 
 ### Introduction
 
-![Daphnia Magna](/assets/img/daphnia-magna.jpeg)daphnia-tote.jpg
+![Daphnia Magna](/assets/img/daphnia-magna.jpeg)
 *Daphnia Magna*
 
 Daphnia Magna is a small freshwater crustacean usually called water flea. It reproduces really quickly, sexually and asexually. It feeds by filtering the water from small suspended particles like chlorella. It can range in size from less than a millimeter for the juveniles to about 5 millimeters for the adults. This difference in sizes makes it a great choice as a live food in the aquarium hobby. In this blog post, we describe a system for culturing daphnia that is crash proof, easy to maintain and basically free.
