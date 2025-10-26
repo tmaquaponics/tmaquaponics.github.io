@@ -35,11 +35,13 @@ The third tote is used as a container to host waste water from our aquariums wat
 
 Having three totes to make green water will actually allow us to test which method produces the best green water and let us play around with the results.
 
+In the three totes throw in some snails to and to the bioload and eat debris and chlorella that precipitates at the bottom.
+
 **Culturing Daphnia**
 
 We will culture daphnia in three totes on a rotation. Meaning, we will harvest from one tote at a time while daphnia is still multiplying in the two other totes. The tote we harvest from now will be the last one we harvest from next time. This method allows Daphnia to multiply quickly and for the harvest to occur when population peaks in each tote. The rotation should allow enough time for the juveniles daphnia to become adults and repeat the breeding cycle.
 
-In each daphia tote, put an aerator and some plants, like hornwort, elodea or guppy-grass. The aerator should not have fine bubbles because they get trapped under the daphnia exoskeleton. 
+In each daphia tote, put an aerator and some plants, like hornwort, elodea or guppy-grass. The aerator should not have fine bubbles because they get trapped under the daphnia exoskeleton. Add in some snails too.
 
 **Feeding Daphnia**
 
