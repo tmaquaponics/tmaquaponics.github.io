@@ -20,12 +20,12 @@ Culturing daphia is really simple and easy. It is based on the premise that you 
 For our system, we need 6 100 liters totes. 3 totes to culture daphnia on a rotation and 3 totes to culture green water.
 All the the totes are outside getting full sunlight from sunrise to 1 pm (Choose a place that is shaded in the afternoon). We will use mosquito nets to cover the totes to prevent mosquitoes and dragonfly larvae. We can fold the mosquitoes nets many times over to reduce the intensity of the sun and better control the temperatures fluctuations. 
 
-![Green water tote](/assets/img/daphnia-tote.jpg)
-*100 liters Green water tote*
-
 We use 100 liters totes but you can use other container sizes.
 
 **Culturing green water**
+
+![Green water tote](/assets/img/daphnia-tote.jpg)
+*100 liters Green water tote*
 
 In the first tote to culture green water, we will actually breed guppies. Guppies will provide the necessary waste for green water to proliferate. Add an aerator to this tote.
 In the second tote, we will culture green water using a manure based fertilizer. Also put an aerator in this tote.
@@ -66,7 +66,7 @@ Use your waste water from your daphnia totes to water your plants, trees, flush 
 
 ### Conclusion
 
-In this article, I compiled the information I gathered from watching videos and reading articles on culturing daphnia. You will find many resources that use spirulina powder to make green water or even use flour mixtures to feed the daphnia. Those methods work but is better to feed your daphnia natural green water, as it is a live food filled with microorganisms and rich in protein and vitamins.   
+In this article, I compiled the information I gathered from watching videos and reading articles on culturing daphnia. You will find many resources that use spirulina powder to make green water or even use flour mixtures to feed the daphnia. Those methods work but it is better to feed your daphnia natural green water, as it is a live food filled with microorganisms and rich in protein and vitamins.   
 
 ### Resources
 
