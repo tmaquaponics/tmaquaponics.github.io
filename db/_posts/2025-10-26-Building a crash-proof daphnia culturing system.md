@@ -18,7 +18,7 @@ Daphnia Magna is a small freshwater crustacean usually called water flea. It rep
 Culturing daphia is really simple and easy. It is based on the premise that you can provide daphnia with green water. So, if you want to culture daphnia, you should learn how to culture green water.
 
 For our system, we need 6 100 liters totes. 3 totes to culture daphnia on a rotation and 3 totes to culture green water.
-All the the totes are outside getting full sunlight from sunrise to 1 pm (Choose a place that is shaded in the afternoon). We will use mosquito nets to cover the totes to prevent mosquitoes and dragonfly larvae. We can fold the mosquitoes nets many times over to reduce the intensity of the sun and better control the temperatures fluctuations. 
+All the the totes are outside getting full sunlight from sunrise to 1 pm (Choose a place that is shaded in the afternoon). We will use mosquito nets to cover the totes to prevent mosquitoes and dragonfly larvae. We can fold the mosquito nets many times over to reduce the intensity of the sun and better control temperatures fluctuations. 
 
 We use 100 liters totes but you can use other container sizes.
 
@@ -27,9 +27,11 @@ We use 100 liters totes but you can use other container sizes.
 ![Green water tote](/assets/img/daphnia-tote.jpg)
 *100 liters Green water tote*
 
-In the first tote to culture green water, we will actually breed guppies. Guppies will provide the necessary waste for green water to proliferate. Add an aerator to this tote.
-In the second tote, we will culture green water using a manure based fertilizer. Also put an aerator in this tote.
-The third tote is used as a container to host waste water from our aquariums water changes. This tote will not be covered by a mosquito net and doesn't have an aerator.
+- In the first tote to culture green water, we will actually breed guppies. Guppies will provide the necessary waste for green water to proliferate. Add an aerator to this tote.
+
+- In the second tote, we will culture green water using a manure based fertilizer. Also put an aerator in this tote.
+
+- The third tote is used as a container to host waste water from our aquariums water changes. This tote will not be covered by a mosquito net and doesn't have an aerator.
 
 Having three totes to make green water will actually allow us to test which method produces the best green water and let us play around with the results.
 
@@ -42,6 +44,7 @@ In each daphia tote, put an aerator and some plants, like hornwort, elodea or gu
 **Feeding Daphnia**
 
 Feeding Daphnia is really simple. Each Daphnia tote receives 3 liters of green water daily, 1 liter from each green water tote. Adjust the quantities according to your needs.
+
 From time to time, you can feed your daphnia some yeast. However, you should let your yeast degas completely for about 20 minutes before using it.
 
 **Culturing daphnia indoors**
