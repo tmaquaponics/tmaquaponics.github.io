@@ -49,17 +49,17 @@ From time to time, you can feed your daphnia some yeast. However, you should let
 
 **Culturing daphnia indoors**
 
-You can culture daphnia indoors using the same process by scaling down the system from 3 totes of green water to only one aquarium of green water. This aquarium will host a population of guppies to provide waste for the green water. To culture the green water, use a grow light (usually 6500 kelvins) for about 6 hours a day.
+You can culture daphnia indoors using the same process by scaling down the system from 3 totes of green water to only one aquarium of green water. This aquarium will host a population of guppies to provide the necessary waste. To culture the green water, use a grow light (usually 6500 kelvins) for about 6 hours a day.
 
 For the daphnia culture, use three buckets on a rotation.
 
 ### Maintenance
 
-By the time the daphnia totes are full of water, empty the totes halfway. To empty a daphnia tote without sucking daphnia, put a water pump into two pantyhose (so 4 layers of pantyhose legs). Put the pump in the tote and empty the water halfway.
+When the daphnia totes are full of water, empty the totes halfway. To empty a daphnia tote without sucking the daphnia, put a water pump into two pantyhose (so 4 layers of pantyhose legs). Put the pump in the tote and empty the water halfway.
 
 By a frequency of 3 liters of green water a day, daphnia totes will be full of water again after two weeks.
 
-Refill the guppy tote with tap water (they can normally tolerate the chlorine and it's only 3 liters a day. The aerator will degas the water and get rid of the chlorine, not sure about chloramine. Use a safe dechlorinator if in doubt).
+Refill the guppy tote with tap water (they can normally tolerate the chlorine and it's only 3 liters a day. The aerator will degas the water and get rid of the chlorine. Not sure about chloramine. Use a safe dechlorinator if in doubt).
 
 Refill the waste water tote from the daphnia water or your aquarium water.
 
@@ -69,7 +69,7 @@ Use your waste water from your daphnia totes to water your plants, trees, flush 
 
 ### Conclusion
 
-In this article, I compiled the information I gathered from watching videos and reading articles on culturing daphnia. You will find many resources that use spirulina powder to make green water or even use flour mixtures to feed the daphnia. Those methods work but it is better to feed your daphnia natural green water, as it is a live food filled with microorganisms and rich in protein and vitamins.   
+In this article, I compiled the information I gathered from watching videos and reading articles on culturing daphnia. You will find many resources online that use spirulina powder to make green water or even use flour mixtures to feed the daphnia. Those methods work but it is better to feed your daphnia natural green water, as it is a live food filled with microorganisms and rich in protein and vitamins.   
 
 ### Resources
 
