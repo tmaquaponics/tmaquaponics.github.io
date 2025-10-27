@@ -11,7 +11,7 @@ tags:
 ![Daphnia Magna](/assets/img/daphnia-magna.jpeg)
 *Daphnia Magna*
 
-Daphnia Magna is a small freshwater crustacean usually called water flea. It reproduces really quickly, sexually and asexually. It feeds by filtering the water from small suspended particles like chlorella. It can range in size from less than a millimeter for the juveniles to about 5 millimeters for the adults. This difference in sizes makes it a great choice as a live food in the aquarium hobby. In this blog post, we describe a system for culturing daphnia that is crash proof, easy to maintain and basically free.
+Daphnia Magna is a small freshwater crustacean usually called water flea. It reproduces really quickly, sexually and asexually. It feeds by filtering the water from small suspended particles like chlorella. It can range in size from less than a millimeter for the juveniles to about 5 millimeters for the adults. This difference in sizes makes it a great choice as a live food in the aquarium hobby. In this blog post, we describe a system for culturing daphnia that prevents population crash, is easy to maintain and is basically free.
 
 ### Culturing system
 
@@ -25,7 +25,7 @@ We use 100 liters totes but you can use other container sizes.
 **Culturing green water**
 
 ![Green water tote](/assets/img/daphnia-tote.jpg)
-*100 liters Green water tote*
+*100 Liters green water tote*
 
 In the first tote to culture green water, we will actually breed guppies. Guppies will provide the necessary waste for green water to proliferate. Add an aerator to this tote.
 
@@ -39,7 +39,7 @@ In the three totes throw in some snails to add to the bioload and eat debris and
 
 **Culturing Daphnia**
 
-We will culture daphnia in three totes on a rotation. Meaning, we will harvest from one tote at a time while daphnia is still multiplying in the two other totes. The tote we harvest from now will be the last one we harvest from next time. This method allows Daphnia to multiply quickly and for the harvest to occur when population peaks in each tote. The rotation should allow enough time for the juveniles daphnia to become adults and repeat the breeding cycle.
+We will culture daphnia in three totes on a rotation. Meaning, we will harvest from one tote at a time while the aphnia is still multiplying in the two other totes. The tote we harvest from now will be the last one we harvest from next time. For example, if this week we harvest from tote T1, the next week we will harvest from tote T2 and the week after that we will harvest from tote T3. The forth week we will harvest again from tote T1 and so on. This method allows the daphnia to multiply quickly and for the harvest to occur when population peaks in each tote. The rotation should allow enough time for the juveniles daphnia to become adults and repeat the breeding cycle.
 
 In each daphia tote, put an aerator and some plants, like hornwort, elodea or guppy-grass. The aerator should not have fine bubbles because they get trapped under the daphnia exoskeleton. Add in some snails too.
 
@@ -59,17 +59,17 @@ For the daphnia culture, use three buckets on a rotation.
 
 ### Maintenance
 
-When the daphnia totes are full of water, empty the totes halfway. To empty a daphnia tote without sucking the daphnia, put a water pump into two pantyhose (so 4 layers of pantyhose legs). Put the pump in the tote and empty the water halfway.
+When the daphnia totes are full of water, empty the totes halfway. To empty a daphnia tote without sucking out the daphnia, put a water pump into two pantyhose (so 4 layers of pantyhose legs). Put the pump in the tote and empty the water halfway.
 
-By a frequency of 3 liters of green water a day, daphnia totes will be full of water again after two weeks.
+By adding 3 liters of green water a day to each daphnia tote, they will be full of water again after two weeks.
 
-Refill the guppy tote with tap water (they can normally tolerate the chlorine. The aerator will degas the water and get rid of the chlorine. Not sure about chloramine. Use a safe dechlorinator if in doubt).
+Refill the guppy tote with tap water. (They can normally tolerate the chlorine. The aerator will degas the water and get rid of the chlorine. Not sure about chloramine. Use a safe dechlorinator if in doubt).
 
-Refill the waste water tote with the daphnia water you pumped out or your aquarium water.
+Refill the waste water tote with your aquarium water or the daphnia water you pumped out.
 
-Refill the fertilizer tote with tap water. Replenish with fertilizer once every two months (read the instructions on the fertilizer to be sure)
+Refill the fertilizer tote with tap water. Replenish with fertilizer once in a while (read the instructions on the fertilizer to be precise).
 
-Use your waste water from your daphnia totes to water your plants, trees, flush your toilet, wash your car or anywhere drinking water is not required. (We don't like wasting water at Tank-Mates Aquaponics).
+Reuse your waste water from your daphnia totes to water your plants, trees, flush your toilet, wash your car or anywhere drinking water is not required. (We don't like wasting water at Tank-Mates Aquaponics).
 
 ### Conclusion
 
