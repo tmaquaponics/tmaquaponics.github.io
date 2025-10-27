@@ -42,11 +42,11 @@ Take the tubing connection out from the water and place each one of its ends in 
 **Closed water system**
 
 1.  Place a small water pump (100L/H) in the left most tote. Connect a hose to it and place the end of that hose in the right most tote. What we should have now is a closed system where water circulates from the right most tote back to the left most one.
-2. Place K1 media in one of the end totes and plants (submerged & emerged) in the other.
-3. Place a sponge filter in each one of the middle totes.
+2. Place K1 media in one of the filtration totes and plants (submerged & emerged) in the other.
+3. Place a sponge filter in each one of the breeding totes.
 4. Seed your totes and let them cycle for a week, then you are good to go.
 
-The first tote in the middle will serve for breeding, the other three on the right will serve for grow-out. For each new spawn, you will move the previous generation to the right and put the new generation in the middle. That way you have three months of grow-out for each spawn (assuming a once in a month breeding for the parents).
+The first breeding tote will serve for breeding the parents, the other three breeding totes will serve for growing out the juveniles. For each new spawn, you will move the previous generation from one tote to the next adjascent tote and put the new generation in place of it. That way you have three months of grow-out for each spawn (assuming a once in a month breeding for the parents).
 
 ### Conclusion
 
