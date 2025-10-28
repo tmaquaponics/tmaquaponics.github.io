@@ -84,3 +84,4 @@ In this article, I compiled the information I gathered from watching videos and 
 1. [Daphnia Magna](https://en.wikipedia.org/wiki/Daphnia_magna){:target="_blank"}
 2. [Mastering Daphnia and Moina Cultures A Complete Guide to Success](https://www.youtube.com/watch?v=H0Zp9NgoAw0){:target="_blank"}
 3. [Water Fleas: Look Weird, Adapt Weirder](https://www.youtube.com/watch?v=6_ZuIG_fbTA){:target="_blank"}
+4. [Temperature effects on the speed of growth – Daphnia magna timelapse ](https://www.youtube.com/watch?v=WxB5h84ygC0){:target="_blank"}
