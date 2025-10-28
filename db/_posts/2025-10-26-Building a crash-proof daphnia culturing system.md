@@ -13,9 +13,9 @@ tags:
 
 Daphnia Magna is a small freshwater crustacean usually called water flea. It reproduces really quickly, sexually and asexually. It feeds by filtering the water from small suspended particles like chlorella. It can range in size from less than a millimeter for the juveniles to about 5 millimeters for the adults. This difference in sizes makes it a great choice as a live food in the aquarium hobby. 
 
-When culturing daphnia, the most common threat to success is population crash. This problem can occur because of overfeeding, bad water parameters, overcrowding or lack of oxigen, among other things...In this blog post, we describe a system for culturing daphnia that prevents population crash, is easy to maintain and is basically free.
+When culturing daphnia, the most common threat to success is population crash. This problem can occur because of overfeeding, bad water parameters, overcrowding or lack of oxygen, among other things...In this blog post, we describe a system for culturing daphnia that prevents population crash, is easy to maintain and is basically free.
 
-### Culturing systemInside Nu Aqua – Full Tour of Our Fish Gallery, Quarantine & Store Setup!
+### Culturing system
 
 Culturing daphia is really simple and easy. It is based on the premise that you can provide daphnia with green water. So, if you want to culture daphnia, you should learn how to culture green water.
 
