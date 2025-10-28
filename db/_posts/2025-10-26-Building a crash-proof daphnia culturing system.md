@@ -23,7 +23,7 @@ For our system, we need <strong>6 totes of 100 liters</strong> each. 3 totes to 
 All the the totes are outside getting full sunlight from sunrise to 1 pm (Choose a place that is shaded in the afternoon). We will use mosquito nets to cover the totes to prevent mosquitoes and dragonfly larvae. We can fold the mosquito nets many times over to reduce the intensity of the sun and better control temperatures fluctuations. 
 
 <div class="message-info">
-<p>We use 100 liters totes but you can use other container sizes.</p>
+<p>We use 100 Liters totes but you can use other container sizes.</p>
 </div>
 
 **Culturing green water**
