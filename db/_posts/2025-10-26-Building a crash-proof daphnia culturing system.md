@@ -19,7 +19,7 @@ When culturing daphnia, the most common threat to success is population crash. T
 
 Culturing daphia is really simple and easy. It is based on the premise that you can provide daphnia with green water. So, if you want to culture daphnia, you should learn how to culture green water.
 
-For our system, we need <strong>6 totes of 100 liters</strong> each. 3 totes to culture daphnia on a rotation and 3 totes to culture green water.
+For our system, we need <strong>6 totes of 100 Liters</strong> each. 3 totes to culture daphnia on a rotation and 3 totes to culture green water.
 All the the totes are outside getting full sunlight from sunrise to 1 pm (Choose a place that is shaded in the afternoon). We will use mosquito nets to cover the totes to prevent mosquitoes and dragonfly larvae. We can fold the mosquito nets many times over to reduce the intensity of the sun and better control temperatures fluctuations. 
 
 <div class="message-info">
@@ -81,7 +81,7 @@ In this article, I compiled the information I gathered from watching videos and 
 
 ### Resources
 
-1. [Daphnia Magna](https://en.wikipedia.org/wiki/Daphnia_magna){:target="_blank"}
-2. [Mastering Daphnia and Moina Cultures A Complete Guide to Success](https://www.youtube.com/watch?v=H0Zp9NgoAw0){:target="_blank"}
-3. [Water Fleas: Look Weird, Adapt Weirder](https://www.youtube.com/watch?v=6_ZuIG_fbTA){:target="_blank"}
-4. [Temperature effects on the speed of growth – Daphnia magna timelapse ](https://www.youtube.com/watch?v=WxB5h84ygC0){:target="_blank"}
+1. [Article - Daphnia Magna](https://en.wikipedia.org/wiki/Daphnia_magna){:target="_blank"}
+2. [Video - Mastering Daphnia and Moina Cultures A Complete Guide to Success](https://www.youtube.com/watch?v=H0Zp9NgoAw0){:target="_blank"}
+3. [Video - Water Fleas: Look Weird, Adapt Weirder](https://www.youtube.com/watch?v=6_ZuIG_fbTA){:target="_blank"}
+4. [Video - Temperature effects on the speed of growth – Daphnia magna timelapse ](https://www.youtube.com/watch?v=WxB5h84ygC0){:target="_blank"}
