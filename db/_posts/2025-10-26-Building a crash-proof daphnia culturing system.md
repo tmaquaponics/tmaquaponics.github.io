@@ -31,15 +31,15 @@ All the totes are outside getting full sunlight from sunrise to 1 pm (Choose a p
 ![Green water tote](/assets/img/daphnia-tote.jpg)
 *100 Liters green water tote*
 
-In the first tote to culture green water, we will actually breed guppies. Guppies will provide the necessary waste for green water to proliferate. Add an aerator to this tote.
+In the first tote to culture green water, we will actually breed guppies. Guppies will provide the necessary waste for green water to proliferate. 
 
-In the second tote, we will culture green water using a manure based fertilizer. Also put an aerator in this tote.
+In the second tote, we will culture green water using a manure based fertilizer.
 
-The third tote is used as a container to host waste water from our aquariums water changes. This tote will not be covered by a mosquito net and doesn't have an aerator.
+In the third tote, we will culture green water using waste water from our aquariums water changes. This tote will not be covered by a mosquito net.
 
 Having three totes to make green water will actually allow us to test which method produces the best green water and let us play around with the results.
 
-In the three totes throw in some snails to add to the bioload and eat debris and chlorella that precipitates at the bottom.
+In the three totes put an aerator and throw in some snails to add to the bioload and eat debris and chlorella that precipitates at the bottom.
 
 **Culturing daphnia**
 
