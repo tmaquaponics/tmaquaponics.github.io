@@ -20,7 +20,7 @@ When culturing daphnia, the most common threat to success is population crash. T
 Culturing daphia is really simple and easy. It is based on the premise that you can provide daphnia with green water. So, if you want to culture daphnia, you should learn how to culture green water.
 
 For our system, we need <strong>6 totes of 100 Liters</strong> each. 3 totes to culture daphnia on a rotation and 3 totes to culture green water.
-All the the totes are outside getting full sunlight from sunrise to 1 pm (Choose a place that is shaded in the afternoon). We will use mosquito nets to cover the totes to prevent mosquitoes and dragonfly larvae. We can fold the mosquito nets many times over to reduce the intensity of the sun and better control temperatures fluctuations. 
+All the totes are outside getting full sunlight from sunrise to 1 pm (Choose a place that is shaded in the afternoon). We will use mosquito nets to cover the totes to prevent mosquitoes and dragonfly larvae. We can fold the mosquito nets many times over to reduce the intensity of the sun and better control temperatures fluctuations. 
 
 <div class="message-info">
 <p>We use 100 Liters totes but you can use other container sizes.</p>
@@ -41,13 +41,13 @@ Having three totes to make green water will actually allow us to test which meth
 
 In the three totes throw in some snails to add to the bioload and eat debris and chlorella that precipitates at the bottom.
 
-**Culturing Daphnia**
+**Culturing daphnia**
 
-We will culture daphnia in three totes on a rotation. Meaning, we will harvest from one tote at a time while the aphnia is still multiplying in the two other totes. The tote we harvest from now will be the last one we harvest from next time. For example, if this week we harvest from tote T1, the next week we will harvest from tote T2 and the week after that we will harvest from tote T3. The forth week we will harvest again from tote T1 and so on. This method allows the daphnia to multiply quickly and for the harvest to occur when population peaks in each tote. The rotation should allow enough time for the juveniles daphnia to become adults and repeat the breeding cycle.
+We will culture daphnia in three totes on a rotation. Meaning, we will harvest from one tote at a time while the daphnia is still multiplying in the two other totes. The tote we harvest from now will be the last one we harvest from next time. For example, if this week we harvest from tote T1, the next week we will harvest from tote T2 and the week after that we will harvest from tote T3. The forth week we will harvest again from tote T1 and so on. This method allows the daphnia to multiply quickly and for the harvest to occur when population peaks in each tote. The rotation should allow enough time for the juveniles daphnia to become adults and repeat the breeding cycle.
 
 In each daphia tote, put an aerator and some plants, like hornwort, elodea or guppy-grass. The aerator should not have fine bubbles because they get trapped under the daphnia exoskeleton. Add in some snails too.
 
-**Feeding Daphnia**
+**Feeding the daphnia**
 
 Feeding Daphnia is really simple. Each Daphnia tote receives 3 liters of green water daily, 1 liter from each green water tote. Adjust the quantities according to your needs.
 
