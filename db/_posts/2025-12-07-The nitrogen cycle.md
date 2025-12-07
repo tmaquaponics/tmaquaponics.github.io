@@ -146,7 +146,7 @@ A fifth stage in the nitrogen cycle we didn't talk about is the anaerobic denitr
 
 ### Common problems and troubleshooting
 
-Even established tank can have problems that arise from time to time. The following is a table that lists some problems and the quick action you can take to solve them.
+Even established tanks can have problems that arise from time to time. The following is a list of some problems and the quick actions you can take to solve them.
 
 | Symptom                              | Most likely cause                                 | Immediate action                                                                                 | Long-term fix                                         |
 | ------------------------------------ | ------------------------------------------------- | ------------------------------------------------------------------------------------------------ | ----------------------------------------------------- |
