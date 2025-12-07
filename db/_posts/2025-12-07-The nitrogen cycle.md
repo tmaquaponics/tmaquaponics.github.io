@@ -34,15 +34,15 @@ By the end of this article, you will understand what goes on in your tank at a d
 ![The nitrogen cycle](/assets/img/Drawing 2025-12-04 04.52.55.excalidraw.png)
 *The nitrogen cycle*
 
-As you can see in the diagram above, there are 4 stages in the nitrogen cycle :
+As you can see in the above diagram, there are 4 stages in the nitrogen cycle :
 
-- Amonification : In this stage, fish waste, uneaten food, decaying plants, dead fish and snails, detritus, are naturally converted into ammonia, a deadly substance for your fish and aquatic invertebrates. This conversion happens automatically and constantly in your tank.
+- Amonification : in this stage, fish waste, uneaten food, decaying plants, dead fish and snails, detritus, are naturally converted into ammonia, a deadly substance for your fish and aquatic invertebrates. This conversion happens automatically and constantly in your tank.
 
 - Nitrification stage 1 : the second phase in the nitrogen cycle is about turning that harmful ammonia into nitrites, a less harmful substance for your fish. This conversion is done by nitrifying bacteria like nitrosomonas-type bacteria.
 
-- Nitrification stage 2 :  in this stage, nitrobacter-type bacteria converts the nitrites into nitrates. An overall less harmful substance for your fish.
+- Nitrification stage 2 : in this stage, nitrobacter-type bacteria converts the nitrites into nitratesn an overall less harmful substance for your fish.
 
-- Assimilation :  in this stage, the nitrates are absorbed by the plant life in your aquarium. Remaining nitrates are diluted by water changes.
+- Assimilation : in this stage, the nitrates are absorbed by the plant life in your aquarium. Remaining nitrates are diluted by water changes.
 
 Before exploring into more detail the sources of ammonia, lets consider the toxicity levels of ammonia, nitrites and nitrates.
 
@@ -63,7 +63,7 @@ Quick rule of thumb :
 
 Your aquarium is a closed system where every input has eventually an output. This applies to your fish, plants, food and every living think in your tank.
 
-Every food you throw in your tank gets converted into ammonia, every dead thing in your tank gets converted into ammonia. The number one source of ammonia is however fish waste. 
+Every food you throw in your tank gets converted into ammonia, every dead thing in your tank gets converted into ammonia. However, the number one source of ammonia is fish waste. 
 
 1. Fish waste : 
 	- Fish excrete ammonia through their gills (70-80% of their nitrogen waste).
