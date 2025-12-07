@@ -166,4 +166,4 @@ With the information provided here you can be confident in setting up a healthy 
  
 ### References
 
-1. [Video - Aquarium Nitrogen Cycle | Full Explanation and Correcting Wrong Information](https://www.youtube.com/watch?v=VEjkh591s3Y&pp=0gcJCSMKAYcqIYzv){:target="_blank"}
+1. [Video - Aquarium Nitrogen Cycle - Full Explanation and Correcting Wrong Information](https://www.youtube.com/watch?v=VEjkh591s3Y&pp=0gcJCSMKAYcqIYzv){:target="_blank"}
