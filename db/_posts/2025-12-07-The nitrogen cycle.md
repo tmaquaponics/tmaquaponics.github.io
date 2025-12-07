@@ -143,6 +143,7 @@ You can test your water using test stripes or liquid test kits. The word on the 
 **Anaerobic denitrification**
 A fifth stage in the nitrogen cycle we didn't talk about is the anaerobic denitrification. The anaerobic bacteria involved convert nitrates into nitrogen gas by consuming organic biomass.
 (TODO refine). This type of process occurs in anaerobic zones. For example in a deep substrate.
+
 ### Common problems and troubleshooting
 new tank syndrome
 cycle crash after medication or filter cleaning
@@ -151,10 +152,11 @@ brown diatoms vs green algae what nitrate/phosphate ratios tell you
 
 pH crashes caused by high CO2 from bacteria respiration
 
-### Conclusion checklist and further reading
+### Conclusion
 
-10 points healthy cycle checklist
-infographic summary of the entire process
-recommended ,products , books and online resources
-final encouragement
-### resources
+We have breifly explore the nitrogen cycle. Its phases, the benefecial bacteria at the heart of this process and a quick response guide in case somethig goes wrong.
+With the information provided you can be confident in setting up a healthy and stable environement for your fish and aquatic life and in navigating further resources.
+ 
+### References
+
+1. [Video - Mastering Daphnia and Moina Cultures A Complete Guide to Success](https://www.youtube.com/watch?v=H0Zp9NgoAw0){:target="_blank"}
