@@ -145,18 +145,25 @@ A fifth stage in the nitrogen cycle we didn't talk about is the anaerobic denitr
 (TODO refine). This type of process occurs in anaerobic zones. For example in a deep substrate.
 
 ### Common problems and troubleshooting
-new tank syndrome
-cycle crash after medication or filter cleaning
-persistent ammonia in established tanks (overfeeding, dead animal, heterotrophic bacteria overload)
-brown diatoms vs green algae what nitrate/phosphate ratios tell you
 
-pH crashes caused by high CO2 from bacteria respiration
+Even established tank can have problems that arise from time to time. The following is a table that lists some problems and the quick action you can take to solve them.
+
+| Symptom                              | Most likely cause                                 | Immediate action                                                                                 | Long-term fix                                         |
+| ------------------------------------ | ------------------------------------------------- | ------------------------------------------------------------------------------------------------ | ----------------------------------------------------- |
+| Ammonia > 0.25 mg/L in new tank      | Normal cycling (1st month)                        | Keep cycling                                                                                     | Be patient                                            |
+| Ammonia > 0.25 mg/L in mature tank   | Dead animal, overfeeding, filter stalled          | Remove the dead fish or decaying matter                                                          | Reduce feeding, add more plants                       |
+| Nitrite > 0.25 mg/L in mature tank   | Filter cleaned too hard and recent medication     | Stop all cleaning and put some old media back in the tank + add a small amount of aquarium salt. | Never clean all your media at once                    |
+| Ammonia stuck at 0.5-1.0 mg/L        | Not enough surface area or low oxygen             | Add extra sponge filter + add an air stone + increase the temperature to 28-30 Celsius.          | Upgrade filtration                                    |
+| Nitrate > 80-100 mg/L                | Too many fish / Too few water changes and plants  | 50-70 % water change over two days + add more plants.                                            | Reduce stocking and implement nitrate removal methods |
+| Brown diatoms everywhere             | New tank + high nitrate                           | Normal the first few weeks. Add more plants and snails.                                          | Disappears eventually                                 |
+| Sudden pH crash. Nitrates > 120 mg/L | Old tank syndrome. Excessive bacteria respiration | Increase aeration + do 70% water change                                                          | Vacuum substrate, reduce feeding, add more plants.    |
+
 
 ### Conclusion
 
-We have breifly explore the nitrogen cycle. Its phases, the benefecial bacteria at the heart of this process and a quick response guide in case somethig goes wrong.
-With the information provided you can be confident in setting up a healthy and stable environement for your fish and aquatic life and in navigating further resources.
+We have briefly explored the nitrogen cycle, its phases, the benefecial bacteria at the heart of this process and a quick response guide in case somethig goes wrong.
+With the information provided here you can be confident in setting up a healthy and stable environement for your fish and aquatic life and in navigating further resources.
  
 ### References
 
-1. [Video - Mastering Daphnia and Moina Cultures A Complete Guide to Success](https://www.youtube.com/watch?v=H0Zp9NgoAw0){:target="_blank"}
+1. [Video - Aquarium Nitrogen Cycle | Full Explanation and Correcting Wrong Information](https://www.youtube.com/watch?v=VEjkh591s3Y&pp=0gcJCSMKAYcqIYzv){:target="_blank"}
