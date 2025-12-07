@@ -12,47 +12,53 @@ You've surely heard it before, the nitrogen cycle this, the nitrogen cycle that.
 
 But before that, just imagine the following scenario : 
 
-You saw some really good fish at you local LFS. You brought them home all exited. You setup a tank, add a substrate, fill it with water, add your water conditioner, put a filter, and finally add your fish. 4 days later, your fish are all dead ! Sounds familiar ?
+You saw some really good fish at you local LFS. You brought them home all exited. You setup a tank, added a substrate, filled it with water, added your water conditioner, put a filter, and finally added your fish. 4 days later, all your fish are dead ! Sounds familiar ?
 
-You didn't overfeed, did not mess up the temperature, conditioned the water properly and you can't figure out what went wrong ? The answer is your nitrogen cycle failed !
+You didn't overfeed, did not mess up the temperature, conditioned the water properly but you can't figure out what went wrong ? The answer is your nitrogen cycle failed !
 
-The nitrogen cycle is a natural process in which microscopic bacteria in your aquarium converts the harmful and toxic waste to less toxic substances. It is the most important process in the hobby. Master it and you will avoid 90% of common problems (dying fish, bad odors, cloudy water, algae). Ignore it and no amount of fancy equipment of expensive fish can save your tank.
+The nitrogen cycle is a natural process that occurs in nature and iin your aquarium. In this process microscopic bacteria converts the harmful and toxic waste to less toxic substances. It is the most important process in the hobby. Master it and you will avoid 90% of common problems (dying fish, bad odors, cloudy water, algae). Ignore it and no amount of fancy equipment of expensive fish can save your tank.
 
-In nature, nitrogen is diluted into bodies of water. In your tank, it is trapped with nothing to carry it away. That makes the nitrogen cycle not only important but the difference between life and death in your tank.
+In nature, nitrogen is diluted into bodies of water and washed away by rain, running streams and rivers. In your tank, it is trapped with nothing to carry it away. That makes the nitrogen cycle not only important but the difference between life and death in your tank.
 
-In the following paragraphs, we will explore :
+In this article, we will explore :
 - Where the poison (ammonia) comes from.
-- How two different types of bacteria turn that poison into something harmless
-- How to grow those bacteria quickly and safely
-- How to keep them alive for years
-- And how to identify and fix problems before your fish suffer
+- How two different types of bacteria turn that poison into something harmless.
+- How to grow those bacteria quickly and safely.
+- How to keep them alive for years.
+- And how to identify and fix problems before your fish suffer.
 
-By the end of this article, you will understand what goes on in your tank at a deeper level than most aquarists. More importantly, you will have the knowledge to create a health and stable underwater ecosystem that your fish will thank you for.
+By the end of this article, you will understand what goes on in your tank at a deeper level than most aquarists. More importantly, you will have the knowledge to create a healthy and stable underwater ecosystem that your fish will thank you for.
 
 ### Overview
 
-![[Drawing 2025-12-04 04.52.55.excalidraw.png]]
+![The nitrogen cycle](/assets/img/Drawing 2025-12-04 04.52.55.excalidraw.png)
+*The nitrogen cycle*
 
-As you can see in the diagram above, there are 4 stages in the nitrogen cycle : 
-- Amonification : In this stage, fish waste, uneaten food, decaying plants, dead fish and nails, detritus, are naturally converted into ammonia, a deadly substance for your fish and aquatic invertebrates. This conversion happens automatically and constantly in your tank.
-- Nitrification stage 1 : the second step in the nitrogen cycle is about turning that harmful ammonia into Nitrites, a less harmful substance for your fish. The conversion is done by nitrifying bacteria like nitrosomonas-type bacteria.
-- Nitrification stage 2 :  in this step, nitrobacter-type bacteria converts the nitrites into nitrates. An overall less harmful substance for your fish.
-- Assimilation :  in this step, the nitrates are absorbed by the plant life in your aquarium. Remaining nitrates are diluted by water changes.
+As you can see in the diagram above, there are 4 stages in the nitrogen cycle :
 
-Before exploring into more detail the sources of ammonia, lets consider the toxicity levels of ammonia, nitrites and nitrates. < 0.05 mg/L
+- Amonification : In this stage, fish waste, uneaten food, decaying plants, dead fish and snails, detritus, are naturally converted into ammonia, a deadly substance for your fish and aquatic invertebrates. This conversion happens automatically and constantly in your tank.
 
+- Nitrification stage 1 : the second phase in the nitrogen cycle is about turning that harmful ammonia into nitrites, a less harmful substance for your fish. This conversion is done by nitrifying bacteria like nitrosomonas-type bacteria.
 
-| Compound | Chemical form measured by most test kits  | Safe levels for most fish and shrimp | Acceptable levels (Short term) | Toxic levels (Causes stress or damage) | Lethal levels (Quick death)               | Especially sensitive livestock                                 |
-| -------- | ----------------------------------------- | ------------------------------------ | ------------------------------ | -------------------------------------- | ----------------------------------------- | -------------------------------------------------------------- |
-| Ammonia  | Total ammonia nitrogen (TAN, NH3 + NH4)   | 0.00 mg/L                            | < 0.25 mg/L                    | ≥ 0.5 mg/L                             | > 2–5 mg/L (strongly pH & temp dependent) | Discus, rams, cardinals, wild-caught fish very sensitive       |
-| Ammonia  | Free ammonia (NH3) - the truly toxic part | < 0.02 mg/L                          | < 0.05 mg/L                    | ≥ 0.05–0.10 mg/L                       | > 0.20 mg/L                               |                                                                |
-| Nitrites | NO2                                       | 0.00 mg/L                            | < 025 mg/L (few hours)         | ≥ 0.5 mg/L                             | > 1–2 mg/L                                | Clown loaches, corydoras, soft-water fish highly sensitive     |
-| Nitrates | NO3                                       | < 20 mg/L                            | 20 - 40 mg/L                   | 80–100 mg/L+ (chronic)                 | > 200–400 mg/L (acute)                    | Shrimp, discus, apistogramma, planted tanks: keep < 10–20 mg/L |
+- Nitrification stage 2 :  in this stage, nitrobacter-type bacteria converts the nitrites into nitrates. An overall less harmful substance for your fish.
+
+- Assimilation :  in this stage, the nitrates are absorbed by the plant life in your aquarium. Remaining nitrates are diluted by water changes.
+
+Before exploring into more detail the sources of ammonia, lets consider the toxicity levels of ammonia, nitrites and nitrates.
+
+| Compound | Chemical form measured by most test kits  | Safe levels for most fish and shrimp | Acceptable levels (Short term) | Toxic levels (Causes stress or damage) |
+| -------- | ----------------------------------------- | ------------------------------------ | ------------------------------ | -------------------------------------- |
+| Ammonia  | Total ammonia nitrogen (TAN, NH3 + NH4)   | 0.00 mg/L                            | < 0.25 mg/L                    | ≥ 0.5 mg/L                             |
+| Ammonia  | Free ammonia (NH3) - the truly toxic part | < 0.02 mg/L                          | < 0.05 mg/L                    | ≥ 0.05–0.10 mg/L                       |
+| Nitrites | NO2                                       | 0.00 mg/L                            | < 025 mg/L (few hours)         | ≥ 0.5 mg/L                             |
+| Nitrates | NO3                                       | < 20 mg/L                            | 20 - 40 mg/L                   | 80–100 mg/L+ (chronic)                 |
+
 Quick rule of thumb :
 - Ammonia and nitrite must always be 0.00 mg/L in a properly cycled tank.
 - Any reading > 0.25 mg/L ammonia or nitrite → immediate large water change.
 - Target nitrate < 20 mg/L for sensitive fish.
 - Hardy community fish (guppies, platies, mollies) can tolerate up to 40–50 mg/L nitrate long-term.
+
 ### The sources of ammonia
 
 Your aquarium is a closed system where every input has eventually an output. This applies to your fish, plants, food and every living think in your tank.
