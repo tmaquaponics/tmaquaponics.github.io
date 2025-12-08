@@ -150,7 +150,7 @@ Keeping the nitrogen cycle going is long term game with adjustments and monitori
 You can test your water using test stripes or liquid test kits. The word on the street in that test kits are more reliable. Make sure you follow the manufacturer instructions and do testing from time to time or when you notice a problem in your tank.
 
 **Anaerobic denitrification**
-A fifth stage in the nitrogen cycle we didn't talk about is denitrification. The bacteria involved in that process converts nitrates into nitrogen gas by consuming organic biomass (a source of carbon). This type of process occurs in zones with low to no oxygen, for example in a deep substrate.
+A fifth stage in the nitrogen cycle we didn't talk about is denitrification. The bacteria involved in that process converts nitrates into nitrogen gas by consuming organic biomass (a source of carbon). This type of process occurs in zones with no oxygen (anoxic), for example in a deep substrate.
 
 ### Common problems and troubleshooting
 
@@ -175,3 +175,4 @@ With the information provided here you can be confident in setting up a healthy 
 ### References
 
 1. [Video - Aquarium Nitrogen Cycle - Full Explanation and Correcting Wrong Information](https://www.youtube.com/watch?v=VEjkh591s3Y&pp=0gcJCSMKAYcqIYzv){:target="_blank"}
+2. [Video series - How to build a no water change tank](https://www.youtube.com/watch?v=ESOdO0DME-o&list=PLoCeNrgxAKsApZcIp3-zX4oI06KFS4jFx){:target="_blank"}
