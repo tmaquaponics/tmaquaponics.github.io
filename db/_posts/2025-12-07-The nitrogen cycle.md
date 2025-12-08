@@ -12,11 +12,11 @@ You've surely heard it before, the nitrogen cycle this, the nitrogen cycle that.
 
 But before that, just imagine the following scenario : 
 
-You saw some really good fish at you local LFS. You brought them home all exited. You setup a tank, added a substrate, filled it with water, added your water conditioner, put a filter, and finally added your fish. 4 days later, all your fish are dead ! Sounds familiar ?
+You saw some really good fish at you local LFS. You brought them home all exited. You setup a tank, added a substrate, filled it with water, added your water conditioner, put a filter, and finally added your fish. 4 days later, all your fish were dead ! Sounds familiar ?
 
-You didn't overfeed, did not mess up the temperature, conditioned the water properly but you can't figure out what went wrong ? The answer is your nitrogen cycle failed !
+You didn't overfeed, did not mess up the temperature, conditioned the water properly but you couldn't figure out what went wrong ? The answer is your nitrogen cycle failed !
 
-The nitrogen cycle is a natural process that occurs in nature and iin your aquarium. In this process microscopic bacteria converts the harmful and toxic waste to less toxic substances. It is the most important process in the hobby. Master it and you will avoid 90% of common problems (dying fish, bad odors, cloudy water, algae). Ignore it and no amount of fancy equipment of expensive fish can save your tank.
+The nitrogen cycle is a natural process that occurs in nature and in your aquarium. In this process microscopic bacteria converts the harmful and toxic waste to less toxic substances. It is the most important process in the hobby. Master it and you will avoid 90% of common problems (dying fish, bad odors, cloudy water, algae). Ignore it and no amount of fancy equipment of expensive fish can save your tank.
 
 In nature, nitrogen is diluted into bodies of water and washed away by rain, running streams and rivers. In your tank, it is trapped with nothing to carry it away. That makes the nitrogen cycle not only important but the difference between life and death in your tank.
 
@@ -40,7 +40,7 @@ As you can see in the above diagram, there are 4 stages in the nitrogen cycle :
 
 - Nitrification stage 1 : the second phase in the nitrogen cycle is about turning that harmful ammonia into nitrites, a less harmful substance for your fish. This conversion is done by nitrifying bacteria like nitrosomonas-type bacteria.
 
-- Nitrification stage 2 : in this stage, nitrobacter-type bacteria converts the nitrites into nitratesn an overall less harmful substance for your fish.
+- Nitrification stage 2 : in this stage, nitrobacter-type bacteria converts the nitrites into nitrates, an overall less harmful substance for your fish.
 
 - Assimilation : in this stage, the nitrates are absorbed by the plant life in your aquarium. Remaining nitrates are diluted by water changes.
 
@@ -63,9 +63,9 @@ Quick rule of thumb :
 
 Your aquarium is a closed system where every input has eventually an output. This applies to your fish, plants, food and every living think in your tank.
 
-Every food you throw in your tank gets converted into ammonia, every dead thing in your tank gets converted into ammonia. However, the number one source of ammonia is fish waste. 
+Every food you throw in your tank gets converted into ammonia, every dead thing in your tank gets converted into ammonia. However, the number one source of ammonia is fish waste.
 
-1. Fish waste : 
+1. Fish waste 
 	- Fish excrete ammonia through their gills (70-80% of their nitrogen waste).
 	- The rest comes out from their poop, which quickly breaks down into ammonia.
 2. Uneaten food
@@ -73,13 +73,13 @@ Every food you throw in your tank gets converted into ammonia, every dead thing 
 3. Dead or dying organic matter
 	-  Decaying fish and plant matter. Excess detritus that builds up at the bottom of the tank.
 4. Tap water 
-	- many municipal water supplies use chloramine ( chlorine + ammonia)
+	- Many municipal water supplies use chloramine (chlorine + ammonia)
 	- Standard dechlorinators break down the chlorine bond, but release the ammonia into your tank.
-5. Overstocking and Overfeeding
+5. Overstocking and overfeeding
 6. Filter breakdown
-	- Old filter sponge that is never rinsed becomes an ammonia factory
+	- Old filter sponge that is never rinsed becomes an ammonia factory.
 7. New substrate or decorations
-	- some materials can leach small amounts of ammonia.
+	- Some materials can leach small amounts of ammonia.
 
 Quick math that scares every experienced keeper
 
@@ -98,7 +98,7 @@ Two types of bacteria are involved in the nitrogen cycle. The ammonia oxidizers 
 
 | Team 1 : The ammonia oxidizers                                          | Team 2 : The nitrite oxidizers                                   |
 | ----------------------------------------------------------------------- | ---------------------------------------------------------------- |
-| Main genera : Nitrosomonas, Nitrosococcus, nitrosospira                 | Main genera : Nitrobacter, Nitrospira, Nitrospina                |
+| Main genera : Nitrosomonas, Nitrosococcus, Nitrosospira                 | Main genera : Nitrobacter, Nitrospira, Nitrospina                |
 | They convert ammonia (NH4, NH3) to nitrite (NO3)                        | They convert nitrite (NO3) to nitrate (NO2)                      |
 | They are the first responders, without them the cycle stops immediately | They finish the job, without them nitrite builds up in your tank |
 
@@ -111,7 +111,7 @@ The temperature and pH have a big influence of the colony of bacteria and its re
 ### Cycling methods how to establish the cycle
 
 - Using fish or snails : you can slowly introduce more and more fish or snails into the new tank. They will produce a little bit of ammonia everyday, enough that the beneficial bacteria can deal with. After a few weeks, you can introduce all the remaining fish. It is still best to gradually introduce more fish to the new tank.
-- Fish-less cycling : using pure bottled ammonia is a great way to start your beneficial bacteria colony.  Micro dose ammonia everyday to slowly increase the number of bacteria. No organism can be harmed here if you accidentally pure too much ammonia. 
+- Fish-less cycling : using pure bottled ammonia is a great way to start your beneficial bacteria colony.  Micro dose ammonia everyday to slowly increase the number of bacteria. No fish can be harmed here if you accidentally pure too much ammonia. 
 - Cycling with fish food : use a small amount of fish food everyday to 'feed' the water of the tank. The fish food will start decaying naturally and releasing small amounts of ammonia,  enough to kick-start a beneficial bacteria colony. 
 - Another great way to cycle your tank is to use seeded media from an already established tank. Just make sure your new water does not contain chlorine or harmful substances that could slow down or kill your beneficial bacteria.
 - Squeezing a dirty sponge filter :  Take a sponge filter from an established tank and squeeze it on the sponge filter of the new tank.
@@ -120,7 +120,7 @@ The temperature and pH have a big influence of the colony of bacteria and its re
 
 ### Advanced nitrogen management
 
-Once your nitrogen cycle is established. The only thing you need to worry about is to not kill your bacteria, to keep your inputs stable and to remove the nitrates from your tank.
+Once your nitrogen cycle is established. The only thing you need to worry about is to not kill your bacteria, keep your inputs stable and remove the nitrates from your tank.
 
 To avoid killing your bacteria, you should never clean your filters under tap water. Always use your aquarium water to do so. You should also never wash them with soap, bleach or boiling water.
 
@@ -129,11 +129,11 @@ Another great threat that gets unnoticed is the use of medication. Before medica
 Keeping the nitrogen cycle going is long term game with adjustments and monitoring on a short term basis. With bacteria alive and kicking, you need to remove the nitrates from your tank using one or many of the following ways :
 
 - Water changes : this is the most used method in the hobby. Depending on your fish load and your tan size, change about 20-25 % of your water every week. Make sure the new water is safe and about the same temperature as your tank.
-- Plants : our favorite method. A planted tank is an ecosystem that gets better and better overtime. Plants consume excess ammonia, nitrites and nitrates and considerably reduce the number of water changes.
+- Plants : our favorite method. A planted tank is an ecosystem that gets better and better over time. Plants consume excess ammonia, nitrites and nitrates and considerably reduce the number of water changes.
 - Refugium in a sump : refugiums are used to place aquatic or terrestrial plants. Terrestrial plants can suck up more nitrates because, unlike aquatic plants, they have access to more CO2.
 - Algae scrapers : they can be easily built or bought and they do the same job as regular plants.
 - A great way to reduce your nitrates is to reduce the amount of feeding you do. A proper quantity of food is an amount your fish can finish in 2 to 3 minutes. Feeding once a day is sufficient.
-- Finally, keep your filters clean : routine maintenance on your filters is a must. The accumulated detritus and matter can clog your filters and reduce their efficiency. Once clogged, your filters start releasing ammonia as the debris and particles of matter in them starts decaying. 
+- Finally, keep your filters clean : routine maintenance on your filters is a must. The accumulated detritus and matter can clog your filters and reduce their efficiency. Once clogged, your filters start releasing ammonia as the debris and particles of matter stuck in them starts decaying.
 
 > Cleaning your filters and tank is a must but over-cleaning can do more harm than good. Detritus, mulm, biofilm and decaying matters are part of the ecosystem in your tank. Removing too much stuff from your tank can disturb the balance of that ecosystem. 
 
@@ -141,17 +141,16 @@ Keeping the nitrogen cycle going is long term game with adjustments and monitori
 You can test your water using test stripes or liquid test kits. The word on the street in that test kits are more reliable. Make sure you follow the manufacturer instructions and do testing from time to time or when you notice a problem in your tank.
 
 **Anaerobic denitrification**
-A fifth stage in the nitrogen cycle we didn't talk about is the anaerobic denitrification. The anaerobic bacteria involved convert nitrates into nitrogen gas by consuming organic biomass.
-(TODO refine). This type of process occurs in anaerobic zones. For example in a deep substrate.
+A fifth stage in the nitrogen cycle we didn't talk about is denitrification. The bacteria involved in that process converts nitrates into nitrogen gas by consuming organic biomass (a source of carbon). This type of process occurs in zones with low to no oxygen, for example in a deep substrate.
 
 ### Common problems and troubleshooting
 
-Even established tanks can have problems that arise from time to time. The following is a list of some problems and the quick actions you can take to solve them.
+Even established tanks can have problems that arise from time to time. The following is a list of problems you may encounter and the quick actions you can take to solve them.
 
 | Symptom                              | Most likely cause                                 | Immediate action                                                                                 | Long-term fix                                         |
 | ------------------------------------ | ------------------------------------------------- | ------------------------------------------------------------------------------------------------ | ----------------------------------------------------- |
 | Ammonia > 0.25 mg/L in new tank      | Normal cycling (1st month)                        | Keep cycling                                                                                     | Be patient                                            |
-| Ammonia > 0.25 mg/L in mature tank   | Dead animal, overfeeding, filter stalled          | Remove the dead fish or decaying matter                                                          | Reduce feeding, add more plants                       |
+| Ammonia > 0.25 mg/L in mature tank   | Dead animal, overfeeding, filter clogged          | Remove the dead fish or decaying matter, clean your filter                                                          | Reduce feeding, add more plants                       |
 | Nitrite > 0.25 mg/L in mature tank   | Filter cleaned too hard and recent medication     | Stop all cleaning and put some old media back in the tank + add a small amount of aquarium salt. | Never clean all your media at once                    |
 | Ammonia stuck at 0.5-1.0 mg/L        | Not enough surface area or low oxygen             | Add extra sponge filter + add an air stone + increase the temperature to 28-30 Celsius.          | Upgrade filtration                                    |
 | Nitrate > 80-100 mg/L                | Too many fish / Too few water changes and plants  | 50-70 % water change over two days + add more plants.                                            | Reduce stocking and implement nitrate removal methods |
@@ -161,7 +160,7 @@ Even established tanks can have problems that arise from time to time. The follo
 
 ### Conclusion
 
-We have briefly explored the nitrogen cycle, its phases, the benefecial bacteria at the heart of this process and a quick response guide in case somethig goes wrong.
+We have briefly explored the nitrogen cycle, its phases, the beneficial bacteria at its heart and a quick response guide in case somethig goes wrong.
 With the information provided here you can be confident in setting up a healthy and stable environement for your fish and aquatic life and in navigating further resources.
  
 ### References
