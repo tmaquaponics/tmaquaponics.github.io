@@ -130,7 +130,7 @@ To avoid killing your bacteria, you should never clean your filters under tap wa
 
 Another great threat that gets unnoticed is the use of medication. Before medicating your fish for whatever disease, make sure you have plenty of backup of established media. In the case where you notice an unbalance in your tank after medication, you can intervene rapidly and adjust your medication, do a water change or treat your fish separately in another tank with the safe option of having a live culture of beneficial bacteria.
   
-Keeping the nitrogen cycle going is long term game with adjustments and monitoring on a short term basis. With bacteria alive and kicking, you need to remove the nitrates from your tank using one or many of the following ways :
+**Removing nitrates** Keeping the nitrogen cycle going is long term game with adjustments and monitoring on a short term basis. With bacteria alive and kicking, you need to remove the nitrates from your tank using one or many of the following ways :
 
 - Water changes : this is the most used method in the hobby. Depending on your fish load and your tan size, change about 20-25 % of your water every week. Make sure the new water is safe and about the same temperature as your tank.
 
@@ -149,7 +149,7 @@ Keeping the nitrogen cycle going is long term game with adjustments and monitori
 **Testing your water**
 You can test your water using test stripes or liquid test kits. The word on the street in that test kits are more reliable. Make sure you follow the manufacturer instructions and do testing from time to time or when you notice a problem in your tank.
 
-**Anaerobic denitrification**
+**Denitrification**
 A fifth stage in the nitrogen cycle we didn't talk about is denitrification. The bacteria involved in that process converts nitrates into nitrogen gas by consuming organic biomass (a source of carbon). This type of process occurs in zones with no oxygen (anoxic), for example in a deep substrate.
 
 ### Common problems and troubleshooting
