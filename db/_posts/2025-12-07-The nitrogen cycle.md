@@ -99,7 +99,7 @@ Two types of bacteria are involved in the nitrogen cycle. The ammonia oxidizers 
 | Team 1 : The ammonia oxidizers                                          | Team 2 : The nitrite oxidizers                                   |
 | ----------------------------------------------------------------------- | ---------------------------------------------------------------- |
 | Main genera : Nitrosomonas, Nitrosococcus, Nitrosospira                 | Main genera : Nitrobacter, Nitrospira, Nitrospina                |
-| They convert ammonia (NH4, NH3) to nitrite (NO3)                        | They convert nitrite (NO3) to nitrate (NO2)                      |
+| They convert ammonia (NH4, NH3) to nitrite (NO2)                        | They convert nitrite (NO2) to nitrate (NO3)                      |
 | They are the first responders, without them the cycle stops immediately | They finish the job, without them nitrite builds up in your tank |
 
 In most home aquariums, the real nitrite oxidizers is Nitrospira, not the Nitrobacter. This is a modern distinction that you will not find in old textbooks. Nitrospira is slower growing but far more efficient at low-oxygen low-nitrite levels, exactly the conditions of a healthy established aquarium.
