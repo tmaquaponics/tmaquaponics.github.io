@@ -111,9 +111,13 @@ The temperature and pH have a big influence of the colony of bacteria and its re
 ### Cycling methods how to establish the cycle
 
 - Using fish or snails : you can slowly introduce more and more fish or snails into the new tank. They will produce a little bit of ammonia everyday, enough that the beneficial bacteria can deal with. After a few weeks, you can introduce all the remaining fish. It is still best to gradually introduce more fish to the new tank.
+
 - Fish-less cycling : using pure bottled ammonia is a great way to start your beneficial bacteria colony.  Micro dose ammonia everyday to slowly increase the number of bacteria. No fish can be harmed here if you accidentally pure too much ammonia. 
+
 - Cycling with fish food : use a small amount of fish food everyday to 'feed' the water of the tank. The fish food will start decaying naturally and releasing small amounts of ammonia,  enough to kick-start a beneficial bacteria colony. 
+
 - Another great way to cycle your tank is to use seeded media from an already established tank. Just make sure your new water does not contain chlorine or harmful substances that could slow down or kill your beneficial bacteria.
+
 - Squeezing a dirty sponge filter :  Take a sponge filter from an established tank and squeeze it on the sponge filter of the new tank.
 
 > a great way to have a seeded sponge filter is to use a filter that has two sponges. That way you can swap one of the new sponges with an old one.
@@ -129,10 +133,15 @@ Another great threat that gets unnoticed is the use of medication. Before medica
 Keeping the nitrogen cycle going is long term game with adjustments and monitoring on a short term basis. With bacteria alive and kicking, you need to remove the nitrates from your tank using one or many of the following ways :
 
 - Water changes : this is the most used method in the hobby. Depending on your fish load and your tan size, change about 20-25 % of your water every week. Make sure the new water is safe and about the same temperature as your tank.
+
 - Plants : our favorite method. A planted tank is an ecosystem that gets better and better over time. Plants consume excess ammonia, nitrites and nitrates and considerably reduce the number of water changes.
+
 - Refugium in a sump : refugiums are used to place aquatic or terrestrial plants. Terrestrial plants can suck up more nitrates because, unlike aquatic plants, they have access to more CO2.
+
 - Algae scrapers : they can be easily built or bought and they do the same job as regular plants.
+
 - A great way to reduce your nitrates is to reduce the amount of feeding you do. A proper quantity of food is an amount your fish can finish in 2 to 3 minutes. Feeding once a day is sufficient.
+
 - Finally, keep your filters clean : routine maintenance on your filters is a must. The accumulated detritus and matter can clog your filters and reduce their efficiency. Once clogged, your filters start releasing ammonia as the debris and particles of matter stuck in them starts decaying.
 
 > Cleaning your filters and tank is a must but over-cleaning can do more harm than good. Detritus, mulm, biofilm and decaying matters are part of the ecosystem in your tank. Removing too much stuff from your tank can disturb the balance of that ecosystem. 
