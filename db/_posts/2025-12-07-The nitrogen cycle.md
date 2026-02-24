@@ -36,7 +36,7 @@ By the end of this article, you will understand what goes on in your tank at a d
 
 As you can see in the above diagram, there are 4 stages in the nitrogen cycle :
 
-- Amonification : in this stage, fish waste, uneaten food, decaying plants, dead fish and snails, detritus, are naturally converted into ammonia, a deadly substance for your fish and aquatic invertebrates. This conversion happens automatically and constantly in your tank.
+- Ammonification : in this stage, fish waste, uneaten food, decaying plants, dead fish and snails, detritus, are naturally converted into ammonia, a deadly substance for your fish and aquatic invertebrates. This conversion happens automatically and constantly in your tank.
 
 - Nitrification stage 1 : the second phase in the nitrogen cycle is about turning that harmful ammonia into nitrites, a less harmful substance for your fish. This conversion is done by nitrifying bacteria like nitrosomonas-type bacteria.
 
@@ -108,7 +108,9 @@ The temperature and pH have a big influence of the colony of bacteria and its re
 
 > You can increase the temperature of your tank to accelerate the colony growth and then reduce it when you introduce your fish.
 
-### Cycling methods how to establish the cycle
+### Cycling methods
+
+You can establish the cycle using different ways :
 
 - Using fish or snails : you can slowly introduce more and more fish or snails into the new tank. They will produce a little bit of ammonia everyday, enough that the beneficial bacteria can deal with. After a few weeks, you can introduce all the remaining fish. It is still best to gradually introduce more fish to the new tank.
 
