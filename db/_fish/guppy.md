@@ -1,15 +1,21 @@
 ---
 layout: default
 title: Guppy
+tags: species-profile guppy
 image: 1750343472433.jpg
 ---
-<ul><li><a href="{{ site.url }}/db">Back</a></li></ul>
+
+### Introduction
+
+Guppies are one of the most common species in the fishkeeping hobby. They are easy beginner fish that can be kept in small aquariums. In this article, we will explore their diet, breeding and general care.
+
+### Overview
 
 ![Common guppy](/assets/img/1750343472433.jpg)
 *Common guppy*
 
-The Guppy fish is from the *Poeciliidae* family of fish. It is a live-bearer (meaning they reproduce by giving birth to live young) that can live up to 2 years in optimal conditions. It is easy to breed and care for, can eat pretty much anything and is peaceful with other tank mates. The common guppies we usually find in LFSs are *Poecilia reticulata*.
-
+The Guppy fish is from the *Poeciliidae* family of fish. It is a live-bearer (meaning they reproduce by giving birth to live young) that can live up to 2 years in optimal conditions. It is easy to breed and care for, can eat pretty much anything and is peaceful with other tank mates. The common guppies we usually find in LFSs are *Poecilia reticulata*, which is the focus of our article.
+<!--more-->
 **Characteristics**
 
 | Family          | Poeciliidae |
@@ -19,7 +25,26 @@ The Guppy fish is from the *Poeciliidae* family of fish. It is a live-bearer (me
 | Care            | Easy        |
 | Temp            | 20-26° c    |
 | Reproduction    | Livebearer  |
-| pH              | 6.8 - 7.8   |
+
+### Diet
+
+For optimal health, give your guppies an assortment of food, from microworms, daphnia, brine shrimp, flakes, and sinking pellets.
+
+### Reproduction
+
+Guppies reproduce constantly, but they can sometimes predate on their young. For this reason provide an amplitude of hiding spaces with plants. The best plants are guppy grass and java moss. These plants grow rapidly and do not require CO2. Complement your setup with floating plants like duckweed and salvinia. Guppies grow rapidly and can reach adult size in 2 to 3 months. 
+
+**Male vs. female**
+
+The males are usually the ones with the most vibrant colors. They are distinguished from a variety to another following 
+
+- Their tail shape, which could be round, long, triangular, etc...
+- Their fins, which could be long or rounded.
+- Their overall color, which varies immensely.
+
+**Genetics**
+
+There are many varieties on the market, which are bred intensely and therefore it is important to pick up a good, healthy and strong lineage to start from. Among the most popular varieties, we can cite black moscow, yellow cobra or koi. Personally, I prefer colors that are close to nature. How about you ?
 
 ### General care
 
@@ -34,3 +59,9 @@ To my opinion, the best tank mates for guppies are corydoras catfish, neocaridin
 **Tank setup**
 
 A good starting point to keep guppies is a 10 gallons or 30 liters tank with an inch or two of fine gravel. Guppies love a lush planted aquarium so don't hesitate to put as many plants as you can. We recommend vallisneria and bacopa monnieri as these two plants grow in low tech conditions. The pH of the water should be kept between 6.8 to 7.8.
+
+### Conclusion
+
+We have briefly explored the Guppy fish profile and how you can keep guppies. Many varieties exist in the wild and in the hobby. With the information provided here, you can be confident in keeping them. 
+
+Happy fishkeeping !!
