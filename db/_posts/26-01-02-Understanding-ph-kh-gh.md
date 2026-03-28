@@ -33,8 +33,8 @@ KH is mesuread in degrees of hardness dKH. 1dKH = 17.9 g/L KH. Most fish prefer 
 
 Dissolved CO2 forms carbonic acid which lowers the pH. The buffer KH, counteracts this.
 
-You can lower the pH 
-- using driftwood, indian almond leaves, peat moss.
+You can lower the pH using
+- driftwood, indian almond leaves, peat moss.
 - CO2 injection
 - Adding RO water.
 
