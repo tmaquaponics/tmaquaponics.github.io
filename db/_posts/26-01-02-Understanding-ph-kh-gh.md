@@ -41,7 +41,7 @@ Dissolved CO2 forms carbonic acid which lowers the pH. The buffer KH, counteract
 
 **GH** mesures the amounts of calcium and magnisium ions in the water. In other words, it mesures the amounts of essential minerals for your fish and shrimp health, your plants and biological processes occuring in your tank.
 
-Lik KH, GH is mesured in degrees dGH. The ideal values are between 4 to 8 or 6 to 12 dGH.
+Like KH, GH is mesured in degrees dGH. The ideal values are between 4 to 8 or 6 to 12 dGH.
 
 - you can increase the GH using crushed corals or mineral additives (calcium/ magnesium supplements).
 - you can decrease the GH y adding RO water.
