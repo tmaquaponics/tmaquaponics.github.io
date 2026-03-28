@@ -21,7 +21,7 @@ You can test for pH using test kits or test srtrips suck as below :
 
 You can lower the pH using different methods; we will explore them after understanding KH.
 
-KH (Carbonate Hardness) mesures the concentration of carbonates (CO3) and bicarbonates (HCO3) ions in water and acts as a buffer for changes in pH, preventing it from dropping too low.
+**KH** (Carbonate Hardness) mesures the concentration of carbonates (CO3) and bicarbonates (HCO3) ions in water and acts as a buffer for changes in pH, preventing it from dropping too low.
 
 KH is mesuread in degrees of hardness dKH. 1dKH = 17.9 g/L KH. Most fish prefer a mesure between 3 to 8 dKH.
 
