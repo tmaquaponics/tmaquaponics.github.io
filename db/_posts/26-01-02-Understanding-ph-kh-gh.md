@@ -10,7 +10,7 @@ Getting you water parameters right is the first step towards a successful fishke
 
 ### pH (Power of Hydrogen)
 
-Mesures how acidic or alkaline a liquid is. Water has a neutral pH (has zéro reading). Lemon juice for example has a pH of 2, which means it is highly acidic; while soap has a pH of 12, meaning it has an alkaline result.
+Mesures how acidic or alkaline a liquid is. Water has a neutral pH (has zero reading). Lemon juice for example has a pH of 2, which means it is highly acidic; while soap has a pH of 12, meaning it has an alkaline result.
 
 The ideal pH for fresh water fish varies from species to another. Usually, it ranges from 6.5 to 8.0. Black water fish, like apistogramas, tend to thrive in acidic waters, while live bearers, like mollies, prefer slightly alkaline waters.
 
@@ -33,7 +33,8 @@ KH is mesuread in degrees of hardness dKH. 1dKH = 17.9 g/L KH. Most fish prefer 
 
 Dissolved CO2 forms carbonic acid which lowers the pH. The buffer KH, counteracts this.
 
-- you can lower the pH using driftwood, indian almond leaves, peat moss.
+You can lower the pH 
+- using driftwood, indian almond leaves, peat moss.
 - CO2 injection
 - Adding RO water.
 
@@ -44,7 +45,7 @@ Dissolved CO2 forms carbonic acid which lowers the pH. The buffer KH, counteract
 Like KH, GH is mesured in degrees dGH. The ideal values are between 4 to 8 or 6 to 12 dGH.
 
 - you can increase the GH using crushed corals or mineral additives (calcium/ magnesium supplements).
-- you can decrease the GH y adding RO water.
+- you can decrease the GH by adding RO water.
 
 | Levels          | dGH         | GH         |
 | :-------------- | :---------- | :----------|
