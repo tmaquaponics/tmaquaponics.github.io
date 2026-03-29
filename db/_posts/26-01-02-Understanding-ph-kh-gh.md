@@ -21,15 +21,15 @@ You can test for pH using test kits or test srtrips suck as below :
 
 You can lower the pH using different methods; we will explore them after understanding KH.
 
-**KH** (Carbonate Hardness) mesures the concentration of carbonates (CO3) and bicarbonates (HCO3) ions in water and acts as a buffer for changes in pH, preventing it from dropping too low.
+### KH (Carbonate Hardness) 
+
+Mesures the concentration of carbonates (CO3) and bicarbonates (HCO3) ions in water and acts as a buffer for changes in pH, preventing it from dropping too low.
 
 KH is mesuread in degrees of hardness dKH. 1dKH = 17.9 g/L KH. Most fish prefer a mesure between 3 to 8 dKH.
 
-
 - You can increase KH by adding baking soda (sodium bicarbonates), and you can decrease KH by adding RO water or using driftwood.
 
-
-### Relation between CO2, pH and GH
+**Relation between CO2, pH and GH**
 
 Dissolved CO2 forms carbonic acid which lowers the pH. The buffer KH, counteracts this.
 
@@ -40,7 +40,9 @@ You can lower the pH using
 
 > Avoid products like pH down and prefer naturel methods instead.
 
-**GH** mesures the amounts of calcium and magnisium ions in the water. In other words, it mesures the amounts of essential minerals for your fish and shrimp health, your plants and biological processes occuring in your tank.
+### GH (General Hardness)
+
+Mesures the amounts of calcium and magnisium ions in the water. In other words, it mesures the amounts of essential minerals for your fish and shrimp health, your plants and biological processes occuring in your tank.
 
 Like KH, GH is mesured in degrees dGH. The ideal values are between 4 to 8 or 6 to 12 dGH.
 
