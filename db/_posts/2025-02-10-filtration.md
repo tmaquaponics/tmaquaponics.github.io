@@ -103,9 +103,9 @@ The HOB filter is a box that you hang on your tank. It has an inlet tube that pu
 
 The HOB filter is the way to go if you want to do an aquascaping tank. It gives you clear access to all your tank, which makes plant maintenance easier.
 
->Instead of using the provided cartridges, replace them with a sponge and filter media like lava rock or the provided media. That way, you have the same benefits and you save money not buying new cartridges every now and then. 
+>Instead of using the provided cartridges, replace them with a sponge and filter media like lava rock. That way, you have the same filtration benefits and you save money not buying new cartridges every now and then. 
 >
->Another great tip is to add a sponge n the filter's intake. This prevents things from getting into the propeller and adds more surface area for the beneficial bacteria.
+>Another great tip is to add a sponge on the filter's intake. This prevents things from getting into the propeller and adds more surface area for the beneficial bacteria.
 
 **Canister filter**
 
