@@ -11,7 +11,7 @@ In this article we will build a minimal maintenance breeding setup. Our setup us
 <ins>Specifications</ins>
 
 - All containers are connected together.
-- Each container is a filter of its own.
+- Each container has a filter of its own.
 - Combine multiple filtration systems for maximum benefits.
 <!--more-->
 
@@ -26,6 +26,7 @@ The first thing to build is the tubing that connects the totes. Put the flexible
 There is no need to glue the U shaped tubing parts together since it's the flexible tubing that guarantees the siphon is not interrupted.
 
 ![Breeding setup](/assets/img/1750154145553.jpg)
+
 *U shaped connection tubing*
 
 You should build (n-1) tubing connections where n is the number of totes to connect.

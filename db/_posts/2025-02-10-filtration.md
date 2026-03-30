@@ -17,14 +17,14 @@ At the conceptual level, your dirty water should go through a series of filtrati
 Three stages of filtration are to be expected : 
 
 1. <ins>Mechanical</ins>, which cleans your water from things like detritus, excess food and the particles suspended in your water.
-2. <ins>Biological</ins>, which is performed by beneficial bacteria responsible for converting ammonia (The toxic substance that gets input in your tank thru fish waste, fish food, decaying plants, etc...) into other compounds, namely nitrite then nitrate. 
+2. <ins>Biological</ins>, which is performed by beneficial bacteria responsible for converting ammonia (The toxic substance that gets input in your tank thru fish waste, fish food, decaying plants, etc...) into other compounds; namely nitrite then nitrate. 
 3. <ins>Chemical</ins> filtration, which is responsible for removing compounds like medication and tannins.
 
 Remaining toxic compounds should be absorbed by your plants and removed through water changes.
 <!--more-->
 > Chemical filtration is usually done with things like activated carbon and ammonia absorbing zeolite. Though how effective available products are at performing chemical filtration is yet to be scientifically verified (1). Some people in the hobby argue that chemical filtration is a scam. What do you think ? I think it is not a scam, chemically filtering water is a thing, but I am not a chemist nor a water treatment PhD. However, I do believe that there is an abuse of the consumer in that regard and that you should educate yourself on the subject before buying anything.
 
-The media responsible for biological filtration should be specifically designed to hold a lot of the beneficial bacteria. Meaning, it should have a big surface area for the bacteria to colonize. The bigger the surface area the better for your filtration, as more beneficial bacteria can take home into your media. For example, lava rock in the picture below is a popular media in the hobby due to its porous nature, which gives it a big surface area relative to its volume.
+The media responsible for the biological filtration should be specifically designed to hold a lot of beneficial bacteria. Meaning, it should have a big surface area for the bacteria to colonize. The bigger the surface area the better for your filtration, as more beneficial bacteria can take home into your media. For example, lava rock in the picture below is a popular media in the hobby due to its porous nature, which gives it a big surface area relative to its volume.
 
 ![Lava rock](/assets/img/1739217878488.jpg)
 *Lava rock, pouzzolane*
