@@ -4,11 +4,11 @@ title: "Filration"
 tags: filtration aquarium
 ---
 
-### Introduction
-
-Filtration is one of the most important aspects of fishkeeping. In this article we will explore the different types of filters there is and setting up a filtration system for a 20 gallons tank.
-
 ### Overview
+
+Filtration is one of the most important aspects of fishkeeping. In this article we will explore filtration and the different types of filters there is, then finish by setting up a filtration system for a 20 gallons tank.
+
+### Introduction
 
 Setting up a good environment for your fish is the first step towards a successful fishkeeping process. Though the filtration is simple in concept (input dirty water through a filter and output clean water), it is in fact a complicated process that involves many steps and microorganisms. Fortunately, you can setup a pretty good filtration system without delving too much into the sciency aspect of it. 
 
@@ -16,13 +16,13 @@ At the conceptual level, your dirty water should go through a series of filtrati
 
 Three stages of filtration are to be expected : 
 
-1. <ins>Mechanical</ins>, which cleans your water from bigger to smaller particles like detritus, excess food and the fine particles suspended in your water.
+1. <ins>Mechanical</ins>, which cleans your water from things like detritus, excess food and the particles suspended in your water.
 2. <ins>Biological</ins>, which is performed by beneficial bacteria responsible for converting ammonia (The toxic substance that gets input in your tank thru fish waste, fish food, decaying plants, etc...) into other compounds, namely nitrite then nitrate. 
 3. <ins>Chemical</ins> filtration, which is responsible for removing compounds like medication and tannins.
 
 Remaining toxic compounds should be absorbed by your plants and removed through water changes.
 <!--more-->
-> Chemical filtration is usually done with things like activated carbon and ammonia absorbing zeolite. Though how effective available products are at performing chemical filtration is yet to be scientifically verified (1). Some people in the hobby argue that chemical filtration is a scam. What do you think ? I think it is not a scam, chemically filtering water is a thing, but I am not a chemist nor a water treatment PhD. I do believe however that there is an abuse of the consumer in that regard and do firmly believe that you should educate yourself on the subject before buying anything.
+> Chemical filtration is usually done with things like activated carbon and ammonia absorbing zeolite. Though how effective available products are at performing chemical filtration is yet to be scientifically verified (1). Some people in the hobby argue that chemical filtration is a scam. What do you think ? I think it is not a scam, chemically filtering water is a thing, but I am not a chemist nor a water treatment PhD. However, I do believe that there is an abuse of the consumer in that regard and that you should educate yourself on the subject before buying anything.
 
 The media responsible for biological filtration should be specifically designed to hold a lot of the beneficial bacteria. Meaning, it should have a big surface area for the bacteria to colonize. The bigger the surface area the better for your filtration, as more beneficial bacteria can take home into your media. For example, lava rock in the picture below is a popular media in the hobby due to its porous nature, which gives it a big surface area relative to its volume.
 
@@ -65,7 +65,7 @@ An undergravel filter will catch a great amount of waste and particles but its e
 
 The problem with this type of filter is you have to take everything apart to do the cleaning, although you can gravel vacume the substrate. Another inconvenience is that fish that dig up the substrate, like convict cichlid for example, will compromise the integrity of the filter rendering it non operational.
 
-> The undergravel filter has been somewhat 'forgotten' and replaced by other means of filtration. It is however a cheap and reliable way of achieving a full cycle in your tank.
+> The undergravel filter has been somewhat 'forgotten' and replaced by other means of filtration. It is however a cheap and reliable way of achieving [a full cycle](https://tmaquaponics.github.io/2025/12/07/The-nitrogen-cycle.html){:target="_blank"} in your tank.
 
 **Gravel filter**
 
@@ -130,7 +130,7 @@ A 20 gallons aquarium is the perfect size to start fishkeeping. It is big enough
 To filter the tank, you first need to specify what you want to do with it :
 Do you want to setup a natural aquarium? A breeding project? An aquascaping tank? Or maybe you want to keep some shrimp ?
 
-If you want to use the tank for breeding fish, say [molly fish](https://tmaquaponics.github.io/2025/02/08/molly-fish.html){:target="_blank"}, then we suggest the following options :
+If you want to use the tank for breeding fish, say [molly fish](https://tmaquaponics.github.io/fish/molly.html){:target="_blank"}, then we suggest the following options :
 
 1. A bare bottom tank with a sponge or box filter : no substrate means the tank is easier to clean. However, you will get particles floating around in the water all the time (the fish will constantly stir up detritus that collects at the bottom) and the sponge filter will get dirty quicker. A gravel bottom will collect fish waste and your sponge filter will remain operational for a longer period of time before requiring any cleaning. But, you will also have to clean the gravel from time to time.
 2. An undergravel filter.
