@@ -10,7 +10,7 @@ Filtration is one of the most important aspects of fishkeeping. In this article 
 
 ### Overview
 
-Getting your water parameters right is the first step towards a successful fishkeeping process. Though the filtration is simple in concept (input dirty water through a filter and output clean water), it is in fact a complicated process that involves many steps and microorganisms. Fortunately, you can setup a pretty good filtration system without delving too much into the sciency aspect of it. 
+Setting up a good environment for your fish is the first step towards a successful fishkeeping process. Though the filtration is simple in concept (input dirty water through a filter and output clean water), it is in fact a complicated process that involves many steps and microorganisms. Fortunately, you can setup a pretty good filtration system without delving too much into the sciency aspect of it. 
 
 At the conceptual level, your dirty water should go through a series of filtration stages using different types of media and tools.
 
@@ -95,6 +95,9 @@ The internal filter is the standard filter you can buy for your tank. They come 
 > Prefer to buy an internal filter with adjustable speed so that it can be used in different tank sizes without a problem.
 
 **Hang on back filter**
+
+![Hang on back filter](/assets/img/1000002361.jpg)
+*HOB Filter*
 
 The HOB filter is a box that you hang on your tank. It has an inlet tube that pumps water from your tank. The water gets filtered by the cartridges and media then flows back to the tank. It is easy to use and maintain but its downside is you can't properly cover the tank. You have to custom cut a lid for the tank to do that.
 
