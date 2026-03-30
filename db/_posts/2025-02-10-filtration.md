@@ -113,7 +113,7 @@ A canister filter is basically a sealable box with multiple trays, an input flow
 
 **Sump filter**
 
-![Sump filter](/assets/img/Sump-Filter.jpg)
+![Sump filter](/assets/img/Sump-Filter.jpg)<br>
 *Sump filter*
 
 A sump is a container divided into multiple chambers. Each chamber plays a role in the filtration. Usually a sump is placed under an aquarium. It receives water from the main aquarium using an overflow system. The water then travels from chamber to chamber to be filtered. From the last chamber, it is returned to the main aquarium using a pump. Sump filters can be external or integrated into the main aquarium (internal). 

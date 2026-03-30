@@ -4,7 +4,7 @@ title: Understanding pH-KH-GH
 tags:
   - water-parameters
 ---
-### Introduction
+### Overview
 
 Getting you water parameters right is the first step towards a successful fishkeeping process. In this article we will exlore pH, KH, GH, what they mean, how important they are for your fish and how to regulate their values.
 
@@ -19,7 +19,7 @@ You can test for pH using test kits or test srtrips such as the one below :
 ![pH test strips](/assets/img/test_strips.jpg)
 *pH Test strips*
 
-You can lower the pH using different methods; we will explore them after understanding KH.
+You can lower the pH using different methods. We will explore them after understanding KH.
 
 ### KH (Carbonate Hardness) 
 
