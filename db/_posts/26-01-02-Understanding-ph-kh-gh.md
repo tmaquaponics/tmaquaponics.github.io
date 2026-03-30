@@ -14,7 +14,7 @@ Mesures how acidic or alkaline a liquid is. Water has a neutral pH (has zero rea
 
 The ideal pH for fresh water fish varies from species to another. Usually, it ranges from 6.5 to 8.0. Black water fish, like apistogramas, tend to thrive in acidic waters, while live bearers, like mollies, prefer slightly alkaline waters.
 
-You can test for pH using test kits or test srtrips suck as below :
+You can test for pH using test kits or test srtrips such as the one below :
 
 ![pH test strips](/assets/img/test_strips.jpg)
 *pH Test strips*
