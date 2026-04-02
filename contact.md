@@ -5,9 +5,17 @@ title: Tank-Mates Aquaponics
 
 <ul><li><a href="{{ site.url }}">Back</a></li></ul>
 
-For business inquiries you can reach us at <strong>tankmatesaquaponics@gmail.com</strong>. 
+Hi, my name is Moncef. I keep fish since 2020. I publish videos and articles about fishkeeping and hopefully in the near future aquaponics, a topic I am really interested in. What interests me is integrating aquaponics science, principles and techniques into ornamental fishkeeping. For example, not many aquarium filters are designed to home plants...This is not normal, we should integrate more plants into our aquariums! I am also interested in Recirculating Aquaculture Systems (RAS) and looking at how I can integrate their techniques at a small scale. Fishkeeping is a nice hobby but water changes are a pain I would rather avoid :)
 
-Our social presence :
+My favorite fish is Pocellia velifra (Giant sailfin Molly) and one of my dreams is creating my own velifra line.
+
+Thank you for visiting my website and reading my articles! Please share them to show support! 
+
+-
+
+For business inquiries you can reach me at <strong>tankmatesaquaponics@gmail.com</strong>. 
+
+Social presence :
 
 <ul>
 <li><h3><a href="https://www.youtube.com/@TankMatesAquaponics">Youtube</a></h3></li>
