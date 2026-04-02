@@ -9,7 +9,7 @@ Hi, my name is Moncef. I keep fish since 2020. I publish videos and articles abo
 
 My favorite fish is Pocellia velifra (Giant sailfin Molly) and one of my dreams is creating my own velifra line.
 
-Thank you for visiting my website and reading my articles! Please share them to show support! 
+Thank you for visiting my website, reading my articles and watching my videos! Please share them to show support! 
 
 -
 
