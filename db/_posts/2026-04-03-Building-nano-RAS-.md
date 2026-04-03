@@ -6,6 +6,11 @@ tags:
   - ras
 ---
 
+<div class="message-info">Under construction.
+
+<p>This post describes my process of building a fishroom in a rack.</p>
+</div>
+
 ### Overview
 
 Recirculating Aquaculture Systems are an efficient technology to produce fish in a relatively small, high yield and ultra controlled environment. They are developed in many forms where water is either semi or completely reused. In this article, we will briefly explore key concepts from RAS systems and focus particularly on aspects that are relevant to ornamental fish keeping at a small scale. Meaning, RAS aspects that are easily implemented or readily transferable to a small ornamental fish farming facility. We will then describe a nano RAS system consisting of a rack with 8 tanks integrating diverse filtration systems.
