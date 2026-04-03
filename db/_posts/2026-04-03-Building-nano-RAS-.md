@@ -57,21 +57,45 @@ The requirements of the current design are almost identical to the previous syst
 Let's examine each point individually and elaborate on its specifications. 
 
 
-**All tanks are connected together** The rack has 4 levels. Each level is designd to host a number of tanks that can range from one to three. The lowest level (L1) has one big tank of 180 liters. A level can have two tanks of 90 liters each or three tanks of 60 liters each. The restriction on the number of tanks is based on a maximum of 90cm of available space, the Rack being exactly 1 Meter long. Water is pumped from the big tank using a powerfull pump that delivers water to each tank using a tubing system and a tap for each tank. Each level has three taps regarless of the number of tanks. What we just described is the in-flow of water. Let's describe the outflow.
+**All tanks are connected together:** The rack has 4 levels: L1-4. Each level is designd to host a number of tanks that can range from one to three tanks. The lowest level (L1) has one big tank of 180 liters. A level can have many aquariums as long as their combined volume is 180 Liters. The restriction on the number of tanks is based on a maximum of 90cm of available space, the rack being exactly 1 Meter long. 
+
+Water is pumped from the big tank in L1 using a powerfull pump that delivers water to each level using a tubing system and a tap for each tank. Each level has three taps regarless of the number of tanks. What we just described is the in-flow of water. Let's describe the outflow.
 
 On the three supperior levels, each level has three outflow tubings. All nine tubings are connected and supply overflowing water to the sump. To connect a tank to the system, simply open its tap and the water overflows from the tank back to the sump. 
 
 > Why three taps and three overflows on each level ? To allow the user of the rack to change the configuration of the tanks ;)
 
-Connecting all the tanks together will enable us to put in place a central filtration system. As we will see later, the filtration can be in sequential for maximum throughput or set up in parallel in case we want to repurpose the sump into a breeding and grow out tank. A central filtration lowers the cost of filtration since one pump will filter many tanks at once. But connecting the tanks has other advantages as well: a better water stability and an increased ease in water changes. 
+Connecting all the tanks together will enable us to put in place a central filtration system. As we will see later, the filtration can be in sequential for maximum throughput or set up in parallel in case we want to repurpose the sump into a breeding and grow out tank. A central filtration lowers the cost of filtration since one pump will filter many tanks at once. But connecting the tanks has other advantages as well: a better water stability and an increased ease in water changes.
 
-Compared to a small tank, a big volume of water is less affected by fluctuations of temerature and toxicity levels of amonia, nitrite and nitrates. This also means its better to feed each tank in the rack at a different time to equally and gradually distribute the amonia spike from the food on all the tanks and body of water. For water changes, they can now be performed simply by emptying and refilling one of the tanks. So much better than emptying and refilling the tanks one by one.
+Compared to a small tank, a big volume of water is less affected by fluctuations of temerature and toxicity levels of amonia, nitrite and nitrates. This also means its better to feed each tank in the rack at a different time to equally and gradually distribute the amonia spike from the food on all the tanks and body of water. For water changes, they can now be performed simply by emptying and refilling one of the tanks. So much better than emptying and refilling all the tanks one by one.
 
-> An objection I got discussing my design with a LFS owner was disease outbreaks and the propagation of pathogens from one tank to another. This is a serious concern that I know too well. Indeed, when using the previous design, I faced the infortunate challenge of dealing with anchorworms. They spread rapidely in the system and all I can do was to remove them by hand and increase the temperature. This design is no different since all the tanks are connected...or is it ? Unlike the previous design, I can isolate a tank whenever I want, treat it separatly from the other tanks or take it out completely from the system. Other tanks will not be affected at all. But the most important point here is that this design is build for breeding and not for display at a local fish store. which means, no exterior fish will be put in it. So, theorithically, if the parents are healthy, and I am carefull not to introduce anything to the system, all the fish will remain just as healthy as their parents.
+> An objection I got discussing my design with a LFS owner was disease outbreaks and the propagation of pathogens from one tank to another. This is a serious concern that I know too well. Indeed, when using the previous design, I faced the infortunate challenge of dealing with anchorworms. They spread rapidely in the system and all I could do was to remove them by hand and increase the temperature. This design is no different since all the tanks are connected...or is it ? Unlike the previous design, I can isolate a tank whenever I want, treat it separatly from the other tanks or take it out completely from the system. Other tanks will not be affected at all. But the most important point here is that this design is build for breeding and not for display at a local fish store. Which means, no exterior fish will be put in it. So, theorithically, if the parents are healthy, and I am carefull not to introduce anything to the system, all the fish will remain just as healthy as their parents.
 
-**Each tank has a filter of its own**
+**Each tank has a filter of its own:** Each breeding tank will have a sponge filter. Plant filtration tanks will have an under-gravel filter (only floating and free swiming plants like hornworth, elodia and salvinia). I chose to incorporate an UGF filter in the design since it's bullet proof, unbreakable and requires less maintenace than a sponge filter.
+
+**The rack should accomodate as many tanks as possible while providing space for filtration and optional tanks (for quarantine or additional filtration)** This point is really important since it directly affects the overall design of the rack. Here are the two configurations I considered : 
+
+*<ins>Configuration 1</ins>*
+
+Level L2 will host two aquariums, one of 60 liters and one of 120 Liters. Parents will breed in the 120 liter tank. Their fry will spend their first month in a 60 Liters.
+Level L3 will host two aquariums of 90 Liters each. They will be used for grow out. The fry will spend their second month in them.
+L1 will have the big 180 Liters tank used for grow out. The fry will spend their last month in it.
+
+Level L4 will host 3 60 Liters tanks for filtration only. 1 tank for the MBBR and the other two as plant filtration tanks.
+
+In this configuration, space is allocated in priority for breeding and grow out, while filtration is converted from done in sequence, from one chamber of the sump to the other and back to the tanks, to being done in parallel in the top level.
+
+Converting the sump into a breeding tank and the top level for filtration is not ideal because filtration is now less effective, but a big tank is gained for breeding. 
+
+*<ins>Configuration 2</ins>*
+
+Another great configuration is to keep L1 as a sump. Put the two 90 liters tank at level L4 as a plant filration tanks. Another big 180 Liters tank at level L3. The 120 liters and the 60 Liters at level L2.
+
+In this configuration, the parents are in the 120 liters. The fry spend the first 1 month in the 60 Liters tank and the last 2 months in the 180 Liters tank.
 
 
 ### References 
 
-1. https://www.researchgate.net/publication/269997102_Integrated_Multi-Trophic_Aquaculture_What_it_is_and_why_you_should_care_and_don%27t_confuse_it_with_polyculture
+1. [Video - The Components of a Recirculating Aquaculture System, RAS Fish Farming and Aquaponics](https://www.youtube.com/watch?v=B56-fHaXoKY){:target="_blank"}
+2. [Article - Integrated Multi-Trophic Aquaculture. What it is and why you should care... and don't confuse it with polyculture](https://www.researchgate.net/publication/269997102_Integrated_Multi-Trophic_Aquaculture_What_it_is_and_why_you_should_care_and_don%27t_confuse_it_with_polyculture){:target="_blank"}
+
