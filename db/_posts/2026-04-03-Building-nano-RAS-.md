@@ -96,7 +96,9 @@ The priority here is on filtration. The sump provides a sequential filtration, h
 
 *<ins>Configuration 3</ins>*
 
-Same as configuration 2 but in L3, I put 3 60 Liters tanks. Here the fry will spend the first month in a 60 Liters tank, then the last two month they will be divided in three, each batch in a separet 60 liters tank. The rational behind this is that all the tanks are connected, so more space for the fry to grow is just basically more space for them to swim, not better water parameters. This gives us more aquariums to play with but the fish may feel a bit restrained.
+Same as configuration 2 but in L3, I put 3 60 Liters tanks. Here the fry will spend the first month in a 60 Liters tank, then the last two month they will be divided in three, each batch in a separate 60 liters tank. The rational behind this is that all the tanks are connected, so more space for the fry to grow is just basically more space for them to swim, not better water parameters. This gives us more aquariums to play with for eventually quarantine or more filtration but the fish may feel a bit restrained.
+
+> In the design, each tank has an input of water from the tap above it and an output of water using the overflow bulkhead. If we connect a small flexible hose to the tap, we can direct the flow of water where we want in the tank. This means that each tank can be converted to a filter, with water entering from one side and exiting from the other.
 
 **Combine multiple filtration systems for maximum benefits:** As discussed earlier, three types of filtration will be implemented. A central filtration system in the form of a sump or MBBR, individual sponge and UGF filters for the tanks and two tanks dedicated for plants. Unfortunatly, I can't and I don't really want to spend much money on a UV light. So the water will not be sterilized, big whoop!
 
