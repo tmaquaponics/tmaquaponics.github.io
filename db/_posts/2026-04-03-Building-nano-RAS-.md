@@ -29,9 +29,9 @@ The idea for building a RAS system at a small scale came to me when I was watchi
 
 The idea of building a fishroom in a single rack was purely financial. Your favorite author lacks funding and some serious budgeting skills :)
 
-In a [previous post](https://tmaquaponics.github.io/2025/06/16/A-minimal-maintenance-breeding-setup.html){:target="_blank"}, I described a minimal maintenance breeding setup. The idea was to build a setup with minimal labor, be ittaking care of the fish, or maintaining the system. The downside of that design was that it requires a lot of horizontal space, and if there was a problem with one tote, it is required to move all other totes. The current design solves both problems.
+In a [previous post](https://tmaquaponics.github.io/2025/06/16/A-minimal-maintenance-breeding-setup.html){:target="_blank"}, I described a minimal maintenance breeding setup. The idea there was to build a setup that requires minimal labor; be it taking care of the fish, or maintaining the system. The downside of that design was that it required a lot of horizontal space, and if there was a problem with one of the totes, all other adjascent totes must be moved. The current design solves both of these problems.
 
-First, the rack stacks tanks vertically and takes little horizontal space. Second, if there is a problem with one tank, we can isolate it from the system simply by shutting down its tap.
+First, the rack stacks the tanks vertically and takes little horizontal space. Second, if there is a problem with one tank, we can isolate it from the system simply by shutting down its tap. Third, given a powerful enough pump, we can adjust how much flow each tank gets. In the older design, all the tanks get the same flow rate.
 
 The requirements of the current design are almost identical to the previous system with a few additional points :
 
@@ -54,4 +54,11 @@ On the three supperior levels, each level has three outflow tubings. All nine tu
 
 > Why three taps and three overflows on each level ? To allow the user of the rack to change the configuration of the tanks ;)
 
+Connecting all the tanks together will enable us to put in place a central filtration system. As we will see later, the filtration can be in sequential for maximum throughput or set up in parallel in case we want to repurpose the sump into a breeding and grow out tank. A central filtration lowers the cost of filtration since one pump will filter many tanks at once. But connecting the tanks has other advantages as well; a better water stability and an increased ease in water changes. Compared to a small tank, a big volume of water is less affected by fluctuations of temerature and toxicity levels of amonia, nitrite and nitrates. This means its better to feed each tank at a different time to equally distribute the bioload of food on all tanks and body of water. And since all the tanks are connected, Water changes can be performed simply by emptying and refilling one of the tanks.
+
 **Each tank has a filter of its own**
+
+
+### References 
+
+1. https://www.researchgate.net/publication/269997102_Integrated_Multi-Trophic_Aquaculture_What_it_is_and_why_you_should_care_and_don%27t_confuse_it_with_polyculture
