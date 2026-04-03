@@ -92,7 +92,7 @@ Converting the sump into a breeding tank and the top level for filtration is not
 Another great configuration is to keep L1 as a sump. Put the two 90 liters tank at level L4 as a plant filration tanks. Another big 180 Liters tank at level L3. The 120 liters and the 60 Liters at level L2.
 
 In this configuration, the parents are in the 120 liters. The fry spend the first 1 month in the 60 Liters tank and the last 2 months in the 180 Liters tank.
-
+The priority here is on filtration. The sump provides a sequential filtration, hosting static media and the MBBR and the big two plants tanks finish the cycle by removing the remaining nitrates. We lose a level here but gain a much better water
 
 ### References 
 
