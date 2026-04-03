@@ -45,7 +45,7 @@ First, the rack stacks the tanks vertically and takes little horizontal space. S
 The requirements of the current design are almost identical to the previous system with a few additional points :
 
 1. All tanks are connected together to maximize water stability and lower filtration cost.
-2. The rack should accomodate as many tanks as possible while providing space for filtration and optional tanks (for quarantine or additional filtration).
+2. The rack should accommodate as many tanks as possible while providing space for filtration and optional tanks (for quarantine or additional filtration).
 3. Each tank has a filter of its own.
 4. Combine multiple filtration systems for maximum benefits.
 5. The rack should be optimized for breeding and, more specifically, facilitate an Integrated multi-trophic aquaculture (IMTA) of ornamental fish at small scale. (Such a big word for a small rack :)
@@ -73,7 +73,7 @@ Compared to a small tank, a big volume of water is less affected by fluctuations
 
 **Each tank has a filter of its own:** Each breeding tank will have a sponge filter. Plant filtration tanks will have an under-gravel filter (only floating and free swiming plants like hornworth, elodia and salvinia). I chose to incorporate an UGF filter in the design since it's bullet proof, unbreakable and requires less maintenace than a sponge filter.
 
-**The rack should accomodate as many tanks as possible while providing space for filtration and optional tanks (for quarantine or additional filtration)** This point is really important since it directly affects the overall design of the rack. Here are the configurations I considered : 
+**The rack should accommodate as many tanks as possible while providing space for filtration and optional tanks (for quarantine or additional filtration)** This point is really important since it directly affects the overall design of the rack. Here are the configurations I considered : 
 
 *<ins>Configuration 1</ins>*
 
@@ -102,9 +102,9 @@ Same as configuration 2 but in L3, I put 3 60 Liters tanks. Here the fry will sp
 
 **Combine multiple filtration systems for maximum benefits:** As discussed earlier, three types of filtration will be implemented. A central filtration system in the form of a sump or MBBR, individual sponge and UGF filters for the tanks and two tanks dedicated for plants. Unfortunatly, I can't and I don't really want to spend much money on a UV light. So the water will not be sterilized, big whoop!
 
-Degassing and oxigination in the system are done as a by product of the design, how convenient is that !? :D Let me explain...The tap above each tank is elevated by a bout 10cm, so the presurized pumped water from L1 makes a lot of splashes and bubbles when entering each tanks. This process, although noisy, enables the oxygination of water quite well. The MBBR also plays a role in degassing, since it is operated by an air pump and the constant bubbling enables degassing.
+Degassing and oxigination in the system are done as a by-product of the design. How convenient is that !? :D Let me explain...The tap above each tank is elevated from its rim by a bout 10cm, so the presurized pumped water from L1 makes a lot of splashes and bubbles when entering each tanks. This process, although noisy, enables the oxygination of the water quite well. The MBBR also plays a role here, since it is operated by an air pump and the constant bubbling enables degassing.
 
-A big portion of the clarification and solids removal will be done by the sump if I choose to incorporate one. Otherwise it will be done by the sponge filters and UGFs.
+A big portion of the clarification and solids removal will be done by the sump if it is incorporated. Otherwise it will be done by the sponge filters and UGFs.
 
 Obviously, detritus and sinked particles must be siphoned by hand in each tank.
 
