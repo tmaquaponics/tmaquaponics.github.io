@@ -75,30 +75,24 @@ Compared to a small tank, a big volume of water is less affected by fluctuations
 
 *<ins>Configuration 1</ins>*
 
-Level L2 will host two aquariums, one of 60 Liters and one of 120 Liters. Parents will breed in the 120 liter tank. Their fry will spend their first month in the 60 Liters.
-Level L3 will host two aquariums of 90 Liters each. The fry will spend their second month in them.
-L1 will have the big 180 Liters. The fry will spend their last month in it.
-
+L1 will have the big 180 Liters used as a settling tank.
+Level L2 will host two aquariums, one of 60 Liters and one of 120 Liters.
+Level L3 will host two aquariums of 90 Liters each. 
 Level L4 will host 3 60 Liters tanks for filtration only. 1 tank for the MBBR and the other two as plant filtration tanks.
 
 In this configuration, space is allocated in priority for breeding and grow-out, while filtration is converted from done in sequence, from one chamber of the sump to the other and back to the tanks, to being done in parallel in the top level.
 
-Converting the sump into a breeding tank and the top level for filtration is not ideal because filtration is now less effective, but a big tank is gained for breeding. 
+Converting the sump into a breeding tank and the top level for filtration is not ideal because filtration is now less effective (by a factor of 8), but a big tank is gained for breeding. 
 
 *<ins>Configuration 2</ins>*
 
 Another great configuration is to keep L1 as a sump. Put the two 90 liters tank at level L4 as a plant filration tanks. Put another big 180 Liters tank at level L3 and keep the 120 liters and the 60 Liters at level L2.
 
-In this configuration, the parents are in the 120 liters. The fry spend the first month in the 60 Liters tank and the last 2 months in the 180 Liters tank.
-The priority here is on filtration. The sump provides a sequential filtration, hosting static media and the MBBR and the big two plant tanks finish the cycle by removing the remaining nitrates. We lose a level here and some breeding space but we gain a much better water quality.
-
-This setup not practical if the parents breed every month since we will run out of space. Unless of course we build a fry system in the 120 Liters tank where the fry will spend their first 15 days.
+In this configuration, the priority is on filtration. The sump provides sequential filtration, hosting the static media and the MBBR, while the big two plant tanks finish the cycle by removing the remaining nitrates. We lose a level here and some breeding space but we gain a much better water quality.
 
 *<ins>Configuration 3</ins>*
 
-Same as configuration 2 but in L3, we put 3 60 Liters tanks. Here the fry will spend the first month in a 60 Liters tank, then the last two month they will be divided in three, each batch in a separate 60 liters tank. The rational behind this is that all the tanks are connected, so more space for the fry to grow is just basically more space for them to swim, not better water parameters. This gives us more aquariums to play with for eventually quarantine or more filtration but the fish may feel a bit restrained.
-
-> In the design, each tank has an input of water from the tap above it and an output of water using the overflow bulkhead. If we connect a small flexible hose to the tap, we can direct the flow of water where we want in the tank. This means that each tank can be converted to a filter, with water entering from one side and exiting from the other.
+Same as configuration 2 but in L3, we put three 60 Liters tanks instead of a 180 Liters tank.
 
 **Each tank has a filter of its own:** Each breeding tank will have a sponge filter. Plant filtration tanks will have an under-gravel filter (only floating and free swiming plants like hornworth, elodia and salvinia). I chose to incorporate an UGF filter in the design since it is bullet-proof, unbreakable and requires less maintenace than a sponge filter.
 
@@ -110,9 +104,14 @@ A big portion of the clarification and solids removal will be done by the sump i
 
 Obviously, detritus and sinked particles must be siphoned by hand in each tank.
 
+> In the design, each tank has an input of water from the tap above it and an output of water using the overflow bulkhead. If we connect a small flexible hose to the tap, we can direct the flow of water where we want in the tank. This means that each tank can be converted to a filter, with water entering from one side and exiting from the other.
+
 **The rack should be optimized for breeding and, more specifically, facilitate an Integrated Multi-Trophic Aquaculture (IMTA) of ornamental fish at small scale:** Freshwater IMTA is a powerful technique to get the most out of our breeding setup. Basically, it means doing polyculture with the difference that the species we breed have different/complementary feeding levels. For example, if we want to culture angelfish, we can also culture with them corydoras, ancistrus fish, snails and plants. All in the same tank. More than that, IMTA enables a culture were a species feeds on the waste of another. So in our example, plants feeds on the waste of fish. If the main fish weren't angelfish, we could add shrimps to the mix since they feed on decaying matter like plecos' poop and decaying plants.
 
-To go back to our setup, let's consider our example as a profile for breeding. Angelfish lay eggs every 7 to 14 days. So configuration 2 & 3 would be best in terms of quality of water, and configuration 1 and 3 would be best in terms of space. The logical choice here would be configuration 3, but I think configuration 1 would be better to breed angelfish. It offers an ok filtration system, a sufficient number of tanks and has one big tank to finish growing the younglings. If we stock the system with enough plants in configuration 1, we could get pretty decent water parameters for 4 to 5 simultaneous batches.
+To go back to our setup, let's consider our example as a profile for breeding. Angelfish lay eggs every 7 to 14 days. So configuration 2 & 3 would be best in terms of water quality, and configuration 1 and 3 would be best in terms of space. The logical choice here would be configuration 3, but I think configuration 1 would be better to breed angelfish. It offers an ok filtration system since every tank has a independent filter, a sufficient number of tanks for breeding and has one big tank to finish growing the younglings. If we stock the system with enough plants in configuration 1, we could get pretty decent water parameters for 4 to 5 simultaneous batches. But I guess that claim remain to be tested...
+
+Configuration 2 doesn't have enough space, unless of course we build a fry system in the 120 Liters tank where the fry will spend their first days/weeks.
+Configuration 3 is good in terms of the number of aquariums but the younglings have to finish growing separated into three batches, each batch in its own 60 liters tank. The rational behind this is that all the tanks are connected, so more space for the fry to grow is just basically more space for them to swim, not better water parameters. Configuration 3 gives us more aquariums to play with for eventually quarantine or more filtration but the fish may feel a bit restrained.
 
 **Operating and maintaining the rack should be done with minimal efforts:** Maintenace of the breeding setup consists of cleaning the filters and doing water changes.
 The rack has 2 sockets at level L1 that are on a switch, so we could put an additional pump to empty the L1 tank as needed using a switch. Emptying other tanks completely is no different than emptying any other tank outside the system. It can be done either with a pump or a siphon hose. 
@@ -124,11 +123,13 @@ The air pump for the rack has a nob to regulate the power of the air, which is n
 Basic operation of the rack is quite easy. Every level has an electrical socket. The lights can be easily programmed to turn on and off on a timer, and the main pump that circulates the water in the system is on on a switch since it should be shut off when feeding. That's pretty much all there is to do to run the rack.
 
 **The build should be modular:** The rack has many systems : electrical, heating, water flow, lighting. Every system in the rack is modular in the sens that it can be swapped 
-pretty easily. For example, the electrical panel is designed so that another rack can be readily plugged to it. Since every level has three taps and three overflow heads. The tanks can be swapped to change from one configuration to another. So basically, the rack can evolve to meet your needs.
+pretty easily. For example, the electrical panel is designed so that another rack can be readily plugged to it. 
+
+Since every level has three taps and three overflow heads. The tanks can be swapped to change from one configuration to another. So basically, the rack can evolve to meet your needs...
 
 **The build can be fully assembled and fully disassembled by a single person:** The structure of the rack is build using dido joints. The wood can be screwed or disassembled using a screwdriver or an electric drill. The tanks are not too big and can be handled by a single person.
 
-**The build must pass the test of time:** The rack is designed with maintenace, repairs and modifications in mind. The structure is wood, screws, paint and materials you can find in a regular hardware store. Everything in the rack can be easily repaired or replaced.
+**The build must pass the test of time:** The rack is designed with maintenace, repairs and modifications in mind. The structure is wood, screws, paint and materials you can find in a regular hardware store. Everything in the rack can be easily repaired or replaced. Plus, level L2 and L4 are reinforced with diagonal support so that the rack doesn't tilt sideways with time.
 
 ### References 
 
