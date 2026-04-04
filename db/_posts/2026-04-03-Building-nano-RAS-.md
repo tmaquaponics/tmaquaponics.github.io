@@ -110,7 +110,21 @@ A big portion of the clarification and solids removal will be done by the sump i
 
 Obviously, detritus and sinked particles must be siphoned by hand in each tank.
 
-**The rack should be optimized for breeding and, more specifically, facilitate an Integrated multi-trophic aquaculture (IMTA) of ornamental fish at small scale:**
+**The rack should be optimized for breeding and, more specifically, facilitate an Integrated Multi-Trophic Aquaculture (IMTA) of ornamental fish at small scale:** Freshwater IMTA is a powerful technique to get the most out of our breeding setup. Basically, it means doing polyculture with the difference that the species we breed have different/complementary feeding levels. For example, if we want to culture angelfish, we can also culture with them corydoras, ancistrus fish, snails and plants. All in the same tank. More than that, IMTA enables a culture were a species feeds on the waste of another. So in our example, plants feeds on the waste of fish. If the main fish weren't angelfish, we could add shrimps to the mix since they feed on decaying matter like plecos' poop and decaying plants.
+
+To go back to our setup, let's consider our example as a profile for breeding. Angelfish lay eggs every 7 to 14 days. So configuration 2 & 3 would be best in terms of quality of water, and configuration 1 and 3 would be best in terms of space. The logical choice here would be configuration 3, but I think configuration 1 would be better to breed angelfish. It offers an ok filtration system, a sufficient number of tanks and has one big tank to finish growing the younglings. If we stock the system with enough plants in configuration 1, we could get pretty decent water parameters for 4 to 5 simultaneous batches.
+
+**Operating and maintaining the rack should be done with minimal efforts:** Maintenace of the breeding setup consists of cleaning the filters and doing water changes.
+The rack has 2 sockets at level L1 that are on a switch, so we could put an additional pump to empty the L1 tank as needed using a switch. Emptying other tanks completely is no different than emptying any other tank outside the system. It can be done either with a pump or a siphon hose. 
+
+Initially, in one of the prototypes I did, there was an additional circuit for water to empty the tanks but it required drilling the tanks at the bottom. Since I broke off the 180 Liters tank when I tried to drill it, I changed my mind and abondonned the feature. Risking shattering additional tanks is too expensive since emptying the tanks with a pump is possible and not that difficult to do.
+
+The air pump for the rack has a nice nob to regulate the power of the air, which is nice if you don't want to install a bleeding valve.
+Basic operation of the rack is quite easy. Every level has an electrical socket. The lights can be easily programmed to turn on and off on a timer, and the main pump that circulates the water in the system is on on a switch since it should be shut off when feeding. That's pretty much all there is to do to run the rack.
+
+**The build should be modular:**
+**The build can be fully assembled and fully disassembled by a single person:**
+**The build must pass the test of time:**
 
 ### References 
 
