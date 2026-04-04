@@ -117,14 +117,18 @@ To go back to our setup, let's consider our example as a profile for breeding. A
 **Operating and maintaining the rack should be done with minimal efforts:** Maintenace of the breeding setup consists of cleaning the filters and doing water changes.
 The rack has 2 sockets at level L1 that are on a switch, so we could put an additional pump to empty the L1 tank as needed using a switch. Emptying other tanks completely is no different than emptying any other tank outside the system. It can be done either with a pump or a siphon hose. 
 
-Initially, in one of the prototypes I did, there was an additional circuit for water to empty the tanks but it required drilling the tanks at the bottom. Since I broke off the 180 Liters tank when I tried to drill it, I changed my mind and abondonned the feature. Risking shattering additional tanks is too expensive since emptying the tanks with a pump is possible and not that difficult to do.
+Initially, in one of the prototypes I did, there was an additional circuit for water to empty the tanks but it required drilling them at the bottom. Since I broke off the 180 Liters tank when I tried to drill it, I changed my mind and abondonned the feature. Risking shattering additional tanks is too expensive since emptying the tanks with a pump is possible and not that difficult to do.
 
-The air pump for the rack has a nice nob to regulate the power of the air, which is nice if you don't want to install a bleeding valve.
+The air pump for the rack has a nob to regulate the power of the air, which is nice if you don't want to install a bleeding valve.
+
 Basic operation of the rack is quite easy. Every level has an electrical socket. The lights can be easily programmed to turn on and off on a timer, and the main pump that circulates the water in the system is on on a switch since it should be shut off when feeding. That's pretty much all there is to do to run the rack.
 
-**The build should be modular:**
-**The build can be fully assembled and fully disassembled by a single person:**
-**The build must pass the test of time:**
+**The build should be modular:** The rack has many systems : electrical, heating, water flow, lighting. Every system in the rack is modular in the sens that it can be swapped 
+pretty easily. For example, the electrical panel is designed so that another rack can be readily plugged to it. Since every level has three taps and three overflow heads. The tanks can be swapped to change from one configuration to another. So basically, the rack can evolve to meet your needs.
+
+**The build can be fully assembled and fully disassembled by a single person:** The structure of the rack is build using dido joints. The wood can be screwed or disassembled using a screwdriver or an electric drill. The tanks are not too big and can be handled by a single person.
+
+**The build must pass the test of time:** The rack is designed with maintenace, repairs and modifications in mind. The structure is wood, screws, paint and materials you can find in a regular hardware store. Everything in the rack can be easily repaired or replaced.
 
 ### References 
 
