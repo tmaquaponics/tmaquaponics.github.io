@@ -56,7 +56,6 @@ The requirements of the current design are almost identical to the previous syst
 
 Let's examine each point individually and elaborate on its specifications. 
 
-
 **All tanks are connected together:** The rack has 4 levels: L1 to L4. Each level is designd to host a number of tanks that can range from one to three tanks. A level can have many aquariums as long as their combined volume is 180 Liters. The restriction on the number of tanks is based on a maximum of 90cm of available space, the rack being exactly 1 Meter long. 
 
 The lowest level (L1) has one big tank of 180 Liters. Water is pumped from the big tank in L1 using a powerfull pump that delivers water to each level using a tubing system and a tap for each tank. Each level has three taps regarless of the number of tanks. What we just described is the in-flow of water. Let's describe the out-flow.
@@ -92,7 +91,7 @@ In this configuration, the priority is on filtration. The sump provides sequenti
 
 *<ins>Configuration 3</ins>*
 
-Same as configuration 2 but in L3, we put three 60 Liters tanks instead of a 180 Liters tank.
+Same as configuration 2 but in L3 we put three 60 Liters tanks instead of a 180 Liters tank.
 
 **Each tank has a filter of its own:** Each breeding tank will have a sponge filter. Plant filtration tanks will have an under-gravel filter (only floating and free swiming plants like hornworth, elodia and salvinia). I chose to incorporate an UGF filter in the design since it is bullet-proof, unbreakable and requires less maintenace than a sponge filter.
 
@@ -106,17 +105,18 @@ Obviously, detritus and sinked particles must be siphoned by hand in each tank.
 
 > In the design, each tank has an input of water from the tap above it and an output of water using the overflow bulkhead. If we connect a small flexible hose to the tap, we can direct the flow of water where we want in the tank. This means that each tank can be converted to a filter, with water entering from one side and exiting from the other.
 
-**The rack should be optimized for breeding and, more specifically, facilitate an Integrated Multi-Trophic Aquaculture (IMTA) of ornamental fish at small scale:** Freshwater IMTA is a powerful technique to get the most out of our breeding setup. Basically, it means doing polyculture with the difference that the species we breed have different/complementary feeding levels. For example, if we want to culture angelfish, we can also culture with them corydoras, ancistrus fish, snails and plants. All in the same tank. More than that, IMTA enables a culture were a species feeds on the waste of another. So in our example, plants feeds on the waste of fish. If the main fish weren't angelfish, we could add shrimps to the mix since they feed on decaying matter like plecos' poop and decaying plants.
+**The rack should be optimized for breeding and, more specifically, facilitate an Integrated Multi-Trophic Aquaculture (IMTA) of ornamental fish at small scale:** Freshwater IMTA is a powerful technique to get the most out of our breeding setup. Basically, it means doing polyculture with the difference that the species we breed have different/complementary feeding levels. For example, if we want to culture angelfish, we can also culture with them corydoras, ancistrus fish, snails and plants. All in the same tank. More than that, IMTA enables a culture were a species feeds on the waste of another. So in our example, plants feed on the waste of fish. If the main fish weren't angelfish, we could add shrimps to the mix since they feed on decaying matter like plecos' poop and decaying plants.
 
-To go back to our setup, let's consider our example as a profile for breeding. Angelfish lay eggs every 7 to 14 days. So configuration 2 & 3 would be best in terms of water quality, and configuration 1 and 3 would be best in terms of space. The logical choice here would be configuration 3, but I think configuration 1 would be better to breed angelfish. It offers an ok filtration system since every tank has a independent filter, a sufficient number of tanks for breeding and has one big tank to finish growing the younglings. If we stock the system with enough plants in configuration 1, we could get pretty decent water parameters for 4 to 5 simultaneous batches. But I guess that claim remain to be tested...
+To go back to our setup, let's consider our example as a profile for breeding. Angelfish lay eggs every 7 to 14 days. So configuration 2 & 3 would be best in terms of water quality, and configuration 1 and 3 would be best in terms of space. The logical choice here would be configuration 3, but I think configuration 1 would be better to breed angelfish. It offers an ok filtration system since every tank has a independent filter, a sufficient number of tanks for breeding, and has one big tank to finish growing the younglings. If we stock the system with enough plants, we could get pretty decent water parameters for 4 to 5 simultaneous batches. But I guess that claim remain to be tested...
 
 Configuration 2 doesn't have enough space, unless of course we build a fry system in the 120 Liters tank where the fry will spend their first days/weeks.
-Configuration 3 is good in terms of the number of aquariums but the younglings have to finish growing separated into three batches, each batch in its own 60 liters tank. The rational behind this is that all the tanks are connected, so more space for the fry to grow is just basically more space for them to swim, not better water parameters. Configuration 3 gives us more aquariums to play with for eventually quarantine or more filtration but the fish may feel a bit restrained.
+
+Configuration 3 is good in terms of the number of aquariums but the younglings have to finish growing separated into three batches, each batch in its own 60 liters tank. The rational behind this is that all the tanks are connected, so more space for the fry to grow is basically just more space for them to swim, not better water parameters. Configuration 3 gives us more aquariums to play with for eventually quarantine or more filtration but the fish may feel a bit restrained.
 
 **Operating and maintaining the rack should be done with minimal efforts:** Maintenace of the breeding setup consists of cleaning the filters and doing water changes.
-The rack has 2 sockets at level L1 that are on a switch, so we could put an additional pump to empty the L1 tank as needed using a switch. Emptying other tanks completely is no different than emptying any other tank outside the system. It can be done either with a pump or a siphon hose. 
+The rack has 2 sockets at level L1 that are on a switch, so we could put an additional pump to empty the L1 tank as needed. Emptying other tanks completely is no different than emptying any other tank outside the system. It can be done either with a pump or a siphon hose. 
 
-Initially, in one of the prototypes I did, there was an additional circuit for water to empty the tanks but it required drilling them at the bottom. Since I broke off the 180 Liters tank when I tried to drill it, I changed my mind and abondonned the feature. Risking shattering additional tanks is too expensive since emptying the tanks with a pump is possible and not that difficult to do.
+Initially, in one of the prototypes I did, there was an additional circuit for water to empty the tanks but it required drilling them at the bottom. Since I broke off the 180 Liters tank when I tried to drill it, I changed my mind and abondonned the feature. Risking shattering additional tanks is too expensive.
 
 The air pump for the rack has a nob to regulate the power of the air, which is nice if you don't want to install a bleeding valve.
 
@@ -129,7 +129,7 @@ Since every level has three taps and three overflow heads. The tanks can be swap
 
 **The build can be fully assembled and fully disassembled by a single person:** The structure of the rack is build using dido joints. The wood can be screwed or disassembled using a screwdriver or an electric drill. The tanks are not too big and can be handled by a single person.
 
-**The build must pass the test of time:** The rack is designed with maintenace, repairs and modifications in mind. The structure is wood, screws, paint and materials you can find in a regular hardware store. Everything in the rack can be easily repaired or replaced. Plus, level L2 and L4 are reinforced with diagonal support so that the rack doesn't tilt sideways with time.
+**The build must pass the test of time:** The rack is designed with maintenace, repairs and modifications in mind. The structure is wood, screws, paint and materials you can find in a regular hardware store. Everything in the rack can be easily repaired or replaced. Plus, level L2 and L4 are reinforced with diagonal support so that over time the rack doesn't tilt sideways.
 
 ### References 
 
