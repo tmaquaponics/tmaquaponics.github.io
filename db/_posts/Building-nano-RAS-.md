@@ -26,19 +26,19 @@ RAS systems are a water reuse systems where fish are produced all year around, i
 
 RAS systems can be fairly simple like ponds or ultra complicated and technologically heavy where every water parameter is monitored and controlled, and where a deliberate effort is put to control each process that is relevant to a stable, healthy and economically viable RAS system.
 
-Nitrates removal is one of the most important processes in a RAS system. There are many ways to remove nitrates from a RAS, with some more complicated than others. In this article, we previledge the removal of nitrates using plants as it is a fairly simple and somewhat cheap process that can be easily incorporated at any scale.
+Nitrates removal is one of the most important processes in a RAS system. There are many ways to remove nitrates from a RAS, with some more complicated than others. In our design, we previledge the removal of nitrates using plants as it is a fairly simple and somewhat cheap process that can be easily incorporated at any scale.
 
 ### Building a fishroom in a rack
 
-The idea for building a RAS system at a small scale came to me when I was watching videos of different fishrooms. Though those fishrooms were different in design, they shared common problems and solutions. They were different in that some fishrooms were completely manual, while others were semi or fully automatic. I was surprised that not many of them integrated plants in their design and were mostly relying on water changes to get rid of nitrates. 
+The idea for building a RAS system at a small scale was born after watching videos of various fishrooms builds. Though those fishrooms were different in design, they shared common problems and solutions. They were different in that some fishrooms were completely manual, while others were semi or fully automatic. It was surprising that not many of them integrated plants in their design and were mostly relying on water changes to get rid of nitrates.
 
-Another common point is that they lacked sophisticated filtration systems. Almost all designs were using sponge filters, while a small number integrated sumps to filter and link the tanks together. The later category was more appealing to me. 
+Another common point is that they lacked sophisticated filtration systems. Almost all designs were using sponge filters, while a small number integrated sumps to filter and link the tanks together. The later category was more appealing. 
 
 My interest in sumps brought me to the science of water treatement, aquaponics, and more broadly to RAS systems. The science is there but it is complicated to understand and maybe more so to implement, given that I usually don't build this kind of stuff. So, my next option was to default to plants to achive a [full filtration cycle.](https://tmaquaponics.github.io/2025/12/07/The-nitrogen-cycle.html){:target="_blank"}
 
-The idea of building a fishroom in a single rack was purely financial. Your favorite author lacks funding and some serious budgeting skills :) The idea of having a fishroom in a small form factor made sens to me.
+The motivation for building a fishroom in a single rack was purely financial (your favorite author lacks funding and some serious budgeting skills :), and having a fishroom in a small form factor made sens to me.
 
-In a [previous post](https://tmaquaponics.github.io/2025/06/16/A-minimal-maintenance-breeding-setup.html){:target="_blank"}, I described a minimal maintenance breeding setup. The idea there was to build a setup that required minimal labor -- be it taking care of the fish, or maintaining the system. The downside of that design was that it takes a lot of horizontal space, and if there was a problem with one of the totes, all other adjascent totes must be moved. The current design solves both of these problems.
+In a [previous post](https://tmaquaponics.github.io/2025/06/16/A-minimal-maintenance-breeding-setup.html){:target="_blank"}, I described a minimal maintenance breeding setup. The idea there was to build a setup that required minimal labor -- be it taking care of the fish, or maintaining the system. The downside of that design was that it takes a lot of horizontal space, and if there was an issue with one of the totes, all other adjascent totes must be moved. The current design solves both of these problems.
 
 First, the rack stacks the tanks vertically and takes little horizontal space. Second, if there is a problem with one tank, we can isolate it from the system simply by shutting down its tap. Third, given a powerful enough pump, we can adjust how much flow each tank can get. In the older design, all the tanks get the same flow rate.
 
