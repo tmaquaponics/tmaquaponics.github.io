@@ -32,7 +32,7 @@ Nitrates removal is one of the most important processes in a RAS system. There a
 
 The idea for building a RAS system at a small scale was born after watching videos of various fishrooms builds. Though those fishrooms were different in design, they shared common problems and solutions. They were different in that some fishrooms were completely manual, while others were semi or fully automatic. It was surprising that not many of them integrated plants in their design and were mostly relying on water changes to get rid of nitrates.
 
-Another common point is that they lacked sophisticated filtration systems. Almost all designs were using sponge filters, while a small number integrated sumps to filter and link the tanks together. The later category was more appealing. 
+Another common point is that they lacked sophisticated filtration systems. Almost all designs were using sponge filters; a small number integrated sumps to filter and link the tanks together. The later category was more appealing to me. 
 
 My interest in sumps brought me to the science of water treatement, aquaponics, and more broadly to RAS systems. The science is there but it is complicated to understand and maybe more so to implement, given that I usually don't build this kind of stuff. So, my next option was to default to plants to achive a [full filtration cycle.](https://tmaquaponics.github.io/2025/12/07/The-nitrogen-cycle.html){:target="_blank"}
 
@@ -40,7 +40,7 @@ The motivation for building a fishroom in a single rack was purely financial (yo
 
 In a [previous post](https://tmaquaponics.github.io/2025/06/16/A-minimal-maintenance-breeding-setup.html){:target="_blank"}, I described a minimal maintenance breeding setup. The idea there was to build a setup that required minimal labor -- be it taking care of the fish, or maintaining the system. The downside of that design was that it takes a lot of horizontal space, and if there was an issue with one of the totes, all other adjascent totes must be moved. The current design solves both of these problems.
 
-First, the rack stacks the tanks vertically and takes little horizontal space. Second, if there is a problem with one tank, we can isolate it from the system simply by shutting down its tap. Third, given a powerful enough pump, we can adjust how much flow each tank can get. In the older design, all the tanks get the same flow rate.
+First, the rack stacks the tanks vertically and takes little horizontal space. Second, if there is a problem with one tank, we can isolate it from the system simply by shutting down its tap (more about that later). Third, given a powerful enough pump, we can adjust how much flow each tank can get. In the older design, all the tanks get the same flow rate.
 
 The requirements of the current design are almost identical to the previous system with a few additional points :
 
@@ -56,7 +56,7 @@ The requirements of the current design are almost identical to the previous syst
 
 Let's examine each point individually and elaborate on its specifications. 
 
-**All tanks are connected together:** The rack has 4 levels: L1 to L4. Each level is designd to host a number of tanks that can range from one to three tanks. A level can have many aquariums as long as their combined volume is 180 Liters. The restriction on the number of tanks is based on a maximum of 90cm of available space, the rack being exactly 1 Meter long. 
+**All tanks are connected together:** The rack has 4 levels: L1 to L4. Each level is designd to host a number of tanks that can range from one to three tanks. A level can have many aquariums as long as their combined volume is 180 Liters. The restriction on the number of tanks is based on a maximum of 90 cm of available space, the rack being exactly 1 Meter long. 
 
 The lowest level (L1) has one big tank of 180 Liters. Water is pumped from the big tank in L1 using a powerfull pump that delivers water to each level using a tubing system and a tap for each tank. Each level has three taps regarless of the number of tanks. What we just described is the in-flow of water. Let's describe the out-flow.
 
