@@ -30,15 +30,15 @@ Nitrates removal is one of the most important processes in a RAS system. There a
 
 ### Building a fishroom in a rack
 
-The idea for building a RAS system at a small scale was born after watching videos of various fishrooms builds. Though those fishrooms were different in design, they shared common problems and solutions. They were different in that some fishrooms were completely manual, while others were semi or fully automatic. It was surprising that not many of them integrated plants in their design and were mostly relying on water changes to get rid of nitrates.
+The idea for building a RAS system at a small scale was born after watching videos of various fishrooms builds. Though those fishrooms were different in design, they shared common problems and solutions. They were different in that some fishrooms were completely manual, while others were semi or fully automatic. It was surprising to me that not many of them integrated plants in their design and were mostly relying on water changes to get rid of nitrates.
 
-Another common point is that they lacked sophisticated filtration systems. Almost all designs were using sponge filters; a small number integrated sumps to filter and link the tanks together. The later category was more appealing to me. 
+Another common point is that they lacked sophisticated filtration systems. Almost all designs were using sponge filters; a small number integrated sumps to filter and link the tanks together. The later category was more appealing to me.
 
 My interest in sumps brought me to the science of water treatement, aquaponics, and more broadly to RAS systems. The science is there but it is complicated to understand and maybe more so to implement, given that I usually don't build this kind of stuff. So, my next option was to default to plants to achive a [full filtration cycle.](https://tmaquaponics.github.io/2025/12/07/The-nitrogen-cycle.html){:target="_blank"}
 
 The motivation for building a fishroom in a single rack was purely financial (your favorite author lacks funding and some serious budgeting skills :), and having a fishroom in a small form factor made sens to me.
 
-In a [previous post](https://tmaquaponics.github.io/2025/06/16/A-minimal-maintenance-breeding-setup.html){:target="_blank"}, I described a minimal maintenance breeding setup. The idea there was to build a setup that required minimal labor -- be it taking care of the fish, or maintaining the system. The downside of that design was that it takes a lot of horizontal space, and if there was an issue with one of the totes, all other adjascent totes must be moved. The current design solves both of these problems.
+In a [previous post](https://tmaquaponics.github.io/2025/06/16/A-minimal-maintenance-breeding-setup.html){:target="_blank"}, I described a minimal maintenance breeding setup. The idea there was to build a setup that required minimal labor -- be it taking care of the fish, or maintaining the system. The downside of that design is that it takes a lot of horizontal space, and if there is an issue with one of the totes, all other adjascent totes must be moved. The current design solves both of these problems.
 
 First, the rack stacks the tanks vertically and takes little horizontal space. Second, if there is a problem with one tank, we can isolate it from the system simply by shutting down its tap (more about that later). Third, given a powerful enough pump, we can adjust how much flow each tank can get. In the older design, all the tanks get the same flow rate.
 
@@ -56,21 +56,21 @@ The requirements of the current design are almost identical to the previous syst
 
 Let's examine each point individually and elaborate on its specifications. 
 
-**All tanks are connected together:** The rack has 4 levels: L1 to L4. Each level is designd to host a number of tanks that can range from one to three tanks. A level can have many aquariums as long as their combined volume is 180 Liters. The restriction on the number of tanks is based on a maximum of 90 cm of available space, the rack being exactly 1 Meter long. 
+**All tanks are connected together:** The lowest level of the rack (L1) has one big tank of 180 Liters. Water is pumped from the big tank in L1 using a powerfull pump that delivers water to each level using a tubing system and a tap for each tank. Each level has three taps regarless of the number of tanks. What we just described is the in-flow of water. Let's describe the out-flow.
 
-The lowest level (L1) has one big tank of 180 Liters. Water is pumped from the big tank in L1 using a powerfull pump that delivers water to each level using a tubing system and a tap for each tank. Each level has three taps regarless of the number of tanks. What we just described is the in-flow of water. Let's describe the out-flow.
-
-On the three supperior levels, each level has three out-flow tubings. All nine tubings are connected and supply overflowing water to the sump. To connect a tank to the system, simply open its tap and the water overflows from the tank back to the sump. 
+On the supperior levels, each level has three out-flow tubings. All out-flow tubings are connected and supply overflowing water back to the L1 tank. To connect a tank to the system, simply open its tap and the water overflows from the tank back to L1. 
 
 > Why three taps and three overflows on each level ? To allow the user of the rack to change the configuration of the tanks ;)
 
-Connecting all the tanks together will enable us to put in place a central filtration system. As we will see later, the filtration can be in sequential for maximum throughput or set up in parallel in case we want to repurpose the sump into a breeding and grow-out tank. A central filtration lowers the cost of filtration since one pump will filter many tanks at once. But connecting the tanks has other advantages as well: a better water stability and an increased ease in water changes.
+Connecting all the tanks together will enable us to put in place a central filtration system. As we will see later, the filtration can be in sequential for maximum throughput or set up in parallel in case we want to repurpose the L1 tank into a breeding and grow-out tank. A central filtration lowers the cost of filtration since one pump will filter many tanks at once. But connecting the tanks has other advantages as well: a better water stability and an increased ease in water changes.
 
 Compared to a small tank, a big volume of water is less affected by fluctuations of temperature and toxicity levels of amonia, nitrite and nitrates. This also means it's better to feed each tank in the rack at a different time to equally and gradually distribute the amonia spike from the food on all the tanks and body of water. For water changes, they can now be performed simply by emptying and refilling one of the tanks. So much better than emptying and refilling all the tanks one by one.
 
 > An objection I got discussing my design with a LFS owner was disease outbreaks and the propagation of pathogens from one tank to another. This is a serious concern that I know too well. Indeed, when I had the previous design, I faced the infortunate challenge of dealing with anchorworms. They spread rapidely in the system and all I could do was to remove them by hand and increase the temperature. This design is no different since all the tanks are connected...or is it ? Unlike the previous design, I can isolate a tank whenever I want simply by turning off its tap, treat it with medication separatly from the other tanks or take it out completely from the system. Other tanks will not be affected at all. But the most important point here is that this design is build for breeding and not for display at a local fish store. Which means, no exterior fish will be put in it. So, theorithically, if the parents are healthy, and I am carefull not to introduce anything to the system, all the fish will remain just as healthy as their parents.
 
-**The rack should accommodate as many tanks as possible while providing space for filtration and optional tanks for quarantine or additional filtration:** This point is really important since it directly affects the overall design of the rack. Here are the configurations I considered : 
+**The rack should accommodate as many tanks as possible while providing space for filtration and optional tanks for quarantine or additional filtration:** This point is really important since it directly affects the overall design of the rack.
+
+The rack has 4 levels: L1 to L4. Each level is designd to host a number of tanks that can range from one to three tanks. A level can have many aquariums as long as their combined volume is 180 Liters. The restriction on the number of tanks is based on a maximum of 90 cm of available space, the rack being exactly 1 Meter long. Given these constraints, here are the configurations I considered : 
 
 *<ins>Configuration 1</ins>*
 
