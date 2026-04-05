@@ -133,11 +133,11 @@ Basic operation of the rack is quite easy. Every level has an electrical socket.
 **The build should be modular:** The rack has many systems : electrical, heating, water flow, lighting. Every system in the rack is modular in the sens that it can be swapped 
 pretty easily. For example, the electrical panel is designed so that another rack can be directly plugged to it. 
 
+**The build can be fully assembled and fully disassembled by a single person:** The wood can be screwed or disassembled using a screwdriver or an electric drill. The tanks are not too big and can be handled by a single person.
+
+**The build must pass the test of time:** The rack is designed with maintenace, repairs and modifications in mind. The structure is wood, screws, paint and materials you can find in a regular hardware store. Everything in the rack can be easily repaired or replaced. The structure of the rack is build using dido joints, which is a string joint; plus, level L2 and L4 are reinforced with diagonal support so that over time the rack doesn't tilt sideways.
+
 Since every level has three taps and three overflow tubings. The tanks can be swapped in and out to change from one configuration to another. So basically, the rack can evolve to meet your fish breeding needs...
-
-**The build can be fully assembled and fully disassembled by a single person:** The structure of the rack is build using dido joints. The wood can be screwed or disassembled using a screwdriver or an electric drill. The tanks are not too big and can be handled by a single person.
-
-**The build must pass the test of time:** The rack is designed with maintenace, repairs and modifications in mind. The structure is wood, screws, paint and materials you can find in a regular hardware store. Everything in the rack can be easily repaired or replaced. Plus, level L2 and L4 are reinforced with diagonal support so that over time the rack doesn't tilt sideways.
 
 ### References 
 
