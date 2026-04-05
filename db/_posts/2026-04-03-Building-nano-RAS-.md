@@ -106,7 +106,7 @@ Obviously, detritus and sinked particles must be siphoned by hand in each tank.
 
 > In the design, each tank has an input of water from the tap above it and an output of water using the overflow bulkhead. If we connect a small flexible hose to the tap, we can direct the flow of water where we want in the tank. This means that each tank can be converted to a filter, with water entering from one side and exiting from the other.
 
-<ins>Sequential vs parallel filtration<ins>
+<ins>Sequential vs parallel filtration</ins>
 
 We talked previously about parallel vs sequential filtration. Let's see what's the difference :
 If we assume the main pump is 5000 L/h, and that we have 6 aquariums of 60 Liters and a settling tank of 180 Liters. This means that the overall volume of water is 540 Liters. which means if the settling tank was a sump, meaning a sequential filtration, we would filter the volume of water 10 times per hour. Whereas, if we transform one of the 60 liters tank into a filter and keep all the other for breeding, including the settling tank. The tank would get 5000/6 = 833 Liters volume of water per hour. Meaning, we would filter the entirety of the volume of water 833/540 = 1.54 times per hour. Not much compared to 10 time using a sump. The more we add parallel filters, the more that number grows. 
