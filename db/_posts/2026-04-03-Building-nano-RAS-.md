@@ -135,7 +135,7 @@ pretty easily. For example, the electrical panel is designed so that another rac
 
 **The build can be fully assembled and fully disassembled by a single person:** The wood can be screwed or disassembled using a screwdriver or an electric drill. The tanks are not too big and can be handled by a single person.
 
-**The build must pass the test of time:** The rack is designed with maintenace, repairs and modifications in mind. The structure is wood, screws, paint and materials you can find in a regular hardware store. Everything in the rack can be easily repaired or replaced. The structure of the rack is build using dido joints, which is a string joint; plus, level L2 and L4 are reinforced with diagonal support so that over time the rack doesn't tilt sideways.
+**The build must pass the test of time:** The rack is designed with maintenace, repairs and modifications in mind. The structure is wood, screws, paint and materials you can find at a regular hardware store. Everything in the rack can be easily repaired, replaced or upgraded. The structure of the rack is build using dido joints, which is a strong joint; plus, level L2 and L4 are reinforced with diagonal support so that over time the rack doesn't tilt sideways.
 
 Since every level has three taps and three overflow tubings. The tanks can be swapped in and out to change from one configuration to another. So basically, the rack can evolve to meet your fish breeding needs...
 
