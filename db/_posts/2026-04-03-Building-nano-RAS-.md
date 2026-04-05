@@ -121,14 +121,14 @@ Configuration 2 doesn't have enough space, unless of course we build a fry syste
 
 Configuration 3 is good in terms of the number of aquariums but the younglings have to finish growing separated into three batches, each batch in its own 60 liters tank. The rational behind this is that all the tanks are connected, so more space for the fry to grow is basically just more space for them to swim, not better water parameters. Configuration 3 gives us more aquariums to play with for eventually quarantine or more filtration but the fish may feel a bit restrained.
 
-**Operating and maintaining the rack should be done with minimal efforts:** Maintenace of the breeding setup consists of cleaning the filters and doing water changes.
-The rack has 2 sockets at level L1 that are on a switch, so we could put an additional pump to empty the L1 tank as needed. Emptying other tanks completely is no different than emptying any other tank outside the system. It can be done either with a pump or a siphon hose. 
-
-Initially, in one of the prototypes I did, there was an additional circuit for water to empty the tanks but it required drilling them at the bottom. Since I broke off the 180 Liters tank when I tried to drill it, I changed my mind and abondonned the feature. Risking shattering additional tanks is too expensive since water changes can be done from one tank.
+**Operating and maintaining the rack should be done with minimal efforts:** Basic operation of the rack is quite easy. Every level has an electrical socket for easy access. The lights can be easily programmed to turn on and off on a timer, and the main pump that circulates the water in the system is on on a switch since it should be shut off when feeding.
 
 The air pump for the rack has a nob to regulate the power of the air, which is nice if you don't want to install a bleeding valve.
 
-Basic operation of the rack is quite easy. Every level has an electrical socket. The lights can be easily programmed to turn on and off on a timer, and the main pump that circulates the water in the system is on on a switch since it should be shut off when feeding. That's pretty much all there is to do to run the rack.
+Maintenace of the breeding setup consists of cleaning the filters and doing water changes.
+The rack has 2 sockets on a switch at level L1, so we could put an additional pump to empty the sump tank as needed. Emptying other tanks completely is no different than emptying any other tank outside the system. It can be done either with a pump or a siphon hose. 
+
+Initially, in one of the prototypes I did, there was an additional circuit for water to empty the tanks but it required drilling them at the bottom. Since I broke off the 180 Liters tank when I tried to drill it, I changed my mind and abondonned the feature. Risking shattering additional tanks is too expensive since water changes can be done from one tank.
 
 **The build should be modular:** The rack has many systems : electrical, heating, water flow, lighting. All systems are independent from one another. Every system in the rack is modular in the sens that it can be swapped pretty easily. 
 
@@ -140,9 +140,9 @@ The electrical system is modular by design and the panel is designed so that ano
 
 **The build must pass the test of time:** The rack is designed with maintenace, repairs and modifications in mind. The structure is wood, screws, paint and materials you can find at a regular hardware store. Everything in the rack can be easily repaired, replaced or upgraded. 
 
-The structure of the rack is build using dido joints, which is a strong joint; plus, level L2 and L4 are reinforced with diagonal support so that over time the rack doesn't tilt sideways.
+The structure of the rack is build using dido joints, which is a strong joint; plus, level L2 and L4 are reinforced with diagonal support so that the rack doesn't tilt sideways over time.
 
-The tanks are build using 5mm glass including the 180 Liters tank. This choice was made to make the aquariums light, easy and cheap to repair. This was possible because the tanks are not that tall, only 35 cm of hight and because the big tanks have euro-bracing at the top and a cross bracing in the middle.
+The tanks are build using 5mm glass including the 180 Liters tank. This choice was made to make the aquariums light, easy and cheap to repair. This was possible because the tanks are only 35 cm tall and because the big tanks have euro-bracing at the top and a cross bracing in the middle.
 
 ### References 
 
