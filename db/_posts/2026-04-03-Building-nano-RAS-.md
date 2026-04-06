@@ -60,7 +60,10 @@ Let's examine each point individually and elaborate on its specifications.
 
 **All tanks are connected together:** The lowest level of the rack (L1) has one big tank of 180 Liters used as a sump. Water is pumped from the big tank in L1 using a powerfull pump that delivers water to each level using a tubing system and a tap for each tank. Each level has three taps regarless of the number of tanks. What we just described is the in-flow of water. Let's describe the out-flow.
 
-On the supperior levels, each level has three overflow tubings. All overflow tubings are connected and supply overflowing water back to the L1 tank. To connect a tank to the system, simply open its tap and the water overflows from the tank back to L1. 
+On the supperior levels, each level has three overflow tubings. All overflow tubings are connected and supply overflowing water back to the L1 tank. To connect a tank to the system, simply open its tap and the water overflows from the tank back to L1.
+
+![Water flow system](/assets/img/IMG_20260406_060029.jpg)
+*Water flow system*
 
 > Why three taps and three overflows on each level ? To allow the user of the rack to change the configuration of the tanks ;)
 
@@ -141,7 +144,13 @@ The electrical system is modular by design and the panel is designed so that ano
 
 **The build must pass the test of time:** The rack is designed with maintenace, repairs and modifications in mind. The structure is wood, screws, paint and materials you can find at a regular hardware store. Everything in the rack can be easily repaired, replaced or upgraded. 
 
-The structure of the rack is build using dido joints, which is a strong joint; plus, level L2 and L4 are reinforced with diagonal support so that the rack doesn't tilt sideways over time.
+![Dado joints](/assets/img/1000002396.jpg)
+*Dado joints*
+
+The structure of the rack is build using dado joints, which is a strong joint; plus, level L2 and L4 are reinforced with diagonal support so that the rack doesn't tilt sideways over time.
+
+![50 gallons tank](/assets/img/1000002394.jpg)
+*50 gallons (180 Liters) tank with euro-bracing*
 
 The tanks are build using 5mm glass including the 180 Liters tank. This choice was made to make the aquariums light, easy and cheap to repair. This was possible because the tanks are only 35 cm tall and because the big tanks have euro-bracing at the top and a cross bracing in the middle.
 
