@@ -80,7 +80,7 @@ A box filter is a box with a lift tube. You can fill the box with filter media t
 
 **Sponge filter**
 
-![Sponge filter with gauge valve](/assets/img/71Tf1BcM1aL.jpg)
+![Sponge filter with gauge valve](/assets/img/1775470112630_110839.jpg)
 *Sponge filter*
 
 Sponge filter is a good example of both mechanical and biological filtration. It is easy to setup, maintain and clean. Sponge filters tend to clog over time but its fairly easy to unclog them.
