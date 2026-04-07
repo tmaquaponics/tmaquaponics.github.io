@@ -24,7 +24,7 @@ RAS systems are a water reuse systems where fish are produced all year around, i
 3. **Gas stripping and oxygination:** are the process of reducing harmful dissolved gases in water such as CO2 and nitrogen, and the process of enriching the water with oxygen.
 4. **Heating/cooling and sterilization :** are the temperature regulation and UV light sterilization processes.
 
-RAS systems can be fairly simple like ponds or ultra complicated and technologically heavy. In commercial RAS systems, every water parameter is monitored and controlled, and where a deliberate effort is put to control each process that is relevant to a stable, healthy and economically viable RAS system.
+RAS systems can be fairly simple like ponds or ultra complicated and technologically heavy. In commercial RAS systems, every water parameter is monitored and controlled, and a deliberate effort is put to control each process that is relevant to a stable, healthy and economically viable RAS system.
 
 One of the most important processes in a RAS system is nitrate removal. There are many ways to remove nitrate from a RAS, with some more complicated than others. In our design, we favor the use of plants to remove the the toxic compound as it is a fairly simple and somewhat cheap process that can be easily incorporated at any scale.
 
@@ -58,18 +58,18 @@ The requirements of the current design are almost identical to the previous syst
 
 Let's examine each point individually and elaborate on its specifications.
 
-**All tanks are connected together:** The lowest level of the rack (L1) has one big tank of 180 Liters used as a sump. Water is pumped from the big tank in L1 using a powerfull pump that delivers water to each level using a tubing system and a tap for each tank. Each level has three taps regarless of the number of tanks. What we just described is the in-flow of water. Let's describe the out-flow.
+**All tanks are connected together:** The lowest level of the rack (L1) has one big tank of 180 Liters used as a sump. Water is pumped from the sump using a powerfull pump that delivers water to each level through a tubing system and a tap for each tank. Each level has three taps regarless of the number of tanks. What we just described is the in-flow of water. Let's describe the out-flow.
 
-On the supperior levels, each level has three overflow tubings. All overflow tubings are connected and supply overflowing water back to the L1 tank. To connect a tank to the system, simply open its tap and the water overflows from the tank back to L1.
+On the supperior levels, each level has three overflow gutters. All overflow gutters are connected and supply overflowing water back to the sump. To connect a tank to the system, simply open its tap and the water overflows from the tank back to the sump.
 
 ![Water flow system](/assets/img/IMG_20260406_060029.jpg)
 *Water flow system*
 
 > Why three taps and three overflows on each level ? To allow the user of the rack to change the configuration of the tanks ;)
 
-Connecting all the tanks together will enable us to put in place a central filtration system. As we will see later, the filtration can be in sequential for maximum throughput or set up in parallel in case we want to repurpose the L1 tank into a breeding and grow-out tank. A central filtration lowers the cost of filtration since one pump will filter many tanks at once. But connecting the tanks has other advantages as well: a better water stability and an increased ease in water changes.
+Connecting all the tanks together will enable us to put in place a central filtration system. As we will see later, the filtration can be in sequential for maximum throughput or set up in parallel in case we want to repurpose L1 with a breeding and grow-out tank. A central filtration lowers the cost of filtration since one pump will filter many tanks at once. But connecting the tanks has other advantages as well: a better water stability and an increased ease in water changes.
 
-Compared to a small tank, a big volume of water is less affected by fluctuations of temperature and toxicity levels of amonia, nitrite and nitrates. This also means it's better to feed each tank in the rack at a different time to equally and gradually distribute the amonia spike from the food on all the tanks at once. As for water changes, they can be performed, like in the previous design, simply by emptying and refilling one of the tanks.
+Compared to a small tank, a big volume of water is less affected by fluctuations of temperature and toxicity levels of ammonia, nitrite and nitrate. This also means it's better to feed each tank in the rack at a different time to equally and gradually distribute the ammonia spike from the food on all the tanks at once. As for water changes, they can be performed, like in the previous design, simply by emptying and refilling one of the tanks.
 
 > An objection I got discussing my design with a LFS owner was disease outbreaks and the propagation of pathogens from one tank to another. This is a serious concern that I know too well. Indeed, when I had the previous design, I faced the infortunate challenge of dealing with anchorworms. They spread rapidely in the system and all I could do was to remove them by hand and increase the temperature. This design is no different since all the tanks are connected together...or is it ? Unlike the previous design, I can isolate a tank whenever I want simply by turning off its tap, treat it with medication separatly from the other tanks or take it out completely from the system. Other tanks will not be affected at all. But the most important point here is that this design is build for breeding and not for display at a local fish store. Which means, no exterior fish will be put in it. So, theorethically, if the parents are healthy, and I am carefull not to introduce anything to the system, all the fish will remain just as healthy as their parents.
 
