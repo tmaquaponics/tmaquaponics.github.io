@@ -24,23 +24,23 @@ RAS systems are a water reuse systems where fish are produced all year around, i
 3. **Gas stripping and oxygination:** are the process of reducing harmful dissolved gases in water such as CO2 and nitrogen, and the process of enriching the water with oxygen.
 4. **Heating/cooling and sterilization :** are the temperature regulation and UV light sterilization processes.
 
-RAS systems can be fairly simple like ponds or ultra complicated and technologically heavy where every water parameter is monitored and controlled, and where a deliberate effort is put to control each process that is relevant to a stable, healthy and economically viable RAS system.
+RAS systems can be fairly simple like ponds or ultra complicated and technologically heavy. In commercial RAS systems, every water parameter is monitored and controlled, and where a deliberate effort is put to control each process that is relevant to a stable, healthy and economically viable RAS system.
 
-Nitrates removal is one of the most important processes in a RAS system. There are many ways to remove nitrates from a RAS, with some more complicated than others. In our design, we previledge the removal of nitrates using plants as it is a fairly simple and somewhat cheap process that can be easily incorporated at any scale.
+One of the most important processes in a RAS system is nitrate removal. There are many ways to remove nitrate from a RAS, with some more complicated than others. In our design, we favor the use of plants to remove the the toxic compound as it is a fairly simple and somewhat cheap process that can be easily incorporated at any scale.
 
 ### Building a fishroom in a rack
 
 The idea for building a RAS system at a small scale was born after watching videos of various fishroom builds. Though those fishrooms were different in design, they shared common problems and solutions. They were different in that some fishrooms were completely manual, while others were semi or fully automatic. It was surprising to me that not many of them integrated plants in their design and were mostly relying on water changes to get rid of nitrates.
 
-Another common point is that they lacked sophisticated filtration systems. Almost all designs were using sponge filters; a small number integrated sumps to filter and link the tanks together. The later category was more appealing to me.
+Another common point is that they lacked sophisticated filtration systems. Almost all designs were using sponge filters; only a small number integrated sumps to filter and link the tanks together. The later category was more appealing to me.
 
-My interest in sumps brought me to the science of water treatement, aquaponics, and more broadly to RAS systems. The science is there but it is complicated to understand and maybe more so to implement, given that I usually don't build this kind of stuff. So, my next option was to default to plants to achive a [full filtration cycle.](https://tmaquaponics.github.io/2025/12/07/The-nitrogen-cycle.html){:target="_blank"}
+My interest in sumps brought me to the science of water treatement, aquaponics, and more broadly to RAS systems. The science is there but it is complicated to understand and maybe more so to implement, given that I usually don't build this kind of stuff. My best option then was to default to plants to get rid of nitrate and achive a [full filtration cycle.](https://tmaquaponics.github.io/2025/12/07/The-nitrogen-cycle.html){:target="_blank"}
 
 The motivation for building a fishroom in a single rack was purely financial (your favorite author lacks funding and some serious budgeting skills :), and having a fishroom in a small form factor made sens to me.
 
 **A minimal maintenance breeding setup - v2**
 
-In a [previous post](https://tmaquaponics.github.io/2025/06/16/A-minimal-maintenance-breeding-setup.html){:target="_blank"}, I described a minimal maintenance breeding setup. The idea there was to build a setup that required minimal labor -- be it taking care of the fish, or maintaining the system. The downside of that design is that it takes a lot of horizontal space, and if there is an issue with one of the totes, all other adjascent totes must be moved. This new design solves both of these problems.
+In a [previous post](https://tmaquaponics.github.io/2025/06/16/A-minimal-maintenance-breeding-setup.html){:target="_blank"}, I described a minimal maintenance breeding setup. The idea there was to build a setup that required minimal labor -- be it taking care of the fish, or maintaining the system. The downside of that design is that it takes a lot of horizontal space, and if there was an issue with one of the totes, all other adjascent totes must be moved. This new design solves both of these problems.
 
 First, the rack stacks the tanks vertically and takes little horizontal space. Second, if there is a problem with one of the tanks, we can isolate it from the system simply by shutting down its tap (more about that later). Third, given a powerful enough pump, we can adjust how much flow each tank can get. In the older design, all the tanks get the same flow rate.
 
@@ -56,7 +56,7 @@ The requirements of the current design are almost identical to the previous syst
 8. The build can be fully assembled and fully disassembled by a single person.
 9. The build must pass the test of time.
 
-Let's examine each point individually and elaborate on its specifications. 
+Let's examine each point individually and elaborate on its specifications.
 
 **All tanks are connected together:** The lowest level of the rack (L1) has one big tank of 180 Liters used as a sump. Water is pumped from the big tank in L1 using a powerfull pump that delivers water to each level using a tubing system and a tap for each tank. Each level has three taps regarless of the number of tanks. What we just described is the in-flow of water. Let's describe the out-flow.
 
