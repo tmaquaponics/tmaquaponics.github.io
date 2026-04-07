@@ -102,7 +102,7 @@ Same as configuration 2 but in L3 we put three 60 Liters tanks instead of a 180 
 
 **Combine multiple filtration systems for maximum benefits:** Three types of filtration will be implemented. A central filtration system in the form of a sump or MBBR, individual sponge and UGF filters for the tanks and two tanks dedicated for plants. Unfortunatly, I can't and I don't really want to spend much money on a UV light. So the water will not be sterilized, big whoop!
 
-Degassing and oxygination in the system are done as a by-product of the design. How convenient is that !? :D Let me explain...The tap above each tank is elevated from its rim by a bout 10cm, so the presurized pumped water from L1 makes a lot of splashes and bubbles when entering each tanks. This process, although noisy, enables the oxygination of the water quite well. The MBBR also plays a role here since it is operated by an air pump and the constant bubbling enables degassing.
+Degassing and oxygination in the system are done as a by-product of the design. How convenient is that !? :D Let me explain...The tap above each tank is elevated from its rim by about 10cm, so the presurized pumped water from L1 makes a lot of splashes and bubbles when entering each tanks. This process, although noisy, enables the oxygination of the water quite well. The MBBR also plays a role here since it is operated by an air pump and the constant bubbling enables degassing.
 
 A big portion of the clarification and solids removal will be done by the sump if it is incorporated. Otherwise it will only be done by the sponge filters and UGFs.
 
@@ -113,7 +113,7 @@ Obviously, detritus and sinked particles must be siphoned by hand in each tank.
 <ins>Sequential vs parallel filtration</ins>
 
 We talked previously about parallel vs sequential filtration. Let's see what's the difference :
-If we assume the main pump is 5000 L/h, and that we have 6 aquariums of 60 Liters and a settling tank of 180 Liters. This means that the overall volume of water is 540 Liters. Which means, if the settling tank was a sump, meaning a sequential filtration, we would filter the volume of water 10 times per hour. Whereas, if we transform one of the 60 liters tank into a filter and keep all the other for breeding, including the settling tank, the 60 liters tank would get 5000/6 = 833 Liters of volume of water per hour. Meaning, we would filter the entirety of the volume of water 833/540 = 1.54 times per hour. Not much compared to 10 times using a sump. Obviously, the more we add parallel filters, the more that number grows.
+If we assume the main pump is 5000 L/h, and that we have 6 aquariums of 60 Liters and a settling tank of 180 Liters. This means that the overall volume of water is 540 Liters. Which means, if the settling tank was a sump, meaning a sequential filtration, we would filter the volume of water 10 times per hour. Whereas, if we transform one of the 60 liters tank into a filter and keep all the others for breeding, including the settling tank, the 60 liters tank would get 5000/6 = 833 Liters of volume of water per hour. Meaning, we would filter the entirety of the volume of water 833/540 = 1.54 times per hour. Not much compared to 10 times using a sump. Obviously, the more we add parallel filters, the more that number grows.
 
 Combining the sequential filtration of a sump and the parallel filtration of all the sponge and UGF filters plus the plant filtration tanks will garentee prestine water quality.
 
