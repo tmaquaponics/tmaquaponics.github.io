@@ -125,9 +125,9 @@ Configuration 2 doesn't have enough space, unless of course we build a fry syste
 
 Configuration 3 is good in terms of the number of aquariums but the younglings have to finish growing separated into three batches, each batch in its own 60 liters tank. The rational behind this is that all the tanks are connected, so more space for the fry to grow is basically just more space for them to swim, not better water parameters. Configuration 3 gives us more aquariums to play with for eventually quarantine or more filtration but the fish may feel a bit restrained.
 
-**Operating and maintaining the rack should be done with minimal efforts:** Basic operation of the rack is quite easy. Every level has an electrical socket for easy access. The lights can be programmed to turn on and off on a timer, and the main pump that circulates the water in the system is on on a switch since it should be shut off when feeding.
+**Operating and maintaining the rack should be done with minimal efforts:** Basic operation of the rack is quite easy. Every level has an electrical socket for easy access. The lights can be programmed to turn on and off on a timer, and the main pump that circulates the water in the system is on a switch since it should be shut off when feeding.
 
-The air pump for the rack has a nob to regulate the power of the air, which is nice if you don't want to install a bleeding valve.
+The air pump for the rack has a nob to regulate the power of the air, which is nice if you don't want to install a bleeder valve.
 
 Maintenace of the breeding setup consists of cleaning the filters and doing water changes.
 The rack has 2 sockets on a switch at level L1, so we could put an additional pump to empty the sump tank as needed. Emptying other tanks completely is no different than emptying any other tank outside the system. It can be done either with a pump or a siphon hose. 
