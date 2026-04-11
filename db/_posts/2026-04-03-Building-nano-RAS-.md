@@ -117,6 +117,14 @@ If we assume the main pump is 5000 L/h, and that we have 6 aquariums of 60 Liter
 
 Combining the sequential filtration of a sump and the parallel filtration of all the sponge and UGF filters plus the plant filtration tanks will garentee prestine water quality.
 
+<ins>Plants vs nitrogen and phosphorus</ins>
+
+I chose to dedicate two to three tanks in the design as a plant filtration tanks with purpose of removing nitrates from the system and as a substitute for denitrification. This is the 'usual' claim found online. In reality, plants play a different role in the aquatic ecosystem. In an article written by Diana Walstad [3], plants prefer the absorbtion of ammonium in place of nitrates; which means, plants are competing with our beneficial bacteria to consume ammonia in the water column. They do absorbe nitrates but only when ammonia is depleted. More importantly for us, ammonia removal occurs regardless of the presence or absence of light, whereas nitrates removal necessitates light to take place.
+
+In our case, it's not a choice of putting plants into work or not but a choice of which species of plants to use. Since the top level has UGFs with coarse gravel, the choice was made to ditch rooted plants and prioritize free floating ones like salvinia, water lettuce, hornwort and elodea. These plants are powerful in nitrogen and phosphorus absorbtion and can be easily maintained within a dedicated aquarium.
+
+It's not so clear to me how the phosphorus cycle occurs in an aquarium, but I all need to know is that the plants consume it to build biomass. (Maybe the subject of a future post right there :)
+
 **The rack should be optimized for breeding and, more specifically, facilitate an Integrated Multi-Trophic Aquaculture (IMTA) of ornamental fish at small scale:** Freshwater IMTA is a powerful technique to get the most out of our breeding setup. Basically, it means doing polyculture with the difference that the species we breed have different/complementary feeding levels. For example, if we want to culture angelfish, we can also culture with them corydoras, ancistrus fish, snails and plants. All in the same tank. More than that, IMTA enables a culture were a species feeds on the waste of another. In our example, plants feed on the waste of fish. If the main fish weren't angelfish, we could add shrimps to the mix since they feed on decaying matter like plecos' poop and decaying plants.
 
 To go back to our setup, let's consider our example as a profile for breeding. Angelfish lay eggs every 7 to 14 days. So configuration 2 & 3 would be best in terms of water quality, and configuration 1 and 3 would be best in terms of space. The logical choice here would be configuration 3, but I think configuration 1 would be better to breed angelfish. It offers an ok filtration system since every tank has an independent filter, a sufficient number of tanks for breeding, and has one big tank to finish growing the younglings. If we stock the system with enough plants, we could get pretty decent water parameters for 4 to 5 simultaneous batches. But I guess that claim remain to be tested...
@@ -158,4 +166,4 @@ The tanks are build using 5mm glass including the 180 Liters tank. This choice w
 
 1. [Video - The Components of a Recirculating Aquaculture System, RAS Fish Farming and Aquaponics](https://www.youtube.com/watch?v=B56-fHaXoKY){:target="_blank"}
 2. [Article - Integrated Multi-Trophic Aquaculture. What it is and why you should care... and don't confuse it with polyculture](https://www.researchgate.net/publication/269997102_Integrated_Multi-Trophic_Aquaculture_What_it_is_and_why_you_should_care_and_don%27t_confuse_it_with_polyculture){:target="_blank"}
-
+3. [Article - Nitrogen uptake by aquatic plants](https://dianawalstad.com/wp-content/uploads/2017/05/biolfiltration2017a.pdf){:target="_blank"}
