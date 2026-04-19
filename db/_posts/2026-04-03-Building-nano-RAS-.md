@@ -104,7 +104,7 @@ Same as configuration 2 but in L3 we put three 60 Liters tanks instead of a 180 
 
 Degassing and oxygination in the system are done as a by-product of the design. How convenient is that !? :D Let me explain...The tap above each tank is elevated from its rim by about 10cm, so the presurized pumped water from L1 makes a lot of splashes and bubbles when entering each tanks. This process, although noisy, enables the oxygination of the water quite well. The MBBR also plays a role here since it is operated by an air pump and the constant bubbling enables degassing.
 
-A big portion of the clarification and solids removal will be done by the sump if it is incorporated. Otherwise it will only be done by the sponge filters and UGFs.
+A big portion of the clarification and solids removal will be done by the sump, in addition to the sponge filters and UGFs.
 
 Obviously, detritus and sinked particles must be siphoned by hand in each tank.
 
@@ -137,10 +137,13 @@ Configuration 3 is good in terms of the number of aquariums but the younglings h
 
 The air pump for the rack has a nob to regulate the power of the air, which is nice if you don't want to install a bleeder valve.
 
-Maintenace of the breeding setup consists of cleaning the filters and doing water changes.
-The rack has 2 sockets on a switch at level L1, so we could put an additional pump to empty the sump tank as needed. Emptying other tanks completely is no different than emptying any other tank outside the system. It can be done either with a pump or a siphon hose. 
+Monthly maintenance schedule consists in performing 20% water change. Given the capacity of the system, that would account for about 120 liters each month. This is a big number to me and I was hoping, and I will work, to make it 60 liters every month. This estimate is purely speculative since I don't know how many fish I would actually breed but it gives me a number to target. Performing 20% water change every month wouldn't be enough if the denitrification methods incorporated in the system would fail or not work.
+
+The rack has 2 sockets on a switch at level L1, so we could put an additional pump to empty the sump tank as needed. Emptying other tanks completely is no different than emptying any other tank outside the system. It can be done either with a pump or a siphon hose.
 
 Initially, in one of the prototypes I did, there was an additional circuit for water to empty the tanks but it required drilling them at the bottom. Since I broke off the 180 Liters tank when I tried to drill it, I changed my mind and abondonned the feature. Risking shattering additional tanks is too expensive since water changes can be done from one tank.
+
+Cleaning the filters should be done every other month, depending on how dirty they get.
 
 **The build should be modular:** The rack has many systems : electrical, heating, water flow, lighting. All systems are independent from one another. Every system in the rack is modular in the sens that it can be swapped pretty easily. 
 
