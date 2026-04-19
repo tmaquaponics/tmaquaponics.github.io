@@ -98,9 +98,9 @@ In this configuration, the priority is on filtration. The sump provides sequenti
 
 Same as configuration 2 but in L3 we put three 60 Liters tanks instead of a 180 Liters tank.
 
-**Each tank has a filter of its own:** Each breeding tank will have a sponge filter. Plant filtration tanks will have an under-gravel filter (only floating and free swiming plants like hornworth, elodia and salvinia). I chose to incorporate an UGF filter in the design since it is bullet-proof, unbreakable and requires less maintenace than a sponge filter.
+**Each tank has a filter of its own:** Each breeding tank will have a sponge filter. Plant filtration tanks will have an under-gravel filter. I chose to incorporate an UGF filter in the design since it is bullet-proof, unbreakable and requires less maintenace than a sponge filter.
 
-**Combine multiple filtration systems for maximum benefits:** Three types of filtration will be implemented. A central filtration system in the form of a sump or MBBR, individual sponge and UGF filters for the tanks and two tanks dedicated for plants. Unfortunatly, I can't and I don't really want to spend much money on a UV light. So the water will not be sterilized, big whoop!
+**Combine multiple filtration systems for maximum benefits:** Three types of filtration will be implemented. A central filtration system in the form of a sump or MBBR, individual sponge and UGF filters for the tanks and two to three tanks dedicated for plants. Unfortunatly, I can't and I don't really want to spend much money on a UV light. So the water will not be sterilized, big whoop!
 
 Degassing and oxygination in the system are done as a by-product of the design. How convenient is that !? :D Let me explain...The tap above each tank is elevated from its rim by about 10cm, so the presurized pumped water from L1 makes a lot of splashes and bubbles when entering each tanks. This process, although noisy, enables the oxygination of the water quite well. The MBBR also plays a role here since it is operated by an air pump and the constant bubbling enables degassing.
 
@@ -119,7 +119,7 @@ Combining the sequential filtration of a sump and the parallel filtration of all
 
 <ins>Plants vs nitrogen and phosphorus</ins>
 
-I chose to dedicate two to three tanks in the design as a plant filtration tanks with the purpose of removing nitrates from the system and as a substitute for denitrification. Plants consume the nitrates produced from nitrification. This is the 'usual' claim found online. In reality, plants play a different role in an aquatic ecosystem. In an article written by Diana Walstad [3], it is shown that plants prefer the absorbtion of ammonium in place of nitrates; which means, plants are competing with our beneficial bacteria to consume ammonia in the water column. They do absorbe nitrates but only when ammonia is depleted. More importantly for us, ammonia removal occurs regardless of the presence or absence of light, whereas nitrates removal necessitates light to take place.
+I chose to dedicate two to three tanks in the design as a plant filtration tanks with the purpose of removing nitrates from the system and as a substitute for denitrification. Plants consume the nitrates produced from nitrification. This is the 'usual' claim found online. In reality, plants play a different role in an aquatic ecosystem. In an article written by Diana Walstad [3], it is shown that plants prefer the absorbtion of ammonium in place of nitrates; which means, plants are competing with our beneficial bacteria to consume the ammonia present in the water. They do absorbe nitrates but only when ammonia is depleted. More importantly for us, ammonia removal occurs regardless of the presence or absence of light, whereas nitrates removal necessitates light to take place.
 
 It's not a choice of putting plants into work or not but a choice of which species of plants to use. Since the top level has UGFs with coarse gravel, the choice was made to ditch rooted plants and to prioritize free floating ones like salvinia, water lettuce, hornwort and elodea. These plants are powerful in nitrogen and phosphorus absorbtion and can be easily maintained within dedicated aquariums.
 
@@ -146,7 +146,7 @@ Initially, in one of the prototypes I did, there was an additional circuit for w
 
 Since every level has three taps and three overflow tubings, the tanks become like modules and can be swapped in and out to change from one configuration to another. The benefit here is that the rack can evolve to meet your fish breeding needs.
 
-The electrical system is modular by design and the panel is designed so that another rack can be directly plugged to it.
+The electrical system is modular by design and the 'control' panel is designed so that another rack can be directly plugged to it.
 
 **The build can be fully assembled and fully disassembled by a single person:** The wood can be screwed or disassembled using a screwdriver or an electric drill. The tanks are not too big and can be handled by a single person, with the exception of the 180 Liters tank which should preferably be handled by two people.
 
