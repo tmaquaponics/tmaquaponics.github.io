@@ -125,6 +125,20 @@ It's not a choice of putting plants into work or not but a choice of which speci
 
 It's not so clear to me how the phosphorus cycle occurs in an aquarium, but I all need to know is that the plants consume it to build biomass. (Maybe the subject of a future post right there :)
 
+<ins>Denitrification</ins>
+
+Denitrification is the most imortant process in the entire build. Honestly, how to achieve it is not so straightforward given the information available online. However, creating anoxic zones that would convert nitrates to nitrogen gas is what got my attention. From what I gathered, it could be adapted and implemented in the build using the following methods:
+
+1. Deep sand beds in the UGFs filters: the substrate should be about 10 cm high. The first 3 to 4 cm would be areobic and the rest would turn anoxic. For this to work, the flow of water through the sand should be reduced to a minimum.
+
+2. A coil: a long coil of more than 10 meters needs to be fed from the pump at a very slow rate (20 drops of water per minute). By the time the water arrives at the end of the coil, all oxygen would be depleted and anoxic filtration can then take place. How is this gonna filter the entire system is not clear to me.
+
+3. A denitrator or a nitrates reactor : This is achived using special media.
+
+3. BCB baskets : the anoxic solution presented by Dr Novak consists of a mix of kitty liter and a source of iron in the form of laterite. How effective this type of filtration is remains to be verified.
+
+My problem is that denitrification requires a source of carbon to operate, so the carbon can either be in the form of waste in the system or added directly as an external source. To be able to adress this correctly and implement working solutions, I will dedicate a blog post to denitrification and subsequent posts to each build.
+
 **The rack should be optimized for breeding and, more specifically, facilitate an Integrated Multi-Trophic Aquaculture (IMTA) of ornamental fish at small scale:** Freshwater IMTA is a powerful technique to get the most out of our breeding setup. Basically, it means doing polyculture with the difference that the species we breed have different/complementary feeding levels. For example, if we want to culture angelfish, we can also culture with them corydoras, ancistrus fish, snails and plants. All in the same tank. More than that, IMTA enables a culture were a species feeds on the waste of another. In our example, plants feed on the waste of fish. If the main fish weren't angelfish, we could add shrimps to the mix since they feed on decaying matter like plecos' poop and decaying plants.
 
 To go back to our setup, let's consider our example as a profile for breeding. Angelfish lay eggs every 7 to 14 days. So configuration 2 & 3 would be best in terms of water quality, and configuration 1 and 3 would be best in terms of space. The logical choice here would be configuration 3, but I think configuration 1 would be better to breed angelfish. It offers an ok filtration system since every tank has an independent filter, a sufficient number of tanks for breeding, and has one big tank to finish growing the younglings. If we stock the system with enough plants, we could get pretty decent water parameters for 4 to 5 simultaneous batches. But I guess that claim remain to be tested...
