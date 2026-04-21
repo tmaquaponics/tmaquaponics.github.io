@@ -23,8 +23,8 @@ There are two halfs of the nitrogen cycle, nitrification and denitrification :
 
 **Nitrification**
 
-![The first half of the nitrogen cycle](/assets/img/Drawing 2025-12-04 04.52.55.excalidraw.png)
-*The first half of the nitrogen cycle*
+![The nitrogen cycle](/assets/img/Drawing 2025-12-04 04.52.55.excalidraw.png)
+*The nitrogen cycle*
 
 As you can see in the above diagram, there are 4 stages in the nitrogen cycle :
 

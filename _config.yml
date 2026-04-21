@@ -12,7 +12,8 @@ collections:
     output: true
   plants:
     output: true
-
+markdown: kramdown
+math_engine: mathjax
 
 plugins:
  - jekyll-feed
