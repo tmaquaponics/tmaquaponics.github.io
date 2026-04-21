@@ -115,7 +115,8 @@ To avoid killing your bacteria, you should never clean your filters under tap wa
 
 Another great threat that gets unnoticed is the use of medication. Before medicating your fish for whatever disease, make sure you have plenty of backup of established media. In the case where you notice an unbalance in your tank after medication, you can intervene rapidly and adjust your medication, do a water change or treat your fish separately in another tank with the safe option of having a live culture of beneficial bacteria.
   
-**Removing nitrates** 
+**Removing nitrates**
+
 Keeping the nitrogen cycle going is long term game with adjustments and monitoring on a short term basis. With bacteria alive and kicking, you need to remove the nitrates from your tank using one or many of the following ways :
 
 - Water changes : this is the most used method in the hobby. Depending on your fish load and your tan size, change about 20-25 % of your water every week. Make sure the new water is safe and about the same temperature as your tank.
