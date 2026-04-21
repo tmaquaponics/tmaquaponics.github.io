@@ -62,13 +62,6 @@ Every food you throw in your tank gets converted into ammonia, every dead thing 
 7. New substrate or decorations
 	- Some materials can leach small amounts of ammonia.
 
-Quick math that scares every experienced keeper
-
-- A single 5 cm neon tetra produces about 0.3-0.5 mg of ammonia per day.
-- 30 neon tetras = 9 -15 mg of ammonia daily.
-
-In an uncycled aquarium, ammonia accumulates at this rate everyday until it reaches lethal levels - usually within 3 to 4 days of adding the first fish.
-
 ### The beneficial bacteria
 
 The beneficial bacteria is the engine that powers the nitrogen cycle. Keep them alive and happy and you will have a healthy tank, neglect them and your tank will most certainly crash.
