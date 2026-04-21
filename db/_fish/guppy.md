@@ -1,13 +1,9 @@
 ---
-layout: default
+layout: profile
 title: Species profile - Guppy fish
 tags: species-profile guppy
 image: 1750343472433.jpg
 ---
-
-<ul><li><a href="{{ site.url }}/db/">Back</a></li></ul>
-
-## Species profile - Guppy fish
 
 ### Introduction
 

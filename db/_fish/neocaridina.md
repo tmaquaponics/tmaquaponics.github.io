@@ -1,15 +1,11 @@
 ---
-layout: default
+layout: profile
 title: Species profile - Neocaridina shrimp
 image: blue-dream-velvet-neocaridina-davidi.jpg
 tags:
   - species-profile
   - neocaridina
 ---
-
-<ul><li><a href="{{ site.url }}/db/">Back</a></li></ul>
-
-## Species profile - Neocaridina shrimp
 
 ### Introduction
 
