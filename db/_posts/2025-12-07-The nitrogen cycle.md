@@ -32,14 +32,14 @@ As you can see in the above diagram, there are 4 stages in the nitrogen cycle :
 
 - Nitrification stage 1 : the second phase in the nitrogen cycle is about turning that harmful ammonia into nitrites (NH3 --> $NO2^{-}$), a less harmful substance for your fish. This conversion is done by nitrifying bacteria like Nitrosomonas-type bacteria.
 
-- Nitrification stage 2 : in this stage, Nitrobacter-type bacteria converts the nitrites into nitrates ($NO2^{-}$ --> $NO3^{-}$), an overall less harmful substance for your fish.
+- Nitrification stage 2 : in this stage, Nitrobacter-type bacteria converts the nitrites into nitrates ($$NO2^{-}$$ --> $$NO3^{-}$$), an overall less harmful substance for your fish.
 
 - Assimilation : in this stage, the nitrates are absorbed by the plant life in your aquarium.
 - Remaining nitrates are diluted by water changes.
 
 Quick rule of thumb :
 - Ammonia and nitrite must always be 0.00 mg/L in a properly cycled tank.
-- Any reading > 0.25 mg/L ammonia or nitrite → immediate large water change.
+- Any reading > 0.25 mg/L ammonia or nitrite --> immediate large water change.
 - Target nitrate < 20 mg/L for sensitive fish.
 - Hardy community fish (guppies, platies, mollies) can tolerate up to 40–50 mg/L nitrate long-term.
 
