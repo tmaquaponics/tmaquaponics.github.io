@@ -58,7 +58,9 @@ The requirements of the current design are almost identical to the previous syst
 
 Let's examine each point individually and elaborate on its specifications.
 
-**All tanks are connected together:** The lowest level of the rack (L1) has one big tank of 180 Liters used as a sump. Water is pumped from the sump using a powerfull pump that delivers water to each level through a tubing system and a tap for each tank. Each level has three taps regarless of the number of tanks. What we just described is the in-flow of water. Let's describe the out-flow.
+**All tanks are connected together:**
+
+The lowest level of the rack (L1) has one big tank of 180 Liters used as a sump. Water is pumped from the sump using a powerfull pump that delivers water to each level through a tubing system and a tap for each tank. Each level has three taps regarless of the number of tanks. What we just described is the in-flow of water. Let's describe the out-flow.
 
 On the supperior levels, each level has three overflow gutters. All overflow gutters are connected and supply overflowing water back to the sump. To connect a tank to the system, simply open its tap and the water overflows from the tank back to the sump.
 
@@ -73,7 +75,9 @@ Compared to a small tank, a big volume of water is less affected by fluctuations
 
 > An objection I got discussing my design with a LFS owner was disease outbreaks and the propagation of pathogens from one tank to another. This is a serious concern that I know too well. Indeed, when I had the previous design, I faced the infortunate challenge of dealing with anchorworms. They spread rapidely in the system and all I could do was to remove them by hand and increase the temperature. This design is no different since all the tanks are connected together...or is it ? Unlike the previous design, I can isolate a tank whenever I want simply by turning off its tap, treat it with medication separatly from the other tanks or take it out completely from the system. Other tanks will not be affected at all. But the most important point here is that this design is build for breeding and not for display at a local fish store. Which means, no exterior fish will be put in it. So, theorethically, if the parents are healthy, and I am carefull not to introduce anything to the system, all the fish will remain just as healthy as their parents.
 
-**The rack should accommodate as many tanks as possible while providing space for filtration and optional tanks for quarantine or additional filtration:** This point is really important since it directly affects the overall design of the rack.
+**The rack should accommodate as many tanks as possible while providing space for filtration and optional tanks for quarantine or additional filtration:**
+
+This point is really important since it directly affects the overall design of the rack.
 
 The rack has 4 levels: L1 to L4. Each level is designd to host a number of tanks that can range from one to three tanks. A level can have many aquariums as long as their combined volume is 180 Liters. The restriction on the number of tanks is based on a maximum of 90 cm of available space per level, the rack being exactly 1 Meter long. Given these constraints, here are the configurations I considered : 
 
@@ -98,9 +102,13 @@ In this configuration, the priority is on filtration. The sump provides sequenti
 
 Same as configuration 2 but in L3 we put three 60 Liters tanks instead of a 180 Liters tank.
 
-**Each tank has a filter of its own:** Each breeding tank will have a sponge filter. Plant filtration tanks will have an under-gravel filter. I chose to incorporate an UGF filter in the design since it is bullet-proof, unbreakable and requires less maintenace than a sponge filter.
+**Each tank has a filter of its own:**
 
-**Combine multiple filtration systems for maximum benefits:** Three types of filtration will be implemented. A central filtration system in the form of a sump or MBBR, individual sponge and UGF filters for the tanks and two to three tanks dedicated for plants. Unfortunatly, I can't and I don't really want to spend much money on a UV light. So the water will not be sterilized, big whoop!
+Each breeding tank will have a sponge filter. Plant filtration tanks will have an under-gravel filter. I chose to incorporate an UGF filter in the design since it is bullet-proof, unbreakable and requires less maintenace than a sponge filter.
+
+**Combine multiple filtration systems for maximum benefits:**
+
+Three types of filtration will be implemented. A central filtration system in the form of a sump or MBBR, individual sponge and UGF filters for the tanks and two to three tanks dedicated for plants. Unfortunatly, I can't and I don't really want to spend much money on a UV light. So the water will not be sterilized, big whoop!
 
 Degassing and oxygination in the system are done as a by-product of the design. How convenient is that !? :D Let me explain...The tap above each tank is elevated from its rim by about 10cm, so the presurized pumped water from L1 makes a lot of splashes and bubbles when entering each tanks. This process, although noisy, enables the oxygination of the water quite well. The MBBR also plays a role here since it is operated by an air pump and the constant bubbling enables degassing.
 
@@ -139,7 +147,9 @@ Denitrification is the most imortant process in the entire build. Honestly, how 
 
 My problem is that denitrification requires a source of carbon to operate, so the carbon can either be in the form of waste in the system or added directly as an external source. To be able to adress this correctly and implement working solutions, I will dedicate a blog post to denitrification and subsequent posts to each build. For now, we will get rid of nitrates by assimilation using plants.
 
-**The rack should be optimized for breeding and, more specifically, facilitate an Integrated Multi-Trophic Aquaculture (IMTA) of ornamental fish at small scale:** Freshwater IMTA is a powerful technique to get the most out of our breeding setup. Basically, it means doing polyculture with the difference that the species we breed have different/complementary feeding levels. For example, if we want to culture angelfish, we can also culture with them corydoras, ancistrus fish, snails and plants. All in the same tank. More than that, IMTA enables a culture were a species feeds on the waste of another. In our example, plants feed on the waste of fish. If the main fish weren't angelfish, we could add shrimps to the mix since they feed on decaying matter like plecos' poop and decaying plants.
+**The rack should be optimized for breeding and, more specifically, facilitate an Integrated Multi-Trophic Aquaculture (IMTA) of ornamental fish at small scale:**
+
+Freshwater IMTA is a powerful technique to get the most out of our breeding setup. Basically, it means doing polyculture with the difference that the species we breed have different/complementary feeding levels. For example, if we want to culture angelfish, we can also culture with them corydoras, ancistrus fish, snails and plants. All in the same tank. More than that, IMTA enables a culture were a species feeds on the waste of another. In our example, plants feed on the waste of fish. If the main fish weren't angelfish, we could add shrimps to the mix since they feed on decaying matter like plecos' poop and decaying plants.
 
 To go back to our setup, let's consider our example as a profile for breeding. Angelfish lay eggs every 7 to 14 days. So configuration 2 & 3 would be best in terms of water quality, and configuration 1 and 3 would be best in terms of space. The logical choice here would be configuration 3, but I think configuration 1 would be better to breed angelfish. It offers an ok filtration system since every tank has an independent filter, a sufficient number of tanks for breeding, and has one big tank to finish growing the younglings. If we stock the system with enough plants, we could get pretty decent water parameters for 4 to 5 simultaneous batches. But I guess that claim remain to be tested...
 
@@ -147,7 +157,9 @@ Configuration 2 doesn't have enough space, unless of course we build a fry syste
 
 Configuration 3 is good in terms of the number of aquariums but the younglings have to finish growing separated into three batches, each batch in its own 60 liters tank. The rational behind this is that all the tanks are connected, so more space for the fry to grow is basically just more space for them to swim, not better water parameters. Configuration 3 gives us more aquariums to play with for eventually quarantine or more filtration but the fish may feel a bit restrained.
 
-**Operating and maintaining the rack should be done with minimal efforts:** Basic operation of the rack is quite easy. Every level has an electrical socket for easy access. The lights can be programmed to turn on and off on a timer, and the main pump that circulates the water in the system is on a switch since it should be shut off when feeding.
+**Operating and maintaining the rack should be done with minimal efforts:**
+
+Basic operation of the rack is quite easy. Every level has an electrical socket for easy access. The lights can be programmed to turn on and off on a timer, and the main pump that circulates the water in the system is on a switch since it should be shut off when feeding.
 
 The air pump for the rack has a nob to regulate the power of the air, which is nice if you don't want to install a bleeder valve.
 
@@ -159,15 +171,21 @@ Initially, in one of the prototypes I did, there was an additional circuit for w
 
 Cleaning the filters should be done every other month, depending on how dirty they get.
 
-**The build should be modular:** The rack has many systems : electrical, heating, water flow, lighting. All systems are independent from one another. Every system in the rack is modular in the sens that it can be swapped pretty easily. 
+**The build should be modular:**
+
+The rack has many systems : electrical, heating, water flow, lighting. All systems are independent from one another. Every system in the rack is modular in the sens that it can be swapped pretty easily. 
 
 Since every level has three taps and three overflow tubings, the tanks become like modules and can be swapped in and out to change from one configuration to another. The benefit here is that the rack can evolve to meet your fish breeding needs.
 
 The electrical system is modular by design and the 'control' panel is designed so that another rack can be directly plugged to it.
 
-**The build can be fully assembled and fully disassembled by a single person:** The wood can be screwed or disassembled using a screwdriver or an electric drill. The tanks are not too big and can be handled by a single person, with the exception of the 180 Liters tank which should preferably be handled by two people.
+**The build can be fully assembled and fully disassembled by a single person:**
 
-**The build must pass the test of time:** The rack is designed with maintenace, repairs and modifications in mind. The structure is wood, screws, paint and materials you can find at a regular hardware store. Everything in the rack can be easily repaired, replaced or upgraded. 
+The wood can be screwed or disassembled using a screwdriver or an electric drill. The tanks are not too big and can be handled by a single person, with the exception of the 180 Liters tank which should preferably be handled by two people.
+
+**The build must pass the test of time:**
+
+The rack is designed with maintenace, repairs and modifications in mind. The structure is wood, screws, paint and materials you can find at a regular hardware store. Everything in the rack can be easily repaired, replaced or upgraded. 
 
 ![Dado joints](/assets/img/1000002396.jpg)
 *Dado joints*

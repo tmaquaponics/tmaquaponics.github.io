@@ -45,7 +45,9 @@ As you can see in the above diagram, there are 4 stages in the nitrogen cycle :
 - Target nitrate < 20 mg/L for sensitive fish.
 - Hardy community fish (guppies, platies, mollies) can tolerate up to 40–50 mg/L nitrate long-term.
 
-**Denitrification:** A fifth stage in the nitrogen cycle is denitrification. The Pseudomonas-like bacteria involved in that process convert nitrates into nitrogen gas ($$NO3^{-}$$ --> N2) by consuming organic biomass (a source of carbon). This type of process occurs in zones with no oxygen (anerobic, anoxic). For example, in a deep substrate. Providing a source of carbon for the denitrifying bacteria is know as carbon dosing. This is usually done with sugar or ethanol, especially in nitrates reactors.
+**Denitrification:**
+
+A fifth stage in the nitrogen cycle is denitrification. The Pseudomonas-like bacteria involved in that process convert nitrates into nitrogen gas ($$NO3^{-}$$ --> N2) by consuming organic biomass (a source of carbon). This type of process occurs in zones with no oxygen (anerobic, anoxic). For example, in a deep substrate. Providing a source of carbon for the denitrifying bacteria is know as carbon dosing. This is usually done with sugar or ethanol, especially in nitrates reactors.
 
 ### The sources of ammonia
 
@@ -87,7 +89,7 @@ The temperature and pH have a big influence of the colony of bacteria and its re
 
 > You can increase the temperature of your tank to accelerate the colony growth and then reduce it when you introduce your fish.
 
-The nitrifying bacteria need oxygen to do the conversion from ammonia to nitrate. This is why nitrifying filters operate in an oxygen rich or aerobic environment. Denitrifying bacteria on the other hand are facultative bacteria that get their oxygen from nitrate and convert it into nitrogen gas. The denitrifying bacteria require an oxygen depleted or anerobic environment to perform this conversion. Denitrifying filters are not that common in the hobby and certainly not mainstream in the freshwater side of fishkeping. 
+The nitrifying bacteria need oxygen to do the conversion from ammonia to nitrate. This is why nitrifying filters operate in an oxygen rich or aerobic environment. Denitrifying bacteria on the other hand are facultative bacteria that get their oxygen from nitrate and convert it into nitrogen gas. The denitrifying bacteria require an oxygen depleted or anerobic environment to perform this conversion. Denitrifying filters are not that common in the hobby and are certainly not mainstream in the freshwater side of fishkeping. 
 
 ### Cycling methods
 
@@ -113,7 +115,9 @@ To avoid killing your bacteria, you should never clean your filters under tap wa
 
 Another great threat that gets unnoticed is the use of medication. Before medicating your fish for whatever disease, make sure you have plenty of backup of established media. In the case where you notice an unbalance in your tank after medication, you can intervene rapidly and adjust your medication, do a water change or treat your fish separately in another tank with the safe option of having a live culture of beneficial bacteria.
   
-**Removing nitrates:** Keeping the nitrogen cycle going is long term game with adjustments and monitoring on a short term basis. With bacteria alive and kicking, you need to remove the nitrates from your tank using one or many of the following ways :
+**Removing nitrates:**
+
+Keeping the nitrogen cycle going is long term game with adjustments and monitoring on a short term basis. With bacteria alive and kicking, you need to remove the nitrates from your tank using one or many of the following ways :
 
 - Water changes : this is the most used method in the hobby. Depending on your fish load and your tan size, change about 20-25 % of your water every week. Make sure the new water is safe and about the same temperature as your tank.
 
@@ -129,11 +133,15 @@ Another great threat that gets unnoticed is the use of medication. Before medica
 
 > Cleaning your filters and tank is a must but over-cleaning can do more harm than good. Detritus, mulm, biofilm and decaying matters are part of the ecosystem in your tank. Removing too much stuff from your tank can disturb the balance of that ecosystem. 
 
-**Removing nitrates using denitrification:** The most common ways to remove nitrates is through plants and water changes. If you have a heavily stocked tank, the amount of plants that you can jam into your aquarium is usually not sufficient to get rid of nitrates. That being said, they play a big role in reducing the volume of water that needs to be changed each time. 
+**Removing nitrates using denitrification:**
+
+The most common ways to remove nitrates is through plants and water changes. If you have a heavily stocked tank, the amount of plants that you can jam into your aquarium is usually not sufficient to get rid of nitrates. That being said, they play a big role in reducing the volume of water that needs to be changed each time. 
 
 If you don't like doing water changes like me, you can consider implementing denitrification filters.
 
-**Testing your water:** You can test your water using test stripes or liquid test kits. The word on the street in that test kits are more reliable. Make sure you follow the manufacturer instructions and do testing from time to time or when you notice a problem in your tank.
+**Testing your water:**
+
+You can test your water using test stripes or liquid test kits. The word on the street in that test kits are more reliable. Make sure you follow the manufacturer instructions and do testing from time to time or when you notice a problem in your tank.
 
 ### Common problems and troubleshooting
 
