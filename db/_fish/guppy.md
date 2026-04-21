@@ -1,6 +1,6 @@
 ---
-layout: default
-title: Guppy
+layout: post
+title: Species profile - Guppy fish
 tags: species-profile guppy
 image: 1750343472433.jpg
 ---
