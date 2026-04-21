@@ -19,7 +19,7 @@ Recirculating Aquaculture Systems are an efficient technology to produce fish in
 
 RAS systems are a water reuse systems where fish are produced all year around, in a highly controlled manner. The main components of a RAS system are as follows :
 
-1. **Clarification and solids removal :** are the process of mechanically removing organic sedimentary and suspended solids like uneaten fish food and fish waste from the system. This is usually done using mechanical means like settlers or meshes/sponges.
+1. **Clarification and solids removal :** are the process of mechanically removing organic sedimentary and suspended solids, like uneaten fish food and fish waste from the system. This is usually done using mechanical means like settlers or meshes/sponges.
 2. **Biofiltration :** is the process of biologically removing inorganic contaminents from the water, such as amonia, nitrites and nitrates. This is usually done using Moving Bed Biofilm Reactor (MBBR) systems.
 3. **Gas stripping and oxygination:** are the process of reducing harmful dissolved gases in water such as CO2 and nitrogen, and the process of enriching the water with oxygen.
 4. **Heating/cooling and sterilization :** are the temperature regulation and UV light sterilization processes.
@@ -40,7 +40,7 @@ The motivation for building a fishroom in a single rack was purely financial (yo
 
 **A minimal maintenance breeding setup - v2**
 
-In a [previous post](https://tmaquaponics.github.io/2025/06/16/A-minimal-maintenance-breeding-setup.html){:target="_blank"}, I described a minimal maintenance breeding setup. The idea there was to build a setup that required minimal labor -- be it taking care of the fish, or maintaining the system. The downside of that design is that it takes a lot of horizontal space, and if there was an issue with one of the totes, all other adjascent totes must be moved. This new design solves both of these problems.
+In a [previous post](https://tmaquaponics.github.io/2025/06/16/A-minimal-maintenance-breeding-setup.html){:target="_blank"}, I described a minimal maintenance breeding setup. The idea there was to build a setup that required minimal labor -- be it taking care of the fish, or maintaining the system. The downside of that design is that it takes a lot of horizontal space, and if there is an issue with one of the totes, all other adjascent totes must be moved. This new design solves both of these problems.
 
 First, the rack stacks the tanks vertically and takes little horizontal space. Second, if there is a problem with one of the tanks, we can isolate it from the system simply by shutting down its tap (more about that later). Third, given a powerful enough pump, we can adjust how much flow each tank can get. In the older design, all the tanks get the same flow rate.
 
@@ -145,7 +145,7 @@ Denitrification is the most imortant process in the entire build. Honestly, how 
 
 3. BCB baskets : the anoxic solution presented by Dr Novak consists of a mix of kitty litter and a source of iron in the form of laterite. How effective this type of filtration is remains to be verified.
 
-My problem is that denitrification requires a source of carbon to operate, so the carbon can either be in the form of waste in the system or added directly as an external source. To be able to adress this correctly and implement working solutions, I will dedicate a blog post to denitrification and subsequent posts to each build. For now, we will get rid of nitrates by assimilation using plants.
+My problem is that denitrification requires a source of carbon to operate, so the carbon can either be in the form of waste in the system or added directly as an external source. But for now, we will get rid of nitrates by assimilation using plants.
 
 **The rack should be optimized for breeding and, more specifically, facilitate an Integrated Multi-Trophic Aquaculture (IMTA) of ornamental fish at small scale:**
 

@@ -8,7 +8,7 @@ tags:
 
 ### Introduction
 
-The nitrogen cycle is a natural process that occurs in nature and in your aquarium. In this process microscopic bacteria converts the harmful and toxic fish waste to less toxic substances. In nature, nitrogen is diluted into bodies of water and washed away by rain, running streams and rivers. In your tank, it is trapped with nothing to carry it away. Without the nitrogen cycle, your fish and invertebrates will die from ammonia poisoning within a few days. That makes the nitrogen cycle the backbone on which rests everything you do from recreational keeping to breeding. It is the most important process in the hobby, so you should read this blog post carefully :)
+The nitrogen cycle is a natural process that occurs in nature and in your aquarium. In this process, microscopic bacteria converts the harmful and toxic fish waste to less toxic substances. In nature, nitrogen is diluted into bodies of water and washed away by rain, running streams and rivers. In your tank, it is trapped with nothing to carry it away. Without the nitrogen cycle, your fish and invertebrates will die from ammonia poisoning within a few days. That makes the nitrogen cycle the backbone on which rests everything you do from recreational keeping to breeding. It is the most important process in the hobby, so you should read this blog post carefully :)
 
 In this article, we will present a high level overview of the nitrogen cycle then explore :
 - Where the toxic waste (ammonia) comes from.
@@ -47,7 +47,7 @@ As you can see in the above diagram, there are 4 stages in the nitrogen cycle :
 
 **Denitrification:**
 
-A fifth stage in the nitrogen cycle is denitrification. The Pseudomonas-like bacteria involved in that process convert nitrates into nitrogen gas ($$NO3^{-}$$ --> N2) by consuming organic biomass (a source of carbon). This type of process occurs in zones with no oxygen (anerobic, anoxic). For example, in a deep substrate. Providing a source of carbon for the denitrifying bacteria is know as carbon dosing. This is usually done with sugar or ethanol, especially in nitrates reactors.
+A fifth stage in the nitrogen cycle is denitrification. The Pseudomonas-like bacteria involved in that process convert nitrates into nitrogen gas ($$NO3^{-}$$ --> N2) by consuming organic biomass (a source of carbon). This type of process occurs in zones with no oxygen (anerobic, anoxic). For example, in a deep substrate. Providing a source of carbon for the denitrifying bacteria is know as carbon dosing. It is usually done with sugar or ethanol, especially in nitrates reactors.
 
 ### The sources of ammonia
 
