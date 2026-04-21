@@ -17,9 +17,11 @@ In this article, we will explore :
 
 By the end of this article, you will understand what goes on in your tank at a deeper level than most aquarists. More importantly, you will have the knowledge to create a healthy and stable underwater ecosystem that your fish will thank you for.
 
+### The nitrogen cycle
+
 There are two halfs of the nitrogen cycle, nitrification and denitrification :
 
-### Nitrification
+**Nitrification**
 
 ![The first half of the nitrogen cycle](/assets/img/Drawing 2025-12-04 04.52.55.excalidraw.png)
 *The first half of the nitrogen cycle*
@@ -39,6 +41,28 @@ Quick rule of thumb :
 - Any reading > 0.25 mg/L ammonia or nitrite → immediate large water change.
 - Target nitrate < 20 mg/L for sensitive fish.
 - Hardy community fish (guppies, platies, mollies) can tolerate up to 40–50 mg/L nitrate long-term.
+
+**Denitrification**
+
+A fifth stage in the nitrogen cycle is denitrification. The bacteria involved in that process converts nitrates into nitrogen gas by consuming organic biomass (a source of carbon). This type of process occurs in zones with no oxygen (anerobic, anoxic). For example, in a deep substrate.
+
+### The beneficial bacteria
+
+The beneficial bacteria live on every surface in your tank, be it plants, substrate, media in your filter, decorations and even your aquarium walls. They are also present in small amounts in the water column of your tank.
+
+Two types of bacteria are involved in the nitrification process. The ammonia oxidizers and the nitrite oxidizers.
+
+| Team 1 : The ammonia oxidizers                                          | Team 2 : The nitrite oxidizers                                   |
+| ----------------------------------------------------------------------- | ---------------------------------------------------------------- |
+| Main genera : Nitrosomonas, Nitrosococcus, Nitrosospira                 | Main genera : Nitrobacter, Nitrospira, Nitrospina                |
+| They convert ammonia (NH4, NH3) to nitrite (NO2)                        | They convert nitrite (NO2) to nitrate (NO3)                      |
+| They are the first responders, without them the cycle stops immediately | They finish the job, without them nitrite builds up in your tank |
+
+In most home aquariums, the real nitrite oxidizers is Nitrospira, not the Nitrobacter. This is a modern distinction that you will not find in old textbooks. Nitrospira is slower growing but far more efficient at low-oxygen low-nitrite levels, exactly the conditions of a healthy established aquarium.
+
+The temperature and pH have a big influence of the colony of bacteria and its reproduction. The sweet spots are 28-30 Celsius for temperature and 7.2 - 8.2 for pH.
+
+> You can increase the temperature of your tank to accelerate the colony growth and then reduce it when you introduce your fish.
 
 ### The sources of ammonia
 
@@ -61,26 +85,6 @@ Every food you throw in your tank gets converted into ammonia, every dead thing 
 	- Old filter sponge that is never rinsed becomes an ammonia factory.
 7. New substrate or decorations
 	- Some materials can leach small amounts of ammonia.
-
-### The beneficial bacteria
-
-The beneficial bacteria is the engine that powers the nitrogen cycle. Keep them alive and happy and you will have a healthy tank, neglect them and your tank will most certainly crash.
-
-The beneficial bacteria live on every surface in your tank, be it plants, substrate, media in your filter, decorations and even your aquarium walls. They are also present in small amounts in the water column of your tank.
-
-Two types of bacteria are involved in the nitrogen cycle. The ammonia oxidizers and the nitrite oxidizers.
-
-| Team 1 : The ammonia oxidizers                                          | Team 2 : The nitrite oxidizers                                   |
-| ----------------------------------------------------------------------- | ---------------------------------------------------------------- |
-| Main genera : Nitrosomonas, Nitrosococcus, Nitrosospira                 | Main genera : Nitrobacter, Nitrospira, Nitrospina                |
-| They convert ammonia (NH4, NH3) to nitrite (NO2)                        | They convert nitrite (NO2) to nitrate (NO3)                      |
-| They are the first responders, without them the cycle stops immediately | They finish the job, without them nitrite builds up in your tank |
-
-In most home aquariums, the real nitrite oxidizers is Nitrospira, not the Nitrobacter. This is a modern distinction that you will not find in old textbooks. Nitrospira is slower growing but far more efficient at low-oxygen low-nitrite levels, exactly the conditions of a healthy established aquarium.
-
-The temperature and pH have a big influence of the colony of bacteria and its reproduction. The sweet spots are 28-30 Celsius for temperature and 7.2 - 8.2 for pH.
-
-> You can increase the temperature of your tank to accelerate the colony growth and then reduce it when you introduce your fish.
 
 ### Cycling methods
 
@@ -125,9 +129,6 @@ Another great threat that gets unnoticed is the use of medication. Before medica
 **Testing your water**
 You can test your water using test stripes or liquid test kits. The word on the street in that test kits are more reliable. Make sure you follow the manufacturer instructions and do testing from time to time or when you notice a problem in your tank.
 
-**Denitrification**
-A fifth stage in the nitrogen cycle we didn't talk about is denitrification. The bacteria involved in that process converts nitrates into nitrogen gas by consuming organic biomass (a source of carbon). This type of process occurs in zones with no oxygen (anoxic), for example in a deep substrate.
-
 ### Common problems and troubleshooting
 
 Even established tanks can have problems that arise from time to time. The following is a list of problems you may encounter and the quick actions you can take to solve them.
@@ -152,3 +153,5 @@ With the information provided here you can be confident in setting up a healthy 
 
 1. [Video - Aquarium Nitrogen Cycle - Full Explanation and Correcting Wrong Information](https://www.youtube.com/watch?v=VEjkh591s3Y&pp=0gcJCSMKAYcqIYzv){:target="_blank"}
 2. [Video series - How to build a no water change tank](https://www.youtube.com/watch?v=ESOdO0DME-o&list=PLoCeNrgxAKsApZcIp3-zX4oI06KFS4jFx){:target="_blank"}
+3. [Video - The "Other" Part Of The Nitrogen Cycle; Is Denitrification Worth It? ](https://www.youtube.com/watch?v=DDTVFQ6xQDA){:target="_blank"}
+4. [Video - Dr Tim's Aquatics podcast - Denitrification](https://www.youtube.com/watch?v=zUwGnrjKkkY){:target="_blank"}
