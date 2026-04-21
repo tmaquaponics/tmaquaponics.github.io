@@ -8,7 +8,7 @@ tags:
 
 ### Introduction
 
-The nitrogen cycle is a natural process that occurs in nature and in your aquarium. In this process microscopic bacteria converts the harmful and toxic waste to less toxic substances. In nature, nitrogen is diluted into bodies of water and washed away by rain, running streams and rivers. In your tank, it is trapped with nothing to carry it away. Without the nitrogen cycle, your fish and invertebrates will die within days from ammonia poisoning. That makes the nitrogen cycle the back on which rest everything you do in the hobby, from recreational keeping to breeding. It is the most important process in the hobby, so you should read this blog post carefully :)
+The nitrogen cycle is a natural process that occurs in nature and in your aquarium. In this process microscopic bacteria converts the harmful and toxic waste to less toxic substances. In nature, nitrogen is diluted into bodies of water and washed away by rain, running streams and rivers. In your tank, it is trapped with nothing to carry it away. Without the nitrogen cycle, your fish and invertebrates will die from ammonia poisoning within a few days. That makes the nitrogen cycle the back on which rests everything you do from recreational keeping to breeding. It is the most important process in the hobby, so you should read this blog post carefully :)
 
 In this article, we will explore :
 - Where the toxic waste (ammonia) comes from.
@@ -17,7 +17,7 @@ In this article, we will explore :
 
 By the end of this article, you will understand what goes on in your tank at a deeper level than most aquarists. More importantly, you will have the knowledge to create a healthy and stable underwater ecosystem that your fish will thank you for.
 
-### The nitrogen cycle
+### Overview
 
 There are two halfs of the nitrogen cycle, nitrification and denitrification :
 
@@ -30,11 +30,12 @@ As you can see in the above diagram, there are 4 stages in the nitrogen cycle :
 
 - Ammonification : in this stage, fish waste, uneaten food, decaying plants, dead fish and snails, detritus, are naturally converted into ammonia, a deadly substance for your fish and aquatic invertebrates. This conversion happens automatically and constantly in your tank.
 
-- Nitrification stage 1 : the second phase in the nitrogen cycle is about turning that harmful ammonia into nitrites, a less harmful substance for your fish. This conversion is done by nitrifying bacteria like nitrosomonas-type bacteria.
+- Nitrification stage 1 : the second phase in the nitrogen cycle is about turning that harmful ammonia into nitrites (NH3 --> $NO2^{-}$), a less harmful substance for your fish. This conversion is done by nitrifying bacteria like Nitrosomonas-type bacteria.
 
-- Nitrification stage 2 : in this stage, nitrobacter-type bacteria converts the nitrites into nitrates, an overall less harmful substance for your fish.
+- Nitrification stage 2 : in this stage, Nitrobacter-type bacteria converts the nitrites into nitrates ($NO2^{-}$ --> $NO3^{-}$), an overall less harmful substance for your fish.
 
-- Assimilation : in this stage, the nitrates are absorbed by the plant life in your aquarium. Remaining nitrates are diluted by water changes.
+- Assimilation : in this stage, the nitrates are absorbed by the plant life in your aquarium.
+- Remaining nitrates are diluted by water changes.
 
 Quick rule of thumb :
 - Ammonia and nitrite must always be 0.00 mg/L in a properly cycled tank.
@@ -44,7 +45,29 @@ Quick rule of thumb :
 
 **Denitrification**
 
-A fifth stage in the nitrogen cycle is denitrification. The bacteria involved in that process converts nitrates into nitrogen gas by consuming organic biomass (a source of carbon). This type of process occurs in zones with no oxygen (anerobic, anoxic). For example, in a deep substrate.
+A fifth stage in the nitrogen cycle is denitrification. The Pseudomonas-like bacteria involved in that process converts nitrates into nitrogen gas ($NO3^{-}$ --> N2) by consuming organic biomass (a source of carbon). This type of process occurs in zones with no oxygen (anerobic, anoxic). For example, in a deep substrate.
+
+### The sources of ammonia
+
+Your aquarium is a closed system where every input has eventually an output. This applies to your fish, plants, food and every living think in your tank.
+
+Every food you throw in your tank gets converted into ammonia, every dead thing in your tank gets converted into ammonia. However, the number one source of ammonia is fish waste.
+
+1. Fish waste 
+	- Fish excrete ammonia through their gills (70-80% of their nitrogen waste).
+	- The rest comes out from their poop, which quickly breaks down into ammonia.
+2. Uneaten food
+	 - Uneaten food in your tank starts rotting and decaying withing a few hours and can produce a lot of ammonia.
+3. Dead or dying organic matter
+	-  Decaying fish and plant matter. Excess detritus that builds up at the bottom of the tank.
+4. Tap water 
+	- Many municipal water supplies use chloramine (chlorine + ammonia)
+	- Standard dechlorinators break down the chlorine bond, but release the ammonia into your tank.
+5. Overstocking and overfeeding
+6. Filter breakdown
+	- Old filter sponge that is never rinsed becomes an ammonia factory.
+7. New substrate or decorations
+	- Some materials can leach small amounts of ammonia.
 
 ### The beneficial bacteria
 
@@ -63,28 +86,6 @@ In most home aquariums, the real nitrite oxidizers is Nitrospira, not the Nitrob
 The temperature and pH have a big influence of the colony of bacteria and its reproduction. The sweet spots are 28-30 Celsius for temperature and 7.2 - 8.2 for pH.
 
 > You can increase the temperature of your tank to accelerate the colony growth and then reduce it when you introduce your fish.
-
-### The sources of ammonia
-
-Your aquarium is a closed system where every input has eventually an output. This applies to your fish, plants, food and every living think in your tank.
-
-Every food you throw in your tank gets converted into ammonia, every dead thing in your tank gets converted into ammonia. However, the number one source of ammonia is fish waste.
-
-1. Fish waste 
-	- Fish excrete ammonia through their gills (70-80% of their nitrogen waste).
-	- The rest comes out from their poop, which quickly breaks down into ammonia.
-2. Uneaten food
-	 - Uneaten food in your tank starts rotting and decaying withing a few hours and can produce a lot of ammonia. A single pleco wafer can produce as much as ten small fish for an entire day.
-3. Dead or dying organic matter
-	-  Decaying fish and plant matter. Excess detritus that builds up at the bottom of the tank.
-4. Tap water 
-	- Many municipal water supplies use chloramine (chlorine + ammonia)
-	- Standard dechlorinators break down the chlorine bond, but release the ammonia into your tank.
-5. Overstocking and overfeeding
-6. Filter breakdown
-	- Old filter sponge that is never rinsed becomes an ammonia factory.
-7. New substrate or decorations
-	- Some materials can leach small amounts of ammonia.
 
 ### Cycling methods
 

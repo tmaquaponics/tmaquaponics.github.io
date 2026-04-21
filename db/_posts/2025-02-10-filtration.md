@@ -22,7 +22,7 @@ Three stages of filtration are to be expected :
 
 Remaining toxic compounds should be absorbed by your plants and removed through water changes.
 <!--more-->
-> Chemical filtration is usually done with things like activated carbon and ammonia absorbing zeolite. Though how effective available products are at performing chemical filtration is yet to be scientifically verified (1). Some people in the hobby argue that chemical filtration is a scam. What do you think ? I think it is not a scam, chemically filtering water is a thing, but I am not a chemist nor a water treatment PhD. However, I do believe that there is an abuse of the consumer in that regard and that you should educate yourself on the subject before buying anything.
+> Chemical filtration is usually done with things like activated carbon and ammonia absorbing zeolite. Though how effective available products on the market are at performing chemical filtration is yet to be verified. Some people in the hobby argue that chemical filtration is a scam. What do you think ? I think it is not a scam, chemically filtering water is a thing, but I am not a chemist nor a water treatment PhD. However, I do believe that there is an abuse of the consumer in that regard and that you should educate yourself on the subject before buying anything.
 
 The media responsible for the biological filtration should be specifically designed to hold a lot of beneficial bacteria. Meaning, it should have a big surface area for the bacteria to colonize. The bigger the surface area the better for your filtration, as more beneficial bacteria can take home into your media. For example, lava rock in the picture below is a popular media in the hobby due to its porous nature, which gives it a big surface area relative to its volume.
 
@@ -153,6 +153,3 @@ You can seed and aquarium using different methods :
 We have explored the basics of filtration, with examples from commercial and DIY solutions. With the information provided here, you can be confident in providing a clean water to your fish, in navigating different products available on the market or in building custom solutions yourself.
 
 Happy fishkeeping !!
-### References
-
-10. [https://www.sciencedirect.com/science/article/abs/pii/S1387700321005335](https://www.sciencedirect.com/science/article/abs/pii/S1387700321005335){:target="_blank"} 
