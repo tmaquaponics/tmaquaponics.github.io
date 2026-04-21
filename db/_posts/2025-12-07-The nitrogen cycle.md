@@ -93,7 +93,7 @@ The nitrifying bacteria need oxygen to do the conversion from ammonia to nitrate
 
 ### Cycling methods
 
-You can establish the cycle using different ways :
+You can kickstart and establish the cycle using different ways :
 
 - Using fish or snails : you can slowly introduce more and more fish or snails into the new tank. They will produce a little bit of ammonia everyday, enough that the beneficial bacteria can deal with. After a few weeks, you can introduce all the remaining fish. It is still best to gradually introduce more fish to the new tank.
 
