@@ -1,9 +1,13 @@
 ---
-layout: post
+layout: default
 title: Species profile - Molly fish
 tags: species-profile molly
 image: 1739103569781.jpg
 ---
+
+<ul><li><a href="{{ site.url }}/db/">Back</a></li></ul>
+
+## Species profile - Molly fish
 
 ### Introduction
 
