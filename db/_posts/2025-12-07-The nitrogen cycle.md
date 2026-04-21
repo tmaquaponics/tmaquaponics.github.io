@@ -10,14 +10,16 @@ tags:
 
 The nitrogen cycle is a natural process that occurs in nature and in your aquarium. In this process microscopic bacteria converts the harmful and toxic waste to less toxic substances. In nature, nitrogen is diluted into bodies of water and washed away by rain, running streams and rivers. In your tank, it is trapped with nothing to carry it away. Without the nitrogen cycle, your fish and invertebrates will die from ammonia poisoning within a few days. That makes the nitrogen cycle the back on which rests everything you do from recreational keeping to breeding. It is the most important process in the hobby, so you should read this blog post carefully :)
 
-In this article, we will explore :
+In this article, we will present a high level overview of the nitrogen cycle then explore :
 - Where the toxic waste (ammonia) comes from.
 - How different types of bacteria turn that poison into something harmless.
 - How to grow those bacteria quickly and safely.
 
+Finally, we will provide a quick response guide to implement in case there are problems in your tank.
+
 By the end of this article, you will understand what goes on in your tank at a deeper level than most aquarists. More importantly, you will have the knowledge to create a healthy and stable underwater ecosystem that your fish will thank you for.
 
-### Overview
+### The nitrogen cycle
 
 There are two halfs of the nitrogen cycle, nitrification and denitrification :
 
@@ -30,7 +32,7 @@ As you can see in the above diagram, there are 4 stages in the nitrogen cycle :
 
 - Ammonification : in this stage, fish waste, uneaten food, decaying plants, dead fish and snails, detritus, are naturally converted into ammonia, a deadly substance for your fish and aquatic invertebrates. This conversion happens automatically and constantly in your tank.
 
-- Nitrification stage 1 : the second phase in the nitrogen cycle is about turning that harmful ammonia into nitrites (NH3 --> $NO2^{-}$), a less harmful substance for your fish. This conversion is done by nitrifying bacteria like Nitrosomonas-type bacteria.
+- Nitrification stage 1 : the second phase in the nitrogen cycle is about turning that harmful ammonia into nitrites (NH3 --> $$NO2^{-}$$), a less harmful substance for your fish. This conversion is done by nitrifying bacteria like Nitrosomonas-type bacteria.
 
 - Nitrification stage 2 : in this stage, Nitrobacter-type bacteria converts the nitrites into nitrates ($$NO2^{-}$$ --> $$NO3^{-}$$), an overall less harmful substance for your fish.
 
@@ -45,7 +47,7 @@ Quick rule of thumb :
 
 **Denitrification**
 
-A fifth stage in the nitrogen cycle is denitrification. The Pseudomonas-like bacteria involved in that process converts nitrates into nitrogen gas ($$NO3^{-}$$ --> N2) by consuming organic biomass (a source of carbon). This type of process occurs in zones with no oxygen (anerobic, anoxic). For example, in a deep substrate.
+A fifth stage in the nitrogen cycle is denitrification. The Pseudomonas-like bacteria involved in that process converts nitrates into nitrogen gas ($$NO3^{-}$$ --> N2) by consuming organic biomass (a source of carbon). This type of process occurs in zones with no oxygen (anerobic, anoxic). For example, in a deep substrate. Providing a source of carbon for the denitrifying bacteria is know as carbon dosing. This is usually done with sugar or ethanol, especially in nitrates reactors.
 
 ### The sources of ammonia
 
@@ -87,6 +89,8 @@ The temperature and pH have a big influence of the colony of bacteria and its re
 
 > You can increase the temperature of your tank to accelerate the colony growth and then reduce it when you introduce your fish.
 
+The nitrifying bacteria need oxygen to do the conversion from ammonia to nitrate, this is why nitrifying filters operate in rich oxygen or aerobic environment. Denitrifying bacteria on the other hand are facultative bacteria that get their oxygen from nitrate and convert it into nitrogen gas. The denitrifying bacteria require an oxygen depleted or anerobic environment to perform this conversion. Denitrifying filters are not that common in the hobby and certainly not mainstream in the freshwater side of fishkeping. 
+
 ### Cycling methods
 
 You can establish the cycle using different ways :
@@ -127,6 +131,11 @@ Another great threat that gets unnoticed is the use of medication. Before medica
 
 > Cleaning your filters and tank is a must but over-cleaning can do more harm than good. Detritus, mulm, biofilm and decaying matters are part of the ecosystem in your tank. Removing too much stuff from your tank can disturb the balance of that ecosystem. 
 
+**Removing nitrates using denitrification**
+The most common ways to remove nitrates is through plants and water changes. If you have a heavy stocking in your tank, the amount of plants you can jam into your aquarium is not sufficient to get rid of nitrates. That being said, they play a big role in reducing the volume of water that needs to be changed each time. 
+
+If you don't like doing water changes like me, you can consider implementing denitrification filters.
+
 **Testing your water**
 You can test your water using test stripes or liquid test kits. The word on the street in that test kits are more reliable. Make sure you follow the manufacturer instructions and do testing from time to time or when you notice a problem in your tank.
 
@@ -149,10 +158,8 @@ Even established tanks can have problems that arise from time to time. The follo
 
 We have briefly explored the nitrogen cycle, its phases, the beneficial bacteria at its heart and a quick response guide in case somethig goes wrong.
 With the information provided here you can be confident in setting up a healthy and stable environement for your fish and aquatic life and in navigating further resources.
- 
+
 ### References
 
 1. [Video - Aquarium Nitrogen Cycle - Full Explanation and Correcting Wrong Information](https://www.youtube.com/watch?v=VEjkh591s3Y&pp=0gcJCSMKAYcqIYzv){:target="_blank"}
-2. [Video series - How to build a no water change tank](https://www.youtube.com/watch?v=ESOdO0DME-o&list=PLoCeNrgxAKsApZcIp3-zX4oI06KFS4jFx){:target="_blank"}
-3. [Video - The "Other" Part Of The Nitrogen Cycle; Is Denitrification Worth It? ](https://www.youtube.com/watch?v=DDTVFQ6xQDA){:target="_blank"}
-4. [Video - Dr Tim's Aquatics podcast - Denitrification](https://www.youtube.com/watch?v=zUwGnrjKkkY){:target="_blank"}
+2. [Video - The "Other" Part Of The Nitrogen Cycle; Is Denitrification Worth It? ](https://www.youtube.com/watch?v=DDTVFQ6xQDA){:target="_blank"}
