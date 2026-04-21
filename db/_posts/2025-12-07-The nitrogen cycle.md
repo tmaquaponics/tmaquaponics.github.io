@@ -39,15 +39,13 @@ As you can see in the above diagram, there are 4 stages in the nitrogen cycle :
 - Assimilation : in this stage, the nitrates are absorbed by the plant life in your aquarium.
 - Remaining nitrates are diluted by water changes.
 
-Quick rule of thumb :
+<ins>Quick rule of thumb:</ins>
 - Ammonia and nitrite must always be 0.00 mg/L in a properly cycled tank.
 - Any reading > 0.25 mg/L ammonia or nitrite --> immediate large water change.
 - Target nitrate < 20 mg/L for sensitive fish.
 - Hardy community fish (guppies, platies, mollies) can tolerate up to 40–50 mg/L nitrate long-term.
 
-**Denitrification**
-
-A fifth stage in the nitrogen cycle is denitrification. The Pseudomonas-like bacteria involved in that process converts nitrates into nitrogen gas ($$NO3^{-}$$ --> N2) by consuming organic biomass (a source of carbon). This type of process occurs in zones with no oxygen (anerobic, anoxic). For example, in a deep substrate. Providing a source of carbon for the denitrifying bacteria is know as carbon dosing. This is usually done with sugar or ethanol, especially in nitrates reactors.
+**Denitrification:** A fifth stage in the nitrogen cycle is denitrification. The Pseudomonas-like bacteria involved in that process converts nitrates into nitrogen gas ($$NO3^{-}$$ --> N2) by consuming organic biomass (a source of carbon). This type of process occurs in zones with no oxygen (anerobic, anoxic). For example, in a deep substrate. Providing a source of carbon for the denitrifying bacteria is know as carbon dosing. This is usually done with sugar or ethanol, especially in nitrates reactors.
 
 ### The sources of ammonia
 
@@ -150,7 +148,6 @@ Even established tanks can have problems that arise from time to time. The follo
 | Nitrate > 80-100 mg/L                | Too many fish / Too few water changes and plants  | 50-70 % water change over two days + add more plants.                                            | Reduce stocking and implement nitrate removal methods |
 | Brown diatoms everywhere             | New tank + high nitrate                           | Normal the first few weeks. Add more plants and snails.                                          | Disappears eventually                                 |
 | Sudden pH crash. Nitrates > 120 mg/L | Old tank syndrome. Excessive bacteria respiration | Increase aeration + do 70% water change                                                          | Vacuum substrate, reduce feeding, add more plants.    |
-
 
 ### Conclusion
 
