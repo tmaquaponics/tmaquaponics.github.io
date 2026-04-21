@@ -115,9 +115,7 @@ To avoid killing your bacteria, you should never clean your filters under tap wa
 
 Another great threat that gets unnoticed is the use of medication. Before medicating your fish for whatever disease, make sure you have plenty of backup of established media. In the case where you notice an unbalance in your tank after medication, you can intervene rapidly and adjust your medication, do a water change or treat your fish separately in another tank with the safe option of having a live culture of beneficial bacteria.
   
-**Removing nitrates**
-
-Keeping the nitrogen cycle going is long term game with adjustments and monitoring on a short term basis. With bacteria alive and kicking, you need to remove the nitrates from your tank using one or many of the following ways :
+**Removing nitrates:** Keeping the nitrogen cycle going is long term game with adjustments and monitoring on a short term basis. With bacteria alive and kicking, you need to remove the nitrates from your tank using one or many of the following ways :
 
 - Water changes : this is the most used method in the hobby. Depending on your fish load and your tan size, change about 20-25 % of your water every week. Make sure the new water is safe and about the same temperature as your tank.
 
@@ -133,15 +131,11 @@ Keeping the nitrogen cycle going is long term game with adjustments and monitori
 
 > Cleaning your filters and tank is a must but over-cleaning can do more harm than good. Detritus, mulm, biofilm and decaying matters are part of the ecosystem in your tank. Removing too much stuff from your tank can disturb the balance of that ecosystem. 
 
-**Removing nitrates using denitrification**
-
-The most common ways to remove nitrates is through plants and water changes. If you have a heavy stocking in your tank, the amount of plants you can jam into your aquarium is not sufficient to get rid of nitrates. That being said, they play a big role in reducing the volume of water that needs to be changed each time. 
+**Removing nitrates using denitrification:** The most common ways to remove nitrates is through plants and water changes. If you have a heavy stocking in your tank, the amount of plants you can jam into your aquarium is not sufficient to get rid of nitrates. That being said, they play a big role in reducing the volume of water that needs to be changed each time. 
 
 If you don't like doing water changes like me, you can consider implementing denitrification filters.
 
-**Testing your water**
-
-You can test your water using test stripes or liquid test kits. The word on the street in that test kits are more reliable. Make sure you follow the manufacturer instructions and do testing from time to time or when you notice a problem in your tank.
+**Testing your water:** You can test your water using test stripes or liquid test kits. The word on the street in that test kits are more reliable. Make sure you follow the manufacturer instructions and do testing from time to time or when you notice a problem in your tank.
 
 ### Common problems and troubleshooting
 
