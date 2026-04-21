@@ -45,7 +45,7 @@ Quick rule of thumb :
 
 **Denitrification**
 
-A fifth stage in the nitrogen cycle is denitrification. The Pseudomonas-like bacteria involved in that process converts nitrates into nitrogen gas ($NO3^{-}$ --> N2) by consuming organic biomass (a source of carbon). This type of process occurs in zones with no oxygen (anerobic, anoxic). For example, in a deep substrate.
+A fifth stage in the nitrogen cycle is denitrification. The Pseudomonas-like bacteria involved in that process converts nitrates into nitrogen gas ($$NO3^{-}$$ --> N2) by consuming organic biomass (a source of carbon). This type of process occurs in zones with no oxygen (anerobic, anoxic). For example, in a deep substrate.
 
 ### The sources of ammonia
 
