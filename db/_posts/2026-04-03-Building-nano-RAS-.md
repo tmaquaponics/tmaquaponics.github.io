@@ -139,7 +139,7 @@ My problem is that denitrification requires a source of carbon to operate. So th
 
 <ins>Plants vs nitrogen and phosphorus</ins>
 
-I chose to dedicate two to three tanks in the design as a plant filtration tanks with the purpose of removing nitrates from the system and as a substitute for denitrification. This is a temporary solution, since the volume of plants in the tanks will not allow a total removal of nitrates. 
+I chose to dedicate two to three tanks in the design as a plant filtration tanks with the purpose of removing nitrates from the system and as a substitute for denitrification. This is a temporary solution since the volume of plants in the tanks will not allow a total removal of nitrates. 
 
 *Plants consume the nitrates produced from nitrification*. This is the 'usual' claim found online. In reality, plants play a different role in an aquatic ecosystem. In an article written by Diana Walstad [3], it is shown that plants prefer the absorbtion of ammonium in place of nitrates; which means, plants are competing with our beneficial bacteria to consume the ammonia present in the water. They do absorbe nitrates but only when ammonia is depleted. More importantly for us, ammonia removal occurs regardless of the presence or absence of light, whereas nitrates removal necessitates light to take place.
 
@@ -196,6 +196,8 @@ The structure of the rack is build using dado joints, which is a strong joint; p
 *50 gallons (180 Liters) tank with euro-bracing*
 
 The tanks are build using 5mm glass including the 180 Liters tank. This choice was made to make the aquariums light, easy and cheap to repair. This was possible because the tanks are only 35 cm tall and because the big tanks have euro-bracing at the top and a cross bracing in the middle.
+
+### Final design and thinking outside the box
 
 ### References 
 
