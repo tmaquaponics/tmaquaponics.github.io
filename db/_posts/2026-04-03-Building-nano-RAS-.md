@@ -199,19 +199,19 @@ The tanks are build using 5mm glass including the 180 Liters tank. This choice w
 
 ### Final design and thinking outside the box
 
-After goin back and forth a few times with my designs and prototypes. It appeared to me that I was thinking too much inside the box. Number of tanks, multiple filtrations, best configuration for breeding and filtration, etc...The problem I am trying to solve should not be tied to the rack. What I am trying to do is :
+After goin back and forth a few times with my designs and prototypes, it appeared to me that I was thinking too much inside the box. Number of tanks, multiple filtrations, best configuration for breeding and filtration, etc...The problem I am trying to solve should not be defined by the limitations of the rack. The rack should be an answer to that problem, not be part of it. What I am trying to do is :
 
 1. Breed fish. 
 2. Give them the best possible life. 
 3. With minimal intervention and maintenance on my part.
 
-So, essentially, the tanks should be a dedicated space for fish to live and breed, and if I want to integrate, modify and upgrade filtration systems, I shouldn't be constrained by the number or volume of tanks.
+So, essentially, the tanks should be a dedicated space for fish to live and breed; and if I want to integrate, modify or upgrade the filtration system, I shouldn't be constrained by the number or volume of tanks.
 
-Looking a bit at how filtration is done in ponds and aquaponics setups, filtration is always separated from the fish' living area. This separation of concerns allows flexibility and a readiness for change that are quite valuable in fishkeeping. Similarly, in my setup, filtration should be detached from to the rack entirely.
+Looking a bit at how filtration is done in ponds and ras systems, filtration is always separated from the fish' living area. This separation of concerns allows flexibility and a readiness for change that are quite valuable in fishkeeping. Similarly, in my setup, filtration should be detached as much as possible from to the rack.
 
 What can be done here?
 
-Well, either I design an external filtration that works with gravity. But in that case, I must figure out a system that intercepts water before it returns to the sump. Difficult to do considering there's not much height to work with. Or, add another identical pump. This second option increases the electricity bill but opens up so much possibilities, especially if I integrate a denitrator. It is also relevant if we consider that replication is important within a RAS (if the main pump breaks, I can replace it directly with the second pump).
+Well, either I design an external filtration that works with gravity. But in that case, I must figure out a system that intercepts water before it returns to the sump. Difficult to do considering there's not much height to work with. Or, add another identical pump. This second option increases the electricity bill but opens up so much possibilities. It is also relevant if we consider that replication is important within a RAS (if the main pump breaks, I can replace it directly with the second pump).
 
 ...
 
