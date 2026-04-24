@@ -207,11 +207,11 @@ After goin back and forth a few times with my designs and prototypes. It appeare
 
 So, essentially, the tanks should be a dedicated space for fish to live and breed, and if I want to integrate, modify and upgrade filtration systems, I shouldn't be constrained by the number or volume of tanks.
 
-Looking a bit at how filtration is done in ponds and aquaponics setups, filtration is always separated from the fish' living area. This separation of concerns allows flexibility and a readiness for change that are quite valuable in fishkeeping. In my setup, since recirculation and filtration are done by a pump, filtration can similarly be detached from to the rack entirely.
+Looking a bit at how filtration is done in ponds and aquaponics setups, filtration is always separated from the fish' living area. This separation of concerns allows flexibility and a readiness for change that are quite valuable in fishkeeping. Similarly, in my setup, filtration should be detached from to the rack entirely.
 
 What can be done here?
 
-Well, either I design an external filtration that works with gravity, since the water returns to the sump with gravity. But in that case, I must figure out a system that intercepts water before it returns to the sump. Difficult to do considering there's not much height to work with. Or, add an identical pump. This second option increases the electricity bill but opens up so much possibilities. It is also relevant if we consider that replication is important within a RAS (if the main pump breaks, I can replace it directly with the second pump).
+Well, either I design an external filtration that works with gravity. But in that case, I must figure out a system that intercepts water before it returns to the sump. Difficult to do considering there's not much height to work with. Or, add another identical pump. This second option increases the electricity bill but opens up so much possibilities, especially if I integrate a denitrator. It is also relevant if we consider that replication is important within a RAS (if the main pump breaks, I can replace it directly with the second pump).
 
 ...
 
