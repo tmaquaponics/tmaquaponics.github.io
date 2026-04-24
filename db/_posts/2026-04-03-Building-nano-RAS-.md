@@ -67,11 +67,11 @@ On the supperior levels, each level has three overflow gutters. All overflow gut
 ![Water flow system](/assets/img/IMG_20260406_060029.jpg)
 *Water flow system*
 
-> Why three taps and three overflows on each level ? To allow the user of the rack to change the configuration of the tanks ;)
+> Why three taps and three overflows on each level ? To give us the ability to change the configuration of the tanks ;)
 
-Connecting all the tanks together will enable us to put in place a central filtration system. As we will see later, the filtration can be in sequential for maximum throughput or set up in parallel in case we want to repurpose L1 with a breeding and grow-out tank. A central filtration lowers the cost of filtration since one pump will filter many tanks at once. But connecting the tanks has other advantages as well: a better water stability and an increased ease in water changes.
+Connecting all the tanks together will enable me to put in place a central filtration system. As we will see later, the filtration can be in sequential for maximum throughput or set up in parallel in case we want to repurpose L1 with a breeding and grow-out tank. A central filtration lowers the cost of filtration since one pump will filter many tanks at once. But connecting the tanks has other advantages as well: a better water stability and an increased ease in water changes.
 
-Compared to a small tank, a big volume of water is less affected by fluctuations of temperature and toxicity levels of ammonia, nitrite and nitrate. This also means it's better to feed each tank in the rack at a different time to equally and gradually distribute the ammonia spike from the food on all the tanks at once. As for water changes, they can be performed, like in the previous design, simply by emptying and refilling one of the tanks.
+Compared to a small tank, a big volume of water is less affected by fluctuations of temperature and toxicity levels of ammonia, nitrite and nitrate. This also means it's better to feed each tank in the rack at a different time to equally and gradually distribute the ammonia spike from the food on all the tanks. As for water changes, they can be performed, like in the previous design, simply by emptying and refilling one of the tanks.
 
 > An objection I got discussing my design with a LFS owner was disease outbreaks and the propagation of pathogens from one tank to another. This is a serious concern that I know too well. Indeed, when I had the previous design, I faced the infortunate challenge of dealing with anchorworms. They spread rapidely in the system and all I could do was to remove them by hand and increase the temperature. This design is no different since all the tanks are connected together...or is it ? Unlike the previous design, I can isolate a tank whenever I want simply by turning off its tap, treat it with medication separatly from the other tanks or take it out completely from the system. Other tanks will not be affected at all. But the most important point here is that this design is build for breeding and not for display at a local fish store. Which means, no exterior fish will be put in it. So, theorethically, if the parents are healthy, and I am carefull not to introduce anything to the system, all the fish will remain just as healthy as their parents.
 
@@ -86,7 +86,7 @@ The rack has 4 levels: L1 to L4. Each level is designd to host a number of tanks
 L1 will have the big 180 Liters used as a settling tank instead of a sump.
 Level L2 will host two aquariums, one of 60 Liters and one of 120 Liters.
 Level L3 will host two aquariums of 90 Liters each. 
-Level L4 will host 3 60 Liters tanks for filtration only. 1 tank for the MBBR and the other two as plant filtration tanks.
+Level L4 will host 3 aquariums of 60 Liters. 1 tank for the MBBR and the other two as plant filtration tanks.
 
 In this configuration, space is allocated in priority for breeding and grow-out, while filtration is converted from done in sequence, from one chamber of the sump to the other and back to the tanks, to being done in parallel in the top level.
 
@@ -104,34 +104,24 @@ Same as configuration 2 but in L3 we put three 60 Liters tanks instead of a 180 
 
 **Each tank has a filter of its own:**
 
-Each breeding tank will have a sponge filter. Plant filtration tanks will have an under-gravel filter. I chose to incorporate an UGF filter in the design since it is bullet-proof, unbreakable and requires less maintenace than a sponge filter.
+Each breeding tank will have a sponge filter. Plant filtration tanks will have an under-gravel filter. I chose to incorporate an UGF filter in the design because it is bullet-proof, unbreakable and requires less maintenace than a sponge filter.
 
 **Combine multiple filtration systems for maximum benefits:**
 
 Three types of filtration will be implemented. A central filtration system in the form of a sump or MBBR, individual sponge and UGF filters for the tanks and two to three tanks dedicated for plants. Unfortunatly, I can't and I don't really want to spend much money on a UV light. So the water will not be sterilized, big whoop!
 
-Degassing and oxygination in the system are done as a by-product of the design. How convenient is that !? :D Let me explain...The tap above each tank is elevated from its rim by about 10cm, so the presurized pumped water from L1 makes a lot of splashes and bubbles when entering each tanks. This process, although noisy, enables the oxygination of the water quite well. The MBBR also plays a role here since it is operated by an air pump and the constant bubbling enables degassing.
+Degassing and oxygination in the system are done as a by-product of the design. How convenient is that !? :D Let me explain...The MBBR is operated by an air pump and the constant bubbling enables degassing. In addition, the tap above each tank is elevated from its rim by about 10cm, so the presurized pumped water from L1 makes a lot of splashes and bubbles when entering each tanks. This process, although noisy, contributes to the oxygination of the water quite well.
 
-A big portion of the clarification and solids removal will be done by the sump, in addition to the sponge filters and UGFs.
-
-Obviously, detritus and sinked particles must be siphoned by hand in each tank.
+A big portion of the clarification and solids removal will be done by the sump, the sponge filters and UGFs. Obviously, detritus and sinked particles must be siphoned by hand in each tank.
 
 > In the design, each tank has an input of water from the tap above it and an output of water using the overflow bulkhead. If we connect a small flexible hose to the tap, we can direct the flow of water where we want in the tank. This means that each tank can be converted to a filter, with water entering from one side and exiting from the other.
 
 <ins>Sequential vs parallel filtration</ins>
 
 We talked previously about parallel vs sequential filtration. Let's see what's the difference :
-If we assume the main pump is 5000 L/h, and that we have 6 aquariums of 60 Liters and a settling tank of 180 Liters. This means that the overall volume of water is 540 Liters. Which means, if the settling tank was a sump, meaning a sequential filtration, we would filter the volume of water 10 times per hour. Whereas, if we transform one of the 60 liters tank into a filter and keep all the others for breeding, including the settling tank, the 60 liters tank would get 5000/6 = 833 Liters of volume of water per hour. Meaning, we would filter the entirety of the volume of water 833/540 = 1.54 times per hour. Not much compared to 10 times using a sump. Obviously, the more we add parallel filters, the more that number grows.
+If we assume the main pump is 5000 L/h, and that we have 6 aquariums of 60 Liters and a settling tank of 180 Liters. This means that the overall volume of water is 540 Liters. If the settling tank was a sump, so a sequential filtration, we would filter the volume of water 10 times per hour. Whereas, if we transform one of the 60 liters tank into a filter and keep all the others for breeding, including the settling tank, the 60 liters tank would get 5000/6 = 833 Liters of volume of water per hour. Meaning, we would filter the entirety of the volume of water 833/540 = 1.54 times per hour. Not much compared to 10 times using a sump. Obviously, the more we add parallel filters, the more that number grows.
 
 Combining the sequential filtration of a sump and the parallel filtration of all the sponge and UGF filters plus the plant filtration tanks will garentee prestine water quality.
-
-<ins>Plants vs nitrogen and phosphorus</ins>
-
-I chose to dedicate two to three tanks in the design as a plant filtration tanks with the purpose of removing nitrates from the system and as a substitute for denitrification. Plants consume the nitrates produced from nitrification. This is the 'usual' claim found online. In reality, plants play a different role in an aquatic ecosystem. In an article written by Diana Walstad [3], it is shown that plants prefer the absorbtion of ammonium in place of nitrates; which means, plants are competing with our beneficial bacteria to consume the ammonia present in the water. They do absorbe nitrates but only when ammonia is depleted. More importantly for us, ammonia removal occurs regardless of the presence or absence of light, whereas nitrates removal necessitates light to take place.
-
-It's not a choice of putting plants into work or not but a choice of which species of plants to use. Since the top level has UGFs with coarse gravel, the choice was made to ditch rooted plants and to prioritize free floating ones like salvinia, water lettuce, hornwort and elodea. These plants are powerful in nitrogen and phosphorus absorbtion and can be easily maintained within dedicated aquariums.
-
-It's not so clear to me how the phosphorus cycle occurs in an aquarium, but I all need to know is that the plants consume it to build biomass. (Maybe the subject of a future post right there :)
 
 <ins>Denitrification</ins>
 
@@ -146,6 +136,16 @@ Denitrification is the most imortant process in the entire build. Honestly, how 
 3. BCB baskets : the anoxic solution presented by Dr Novak consists of a mix of kitty litter and a source of iron in the form of laterite. How effective this type of filtration is remains to be verified.
 
 My problem is that denitrification requires a source of carbon to operate. So the carbon can either be in the form of waste in the system or added directly as an external source. But for now, we will get rid of nitrates by assimilation using plants.
+
+<ins>Plants vs nitrogen and phosphorus</ins>
+
+I chose to dedicate two to three tanks in the design as a plant filtration tanks with the purpose of removing nitrates from the system and as a substitute for denitrification. This is a temporary solution, since the volume of plants in the tanks will not allow a total removal of nitrates. 
+
+*Plants consume the nitrates produced from nitrification*. This is the 'usual' claim found online. In reality, plants play a different role in an aquatic ecosystem. In an article written by Diana Walstad [3], it is shown that plants prefer the absorbtion of ammonium in place of nitrates; which means, plants are competing with our beneficial bacteria to consume the ammonia present in the water. They do absorbe nitrates but only when ammonia is depleted. More importantly for us, ammonia removal occurs regardless of the presence or absence of light, whereas nitrates removal necessitates light to take place.
+
+It's not a choice of putting plants into work or not but a choice of which species of plants to use. Since the top level has UGFs with coarse gravel, the choice was made to ditch rooted plants and to prioritize free floating ones like salvinia, water lettuce, hornwort and elodea. These plants are powerful in nitrogen and phosphorus absorbtion and can be easily maintained within dedicated aquariums.
+
+It's not so clear to me how the phosphorus cycle occurs in an aquarium, but I all need to know for now is that the plants consume it to build biomass. (Maybe the subject of a future post right there :)
 
 **The rack should be optimized for breeding and, more specifically, facilitate an Integrated Multi-Trophic Aquaculture (IMTA) of ornamental fish at small scale:**
 
@@ -163,7 +163,7 @@ Basic operation of the rack is quite easy. Every level has an electrical socket 
 
 The air pump for the rack has a nob to regulate the power of the air, which is nice if you don't want to install a bleeder valve.
 
-Monthly maintenance schedule consists in performing 20% water change. Given the capacity of the system, that would account for about 120 liters each month. This is a big number to me and I was hoping, and I will work, to make it 60 liters every month. This estimate is purely speculative since I don't know how many fish I would actually breed but it gives me a number to target. Performing 20% water change every month wouldn't be enough if the denitrification methods incorporated in the system would fail or not work.
+Monthly maintenance schedule consists in performing 20% water change. Given the capacity of the system, that would account for about 120 liters each month. This is a big number for me and I was hoping, and I will work, to make it 60 liters every month. This estimate is purely speculative since I don't know how many fish I would actually breed but it gives me a number to target. Performing 20% water change every month wouldn't be enough if the nitrates removal methods incorporated in the system would fail or not work.
 
 The rack has 2 sockets on a switch at level L1, so we could put an additional pump to empty the sump tank as needed. Emptying other tanks completely is no different than emptying any other tank outside the system. It can be done either with a pump or a siphon hose.
 
@@ -175,7 +175,7 @@ Cleaning the filters should be done every other month, depending on how dirty th
 
 The rack has many systems : electrical, heating, water flow, lighting. All systems are independent from one another. Every system in the rack is modular in the sens that it can be swapped pretty easily. 
 
-Since every level has three taps and three overflow tubings, the tanks become like modules and can be swapped in and out to change from one configuration to another. The benefit here is that the rack can evolve to meet your fish breeding needs.
+Since every level has three taps and three overflow tubings, the tanks become like modules and can be swapped in and out to change from one configuration to another. The benefit here is that the rack can evolve to meet my fish breeding needs.
 
 The electrical system is modular by design and the 'control' panel is designed so that another rack can be directly plugged to it.
 
@@ -185,7 +185,7 @@ The wood can be screwed or disassembled using a screwdriver or an electric drill
 
 **The build must pass the test of time:**
 
-The rack is designed with maintenace, repairs and modifications in mind. The structure is wood, screws, paint and materials you can find at a regular hardware store. Everything in the rack can be easily repaired, replaced or upgraded. 
+The rack is designed with maintenace, repairs and modifications in mind. The structure is wood, screws, paint and materials I can find at a regular hardware store. Everything in the rack can be easily repaired, replaced or upgraded.
 
 ![Dado joints](/assets/img/1000002396.jpg)
 *Dado joints*
