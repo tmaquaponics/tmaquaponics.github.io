@@ -145,7 +145,7 @@ Denitrification is the most imortant process in the entire build. Honestly, how 
 
 3. BCB baskets : the anoxic solution presented by Dr Novak consists of a mix of kitty litter and a source of iron in the form of laterite. How effective this type of filtration is remains to be verified.
 
-My problem is that denitrification requires a source of carbon to operate, so the carbon can either be in the form of waste in the system or added directly as an external source. But for now, we will get rid of nitrates by assimilation using plants.
+My problem is that denitrification requires a source of carbon to operate. So the carbon can either be in the form of waste in the system or added directly as an external source. But for now, we will get rid of nitrates by assimilation using plants.
 
 **The rack should be optimized for breeding and, more specifically, facilitate an Integrated Multi-Trophic Aquaculture (IMTA) of ornamental fish at small scale:**
 

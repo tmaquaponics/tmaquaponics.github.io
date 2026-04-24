@@ -91,9 +91,9 @@ The temperature and pH have a big influence of the colony of bacteria and its re
 
 The nitrifying bacteria need oxygen to do the conversion from ammonia to nitrate. This is why nitrifying filters operate in an oxygen rich or aerobic environment. Denitrifying bacteria on the other hand are facultative bacteria that get their oxygen from nitrate and convert it into nitrogen gas. The denitrifying bacteria require an oxygen depleted or anerobic environment to perform this conversion. Denitrifying filters are not that common in the hobby and are certainly not mainstream in the freshwater side of fishkeping. 
 
-### Cycling methods
+### Growing the beneficial bacteria and cycling methods
 
-You can kickstart and establish the cycle using different ways :
+The beneficial bacteria grows on the surfaces of your [filters](https://tmaquaponics.github.io/2025/02/10/filtration.html){:target="_blank"}. To kickstart and establish your colony, you can use different ways :
 
 - Using fish or snails : you can slowly introduce more and more fish or snails into the new tank. They will produce a little bit of ammonia everyday, enough that the beneficial bacteria can deal with. After a few weeks, you can introduce all the remaining fish. It is still best to gradually introduce more fish to the new tank.
 
@@ -105,7 +105,7 @@ You can kickstart and establish the cycle using different ways :
 
 - Squeezing a dirty sponge filter :  Take a sponge filter from an established tank and squeeze it on the sponge filter of the new tank.
 
-> a great way to have a seeded sponge filter is to use a filter that has two sponges. That way you can swap one of the new sponges with an old one.
+> A great way to quickly have a seeded sponge filter is to use filters that have two sponges. At any time you can swap in one of the new sponges with an old one.
 
 ### Advanced nitrogen management
 
@@ -121,7 +121,7 @@ Keeping the nitrogen cycle going is long term game with adjustments and monitori
 
 - Water changes : this is the most used method in the hobby. Depending on your fish load and your tan size, change about 20-25 % of your water every week. Make sure the new water is safe and about the same temperature as your tank.
 
-- Plants : our favorite method. A planted tank is an ecosystem that gets better and better over time. Plants consume excess ammonia, nitrites and nitrates and considerably reduce the number of water changes.
+- Plants : My favorite method. A planted tank is an ecosystem that gets better and better over time. Plants consume excess ammonia, nitrites and nitrates and help reduce the volume of water changes.
 
 - Refugium in a sump : refugiums are used to place aquatic or terrestrial plants. Terrestrial plants can suck up more nitrates because, unlike aquatic plants, they have access to more CO2.
 
