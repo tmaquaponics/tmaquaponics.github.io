@@ -199,6 +199,14 @@ The tanks are build using 5mm glass including the 180 Liters tank. This choice w
 
 ### Final design and thinking outside the box
 
+After goin back and forth a few times on my designs and prototypes. It appeared to me that I was thinking too much inside the box. Number of tanks, multiple filtrations, best configuration for breeding and filtration, etc...The problem I am trying to resolve should not be tied to the rack. What I am trying to do is to breed fish; give them the best possible life, with minimal intervention and maintenance on my part. So, essentially, the tanks should be a dedicated space for fish to live and breed, and if I want to integrate, modify and upgrade filtration systems, I shouldn't be contrained by the number or volume of tanks. Since most filtration is done by a pump, it can be external to the rack entirely. Looking a bit at how filtration is done in ponds and aquaponics setups, filtration is always separated from the fish' living area.
+
+What can be done here? 
+
+Either design an external filtration that works with gravity, since the water returns to the sump with gravity. Or, add a second pump. This second option adds to the electricity bill but opens up interesting possibilities. It is also great if we consider that replication is important within a RAS.
+
+...
+
 ### References 
 
 1. [Video - The Components of a Recirculating Aquaculture System, RAS Fish Farming and Aquaponics](https://www.youtube.com/watch?v=B56-fHaXoKY){:target="_blank"}
