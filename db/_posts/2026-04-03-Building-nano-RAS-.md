@@ -199,10 +199,10 @@ The tanks are build using 5mm glass including the 180 Liters tank. This choice w
 
 ### Final design and thinking outside the box
 
-After goin back and forth a few times with my designs and prototypes, it appeared to me that I was thinking too much inside the box. Number of tanks, multiple filtrations, best configuration for breeding and filtration, etc...The problem I am trying to solve should not be defined by the limitations of the rack. The rack should be an answer to that problem, not be part of it. What I am trying to do is :
+After going back and forth a few times with my designs and drawings, it appeared to me that I was thinking too much inside the box. Number of tanks, multiple filtrations, best configuration for breeding and filtration, etc...The problem I am trying to solve should not be defined by the limitations of the rack. The rack should be an answer to my problem, not be part of it. What I am trying to do is :
 
-1. Breed fish. 
-2. Give them the best possible life. 
+1. Farm fish and plants.
+2. Provide the best possible environment for the two. 
 3. With minimal intervention and maintenance on my part.
 4. At a cost that works for me.
 
@@ -212,19 +212,15 @@ Looking a bit at how filtration is done in ponds and ras systems, filtration is 
 
 What can be done here?
 
-Well, either I design an external filtration that works with gravity. But in that case, I must figure out a system that intercepts water before it returns to the sump. Difficult to do considering there's not much height to work with. Or, add another identical pump. This second option increases the electricity bill but opens up so much possibilities. It is also relevant if we consider that replication is important within a RAS (If the main pump breaks, I can replace it directly with the second pump).
+Well, either I design an external filtration that works with gravity, but in that case I must figure out a system that intercepts water before it returns to the sump. Difficult to do considering there's not much height to work with. Or, add another identical pump. This second option increases the electricity bill but opens up so much possibilities. It is also relevant if we consider that replication is important within a RAS (If the main pump breaks, I can replace it directly with the second one).
 
-Before elaborating on these two choices, lets review the sump design I went with.
-
-**A minimal sump design**
-
-The configuration of the tanks that I went with is as follows :
+Before elaborating on these two choices, lets review the configuration of the tanks that I went with :
 
 At level L4 we have three 60 Liters tanks with UGFs (all other tanks have sponge filters).
 At L3, two 90 Liters tanks.
 At L2, one 60 Liters tank divided in two and one 120 Liters tank.
 
-AT L1, the sump I went with is very simple. It is divided in three compartments. The first one is 60*60 cm. Offering the same volume as the 120 Liters in L2. The remaining volume is 60*30 cm divided in two. A 20*30 cm compartment for the static media, sponges and filter floss, and the last compartment of 40*30 cm is where the main pump will be placed. The compartment where the static media is has 6 holes on the side connected the 120 Liters volume. Water flows through the holes then the static media, under the baffle and to the pump.
+AT L1, the sump I went with is very simple. It is divided in three compartments. The first one is 60*60 cm. Offering the same volume as the 120 Liters in L2. The remaining volume is 60*30 cm divided in two. A 20*30 cm compartment for the static media, sponge mats and filter floss; and the last compartment of 40*30 cm is where the main pump will be placed. The compartment where the static media is has 6 holes on the side connected the 120 Liters volume. Water flows through the holes then the static media, under the baffle and to the pump.
 
 So, basically, we have two 30 Liters, two 60 Liters, two 90 Liters and two 120 Liters. Plenty of space for the fry to grow and a configuration that can host many batches at a time. The 60*60 volume I cleared in the sump can either be used as an MBBR or a grow-out tank. Versatility !! :)
 
@@ -241,8 +237,8 @@ In this configuration the second pump feeds two circuits. One that goes to the b
 In my initial design of the sump, the moving sand bed filter was in the first chamber, where the return gutter would outputs the water. My objective was to use sand to break down the particulates that the sump gets from the tanks and use those as a source of carbon for the second chamber, which would have hosted a deep sand bed. What I am trying to do with this second circuit is to replicate part of that design, with the bonus of being able to take apart the moving sand filters and free up the 120 Liters volume.
 
 Having two pumps means that water is drawn from the sump at rate of 10000 Liters per hour. Which means the turnover of the static media compartment in the sump has doubled and now clogs twice as fast. More monitoring to do for me :\
-
-...
+ 
+>What about plants, you said you want to get of nitrates using plants?!! Yes my friends, I will be using plants at the start but will focus on denitrification methods later on. What would actually make a lot of sens is to have two racks connected together, one to breed fish and the other to culure aquatic plants. But, alas, I do not have the 'felous' as we say where I live.
 
 ### References 
 
