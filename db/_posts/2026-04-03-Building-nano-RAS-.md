@@ -212,15 +212,14 @@ Looking a bit at how filtration is done in ponds and ras systems, filtration is 
 
 What can be done here?
 
-Well, either I design an external filtration that works with gravity, but in that case I must figure out a system that intercepts water before it returns to the sump. Difficult to do considering there's not much height to work with. Or, add another identical pump. This second option increases the electricity bill but opens up so much possibilities. It is also relevant if we consider that replication is important within a RAS (If the main pump breaks, I can replace it directly with the second one).
+Well, either I design an external filtration that works with gravity, but in that case I must figure out a system that intercepts water before it returns to the sump. Difficult to do considering there's not much height to work with. Or, add another identical pump. This second option increases the electricity bill but opens up so much possibilities. It's also relevant if we consider that replication is important within a RAS (If the main pump breaks, I can replace it directly with the second one).
 
 Before elaborating on these two choices, lets review the configuration of the tanks that I went with :
 
-At level L4 we have three 60 Liters tanks with UGFs (all other tanks have sponge filters).
-At L3, two 90 Liters tanks.
-At L2, one 60 Liters tank divided in two and one 120 Liters tank.
-
-AT L1, the sump I went with is very simple. It is divided in three compartments. The first one is 60*60 cm. Offering the same volume as the 120 Liters in L2. The remaining volume is 60*30 cm divided in two. A 20*30 cm compartment for the static media, sponge mats and filter floss; and the last compartment of 40*30 cm is where the main pump will be placed. The compartment where the static media is has 6 holes on the side connected the 120 Liters volume. Water flows through the holes then the static media, under the baffle and to the pump.
+- At level L4 we have three 60 Liters tanks with UGFs (all other tanks have sponge filters).
+- At L3, two 90 Liters tanks.
+- At L2, one 60 Liters tank divided in two and one 120 Liters tank.
+- AT L1, the sump I went with is very simple. It is divided in three compartments. The first one is 60*60 cm. Offering the same volume as the 120 Liters in L2. The remaining volume is 60*30 cm divided in two. A 20*30 cm compartment for the static media, sponge mats and filter floss; and the last compartment of 40*30 cm is where the main pump will be placed. The compartment where the static media is has 6 holes on the side connected the 120 Liters volume. Water flows through the holes then the static media, under the baffle and to the pump.
 
 So, basically, we have two 30 Liters, two 60 Liters, two 90 Liters and two 120 Liters. Plenty of space for the fry to grow and a configuration that can host many batches at a time. The 60*60 volume I cleared in the sump can either be used as an MBBR or a grow-out tank. Versatility !! :)
 
