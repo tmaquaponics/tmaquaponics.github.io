@@ -221,7 +221,7 @@ Before elaborating on these two choices, lets review the configuration of the ta
 - At L2, one 60 Liters tank divided in two and one 120 Liters tank.
 - AT L1, the sump I went with is very simple. It is divided in three compartments. The first one is 60x60 cm. Offering the same volume as the 120 Liters in L2. The remaining volume is 60x30 cm divided in two. A 20x30 cm compartment for the static media, sponge mats and filter floss; and the last compartment of 40x30 cm is where the main pump will be placed. The compartment where the static media is has 6 holes on the side connected the 120 Liters volume. Water flows through the holes then the static media, under the baffle and to the pump.
 
-So, basically, we have two 30 Liters, two 60 Liters, two 90 Liters and two 120 Liters. Plenty of space for the fry to grow and a configuration that can host many batches at a time. The 60x60 volume I cleared in the sump can either be used as an MBBR or a grow-out tank. Versatility !! :)
+So, basically, we have two 30 Liters, two 60 Liters, two 90 Liters and two 120 Liters. Plenty of space for the fry to grow and a configuration that can host many batches at a time. The 60x60 volume I cleared in the sump can either be used as a grow out or an MBBR (Versatility !! :). In the later case, I wouldn't need to implment an external filtration.
 
 **Choice 1 : gravity fed filtration**
 
@@ -231,7 +231,7 @@ The static media should not be too dense here since the force of water is only g
 
 **Choice 2 : use an additional pump**
 
-In this configuration the second pump feeds two circuits. One that goes to the bottom of a static media barrel, and then following the same route as choice 1 to an MBBR barrel. And the other circuit feeds three valves above the 120 Liters volume in the sump. One valve to feed a denitrator and the two others to run a moving sand filter. Too much overkill ? The word on the streets is that 1 pound of sand can handle approximately 100 gallons of water for biological filtration. Yes but what's the stocking density we are talking about here ?
+In this configuration the second pump feeds two circuits. One that goes to the bottom of a static media barrel, and then follows the same route as choice 1 to an MBBR barrel. And the other circuit feeds three valves above the 120 Liters volume in the sump. One valve to feed a denitrator and the two others to run a moving sand filter. Too much overkill ? The word on the streets is that 1 pound of sand can handle approximately 100 gallons of water for biological filtration. Yes but what's the stocking density we are talking about here ?
 
 In my initial design of the sump, the moving sand bed filter was in the first chamber, where the return gutter would output the water. My objective was to use sand to break down the particulates that the sump gets from the tanks and use those as a source of carbon for the second chamber, which would have hosted a deep sand bed. What I am trying to do with this second circuit is to replicate part of that design, with the bonus of being able to take apart the moving sand filters and free up the 120 Liters volume.
 
