@@ -235,9 +235,9 @@ In this configuration the second pump feeds two circuits. One that goes to the b
 
 In my initial design of the sump, the moving sand bed filter was in the first chamber, where the return gutter would output the water. My objective was to use sand to break down the particulates that the sump gets from the tanks and use those as a source of carbon for the second chamber, which would have hosted a deep sand bed. What I am trying to do with this second circuit is to replicate part of that design, with the bonus of being able to take apart the moving sand filters and free up the 120 Liters volume.
 
-Having two pumps means that water is drawn from the sump at rate of 10000 Liters per hour. Which means the static media in the sump has doubled its turnover and now clogs twice as fast. More monitoring to do for me :\
+Having two pumps means that water is drawn from the sump at a rate of 10000 Liters per hour. Which means the static media in the sump has doubled its turnover and now clogs twice as fast. More monitoring to do for me :\
  
->What about plants, you said you want to get rid of nitrates using plants?!! Yes my friends, I will be using plants at the start but will focus on denitrification methods later on. What would actually make a lot of sens is to have two racks connected together, one to breed fish and the other to culure aquatic plants. But, alas, I do not have the 'felous' as we say where I live.
+>What about plants, you said you want to get rid of nitrates using plants?!! Absolutely, I will be using plants at the start but will focus on denitrification methods later on. What would actually make a lot of sens is to have two racks connected together, one to breed fish and the other to culure aquatic plants. But, alas, I do not have the 'felous' as we say where I am from.
 
 ### References 
 
