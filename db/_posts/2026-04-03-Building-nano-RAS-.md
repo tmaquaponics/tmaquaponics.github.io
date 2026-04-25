@@ -206,13 +206,13 @@ After going back and forth a few times with my designs and drawings, it appeared
 3. With minimal intervention and maintenance on my part.
 4. At a cost that works for me.
 
-So, essentially, the tanks should be a dedicated space for the fish to live and breed; and if I want to integrate, modify or upgrade the filtration system, I shouldn't be constrained by the number or volume of tanks.
+So, essentially, the tanks should be a dedicated space for the fish to live and breed; and if I want to integrate, modify or upgrade the filtration system, I shouldn't be constrained by the number or volume of the tanks.
 
-Looking a bit at how filtration is done in ponds and ras systems, filtration is always separated from the fish' living area. This separation of concerns allows flexibility and a readiness for change that are quite valuable in fishkeeping. Similarly, in my setup, filtration should be detached as much as possible from to the rack.
+Looking a bit at how filtration is done in ponds and ras systems, it is always separated from the fish' living area. This separation of concerns allows flexibility and a readiness for change that are quite valuable in fishkeeping. Similarly, in my setup, filtration should be detached as much as possible from to the rack.
 
 What can be done here?
 
-Well, either I design an external filtration that works with gravity, but in that case I must figure out a system that intercepts water before it returns to the sump. Difficult to do considering there's not much height to work with. Or, add another identical pump. This second option increases the electricity bill but opens up so much possibilities. It's also relevant if we consider that replication is important within a RAS (If the main pump breaks, I can replace it directly with the second one).
+Well, either I design an external filtration that works with gravity, but in that case I must figure out a system that intercepts water before it returns to the sump (Difficult to do considering there's not much height to work with). Or, add another identical pump. This second option increases the electricity bill but opens up so much possibilities. It's also relevant if we consider that replication is important within a RAS (If the main pump breaks, I can replace it directly with the second one).
 
 Before elaborating on these two choices, lets review the configuration of the tanks that I went with :
 
