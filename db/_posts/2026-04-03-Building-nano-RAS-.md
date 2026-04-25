@@ -94,7 +94,7 @@ Converting the sump into a breeding tank and the top level for filtration is not
 
 *<ins>Configuration 2</ins>*
 
-Another great configuration is to keep L1 as a sump. Put the two 90 liters tank at level L4 as a plant filration tanks. Put another big 180 Liters tank at level L3 and keep the 120 liters and the 60 Liters at level L2.
+Another great configuration is to keep L1 as a sump. Put the two 90 Liters tank at level L4 as a plant filration tanks. Put another big 180 Liters tank at level L3 and keep the 120 Liters and the 60 Liters at level L2.
 
 In this configuration, the priority is on filtration. The sump provides sequential filtration, hosting the static media and the MBBR, while the big two plant tanks finish the cycle by removing the remaining nitrates. We lose a level here and some breeding space but we gain a much better water quality.
 
@@ -119,7 +119,7 @@ A big portion of the clarification and solids removal will be done by the sump, 
 <ins>Sequential vs parallel filtration</ins>
 
 We talked previously about parallel vs sequential filtration. Let's see what's the difference :
-If we assume the main pump is 5000 L/h, and that we have 6 aquariums of 60 Liters and a settling tank of 180 Liters. This means that the overall volume of water is 540 Liters. If the settling tank was a sump, so a sequential filtration, we would filter the volume of water 10 times per hour. Whereas, if we transform one of the 60 liters tank into a filter and keep all the others for breeding, including the settling tank, the 60 liters tank would get 5000/6 = 833 Liters of volume of water per hour. Meaning, we would filter the entirety of the volume of water 833/540 = 1.54 times per hour. Not much compared to 10 times using a sump. Obviously, the more we add parallel filters, the more that number grows.
+If we assume the main pump is 5000 L/h, and that we have 6 aquariums of 60 Liters and a settling tank of 180 Liters. This means that the overall volume of water is 540 Liters. If the settling tank was a sump, so a sequential filtration, we would filter the volume of water 10 times per hour. Whereas, if we transform one of the 60 Liters tank into a filter and keep all the others for breeding, including the settling tank, the 60 Liters tank would get 5000/6 = 833 Liters of volume of water per hour. Meaning, we would filter the entirety of the volume of water 833/540 = 1.54 times per hour. Not much compared to 10 times using a sump. Obviously, the more we add parallel filters, the more that number grows.
 
 Combining the sequential filtration of a sump and the parallel filtration of all the sponge and UGF filters plus the plant filtration tanks will garentee prestine water quality.
 
@@ -155,7 +155,7 @@ To go back to our setup, let's consider our example as a profile for breeding. A
 
 Configuration 2 doesn't have enough space, unless of course we build a fry system in the 120 Liters tank where the fry will spend their first days/weeks.
 
-Configuration 3 is good in terms of the number of aquariums but the younglings have to finish growing separated into three batches, each batch in its own 60 liters tank. The rational behind this is that all the tanks are connected, so more space for the fry to grow is basically just more space for them to swim, not better water parameters. Configuration 3 gives us more aquariums to play with for eventually quarantine or more filtration but the fish may feel a bit restrained.
+Configuration 3 is good in terms of the number of aquariums but the younglings have to finish growing separated into three batches, each batch in its own 60 Liters tank. The rational behind this is that all the tanks are connected, so more space for the fry to grow is basically just more space for them to swim, not better water parameters. Configuration 3 gives us more aquariums to play with for eventually quarantine or more filtration but the fish may feel a bit restrained.
 
 **Operating and maintaining the rack should be done with minimal efforts:**
 
@@ -163,7 +163,7 @@ Basic operation of the rack is quite easy. Every level has an electrical socket 
 
 The air pump for the rack has a nob to regulate the power of the air, which is nice if you don't want to install a bleeder valve.
 
-Monthly maintenance schedule consists in performing 20% water change. Given the capacity of the system, that would account for about 120 liters each month. This is a big number for me and I was hoping, and I will work, to make it 60 liters every month. This estimate is purely speculative since I don't know how many fish I would actually breed but it gives me a number to target. Performing 20% water change every month wouldn't be enough if the nitrates removal methods incorporated in the system would fail or not work.
+Monthly maintenance schedule consists in performing 20% water change. Given the capacity of the system, that would account for about 120 Liters each month. This is a big number for me and I was hoping, and I will work, to make it 60 Liters every month. This estimate is purely speculative since I don't know how many fish I would actually breed but it gives me a number to target. Performing 20% water change every month wouldn't be enough if the nitrates removal methods incorporated in the system would fail or not work.
 
 The rack has 2 sockets on a switch at level L1, so we could put an additional pump to empty the sump tank as needed. Emptying other tanks completely is no different than emptying any other tank outside the system. It can be done either with a pump or a siphon hose.
 
@@ -221,17 +221,17 @@ Before elaborating on these two choices, lets review the configuration of the ta
 - At L2, one 60 Liters tank divided in two and one 120 Liters tank.
 - AT L1, the sump I went with is very simple. It is divided in three compartments. The first one is 60x60 cm. Offering the same volume as the 120 Liters in L2. The remaining volume is 60x30 cm divided in two. A 20x30 cm compartment for the static media, sponge mats and filter floss; and the last compartment of 40x30 cm is where the main pump will be placed. The compartment where the static media is has 6 holes on the side connected the 120 Liters volume. Water flows through the holes then the static media, under the baffle and to the pump.
 
-So, basically, we have two 30 Liters, two 60 Liters, two 90 Liters and two 120 Liters. Plenty of space for the fry to grow and a configuration that can host many batches at a time. The 60x60 volume I cleared in the sump can either be used as a grow out or an MBBR (Versatility !! :). In the later case, I wouldn't need to implment an external filtration.
+So, basically, we have two 30 Liters, two 60 Liters, two 90 Liters and two 120 Liters. Plenty of space for the fry to grow and a configuration that can host many batches at a time. The 120 Liters volume I cleared in the sump can either be used as a grow out or an MBBR (Versatility !! :). In the later case, I wouldn't need to implment an external filtration.
 
 **Choice 1 : gravity fed filtration**
 
-In this configuration, the gutters tube continues to the bottom of a barrel that is filled with static media. The water must pass through this media going up then overflows into a second barrel filled with moving biopellets and run by a dedicated air pump (A pump with the same capacity as the one used for sponge filters. Another replication opportunity here). The water then returns to the sump to continue its normal flow in the system.
+In this configuration, the gutters tube continues to the bottom of a barrel that is filled with static media. The water must pass through this media going up then overflows into a second barrel filled with moving biopellets. That MBBR is run by a dedicated air pump (A pump with the same capacity as the one used for sponge filters. Another replication opportunity here). The water then returns to the sump to continue its normal flow in the system.
 
 The static media should not be too dense here since the force of water is only gravity. Which means, I have to keep an eye on the static media not clogging the flow of water. More work for me, yaaay !! Another problem that can occur here is if a fish manages to go to the gutters, it will be rotting at the bottom of the barrel (I don't have meshes on the overflow bulkheads. The intakes are perpendicular to the surface of the water in the tanks).
 
 **Choice 2 : use an additional pump**
 
-In this configuration the second pump feeds two circuits. One that goes to the bottom of a static media barrel, and then follows the same route as choice 1 to an MBBR barrel. And the other circuit feeds three valves above the 120 Liters volume in the sump. One valve to feed a denitrator and the two others to run a moving sand filter. Too much overkill ? The word on the streets is that 1 pound of sand can handle approximately 100 gallons of water for biological filtration. Yes but what's the stocking density we are talking about here ?
+In this configuration the second pump feeds two circuits. One that goes to the bottom of a static media barrel, and then follows the same route as choice 1 to an MBBR barrel. And the other circuit feeds three valves above the 120 Liters volume in the sump. One valve to feed a denitrator and the two others to run a moving sand filter. Too much overkill ? The word on the streets is that 1 kg of sand can handle approximately 200 Liters of water for biological filtration. Yes but what's the stocking density we are talking about here ?
 
 In my initial design of the sump, the moving sand bed filter was in the first chamber, where the return gutter would output the water. My objective was to use sand to break down the particulates that the sump gets from the tanks and use those as a source of carbon for the second chamber, which would have hosted a deep sand bed. What I am trying to do with this second circuit is to replicate part of that design, with the bonus of being able to take apart the moving sand filters and free up the 120 Liters volume.
 
