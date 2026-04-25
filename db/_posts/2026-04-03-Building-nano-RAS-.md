@@ -204,14 +204,43 @@ After goin back and forth a few times with my designs and prototypes, it appeare
 1. Breed fish. 
 2. Give them the best possible life. 
 3. With minimal intervention and maintenance on my part.
+4. At a cost that works for me.
 
-So, essentially, the tanks should be a dedicated space for fish to live and breed; and if I want to integrate, modify or upgrade the filtration system, I shouldn't be constrained by the number or volume of tanks.
+So, essentially, the tanks should be a dedicated space for the fish to live and breed; and if I want to integrate, modify or upgrade the filtration system, I shouldn't be constrained by the number or volume of tanks.
 
 Looking a bit at how filtration is done in ponds and ras systems, filtration is always separated from the fish' living area. This separation of concerns allows flexibility and a readiness for change that are quite valuable in fishkeeping. Similarly, in my setup, filtration should be detached as much as possible from to the rack.
 
 What can be done here?
 
-Well, either I design an external filtration that works with gravity. But in that case, I must figure out a system that intercepts water before it returns to the sump. Difficult to do considering there's not much height to work with. Or, add another identical pump. This second option increases the electricity bill but opens up so much possibilities. It is also relevant if we consider that replication is important within a RAS (if the main pump breaks, I can replace it directly with the second pump).
+Well, either I design an external filtration that works with gravity. But in that case, I must figure out a system that intercepts water before it returns to the sump. Difficult to do considering there's not much height to work with. Or, add another identical pump. This second option increases the electricity bill but opens up so much possibilities. It is also relevant if we consider that replication is important within a RAS (If the main pump breaks, I can replace it directly with the second pump).
+
+Before elaborating on these two choices, lets review the sump design I went with.
+
+**A minimal sump design**
+
+The configuration of the tanks that I went with is as follows :
+
+At level L4 we have three 60 Liters tanks with UGFs (all other tanks have sponge filters).
+At L3, two 90 Liters tanks.
+At L2, one 60 Liters tank divided in two and one 120 Liters tank.
+
+AT L1, the sump I went with is very simple. It is divided in three compartments. The first one is 60*60 cm. Offering the same volume as the 120 Liters in L2. The remaining volume is 60*30 cm divided in two. A 20*30 cm compartment for the static media, sponges and filter floss, and the last compartment of 40*30 cm is where the main pump will be placed. The compartment where the static media is has 6 holes on the side connected the 120 Liters volume. Water flows through the holes then the static media, under the baffle and to the pump.
+
+So, basically, we have two 30 Liters, two 60 Liters, two 90 Liters and two 120 Liters. Plenty of space for the fry to grow and a configuration that can host many batches at a time. The 60*60 volume I cleared in the sump can either be used as an MBBR or a grow-out tank. Versatility !! :)
+
+**Choice 1 : gravity fed filtration**
+
+In this configuration, the gutters tube continues to the bottom of a barrel that is filled with static media. It must pass through this media up then overflows into a second barrel filled with moving biopellets and run by a dedicated air pump (A pump with the same capacity as the one used for sponge filters. Another replication opportunity here). The water then returns to the sump to continue its normal flow in the system.
+
+The static media should not be too dense here since the force of water is only gravity. Wich means, I have to keep an eye on the static media not clogging the flow of water. More work for me, yaaay !! Another problem that can occur here is if a fish manages to go to the gutters, it will be rotting at the bottom of the barrel (I don't have meshes on the overflow bulkheads. The intakes are perpendicular to the surface of the water in the tanks).
+
+**Choice 2 : use an additional pump**
+
+In this configuration the second pump feeds two circuits. One that goes to the bottom of a static media barrel, following the same flow to a MBBR barrel as choice 1. And the other circuit feeds three valves above the 120 Liters volume in the sump. One valve to feed a denitrator and the two others to run a moving sand filter. Too much overkill ? The word on the streets is that 1 pound of sand can handle approximately 100 gallons of water for biological filtration. Yes but what's the stocking density we are talking about here ?
+
+In my initial design of the sump, the moving sand bed filter was in the first chamber, where the return gutter would outputs the water. My objective was to use sand to break down the particulates that the sump gets from the tanks and use those as a source of carbon for the second chamber, which would have hosted a deep sand bed. What I am trying to do with this second circuit is to replicate part of that design, with the bonus of being able to take apart the moving sand filters and free up the 120 Liters volume.
+
+Having two pumps means that water is drawn from the sump at rate of 10000 Liters per hour. Which means the turnover of the static media compartment in the sump has doubled and now clogs twice as fast. More monitoring to do for me :\
 
 ...
 
