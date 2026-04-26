@@ -140,7 +140,7 @@ I chose to dedicate two to three tanks in the design as a plant filtration tanks
 
 It's not a choice of putting plants into work or not but a choice of which species of plants to use. Since the top level has UGFs with coarse gravel, the choice was made to ditch rooted plants and to prioritize free floating ones like salvinia, water lettuce, hornwort and elodea. These plants are powerful in nitrogen and phosphorus absorbtion and can be easily maintained within dedicated aquariums.
 
-The [phosphorus cycle](https://tmaquaponics.github.io/2026/04/26/The-phosphorus-cycle.html){:target="_blank"} occurs in an aquarium mostly from the introduction of fish food. It produces phosphates that quickly accumulate in the tank. Fortunatly, plants consume it to build their biomass; and that's the main method I chose to manage phosphates levels.
+The [phosphorus cycle](https://tmaquaponics.github.io/2026/04/26/The-phosphorus-cycle.html){:target="_blank"} occurs in an aquarium mostly from the introduction of fish food. It produces phosphates that quickly accumulate in the tank. Fortunatly, plants consume phosphates to build their biomass; and that's the main method I chose to manage phosphates levels.
 
 **The rack should be optimized for breeding and, more specifically, facilitate an Integrated Multi-Trophic Aquaculture (IMTA) of ornamental fish at small scale:**
 
@@ -150,7 +150,7 @@ To go back to our setup, let's consider our example as a profile for breeding. A
 
 Configuration 2 doesn't have enough space, unless of course we build a fry system in the 120 Liters tank where the fry will spend their first days/weeks.
 
-Configuration 3 is good in terms of the number of aquariums but the younglings have to finish growing separated into three batches, each batch in its own 60 Liters tank. The rational behind this is that all the tanks are connected, so more space for the fry to grow is basically just more space for them to swim, not better water parameters. Configuration 3 gives us more aquariums to play with for eventually quarantine or more filtration but the fish may feel a bit restrained.
+Configuration 3 is good in terms of the number of aquariums but the younglings have to finish growing separated into three batches, each batch in its own 60 Liters tank. The rationale behind this is that all the tanks are connected, so more space for the fry to grow is basically just more space for them to swim, not better water parameters. Configuration 3 gives us more aquariums to play with for eventually quarantine or more filtration but the fish may feel a bit restrained.
 
 **Operating and maintaining the rack should be done with minimal efforts:**
 
@@ -203,7 +203,7 @@ After going back and forth a few times with my designs and drawings, it appeared
 
 So, essentially, the tanks should be a dedicated space for the fish to live and breed; and if I want to integrate, modify or upgrade the filtration system, I shouldn't be constrained by the number or volume of the tanks.
 
-Looking a bit at how filtration is done in ponds and ras systems, it is always separated from the fish' living area. This separation of concerns allows flexibility and a readiness for change that are quite valuable in fishkeeping. Similarly, in my setup, filtration should be detached as much as possible from to the rack.
+Looking a bit at how filtration is done in ponds and ras systems, it is always separated from the fish' living area. This separation of concerns allows flexibility and a readiness for change that are quite valuable in fishkeeping. Similarly, in my setup filtration should be detached as much as possible from to the rack.
 
 What can be done here?
 
@@ -222,7 +222,9 @@ So, basically, we have two 30 Liters, three 60 Liters, two 90 Liters and two 120
 
 In this configuration, the gutters tube continues to the bottom of a barrel that is filled with static media. The water must pass through this media going up then overflows into a second barrel filled with moving biopellets. That MBBR is run by a dedicated air pump with the same capacity as the one used for the sponge filters (Another replication opportunity here). The water then returns to the sump to continue its normal flow in the system.
 
-The static media should not be too dense here since the force of water is only gravity, which means I have to keep an eye on the static media not clogging the flow of water. More work for me, yaaay !! Another problem that can occur here is if a fish manages to go to the gutters, it will be rotting at the bottom of the barrel (I don't have meshes on the overflow bulkheads. The intakes are perpendicular to the surface of the water in the tanks).
+The static media should not be too dense here since the force of water is only gravity, which means I have to keep an eye on the static media not clogging the flow of water. More work for me, yaaay !! 
+
+Another problem that can occur here is if a fish manages to go to the gutters, it will be rotting at the bottom of the barrel (I don't have meshes on the overflow bulkheads. The intakes are perpendicular to the surface of the water in the tanks).
 
 **Choice 2 : use an additional pump**
 
