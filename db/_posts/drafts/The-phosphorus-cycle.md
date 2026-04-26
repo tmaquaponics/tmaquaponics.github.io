@@ -9,47 +9,47 @@ tags:
 
 ### Introduction
 
-forms of phosphorus
+Phosphorus is an important nutrient for biology and life since it is used in different processes in nature, like ADN composition, cells building, energy production and transfer, metabolism, building skeletal structures, etc...It is present in nature in many forms but unlike nitrogen it doesn't have a gaseous form.
 
-particulate organic phosphorus
-dissolved organic phosphate
-dissolved inorganic phosphorus also know as orthophosphate (PO4 3 -). The main form present in aquariums is hydrogen phosphate (HPO4 2-). It is present when pH is between 7 and 10
+The forms of phosphorus we can usually find in a tank are dissolved inorganic phosphorus, also know as orthophosphate ($$PO4^{3-}$$), or more precisely, hydrogen phosphate ($$HPO4^{2-}$$). It is present when pH is between 7 and 10. Other forms in nature include particulate organic phosphorus and dissolved organic phosphorus.
 
-Phosphorus enters the tank through many means, mainly through fish food. When the food is broken down by bactria and microorganisms, phosphorus is released into the water in the form of phosphates ions (PO4). It is then absorbedby the plants for groth and various biological processes. When the fish poop and plants ()decay in the tank, the absorbed phosphorus are released again in the water restarting the cycle.
+When food in the tank is broken down by bactria and microorganisms, phosphorus is released into the water in the form of phosphate ions (PO4). It is then absorbed by the plants for growth and various biological processes. Phosphorus is the first nutrient to be depleted before nitrogen and it is a limiting factor for growth for the plants. When the fish poop and the plants decay in the tank, the absorbed phosphates are released again in the water restarting the cycle. 
 
-### The biology of phosphorus
+When phosphates are high, an algae bloom may occur and will cause the oxygen levels in the water to trop down rapidely, wish consequently may harm your fish. Inversely, when there is a phosphate deficiency in the tank, the leafs of the plants will turn yellow. Plants are very resilient and can store phosphates in their cells for later consumption when its levels drop in the water. This concept is know as luxury consumption.
 
-Plants can store phosphates in their cells so when its levels drop in the water they can retrive it from their cells to fuel growth. This concept is know as luxury consumption. Phosphates are present in many biological processes in the tank, like ADN, cells building, energy production and transfer, metabolism, etc...
+Managing phosphorus levels in the tank is essential for your fish's health and growth, the plant life in your tank, and the overall stability of the ecosystem of your tank. And this starts with knowing how it gets in the tank in the first place.
 
-Phosphorus is a limiting factor in growth, it is the first nutrient to be depleted before nitrogen.
+### The phosphorus cycle
 
-### Phosphorus and algae
+**In nature**
 
-When phosphates are high, an algae bloom may occur and will cause the oxygen levels in the water to trop down rapidely, wish consequently may harm your fish.
-On the other hand, when there is a phosphate deficiency, the leafs of the plant will turn yellow.
+**In the tank**
+
 
 ### Sources of phosphorus
 
-The main source of phosphorus in an aquarium is fish, fish food and plants. 
+Phosphorus enters the tank through many means, the main ones being through fish, fish food and plants. Other means include :
 
-- Tap water 
-- Dead fish
+- Tap water
+- Dead organisms
 - Water conditionning products
 
 ### Target levels and testing
 
 ### Removal methods
 
-Phosphorus can be removed from your tank via different ways : 
+Phosphates can be removed from your tank via different ways : 
 
 - Consumed by plants
-- Dissipated in the air by aerating the water
+- Dissipated in the air with water droplets when aerating the water
 - Using chemical products
-- Water changes
+- through Water changes
 
-You can also reduce phosphates by :
+You can also reduce phosphates using preventive methods like :
 - Reducing fish feeding
-- Usinglive food
+- Using live food
+
+In [RAS systems](https://tmaquaponics.github.io/2026/04/03/Building-nano-RAS.html){:target="_blank"}, phosphorus can accumulate rapidely since water is not renewed and there is usually no plants in the system to consume it. Removal methods in a ras consist of ...
 
 ### Phosphorus vs nitrate
 

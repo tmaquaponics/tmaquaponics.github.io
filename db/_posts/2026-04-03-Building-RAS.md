@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Building a Recirculating Aquaculture Systems (RAS) at a nano scale
+title: Building a Recirculating Aquaculture System (RAS) at a small scale
 tags:
   - water-parameters
   - ras
@@ -212,32 +212,32 @@ Looking a bit at how filtration is done in ponds and ras systems, it is always s
 
 What can be done here?
 
-Well, either I design an external filtration that works with gravity, but in that case I must figure out a system that intercepts water before it returns to the sump (Difficult to do considering there's not much height to work with). Or, add another identical pump. This second option increases the electricity bill but opens up so much possibilities. It's also relevant if we consider that replication is important within a RAS (If the main pump breaks, I can replace it directly with the second one).
+Well, either I design an external filtration that works with gravity, but in that case I must figure out a system that intercepts water before it returns to the sump. Quite difficult to do considering there's not much height to work with. Or, add another identical pump. This second option increases the electricity bill but opens up so much possibilities. It's also relevant if we consider that replication is important within a RAS (If the main pump breaks, I can replace it directly with the second one).
 
 Before elaborating on these two choices, lets review the configuration of the tanks that I went with :
 
 - At level L4 we have three 60 Liters tanks with UGFs (all other tanks have sponge filters).
 - At L3, two 90 Liters tanks.
 - At L2, one 60 Liters tank divided in two and one 120 Liters tank.
-- AT L1, the sump I went with is very simple. It is divided in three compartments. The first one is 60x60 cm. Offering the same volume as the 120 Liters in L2. The remaining volume is 60x30 cm divided in two. A 20x30 cm compartment for the static media, sponge mats and filter floss; and the last compartment of 40x30 cm is where the main pump will be placed. The compartment where the static media is has 6 holes on the side connected the 120 Liters volume. Water flows through the holes then the static media, under the baffle and to the pump.
+- At L1, the sump I went with is very simple. It is divided in three compartments. The first one is 60x60 cm. Offering the same volume as the 120 Liters in L2. The remaining volume is 60x30 cm divided in two. A 20x30 cm compartment for the static media, sponge mats and filter floss; and the last compartment of 40x30 cm is where the main pump will be placed. The compartment where the static media is has 6 holes on the side connected the 120 Liters volume. Water flows through the holes then the static media, under the baffle and to the pump.
 
-So, basically, we have two 30 Liters, two 60 Liters, two 90 Liters and two 120 Liters. Plenty of space for the fry to grow and a configuration that can host many batches at a time. The 120 Liters volume I cleared in the sump can either be used as a grow out or an MBBR (Versatility !! :). In the later case, I wouldn't need to implment an external filtration.
+So, basically, we have two 30 Liters, three 60 Liters, two 90 Liters and two 120 Liters. Plenty of space for the fry to grow and a configuration that can host many batches at a time. The 120 Liters volume I cleared in the sump can either be used as a grow out or an MBBR (Versatility !! :). In the later case, I wouldn't need to implement an external filtration.
 
 **Choice 1 : gravity fed filtration**
 
-In this configuration, the gutters tube continues to the bottom of a barrel that is filled with static media. The water must pass through this media going up then overflows into a second barrel filled with moving biopellets. That MBBR is run by a dedicated air pump (A pump with the same capacity as the one used for sponge filters. Another replication opportunity here). The water then returns to the sump to continue its normal flow in the system.
+In this configuration, the gutters tube continues to the bottom of a barrel that is filled with static media. The water must pass through this media going up then overflows into a second barrel filled with moving biopellets. That MBBR is run by a dedicated air pump with the same capacity as the one used for the sponge filters (Another replication opportunity here). The water then returns to the sump to continue its normal flow in the system.
 
-The static media should not be too dense here since the force of water is only gravity. Which means, I have to keep an eye on the static media not clogging the flow of water. More work for me, yaaay !! Another problem that can occur here is if a fish manages to go to the gutters, it will be rotting at the bottom of the barrel (I don't have meshes on the overflow bulkheads. The intakes are perpendicular to the surface of the water in the tanks).
+The static media should not be too dense here since the force of water is only gravity, which means I have to keep an eye on the static media not clogging the flow of water. More work for me, yaaay !! Another problem that can occur here is if a fish manages to go to the gutters, it will be rotting at the bottom of the barrel (I don't have meshes on the overflow bulkheads. The intakes are perpendicular to the surface of the water in the tanks).
 
 **Choice 2 : use an additional pump**
 
-In this configuration the second pump feeds two circuits. One that goes to the bottom of a static media barrel, and then follows the same route as choice 1 to an MBBR barrel. And the other circuit feeds three valves above the 120 Liters volume in the sump. One valve to feed a denitrator and the two others to run a moving sand filter. Too much overkill ? The word on the streets is that 1 kg of sand can handle approximately 200 Liters of water for biological filtration. Yes but what's the stocking density we are talking about here ?
+In this configuration the second pump feeds two circuits. One that goes to the bottom of a static media barrel, and then follows the same route as choice 1 to an MBBR barrel. The other feeds three valves above the 120 Liters volume in the sump. One valve to feed a denitrator and the two others to run a moving sand filter. Too much overkill ? The word on the streets is that 1 kg of sand can handle approximately 200 Liters of water for biological filtration. Yes, but what's the stocking density we are talking about here ?
 
 In my initial design of the sump, the moving sand bed filter was in the first chamber, where the return gutter would output the water. My objective was to use sand to break down the particulates that the sump gets from the tanks and use those as a source of carbon for the second chamber, which would have hosted a deep sand bed. What I am trying to do with this second circuit is to replicate part of that design, with the bonus of being able to take apart the moving sand filters and free up the 120 Liters volume.
 
-Having two pumps means that water is drawn from the sump at a rate of 10000 Liters per hour. Which means the static media in the sump has doubled its turnover and now clogs twice as fast. More monitoring to do for me :\
+Having two pumps means that the water is drawn from the sump at a rate of 10000 Liters per hour. This also means that the static media in the sump has doubled its turnover and now clogs twice as fast. More monitoring to do for me :\
  
->What about plants, you said you want to get rid of nitrates using plants?!! Absolutely, I will be using plants at the start but will focus on denitrification methods later on. What would actually make a lot of sens is to have two racks connected together, one to breed fish and the other to culure aquatic plants. But, alas, I do not have the 'felous' as we say where I am from.
+>What about plants, you said you want to get rid of nitrates using plants?!! Absolutely, I will be using plants at the start but will focus on denitrification methods later on. What would actually make a lot of sens is to have two racks connected together, one to breed fish and the other to culure aquatic plants. But, alas, I do not have that kind of cheeze.
 
 ### References 
 
