@@ -140,7 +140,7 @@ I chose to dedicate two to three tanks in the design as a plant filtration tanks
 
 It's not a choice of putting plants into work or not but a choice of which species of plants to use. Since the top level has UGFs with coarse gravel, the choice was made to ditch rooted plants and to prioritize free floating ones like salvinia, water lettuce, hornwort and elodea. These plants are powerful in nitrogen and phosphorus absorbtion and can be easily maintained within dedicated aquariums.
 
-It's not so clear to me how the phosphorus cycle occurs in an aquarium, but I all need to know for now is that the plants consume it to build biomass. (Maybe the subject of a future post right there :)
+The [phosphorus cycle](https://tmaquaponics.github.io/2026/04/26/The-phosphorus-cycle.html){:target="_blank"} occurs in an aquarium mostly from the introduction of fish food. It produces phosphates that quickly accumulate in the tank. Fortunatly, plants consume it to build their biomass; and that's the main method I chose to manage phosphates levels.
 
 **The rack should be optimized for breeding and, more specifically, facilitate an Integrated Multi-Trophic Aquaculture (IMTA) of ornamental fish at small scale:**
 
