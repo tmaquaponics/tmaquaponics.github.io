@@ -89,11 +89,11 @@ The temperature and pH have a big influence of the colony of bacteria and its re
 
 > You can increase the temperature of your tank to accelerate the colony growth and then reduce it when you introduce your fish.
 
-The nitrifying bacteria need oxygen to do the conversion from ammonia to nitrate. This is why nitrifying filters operate in an oxygen rich or aerobic environment. Denitrifying bacteria on the other hand are facultative bacteria that get their oxygen from nitrate and convert it into nitrogen gas. The denitrifying bacteria require an oxygen depleted or anerobic environment to perform this conversion. Denitrifying filters are not that common in the hobby and are certainly not mainstream in the freshwater side of fishkeping. 
+The nitrifying bacteria need oxygen to do the conversion from ammonia to nitrate. This is why [nitrifying filters](https://tmaquaponics.github.io/2025/02/10/filtration.html){:target="_blank"} operate in an oxygen rich or aerobic environment. Denitrifying bacteria on the other hand are facultative bacteria that get their oxygen from nitrate and convert it into nitrogen gas. The denitrifying bacteria require an oxygen depleted or anerobic environment to perform this conversion. Denitrifying filters are not that common in the hobby and are certainly not mainstream in the freshwater side of fishkeping. 
 
 ### Growing the beneficial bacteria and cycling methods
 
-The beneficial bacteria grows on the surfaces of your [filters](https://tmaquaponics.github.io/2025/02/10/filtration.html){:target="_blank"}. To kickstart and establish your colony, you can use different ways :
+The beneficial bacteria grows on the surfaces of your filters. To kickstart and establish your colony, you can use different ways :
 
 - Using fish or snails : you can slowly introduce more and more fish or snails into the new tank. They will produce a little bit of ammonia everyday, enough that the beneficial bacteria can deal with. After a few weeks, you can introduce all the remaining fish. It is still best to gradually introduce more fish to the new tank.
 
