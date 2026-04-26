@@ -237,7 +237,7 @@ In my initial design of the sump, the moving sand bed filter was in the first ch
 
 Having two pumps means that the water is drawn from the sump at a rate of 10000 Liters per hour. This also means that the static media in the sump has doubled its turnover and now clogs twice as fast. More monitoring to do for me :\
  
->What about plants, you said you want to get rid of nitrates using plants?!! Absolutely, I will be using plants at the start but will focus on denitrification methods later on. What would actually make a lot of sens is to have two racks connected together, one to breed fish and the other to culure aquatic plants. But, alas, I do not have that kind of cheeze.
+>What about plants, you said you want to get rid of nitrates using plants?!! Absolutely, I will be using plants at the start but will focus on denitrification methods later on. What would actually make a lot of sens is to have two racks connected together, one to breed fish and the other to culure aquatic plants. But, alas, I do not have that kind of cheese.
 
 ### References 
 
