@@ -16,7 +16,7 @@ Phosphorus is an important nutrient for biology and life since it is used in dif
 
 The forms of phosphorus we can usually find in a tank are Dissolved Inorganic Phosphorus, also know as Orthophosphate ($$PO4^{3-}$$), or more precisely, Hydrogen Phosphate ($$HPO4^{2-}$$). It is present when pH is between 7 and 10. Other forms in nature include Particulate Organic Phosphorus and Dissolved Organic Phosphorus.
 
-When food in the tank is broken down by bactria and microorganisms, phosphorus is released into the water in the form of Phosphate ions (PO4). It is then absorbed by the plants for growth and various biological processes. Phosphorus is the first nutrient to be depleted before nitrogen and it is a limiting factor for growth for the plants. 
+When food in the tank is broken down by bactria and microorganisms, phosphorus is released into the water in the form of Phosphate ions ($$PO4^{3-}$$). It is then absorbed by the plants for growth and various biological processes. Phosphorus is the first nutrient to be depleted before nitrogen and it is a limiting factor for growth for the plants. 
 
 When the fish poop and the plants decay in the tank, the absorbed phosphates are released again in the water restarting the cycle.
 
@@ -53,8 +53,8 @@ You can also reduce phosphates using preventive methods like :
 
 In [RAS systems](https://tmaquaponics.github.io/2026/04/03/Building-nano-RAS.html){:target="_blank"}, phosphorus can accumulate rapidely since water is not renewed and there is usually no plants in the system to consume it. Removal methods in a ras consist of ...
 
-### Phosphorus vs nitrate
+### Phosphates vs nitrates
 
 ### Conclusion
 
-We have breifly explored the phosphorus cycle in freshwater tanks and discussed how silent its accumulation can be. The best way to manage phosphorus in your water is apply the prevention mechanisms we have seen. With the information provided here, you can be confident in managing this nutrient. But the story doesn't end here; phosphorus removal is tied to denitrification, the other half of the nitrogen cycle we have yet to explore.
+We have breifly explored the phosphorus cycle in freshwater tanks and discussed how silent its accumulation can be. The best way to manage phosphorus in your water is to apply the prevention mechanisms we have seen. With the information provided here, you can be confident in managing this nutrient. But the story doesn't end here; phosphorus removal is tied to denitrification, the other half of the nitrogen cycle we have yet to explore.

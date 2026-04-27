@@ -230,7 +230,9 @@ Another problem that can occur here is if a fish manages to go to the gutters, i
 
 In this configuration the second pump feeds two circuits. One that goes to the bottom of a static media barrel, and then follows the same route as choice 1 to an MBBR barrel. The other feeds three valves above the 120 Liters volume in the sump. One valve to feed a denitrator and the two others to run a moving sand filter. Too much overkill ? The word on the streets is that 1 kg of sand can handle approximately 200 Liters of water for biological filtration. Yes, but what's the stocking density we are talking about here ?
 
-In my initial design of the sump, the moving sand bed filter was in the first chamber, where the return gutter would output the water. My objective was to use sand to break down the particulates that the sump gets from the tanks and use those as a source of carbon for the second chamber, which would have hosted a deep sand bed. What I am trying to do with this second circuit is to replicate part of that design, with the bonus of being able to take apart the moving sand filters and free up the 120 Liters volume.
+In my initial sump design, the moving sand bed filter was in the first chamber, where the return gutter would output the water. My objective was to use sand to break down the particulates that the sump gets from the tanks and use those as a source of carbon for the second chamber, which would have hosted a deep sand bed. But I made a mistake and cut the dado joints grooves too close to the floor. This gave me a good clearance above the sump, which is nice since it allows me to put more equipement in the sump, but I lost the space underneath to put reinforcement to support the heavy layer of sand. 
+
+What I am trying to do with this second circuit is to replicate part of that design, with the bonus of being able to take apart the moving sand filters and free up the 120 Liters volume.
 
 Having two pumps means that the water is drawn from the sump at a rate of 10000 Liters per hour. This also means that the static media in the sump has doubled its turnover and now clogs twice as fast. More monitoring to do for me :\
  
