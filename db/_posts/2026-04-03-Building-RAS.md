@@ -140,6 +140,8 @@ I chose to dedicate two to three tanks in the design as a plant filtration tanks
 
 It's not a choice of putting plants into work or not but a choice of which species of plants to use. Since the top level has UGFs with coarse gravel, the choice was made to ditch rooted plants and to prioritize free floating ones like salvinia, water lettuce, hornwort and elodea. These plants are powerful in nitrogen and phosphorus absorbtion and can be easily maintained within dedicated aquariums.
 
+>The total ammonia nitrogen TAN is the amount of ammonium ($$NH4^{+}$$) and ammonia (NH3) in th water. The ratio between ($$NH4^{+}$$) and (NH3) is dependant on temperature and pH and forms an equilibrium. In a low pH, almost all TAN is ammonium. In a high pH more TAN shifts to free NH3. The same goes with temperature. Warmer water shifts the TAN towards NH3. The nitrifying bacteria consume the NH3 which pulls ($$NH4^{+}$$) towards NH3 to maintain equilibrium. So over time both are removed.
+
 The [phosphorus cycle](https://tmaquaponics.github.io/2026/04/26/The-phosphorus-cycle.html){:target="_blank"} occurs in an aquarium mostly from the introduction of fish food. It produces phosphates that quickly accumulate in the tank. Fortunatly, plants consume phosphates to build their biomass; and that's the main method I chose to manage phosphates levels.
 
 **The rack should be optimized for breeding and, more specifically, facilitate an Integrated Multi-Trophic Aquaculture (IMTA) of ornamental fish at small scale:**
