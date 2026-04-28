@@ -168,7 +168,10 @@ Cleaning the filters should be done every other month, depending on how dirty th
 
 **The build should be modular:**
 
-The rack has many systems : electrical, heating, water flow, lighting. All systems are independent from one another. Every system in the rack is modular in the sens that it can be swapped pretty easily. 
+The rack has many systems : electrical, heating, water flow, lighting. All systems are independent from one another. Every system in the rack is modular in the sens that it can be swapped pretty easily.
+
+![Tank module](/assets/img/1000002541.jpg)
+*90 Liters tank module*
 
 Since every level has three taps and three overflow tubings, the tanks become like modules and can be swapped in and out to change from one configuration to another. The benefit here is that the rack can evolve to meet my fish breeding needs.
 

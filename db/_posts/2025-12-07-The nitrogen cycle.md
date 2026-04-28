@@ -73,8 +73,6 @@ Every food you throw in your tank gets converted into ammonia, every dead thing 
 
 ### The beneficial bacteria
 
-The beneficial bacteria live on every surface in your tank, be it plants, substrate, media in your filter, decorations and even your aquarium walls. They are also present in small amounts in the water column of your tank.
-
 Two types of bacteria are involved in the nitrification process. The ammonia oxidizers and the nitrite oxidizers.
 
 | Team 1 : The ammonia oxidizers                                          | Team 2 : The nitrite oxidizers                                   |
@@ -93,11 +91,11 @@ The nitrifying bacteria need oxygen to do the conversion from ammonia to nitrate
 
 **Growing the beneficial bacteria and cycling methods**
 
-The beneficial bacteria grows on the surfaces of your filters. To kickstart and establish your colony, you can use different ways :
+The beneficial bacteria lives on every surface in your tank, be it plants, substrate, media in your filter, decorations and even your aquarium walls. They are also present in small amounts in the water column of your tank. To kickstart and establish your colony, you can use different ways :
 
-- Using fish or snails : you can slowly introduce more and more fish or snails into the new tank. They will produce a little bit of ammonia everyday, enough that the beneficial bacteria can deal with. After a few weeks, you can introduce all the remaining fish. It is still best to gradually introduce more fish to the new tank.
+- Using fish or snails : you can slowly introduce more and more fish or snails into the new tank. They will produce a little bit of ammonia everyday, enough that the beneficial bacteria can deal with. After a few weeks, you can introduce all the remaining fish. It is best to gradually introduce more fish to the new tank.
 
-- Fish-less cycling : using pure bottled ammonia is a great way to start your beneficial bacteria colony.  Micro dose ammonia everyday to slowly increase the number of bacteria. No fish can be harmed here if you accidentally pure too much ammonia. 
+- Fish-less cycling : using pure bottled ammonia is a great way to start your beneficial bacteria colony.  Micro dose ammonia everyday to slowly increase the number of bacteria. No fish can be harmed here if you accidentally pure too much ammonia.
 
 - Cycling with fish food : use a small amount of fish food everyday to 'feed' the water of the tank. The fish food will start decaying naturally and releasing small amounts of ammonia,  enough to kick-start a beneficial bacteria colony. 
 
@@ -141,7 +139,7 @@ The most common ways to remove nitrates is through plants and water changes. If 
 
 If you don't like doing water changes like me, you may consider implementing denitrification filters.
 
-**Testing your water:**
+### Testing your water
 
 You can test your water using test stripes or liquid test kits. The word on the streets is that test kits are more reliable. Make sure you follow the manufacturer instructions and do the testing from time to time or when you notice a problem in your tank.
 
