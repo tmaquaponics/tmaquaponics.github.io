@@ -107,14 +107,14 @@ The beneficial bacteria grows on the surfaces of your filters. To kickstart and 
 
 > A great way to quickly have a seeded sponge filter is to use filters that have two sponges. At any time you can swap in one of the new sponges with an old one.
 
+To avoid killing your bacteria, you should never clean your filters under tap water. Always use your aquarium water to do so. You should also never wash them with soap, bleach or boiling water.
+
+Another great threat that gets unnoticed is the use of medication. Before medicating your fish for whatever disease, make sure you have plenty of backup of established media. In the case where you notice an unbalance in your tank after medication, you can intervene rapidly and adjust your medication, do a water change or treat your fish separately in another tank with the safe option of having a live culture of beneficial bacteria.
+
 ### Advanced nitrogen management
 
 Once your nitrogen cycle is established. The only thing you need to worry about is to not kill your bacteria, keep your inputs stable and remove the nitrates from your tank.
 
-To avoid killing your bacteria, you should never clean your filters under tap water. Always use your aquarium water to do so. You should also never wash them with soap, bleach or boiling water.
-
-Another great threat that gets unnoticed is the use of medication. Before medicating your fish for whatever disease, make sure you have plenty of backup of established media. In the case where you notice an unbalance in your tank after medication, you can intervene rapidly and adjust your medication, do a water change or treat your fish separately in another tank with the safe option of having a live culture of beneficial bacteria.
-  
 **Removing nitrates:**
 
 Keeping the nitrogen cycle going is long term game with adjustments and monitoring on a short term basis. With bacteria alive and kicking, you need to remove the nitrates from your tank using one or many of the following ways :
