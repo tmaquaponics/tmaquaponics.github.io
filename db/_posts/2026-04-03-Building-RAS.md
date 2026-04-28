@@ -173,7 +173,9 @@ The rack has many systems : electrical, heating, water flow, lighting. All syste
 ![Tank module](/assets/img/1000002541.jpg)
 *90 Liters tank module*
 
-Since every level has three taps and three overflow tubings, the tanks become like modules and can be swapped in and out to change from one configuration to another. The benefit here is that the rack can evolve to meet my fish breeding needs.
+Since every level has three taps and three gutters, the tanks become like modules and can be swapped in and out to change from one configuration to another. The benefit here is that the rack can evolve to meet my fish breeding needs.
+
+Available modules are as follows : 60 Liters, 90 Liters, 120 Liters and a 180 Liters. So, theorithically, I could have a rack with a sump and nine 60 Liters tanks, or three 180 Liters tanks, or six 90 Liters tanks, or a mix of tanks.
 
 The electrical system is modular by design and the 'control' panel is designed so that another rack can be directly plugged to it.
 

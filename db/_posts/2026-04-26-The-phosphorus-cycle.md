@@ -51,7 +51,7 @@ You can also reduce phosphates using preventive methods like :
 - Reducing fish feeding.
 - Using live food.
 
-In [RAS systems](https://tmaquaponics.github.io/2026/04/03/Building-nano-RAS.html){:target="_blank"}, phosphorus can accumulate rapidely since water is not renewed and there is usually no plants in the system to consume it. Removal methods in a ras consist of ...
+In [RAS systems](https://tmaquaponics.github.io/2026/04/03/Building-RAS.html){:target="_blank"}, phosphorus can accumulate rapidely since water is not renewed and there is usually no plants in the system to consume it. Removal methods in a ras consist of ...
 
 ### Phosphates vs nitrates
 
