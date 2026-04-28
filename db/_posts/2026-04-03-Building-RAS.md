@@ -160,9 +160,9 @@ The air pump for the rack has a nob to regulate the power of the air, which is n
 
 Monthly maintenance schedule consists in performing 20% water change. Given the capacity of the system, that would account for about 120 Liters each month. This is a big number for me and I was hoping, and I will work, to make it 60 Liters every month. This estimate is purely speculative since I don't know how many fish I would actually breed but it gives me a number to target. Performing 20% water change every month wouldn't be enough if the nitrates removal methods incorporated in the system would fail or not work.
 
-The rack has 2 sockets on a switch at level L1, so we could put an additional pump to empty the sump tank as needed. Emptying other tanks completely is no different than emptying any other tank outside the system. It can be done either with a pump or a siphon hose.
+The rack has 2 sockets on a switch at level L1, so I could put an additional pump to empty the sump tank as needed. Emptying other tanks completely is no different than emptying any other tank outside the system. It can be done either with a pump or a siphon hose.
 
-Initially, in one of the prototypes I did, there was an additional circuit for water to empty the tanks but it required drilling them at the bottom. Since I broke off the 180 Liters tank when I tried to drill it, I changed my mind and abondonned the feature. Risking shattering additional tanks is too expensive since water changes can be done from one tank.
+Initially, in one of the prototypes I imagined, there was an additional circuit for water to empty the tanks but it required drilling them at the bottom. Since I broke off the 180 Liters tank when I tried to drill it, I changed my mind and abondonned the feature. Risking shattering additional tanks is too expensive since water changes can be done from one tank.
 
 Cleaning the filters should be done every other month, depending on how dirty they get.
 
@@ -179,7 +179,7 @@ The electrical system is modular by design and the 'control' panel is designed s
 
 **The build can be fully assembled and fully disassembled by a single person:**
 
-The wood can be screwed or disassembled using a screwdriver or an electric drill. The tanks are not too big and can be handled by a single person, with the exception of the 180 Liters tank which should preferably be handled by two people.
+The rack can be assembled or disassembled using a screwdriver or an electric drill. The tanks are not too big and can be handled by a single person, with the exception of the 180 Liters tank which should preferably be handled by two people.
 
 **The build must pass the test of time:**
 
@@ -191,7 +191,7 @@ The rack is designed with maintenace, repairs and modifications in mind. The str
 The structure of the rack is build using dado joints, which is a strong joint; plus, level L2 and L4 are reinforced with diagonal support so that the rack doesn't tilt sideways over time.
 
 ![50 gallons tank](/assets/img/1000002394.jpg)
-*50 gallons (180 Liters) tank with euro-bracing*
+*180 Liters (50 gallons) tank with euro-bracing*
 
 The tanks are build using 5mm glass including the 180 Liters tank. This choice was made to make the aquariums light, easy and cheap to repair. This was possible because the tanks are only 35 cm tall and because the big tanks have euro-bracing at the top and a cross bracing in the middle.
 
