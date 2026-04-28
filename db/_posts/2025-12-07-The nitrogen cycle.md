@@ -137,11 +137,11 @@ Keeping the nitrogen cycle going is long term game with adjustments and monitori
 
 The most common ways to remove nitrates is through plants and water changes. If you have a heavily stocked tank, the amount of plants that you can jam into your aquarium is usually not sufficient to get rid of nitrates. That being said, they play a big role in reducing the volume of water that needs to be changed each time. 
 
-If you don't like doing water changes like me, you can consider implementing denitrification filters.
+If you don't like doing water changes like me, you may consider implementing denitrification filters.
 
 **Testing your water:**
 
-You can test your water using test stripes or liquid test kits. The word on the street in that test kits are more reliable. Make sure you follow the manufacturer instructions and do testing from time to time or when you notice a problem in your tank.
+You can test your water using test stripes or liquid test kits. The word on the streets is that test kits are more reliable. Make sure you follow the manufacturer instructions and do the testing from time to time or when you notice a problem in your tank.
 
 ### Common problems and troubleshooting
 
