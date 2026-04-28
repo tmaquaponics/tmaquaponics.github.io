@@ -91,7 +91,7 @@ The temperature and pH have a big influence of the colony of bacteria and its re
 
 The nitrifying bacteria need oxygen to do the conversion from ammonia to nitrate. This is why [nitrifying filters](https://tmaquaponics.github.io/2025/02/10/filtration.html){:target="_blank"} operate in an oxygen rich or aerobic environment. Denitrifying bacteria on the other hand are facultative bacteria that get their oxygen from nitrate and convert it into nitrogen gas. The denitrifying bacteria require an oxygen depleted or anerobic environment to perform this conversion. Denitrifying filters are not that common in the hobby and are certainly not mainstream in the freshwater side of fishkeping. 
 
-### Growing the beneficial bacteria and cycling methods
+**Growing the beneficial bacteria and cycling methods**
 
 The beneficial bacteria grows on the surfaces of your filters. To kickstart and establish your colony, you can use different ways :
 
@@ -106,6 +106,8 @@ The beneficial bacteria grows on the surfaces of your filters. To kickstart and 
 - Squeezing a dirty sponge filter :  Take a sponge filter from an established tank and squeeze it on the sponge filter of the new tank.
 
 > A great way to quickly have a seeded sponge filter is to use filters that have two sponges. At any time you can swap in one of the new sponges with an old one.
+
+**Protecting the colony**
 
 To avoid killing your bacteria, you should never clean your filters under tap water. Always use your aquarium water to do so. You should also never wash them with soap, bleach or boiling water.
 
