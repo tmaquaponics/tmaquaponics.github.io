@@ -56,9 +56,13 @@ You can also reduce phosphates using preventive methods like :
 - Using live food.
 - Regularly siphoning and cleaning the substrate or removing detritus that forms at the bottom of the tank.
 
-In [RAS systems](https://tmaquaponics.github.io/2026/04/03/Building-RAS.html){:target="_blank"}, phosphorus can accumulate rapidely since water is not renewed and there is usually no plants in the system to consume it. Removal methods in a ras are either mechanical, chemical, biological, or a combination of them. Chemical methods aim to transform dissolved phosphorus into precipitate phosphorus. Chimical means consist in adding metal ions like aluminum that form a chimical bound with phosphorus and then precipitate in the water. Precipitates can then be removed mechanically. Mechanical means include the removal of solid waste formed by uneaten food and fish waste.
+In [RAS systems](https://tmaquaponics.github.io/2026/04/03/Building-RAS.html){:target="_blank"}, phosphorus can accumulate rapidely since water is not renewed and there is usually no plants in the system to consume it. Removal methods in a ras are either mechanical, chemical, biological, or a combination of them all. 
 
-Biological means are either through the use of bacteria or plants and algal assimilation. Biological methods are rarely used in a ras since most phosphorus is removed through mechanical and chemical means. At Tank-Mates Aquaponics, we're working towards the removal of phosphorus through plants.
+- Chemical methods aim to transform dissolved phosphorus into precipitate phosphorus. Chimical means consist in adding metal ions like aluminum that form a chimical bound with phosphorus and then precipitate in the water. Precipitates can then be removed mechanically. 
+
+- Mechanical means include the removal of solid waste formed by uneaten food and fish waste.
+
+- Biological means are either through the use of bacteria or plants and algal assimilation. Biological methods are rarely used in ras systems since most phosphorus is removed through mechanical and chemical means. At Tank-Mates Aquaponics, we're working towards the removal of phosphorus through plants.
 
 ### Conclusion
 
