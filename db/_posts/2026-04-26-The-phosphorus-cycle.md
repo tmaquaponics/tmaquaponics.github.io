@@ -34,6 +34,9 @@ Phosphorus enters the tank through many means, the main ones being fish, fish fo
 
 ### The phosphorus cycle in the tank
 
+![The phosphorus-cycle](/assets/img/p_cycle.png)
+*The phosphorus cycle*
+
 
 ### Target levels and testing
 
@@ -46,7 +49,6 @@ Test kits mesure Phosphate Ions in the water, giving you a reading on the levels
 Phosphates can be removed from your tank via different ways : 
 
 - Consumed by plants.
-- Dissipated in the air with water droplets when aerating the water.
 - Using chemical products and speciallized filters.
 - Through Water changes.
 
@@ -60,7 +62,7 @@ In [RAS systems](https://tmaquaponics.github.io/2026/04/03/Building-RAS.html){:t
 
 - Chemical methods aim to transform dissolved phosphorus into precipitate phosphorus. Chimical means consist in adding metal ions like aluminum that form a chimical bound with phosphorus and then precipitate in the water. Precipitates can then be removed mechanically. 
 
-- Mechanical means include the removal of solid waste formed by uneaten food and fish waste.
+- Mechanical means include the removal of solid waste formed by uneaten food, fish waste and decaying organics.
 
 - Biological means are either through the use of bacteria or plants and algal assimilation. Biological methods are rarely used in ras systems since most phosphorus is removed through mechanical and chemical means. At Tank-Mates Aquaponics, we're working towards the removal of phosphorus through plants.
 
