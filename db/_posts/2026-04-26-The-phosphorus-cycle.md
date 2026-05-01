@@ -11,7 +11,7 @@ tags:
 
 Phosphorus is an important nutrient for biology and life since it is used in different processes, like ADN composition, cells building, energy production and transfer, metabolism, building skeletal structures, etc...It is present in nature in many forms but unlike nitrogen it doesn't have a gaseous phase.
 
-The forms of phosphorus we can usually find in a tank are Dissolved Inorganic Phosphorus, also know as Orthophosphate ($$PO4^{3-}$$), or more precisely, Hydrogen Phosphate ($$HPO4^{2-}$$). It is present when pH is between 7 and 10. Other forms in nature include Particulate Organic Phosphorus and Dissolved Organic Phosphorus.
+The forms of phosphorus we can usually find in a tank are Dissolved Inorganic Phosphorus, also know as Orthophosphate ($$PO4^{3-}$$), or more precisely, Hydrogen Phosphate ($$HPO4^{2-}$$). It is present when pH is between 7 and 10. Other forms in the tank include Particulate Organic Phosphorus (POP) and Dissolved Organic Phosphorus (DOP).
 
 When food in the tank is broken down by bactria and microorganisms, phosphorus is released into the water in the form of Phosphate ions ($$PO4^{3-}$$). It is then absorbed by the plants for growth and various biological processes. Phosphorus is the first nutrient to be depleted before nitrogen and it is a limiting factor for growth for the plants. 
 
@@ -42,11 +42,11 @@ Phosphorus enters the tank primarly with fish food and plant matter. It is bound
 
 **Mineralisation: bacterial process**
 
-Before organic phosphorus can be consumed it must be converted into dissolved form (orthophosphates) by bactrial activity in a process named mineralisation.
+Before organic phosphorus can be consumed it must be converted into dissolved form (Dissolved Inorganic Phophorus : orthophosphates) by bactrial activity in a process named mineralisation.
 This process happens in two stages :
 
-1. Bacteria excrete enzymes in th water that break down complex phosphate bounds in organic molecules into simpler dissolved fragments releasing phosphates.
-2. Bacteria absorbs part of those phosphates for their own metabolism.
+1. Bacteria excrete enzymes in th water that break down complex phosphate bounds in organic molecules (POP and DOP) into simpler dissolved fragments releasing phosphates.
+2. Bacteria absorb part of those phosphates for their own metabolism.
 
 This process is temperature sensitive, but the surface area available, oxygen rate and the chemical composition of the organic matter also play a role in how fast mineralisation can occur. A warm tank converts phosphorus fatser than a cold one.
 
