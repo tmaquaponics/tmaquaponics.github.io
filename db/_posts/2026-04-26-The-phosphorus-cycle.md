@@ -34,16 +34,31 @@ Phosphorus enters the tank through many means, the main ones being fish, fish fo
 
 ### The phosphorus cycle in the tank
 
+Phosphorus enters in the tank as organic matters, gets broken down by bacteria, is taken up by organisms then returns to organic form when those organisms excrete or die. And the cycle restarts. Phosphorus is present in many forms in your tank and is constantly being recycled from one form to another.
+
 ![The phosphorus-cycle](/assets/img/p_cycle.png)<br>
 *The phosphorus cycle*
 
-Phosphorus enters in the tank as organic matters, gets broken down by bacteria, is taken up by organisms then returns to organic form when those organisms excrete or die. And the cycle restarts. Phosphorus is present in many forms in your tank and is constantly being recycled from one form to another.
-
 **Input: organic phosphorus**
-Phosphorus enters the tank primarly with fish food and plant matter. Phosphorus is bound to proteins, necleic acids and lipids. Fish metabolise part of it for tissue growth and squeletal structure; the rest (about 60%) is excreted through poop, urine and the gills.
+
+Phosphorus enters the tank primarly with fish food and plant matter. It is bound to proteins, necleic acids and lipids. Fish metabolise part of it for tissue growth and squeletal structure; the rest (about 60%) is excreted through poop, urine and the gills.
+
 **Mineralisation: bacterial process**
+
+Before organic phosphorus can be consumed it must be converted into dissolved form (orthophosphates) by bactrial activity in a process named mineralisation.
+This process happens in two stages :
+
+1. Bacteria excrete enzymes in th water that break down complex phosphate bounds in organic molecules into simpler dissolved fragments releasing phosphates.
+2. bacteria absorbs part of that phosphates for their own metabolism.
+
+This process is temperature sensitive, but the surface area available, oxygen rate and the chemical composition of the organic matter also play a role in how fast mineralisation can occur. A warm tank converts phosphorus fatser than a cold one.
+
 **Uptake : plant and algal assimilation**
+
+Once orthophosphates are in the water, they become available for biological uptake. Plants consume them for growth and photosynthesis. Algae and cyanobacteria do the same but with a much bigger surface area to volume ratio. When there is plenty of orthophosphates, plants absorb more than what they need and store them into their cells as polyphosphates granules. This is luxury consumption with talked about earlier. However, when plants are trimmed or die, this stored phosphate is returned to the cycle.
+
 **Return: excretion and decay**
+
 Fish contineously release phosphates directly though their gills. This is a fast pathway that bypasses mineralisation completely. When plants and poop decay, organic phosphorus re-enters the mineralisation pipeline and is converted back to dissolved phosphates.
 
 ### Target levels and testing
