@@ -9,15 +9,15 @@ tags:
 
 ### Introduction
 
-Phosphorus is an important nutrient for biology and life since it is used in different processes, like ADN composition, cells building, energy production and transfer, metabolism, building skeletal structures, etc...It is present in nature in many forms but unlike nitrogen it doesn't have a gaseous phase.
+Phosphorus is an important nutrient for biology and life since it is used in different processes, like DNA composition, cells building, energy production and transfer, metabolism, building skeletal structures, etc...It is present in nature in many forms but unlike nitrogen it doesn't have a gaseous phase.
 
 The forms of phosphorus we can usually find in a tank are Dissolved Inorganic Phosphorus, also know as Orthophosphate ($$PO4^{3-}$$), or more precisely, Hydrogen Phosphate ($$HPO4^{2-}$$). It is present when pH is between 7 and 10. Other forms in the tank include Particulate Organic Phosphorus (POP) and Dissolved Organic Phosphorus (DOP).
 
-When food in the tank is broken down by bactria and microorganisms, phosphorus is released into the water in the form of Phosphate ions ($$PO4^{3-}$$). It is then absorbed by the plants for growth and various biological processes. Phosphorus is the first nutrient to be depleted before nitrogen and it is a limiting factor for growth for the plants. 
+When food in the tank is broken down by bacteria and microorganisms, phosphorus is released into the water in the form of Phosphate ions ($$PO4^{3-}$$). It is then absorbed by the plants for growth and various biological processes. Phosphorus is the first nutrient to be depleted before nitrogen and it is a limiting factor for growth for the plants. 
 
 When the fish poop and the plants decay in the tank, the absorbed phosphates, which are bound to the organic matter, are released again in the water restarting the cycle.
 
-When phosphates are high, an algae bloom may occur and will cause the oxygen levels in the water to trop down rapidely, wish consequently may harm your fish. Inversely, when there is a phosphate deficiency in the tank, the leafs of the plants will turn dark. Plants are very resilient though and can store phosphates in their cells for later consumption when its levels drop in the water. This concept is know as luxury consumption.
+When phosphates are high, an algae bloom may occur and will cause the oxygen levels in the water to drop down rapidely, which consequently may harm your fish. Inversely, when there is a phosphate deficiency in the tank, the leafs of the plants will turn dark. Plants are very resilient though and can store phosphates in their cells for later consumption when its levels drop in the water. This concept is know as luxury consumption.
 
 Managing phosphorus levels in the tank is essential for your fish's health and growth, the plant life in your tank, and the overall stability of the ecosystem of your tank. And this starts with knowing how phosphorus gets in the tank in the first place.
 
@@ -38,17 +38,17 @@ Phosphorus enters in the tank as organic matters, gets broken down by bacteria, 
 
 **Input: organic phosphorus**
 
-Phosphorus enters the tank primarly with fish food and plant matter. It is bound to proteins, necleic acids and lipids. Fish metabolise part of it for tissue growth and squeletal structure; the rest (about 60%) is excreted through poop, urine and the gills.
+Phosphorus enters the tank primarly with fish food and plant matter. It is bound to proteins, nucleic acids and lipids. Fish metabolise part of it for tissue growth and skeletal structure; the rest (about 60%) is excreted through poop, urine and the gills.
 
 **Mineralisation: bacterial process**
 
-Before organic phosphorus can be consumed it must be converted into dissolved form (Dissolved Inorganic Phophorus : orthophosphates) by bactrial activity in a process named mineralisation.
+Before organic phosphorus can be consumed it must be converted into dissolved form (Dissolved Inorganic Phophorus : orthophosphates) by bacterial activity in a process named mineralisation.
 This process happens in two stages :
 
 1. Bacteria excrete enzymes in th water that break down complex phosphate bounds in organic molecules (POP and DOP) into simpler dissolved fragments releasing phosphates.
 2. Bacteria absorb part of those phosphates for their own metabolism.
 
-This process is temperature sensitive, but the surface area available, oxygen rate and the chemical composition of the organic matter also play a role in how fast mineralisation can occur. A warm tank converts phosphorus fatser than a cold one.
+This process is temperature sensitive, but the surface area available, oxygen rate and the chemical composition of the organic matter also play a role in how fast mineralisation can occur. A warm tank converts phosphorus faster than a cold one.
 
 **Uptake : plant and algal assimilation**
 
@@ -56,11 +56,11 @@ Once orthophosphates are in the water, they become available for biological upta
 
 **Return: excretion and decay**
 
-Fish contineously release phosphates directly though their gills. This is a fast pathway that bypasses mineralisation completely. When plants and poop decay, organic phosphorus re-enters the mineralisation pipeline and is converted back to dissolved phosphates.
+Fish continuously release phosphates directly though their gills. This is a fast pathway that bypasses mineralisation completely. When plants and poop decay, organic phosphorus re-enters the mineralisation pipeline and is converted back to dissolved phosphates.
 
 ### Target levels and testing
 
-The levels of phosphorus you should target in your aquarium depends on whether or not your tank is planted. For a planted tank, the recommanded levels are 0.15 to 1.0 mg/L. For a bare aquarium, levels should be inferior to 0.03 mg/L.
+The levels of phosphorus you should target in your aquarium depends on whether or not your tank is planted. For a planted tank, the recommended levels are 0.15 to 1.0 mg/L. For a bare aquarium, levels should be inferior to 0.03 mg/L.
 
 Test kits mesure Phosphate Ions in the water, giving you a reading on the levels readily available in the water.
 
@@ -80,7 +80,7 @@ You can also reduce phosphates using preventive methods like :
 
 In [RAS systems](https://tmaquaponics.github.io/2026/04/03/Building-RAS.html){:target="_blank"}, phosphorus can accumulate rapidely since water is not renewed and there is usually no plants in the system to consume it. Removal methods in a ras are either mechanical, chemical, biological, or a combination of them all. 
 
-- Chemical methods aim to transform dissolved phosphorus into precipitate phosphorus. Chimical means consist in adding metal ions like aluminum that form a chimical bound with phosphorus and then precipitate in the water. Precipitates can then be removed mechanically. 
+- Chemical methods aim to transform dissolved phosphorus into precipitate phosphorus. Chemical means consist in adding metal ions like aluminum that form a chemical bound with phosphorus and then precipitate in the water. Precipitates can then be removed mechanically.
 
 - Mechanical means include the removal of solid waste formed by uneaten food, fish waste and decaying organics.
 
@@ -88,4 +88,4 @@ In [RAS systems](https://tmaquaponics.github.io/2026/04/03/Building-RAS.html){:t
 
 ### Conclusion
 
-We have breifly explored the phosphorus cycle in freshwater tanks and discussed how silent its accumulation can be. The best way to manage phosphorus in your water is to apply the prevention mechanisms we have seen. With the information provided here, you can be confident in managing this nutrient. But the story doesn't end here; phosphorus removal is tied to denitrification, the other half of the nitrogen cycle we have yet to explore.
+We have briefly explored the phosphorus cycle in freshwater tanks and discussed how silent its accumulation can be. The best way to manage phosphorus in your water is to apply the prevention mechanisms we have seen. With the information provided here, you can be confident in managing this nutrient. But the story doesn't end here; phosphorus removal is tied to denitrification, the other half of the nitrogen cycle we have yet to explore.
