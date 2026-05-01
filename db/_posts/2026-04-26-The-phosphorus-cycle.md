@@ -17,7 +17,7 @@ When food in the tank is broken down by bacteria and microorganisms, phosphorus 
 
 When the fish poop and the plants decay in the tank, the absorbed phosphates, which are bound to the organic matter, are released again in the water restarting the cycle.
 
-When phosphates are high, an algae bloom may occur and will cause the oxygen levels in the water to drop down rapidely, which consequently may harm your fish. Inversely, when there is a phosphate deficiency in the tank, the leafs of the plants will turn dark. Plants are very resilient though and can store phosphates in their cells for later consumption when its levels drop in the water. This concept is know as luxury consumption.
+When phosphates are high, an algae bloom may occur and will cause the oxygen levels in the water to drop down rapidly, which consequently may harm your fish. Inversely, when there is a phosphate deficiency in the tank, the leafs of the plants will turn dark. Plants are very resilient though and can store phosphates in their cells for later consumption when its levels drop in the water. This concept is know as luxury consumption.
 
 Managing phosphorus levels in the tank is essential for your fish's health and growth, the plant life in your tank, and the overall stability of the ecosystem of your tank. And this starts with knowing how phosphorus gets in the tank in the first place.
 
@@ -27,7 +27,7 @@ Phosphorus enters the tank through many means, the main ones being fish, fish fo
 
 - Tap water.
 - Dead organisms.
-- Water conditionning products.
+- Water conditioning products.
 
 ### The phosphorus cycle in the tank
 
@@ -38,11 +38,11 @@ Phosphorus enters in the tank as organic matters, gets broken down by bacteria, 
 
 **Input: organic phosphorus**
 
-Phosphorus enters the tank primarly with fish food and plant matter. It is bound to proteins, nucleic acids and lipids. Fish metabolise part of it for tissue growth and skeletal structure; the rest (about 60%) is excreted through poop, urine and the gills.
+Phosphorus enters the tank primarily with fish food and plant matter. It is bound to proteins, nucleic acids and lipids. Fish metabolize part of it for tissue growth and skeletal structure; the rest (about 60%) is excreted through poop, urine and the gills.
 
 **Mineralisation: bacterial process**
 
-Before organic phosphorus can be consumed it must be converted into dissolved form (Dissolved Inorganic Phophorus : orthophosphates) by bacterial activity in a process named mineralisation.
+Before organic phosphorus can be consumed it must be converted into dissolved form (Dissolved Inorganic Phosphorus : orthophosphates) by bacterial activity in a process named mineralisation.
 This process happens in two stages :
 
 1. Bacteria excrete enzymes in th water that break down complex phosphate bounds in organic molecules (POP and DOP) into simpler dissolved fragments releasing phosphates.
@@ -62,14 +62,14 @@ Fish continuously release phosphates directly though their gills. This is a fast
 
 The levels of phosphorus you should target in your aquarium depends on whether or not your tank is planted. For a planted tank, the recommended levels are 0.15 to 1.0 mg/L. For a bare aquarium, levels should be inferior to 0.03 mg/L.
 
-Test kits mesure Phosphate Ions in the water, giving you a reading on the levels readily available in the water.
+Test kits measure Phosphate Ions in the water, giving you a reading on the levels readily available in the water.
 
 ### Removal methods
 
 Phosphates can be removed from your tank via different ways : 
 
 - Consumed by plants.
-- Using chemical products and speciallized filters.
+- Using chemical products and specialized filters.
 - Through Water changes.
 
 You can also reduce phosphates using preventive methods like :
@@ -78,7 +78,7 @@ You can also reduce phosphates using preventive methods like :
 - Using live food.
 - Regularly siphoning and cleaning the substrate or removing detritus that forms at the bottom of the tank.
 
-In [RAS systems](https://tmaquaponics.github.io/2026/04/03/Building-RAS.html){:target="_blank"}, phosphorus can accumulate rapidely since water is not renewed and there is usually no plants in the system to consume it. Removal methods in a ras are either mechanical, chemical, biological, or a combination of them all. 
+In [RAS systems](https://tmaquaponics.github.io/2026/04/03/Building-RAS.html){:target="_blank"}, phosphorus can accumulate rapidly since water is not renewed and there is usually no plants in the system to consume it. Removal methods in a ras are either mechanical, chemical, biological, or a combination of them all. 
 
 - Chemical methods aim to transform dissolved phosphorus into precipitate phosphorus. Chemical means consist in adding metal ions like aluminum that form a chemical bound with phosphorus and then precipitate in the water. Precipitates can then be removed mechanically.
 
