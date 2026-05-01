@@ -34,13 +34,21 @@ Phosphorus enters the tank through many means, the main ones being fish, fish fo
 
 ### The phosphorus cycle in the tank
 
-![The phosphorus-cycle](/assets/img/p_cycle.png)
+![The phosphorus-cycle](/assets/img/p_cycle.png)<br>
 *The phosphorus cycle*
 
+Phosphorus enters in the tank as organic matters, gets broken down by bacteria, is taken up by organisms then returns to organic form when those organisms excrete or die. And the cycle restarts. Phosphorus is present in many forms in your tank and is constantly being recycled from one form to another.
+
+**Input: organic phosphorus**
+Phosphorus enters the tank primarly with fish food and plant matter. Phosphorus is bound to proteins, necleic acids and lipids. Fish metabolise part of it for tissue growth and squeletal structure; the rest (about 60%) is excreted through poop, urine and the gills.
+**Mineralisation: bacterial process**
+**Uptake : plant and algal assimilation**
+**Return: excretion and decay**
+Fish contineously release phosphates directly though their gills. This is a fast pathway that bypasses mineralisation completely. When plants and poop decay, organic phosphorus re-enters the mineralisation pipeline and is converted back to dissolved phosphates.
 
 ### Target levels and testing
 
-The levels of phosphorus you should target in your aquarium depends if it is planted or not. For a planted tank, the recommanded levels are 0.15 to 1.0 mg/L. For a bare aquarium, levels should be inferior to 0.03 mg/L.
+The levels of phosphorus you should target in your aquarium depends on whether or not your tank is planted. For a planted tank, the recommanded levels are 0.15 to 1.0 mg/L. For a bare aquarium, levels should be inferior to 0.03 mg/L.
 
 Test kits mesure Phosphate Ions in the water, giving you a reading on the levels readily available in the water.
 
