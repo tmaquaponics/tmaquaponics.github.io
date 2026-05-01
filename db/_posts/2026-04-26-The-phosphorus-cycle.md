@@ -7,9 +7,6 @@ tags:
   - phosphorus
 ---
 
-<div class="message-info">Under construction.
-</div>
-
 ### Introduction
 
 Phosphorus is an important nutrient for biology and life since it is used in different processes, like ADN composition, cells building, energy production and transfer, metabolism, building skeletal structures, etc...It is present in nature in many forms but unlike nitrogen it doesn't have a gaseous phase.
@@ -49,7 +46,7 @@ Before organic phosphorus can be consumed it must be converted into dissolved fo
 This process happens in two stages :
 
 1. Bacteria excrete enzymes in th water that break down complex phosphate bounds in organic molecules into simpler dissolved fragments releasing phosphates.
-2. bacteria absorbs part of that phosphates for their own metabolism.
+2. Bacteria absorbs part of those phosphates for their own metabolism.
 
 This process is temperature sensitive, but the surface area available, oxygen rate and the chemical composition of the organic matter also play a role in how fast mineralisation can occur. A warm tank converts phosphorus fatser than a cold one.
 
