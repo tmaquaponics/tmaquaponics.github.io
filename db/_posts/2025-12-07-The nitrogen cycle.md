@@ -21,7 +21,7 @@ By the end of this article, you will understand what goes on in your tank at a d
 
 ### The nitrogen cycle
 
-There are two halfs of the nitrogen cycle, nitrification and denitrification :
+There are two half of the nitrogen cycle, nitrification and denitrification :
 
 **Nitrification**
 
@@ -159,8 +159,8 @@ Even established tanks can have problems that arise from time to time. The follo
 
 ### Conclusion
 
-We have briefly explored the nitrogen cycle, its phases, the beneficial bacteria at its heart and a quick response guide in case somethig goes wrong.
-With the information provided here you can be confident in setting up a healthy and stable environement for your fish and aquatic life and in navigating further resources.
+We have briefly explored the nitrogen cycle, its phases, the beneficial bacteria at its heart and a quick response guide in case something goes wrong.
+With the information provided here you can be confident in setting up a healthy and stable environment for your fish and aquatic life and in navigating further resources.
 
 ### References
 

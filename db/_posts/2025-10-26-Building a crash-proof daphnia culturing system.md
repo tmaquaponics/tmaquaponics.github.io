@@ -51,7 +51,7 @@ In each daphia tote, put an aerator and some plants, like hornwort, elodea or gu
 
 Feeding Daphnia is really simple. Each Daphnia tote receives 3 liters of green water daily, 1 liter from each green water tote. Adjust the quantities according to your needs.
 
-When transfering green water to feed the daphnia, use a net as a filter to catch unwanted pests or weed.
+When transferring green water to feed the daphnia, use a net as a filter to catch unwanted pests or weed.
 
 From time to time, you can feed your daphnia some yeast. However, you should let your yeast degas completely for about 20 minutes before using it.
 

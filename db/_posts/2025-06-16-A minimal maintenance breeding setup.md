@@ -6,7 +6,7 @@ tags: filtration aquarium breeding tote
 
 ### Introduction
 
-In this article we will build a minimal maintenance breeding setup. Our setup uses 100 Liters totes but it will work with every water container, from small 20 gallons glass tanks to big 1000L totes. Its objective is to reduce maintenance and establish a filtration system with minimum cost and human intervention.
+In this article we will build a minimal maintenance breeding setup. Our setup uses 100 Liters totes but it will work with every water container, from small 20 gallons glass tanks to big 1000 L totes. Its objective is to reduce maintenance and establish a filtration system with minimum cost and human intervention.
 
 <ins>Requirements</ins>
 
@@ -46,10 +46,10 @@ Take the tubing connection out from the water and place each one of its ends in 
 3. Place a sponge filter in each one of the breeding totes.
 4. Seed your totes and let them cycle for a week, then you are good to go.
 
-The first breeding tote will serve for breeding the parents, the other three breeding totes will serve for growing out the juveniles. For each new spawn, you will move the previous generation from one tote to the next adjascent tote and put the new generation in place of it. That way you have three months of grow-out for each spawn (assuming a once in a month breeding for the parents).
+The first breeding tote will serve for breeding the parents, the other three breeding totes will serve for growing out the juveniles. For each new spawn, you will move the previous generation from one tote to the next adjacent tote and put the new generation in place of it. That way you have three months of grow-out for each spawn (assuming a once in a month breeding for the parents).
 
 ### Conclusion
 
-The downside of this system is that it takes a lot of horizontal space and if there is a problem with one of the middle totes, you will have to move all the other totes to reconnect them together. But overall, the system holds a lot of water (600L in total). Plants filtration doesn't interfere with the space in the totes and the maintenance is reduced to cleaning the sponge filters. 
+The downside of this system is that it takes a lot of horizontal space and if there is a problem with one of the middle totes, you will have to move all the other totes to reconnect them together. But overall, the system holds a lot of water (600 L in total). Plants filtration doesn't interfere with the space in the totes and the maintenance is reduced to cleaning the sponge filters. 
 
 If the two totes of filtration are not enough for the bioload, you can add as many totes of filtration as you want or, for example, place an additional undergravel filter in each tote. You can also put a solar powered pump to reduce cost, place a UV light to kill harmful bacteria or even add an external filtration like a canister filter. Basically, you can modify the setup as you want and add as many modules as you want, that's the beauty of the system.

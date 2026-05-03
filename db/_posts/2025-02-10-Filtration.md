@@ -112,7 +112,6 @@ The HOB filter is the way to go if you want to do an aquascaping tank. It gives 
 A canister filter is basically a sealable box with multiple trays, an input flow and and output flow. In each tray of the filter you can put different types of media. The water is sucked from the aquarium through the input flow, goes to to bottom of the canister using a tube, then raises through every tray of the filter to be finally expelled and returned to the aquarium. The canister filter is a very popular choice amongst aquarists but they sometimes lose their seal which makes them leak.
 
 **Sump filter**
-
 ![Sump filter](/assets/img/Sump-Filter.jpg)<br>
 *Sump filter*
 
@@ -121,8 +120,6 @@ A sump is a container divided into multiple chambers. Each chamber plays a role 
 **No filter**
 
 The no filter 'movement' is based on the premise that you establish a stable ecosystem in your tank between fish, microorganisms and plants. Usually, this is a heavily planted aquarium with a deep substrate and nano fish like endlers or neon tetras.
-
-
 ### Filtering a 20 gallons aquarium
 
 A 20 gallons aquarium is the perfect size to start fishkeeping. It is big enough for small fish and small enough that you can put it everywhere.

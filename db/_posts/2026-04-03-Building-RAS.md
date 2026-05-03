@@ -19,7 +19,7 @@ Recirculating Aquaculture Systems are an efficient technology to produce fish in
 RAS systems are a water reuse systems where fish are produced all year around, in a highly controlled manner. The main components of a RAS system are as follows :
 
 1. **Clarification and solids removal :** are the process of mechanically removing organic sedimentary and suspended solids, like uneaten fish food and fish waste from the system. This is usually done using mechanical means like settlers or meshes/sponges.
-2. **Biofiltration :** is the process of biologically removing inorganic contaminants from the water, such as amonia, nitrites and nitrates. This is usually done using Moving Bed Biofilm Reactor (MBBR) systems.
+2. **Biofiltration :** is the process of biologically removing inorganic contaminants from the water, such as ammonia, nitrites and nitrates. This is usually done using Moving Bed Biofilm Reactor (MBBR) systems.
 3. **Gas stripping and oxygenation:** are the process of reducing harmful dissolved gases in water such as CO2 and nitrogen, and the process of enriching the water with oxygen.
 4. **Heating/cooling and sterilization :** are the temperature regulation and UV light sterilization processes.
 
@@ -33,7 +33,7 @@ The idea for building a RAS system at a small scale was born after watching vide
 
 Another common point is that they lacked sophisticated filtration systems. Almost all designs were using sponge filters; only a small number integrated sumps to filter and link the tanks together. The later category was more appealing to me.
 
-My interest in sumps brought me to the science of water treatment, aquaponics, and more broadly to RAS systems. The science is there but it is complicated to understand and maybe more so to implement, given that I usually don't build this kind of stuff. My best option then was to default to plants to get rid of nitrate and achive a [full filtration cycle.](https://tmaquaponics.github.io/2025/12/07/The-nitrogen-cycle.html){:target="_blank"}
+My interest in sumps brought me to the science of water treatment, aquaponics, and more broadly to RAS systems. The science is there but it is complicated to understand and maybe more so to implement, given that I usually don't build this kind of stuff. My best option then was to default to plants to get rid of nitrate and achieve a [full filtration cycle.](https://tmaquaponics.github.io/2025/12/07/The-nitrogen-cycle.html){:target="_blank"}
 
 The motivation for building a fishroom in a single rack was purely financial (your favorite author lacks funding and some serious budgeting skills :), and having a fishroom in a small form factor made sens to me.
 
@@ -103,13 +103,13 @@ Same as configuration 2 but in L3 we put three 60 Liters tanks instead of a 180 
 
 **Each tank has a filter of its own:**
 
-Each breeding tank will have a sponge filter. Plant filtration tanks will have an under-gravel filter. I chose to incorporate an UGF filter in the design because it is bullet-proof, unbreakable and requires less maintenace than a sponge filter.
+Each breeding tank will have a sponge filter. Plant filtration tanks will have an under-gravel filter. I chose to incorporate an UGF filter in the design because it is bullet-proof, unbreakable and requires less maintenance than a sponge filter.
 
 **Combine multiple filtration systems for maximum benefits:**
 
-Three types of filtration will be implemented. A central filtration system in the form of a sump or MBBR, individual sponge and UGF filters for the tanks and two to three tanks dedicated for plants. Unfortunatly, I can't and I don't really want to spend much money on a UV light. So the water will not be sterilized, big whoop!
+Three types of filtration will be implemented. A central filtration system in the form of a sump or MBBR, individual sponge and UGF filters for the tanks and two to three tanks dedicated for plants. Unfortunately, I can't and I don't really want to spend much money on a UV light. So the water will not be sterilized, big whoop!
 
-Degassing and oxygination in the system are done as a by-product of the design. How convenient is that !? :D Let me explain...The MBBR is operated by an air pump and the constant bubbling enables degassing. In addition, the tap above each tank is elevated from its rim by about 10 cm, so the presurized pumped water from L1 makes a lot of splashes and bubbles when entering each tanks. This process, although noisy, contributes to the oxygination of the water quite well.
+Degassing and oxygenation in the system are done as a by-product of the design. How convenient is that !? :D Let me explain...The MBBR is operated by an air pump and the constant bubbling enables degassing. In addition, the tap above each tank is elevated from its rim by about 10 cm, so the pressurized pumped water from L1 makes a lot of splashes and bubbles when entering each tanks. This process, although noisy, contributes to the oxygenation of the water quite well.
 
 A big portion of the clarification and solids removal will be done by the sump, the sponge filters and UGFs. Obviously, detritus and sunk particles must be siphoned by hand in each tank.
 
