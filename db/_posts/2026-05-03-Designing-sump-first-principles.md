@@ -64,9 +64,9 @@ This is just a big MBBR. No baffles, easy access to the entire sump, plenty of r
 
 **Design 3: Elaborate sump**
 
-In this design, the sump four three chambers. the first chamber if 15 by 60 cm. This first chamber is further devided into 4 compartments. The First three hold moving sand filter while the last compartment at the front glass remains empty. On the sides of that last compartment are three holes for water to pass to the second chamber.
+In this design, the sump has four chambers. The first chamber if 15 by 60 cm. This first chamber is further devided into 4 compartments. The First three hold moving sand filter while the last compartment at the front glass remains empty. On the sides of that last compartment are three holes for water to pass to the second chamber.
 
-The second chamber has a deep sand bed of 12 to 15 cm. It is 30 by 60 cm. Water passes through three holes on the back side to the third chamber which holds moving biopellets. Water then passes through three other holes on the front side to the last chamber where the return pump and a heater are placed. The moving sand filter is run by an additional pump placed in the last chamber.
+The second chamber is 30 by 60 cm and has a deep sand bed of 12 to 15 cm. From this chamber, water passes through three holes on the back side to the third chamber which holds moving biopellets. Water then passes to the last chamber, where the return pump and a heater are placed, through three other holes on the front side. The moving sand filter is run by an additional pump placed in the last chamber.
 
 This design does not hold static media at all but the combined moving sand and biopellets are significantly more effective. The role of the moving sand filter is more than filtration. Moving sand grains break particlates from the tanks into a finer sized particles that feed the deep sand bed and provide a carbon source for the anerobic bacteria.
 
@@ -86,6 +86,3 @@ This design is simple, has an MBBR that can be converted to a grow-out tank and 
 
 <ins>Negative aspects:</ins>
 - Does not achieve a full filtration cycle (The nitrates and phosphates are not removed).
-
-
-
