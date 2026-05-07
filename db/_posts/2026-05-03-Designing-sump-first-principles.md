@@ -60,7 +60,7 @@ This is just a big MBBR. No baffles, easy access to the entire sump, plenty of r
 <ins>Negative aspects:</ins>
 - If converted to a grow-out tank we loose the filtration.
 - Does not achieve a full filtration cycle (The nitrates and phosphates are not removed).
-- Need to clean filter floss more often.
+- Need to often clean the filter floss.
 
 **Design 3: Elaborate sump**
 
@@ -68,13 +68,13 @@ In this design, the sump has four chambers. The first chamber if 15 by 60 cm. Th
 
 The second chamber is 30 by 60 cm and has a deep sand bed of 12 to 15 cm. From this chamber, water passes through three holes on the back side to the third chamber which holds moving biopellets. Water then passes to the last chamber, where the return pump and a heater are placed, through three other holes on the front side. The moving sand filter is run by an additional pump placed in the last chamber.
 
-This design does not hold static media at all but the combined moving sand and biopellets are significantly more effective. The role of the moving sand filter is more than filtration. Moving sand grains break particlates from the tanks into a finer sized particles that feed the deep sand bed and provide a carbon source for the anerobic bacteria.
+This design does not hold static media at all but the combined moving sand and biopellets are significantly more effective. The role of the moving sand filter is more than filtration. Moving sand grains break particlates from the tanks into a finer sized particles that feed the deep sand bed and provide a carbon source for the anerobic bacteria. Thanks to the deep sand bed, can potentially achieve a full cycle and get rid or reduce nitrates.
 
 <ins>Negative aspects:</ins>
 - Can't be converted to a grow-out tank.
 - Costs more to run the additional pump.
 - No room for upgrades.
-- Can potentially achieve a full cycle and get rid or reduce nitrates.
+- Difficulty in getting rid of the sand if I drop the sand filtration (I would need to empty the sump and take it out from the rack).
 
 **Design 4: Convertible sump**
 
