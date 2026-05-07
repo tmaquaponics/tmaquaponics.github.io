@@ -38,15 +38,41 @@ The first one benfit of a sump is the huge filtration capcity it brings compared
 
 For our specific purpose, the tanks overflow by gravity and not by siphon, so there's no risk of the sump overflowing. When the main pump stops, the circuit stops instantly, no water is puring in the sump anymore.
 
-Let's consider the designs
+Let's consider the designs...
 
-**Design 1: the sump has three chambers**
+**Design 1: The sump has three equal chambers**
 
-In this design I considered the sump as three aquariums joined together. Each chamber is basically a 60 Liter aquarium. Each baffle has three holes for the water to circulate from chamber to chamber. The gutter pours out water in the front of the first chamber. Water circulates to the back of the first chamber passing through different filtration media, then enters the second chamber from the side through three holes. In the second chamber, water flows from the back of the chamber to the front passing through the moving biopellets to enter the third chamber from the side through three holes. In that last chamber, water flows from the front to the back to the return pump. In that last chamber are placed two heaters.
+In this design I considered the sump as three aquariums joined together. Each chamber is basically a 60 Liter aquarium. Each baffle has three holes for the water to circulate from chamber to chamber. The gutter pours out water in the front of the first chamber. Water circulates to the back of the first chamber passing through different filtration media, then enters the second chamber from the side through three holes. In the second chamber, water flows from the back of the chamber to the front passing through the moving biopellets to enter the third chamber through the three holes on the side. In that last chamber, water flows from the front to the back to the return pump. Two heaters are placed in that last chamber.
 
 Pretty simple design, easy to clean and operate. Each chamber is depthwise to the sump with clear access for me.
 
-<in>Negative aspects:</ins>
+<ins>Negative aspects:</ins>
 - Can't be converted to a grow-out tank.
 - Upgrades only possible in the last chamber.
-- Does not achieve a full filtration cycle (The nitrates and phosphates are not removed). 
+- Does not achieve a full filtration cycle (The nitrates and phosphates are not removed).
+
+**Design 2: The sump is just one big chamber**
+
+In this design the 180 Liters aquarium is left as is. The only filtration are moving biopellets that fill up the entire sump. Filter floss is placed at the end of the gutter to catch particles before they enter the sump.
+
+This is just a big MBBR. No baffles, easy access to the entire sump, plenty of room for upgrades and equipement.
+
+<ins>Negative aspects:</ins>
+- If converted to a grow-out tank we loose the filtration.
+- Does not achieve a full filtration cycle (The nitrates and phosphates are not removed).
+- Need to clean filter floss more often.
+
+**Design 3: Elaborate sump**
+
+In this design, the sump four three chambers. the first chamber if 15 by 60 cm. This first chamber is further devided into 4 compartments. The First three hold moving sand filter while the last compartment at the front glass remains empty. On the sides of that last compartment are three holes for water to pass to the second chamber.
+
+The second chamber has a deep sand bed of 12 to 15 cm. It is 30 by 60 cm. Water passes through three holes on the back side to the third chamber which holds moving biopellets. Water then passes through three other holes on the front side to the last chamber where the return pump and a heater are placed. The moving sand filter is run by an additional pump placed in the last chamber.
+
+This design does not hold static media at all but the combined moving sand and biopellets are significantly more effective. The role of the moving sand filter is more than filtration. Moving sand grains break particlates from the tanks into a finer sized particles that feed the deep sand bed and provide a carbon source for the anerobic bacteria.
+
+<ins>Negative aspects:</ins>
+- Can't be converted to a grow-out tank.
+- Costs more to run the additional pump.
+- No room for upgrades.
+- Can potentially achieve a full cycle and get rid or reduce nitrates.
+
