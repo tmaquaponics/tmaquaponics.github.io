@@ -11,7 +11,7 @@ tags:
 
 ### Overview
 
-In my [fishroom in a rack build](https://tmaquaponics.github.io/2026/04/03/Building-RAS.html){:target="_blank"}, the cornerstone piece of the design is a sump. It serves the role of a settling chamber and a central filtration system. In this post, I will discuss the different designs I drew and consider the pros and cons of each model. Each design is imagined from first principles. Finally, I will document how I built the design I went with and the difficulties I encountered. Though the design I chose is simple, it serves its purpose quite well and offers me plenty of space and possibilities for upgrades and modifications.
+In my [fishroom in a rack build](https://tmaquaponics.github.io/2026/04/03/Building-RAS.html){:target="_blank"}, the cornerstone piece of the design is the sump. It serves the role of a settling chamber and a central filtration system. In this post, I will discuss the different designs I drew and consider the pros and cons of each model. Each design is imagined from first principles. Finally, I will document how I built the design I went with and the difficulties I encountered. Though the design I chose is simple, it serves its purpose quite well and offers me plenty of space and possibilities for upgrades and modifications.
 
 ### Introduction
 
@@ -32,3 +32,21 @@ From these requirements I decided to build a sump from first principles. So, wha
 
 ### The machanics of a sump
 
+A sump a a central filtration system where water is filtered from chamber to chamber. Usually, a sump contains at least 3 chambers. The first one is for mechanical filtration. Most often this is done using filter floss or filter socks. Then beneath that are coarse sponges that act as mechanical and biological filtration. In the second chamber is static media or moving biopellets. The role of this chamber is purely biologicial. The third chamber is for equipement and water conditioning. This last chamber hosts the return pump, heating elements and maybe some crushed corals for pH.
+
+The first one benfit of a sump is the huge filtration capcity it brings compared to canister filters. The downside is that you have to do a lot of plumbing. If that plumbing is not done right, you could end up with leaks and water accidents.
+
+For our specific purpose, the tanks overflow by gravity and not by siphon, so there's no risk of the sump overflowing. When the main pump stops, the circuit stops instantly, no water is puring in the sump anymore.
+
+Let's consider the designs
+
+**Design 1: the sump has three chambers**
+
+In this design I considered the sump as three aquariums joined together. Each chamber is basically a 60 Liter aquarium. Each baffle has three holes for the water to circulate from chamber to chamber. The gutter pours out water in the front of the first chamber. Water circulates to the back of the first chamber passing through different filtration media, then enters the second chamber from the side through three holes. In the second chamber, water flows from the back of the chamber to the front passing through the moving biopellets to enter the third chamber from the side through three holes. In that last chamber, water flows from the front to the back to the return pump. In that last chamber are placed two heaters.
+
+Pretty simple design, easy to clean and operate. Each chamber is depthwise to the sump with clear access for me.
+
+<in>Negative aspects:</ins>
+- Can't be converted to a grow-out tank.
+- Upgrades only possible in the last chamber.
+- Does not achieve a full filtration cycle (The nitrates and phosphates are not removed). 
