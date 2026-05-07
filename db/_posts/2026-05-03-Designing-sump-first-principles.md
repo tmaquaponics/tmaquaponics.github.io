@@ -76,3 +76,16 @@ This design does not hold static media at all but the combined moving sand and b
 - No room for upgrades.
 - Can potentially achieve a full cycle and get rid or reduce nitrates.
 
+**Design 4: Convertible sump**
+
+The sump has three chambers. The first one is 60 by 60 cm and will host an MBBR. the remaining space from the 180 Liters aquarium is divided in two. A small 20 by 30 cm chamber where is placed filter floss, sponge mats and static media. water flows in that chamber through 4 holes from the side then goes to the last chamber passing underneath the divider baflle. The last compartment holds the return pump.
+
+The first divider has three more holes on the side to the last chamber for three overflow bulkheads. When the static media in the second compartment is clogged, water starts rising in the MBBR compartment and overflows to the last compartement bypassing the second compartment. When the water overflows through the three bulkheads, it is time to clean the filter floss and the sponge mats.
+
+This design is simple, has an MBBR that can be converted to a grow-out tank and holds static media that is easy to access and clean. Also, it uses only one pump for the return water. Like in design 2, and to protect the MBBR, an additional filter floss is put at the end of the gutter to catch particles from the tank.
+
+<ins>Negative aspects:</ins>
+- Does not achieve a full filtration cycle (The nitrates and phosphates are not removed).
+
+
+
