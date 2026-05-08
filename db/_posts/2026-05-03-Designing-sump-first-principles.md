@@ -91,13 +91,12 @@ This design is simple, holds static media that is easy to access and clean and h
 
 **Design 5: Good enough sump**
 
-This design is similar to design 4 but has an additional chamber of 15 by 60 cm where the gutter pours in water. This chamber is divided into 4 compartements where water flows beneath or above each baffle to reach the second chamber. The second chamber now of size 45 by 60 cm holds the MBBR.
+This design is similar to design 4 but has an additional chamber of 15 by 60 cm where the gutter pours in water. This chamber is divided into 4 compartements where water flows beneath or above each baffle to reach the second chamber. The second chamber, now of size 45 by 60 cm, holds the MBBR.
 
 <ins>Negative aspects:</ins>
 - Does not achieve a full filtration cycle (The nitrates and phosphates are not removed).
 - Like in design 3, it is difficult to access the static media if the sides of the rack are out of reach.
 
-
 ### Final design
 
-The best overall design is probably design 3 but I went with design 4 because I maid a mistake. I cut the legs of the rack too short and there is no room beneath the first shelf to put reinforcements to support the weight of the deep sand bed. So, I will have to figure out what to add to have denitrification. Probably I will have to add a second pump to do denitrification in an external filter.
+The best overall design is design 3 but I went with design 4 because I maid a mistake. I cut the legs of the rack too short so there is no room beneath the first shelf to put reinforcements to support the weight of the deep sand bed. So, I will have to figure out what to add to have denitrification. Probably I will have to add a second pump to do denitrification in an external filter.
