@@ -32,11 +32,13 @@ From these requirements I decided to build a sump from first principles. So, wha
 
 ### The machanics of a sump
 
-A sump a a central filtration system where water is filtered from chamber to chamber. Usually, a sump contains at least 3 chambers. The first one is for mechanical filtration. Most often this is done using filter floss or filter socks. Then beneath that are coarse sponges that act as mechanical and biological filtration. In the second chamber is static media or moving biopellets. The role of this chamber is purely biologicial. The third chamber is for equipement and water conditioning. This last chamber hosts the return pump, heating elements and maybe some crushed corals for pH.
+A sump a a central filtration system where water is filtered from chamber to chamber. Usually, a sump contains at least 3 chambers. The first one is for mechanical filtration. Most often this is done using filter floss or filter socks. Then beneath that are coarse sponges that act as mechanical and biological filtration. The role of the first chamber is to protect the static media and equipement from particles in the water. 
 
-The first one benfit of a sump is the huge filtration capcity it brings compared to canister filters. The downside is that you have to do a lot of plumbing. If that plumbing is not done right, you could end up with leaks and water accidents.
+In the second chamber is static media or moving biopellets. The role of this chamber is purely biologicial. 
 
-For our specific purpose, the tanks overflow by gravity and not by siphon, so there's no risk of the sump overflowing. When the main pump stops, the circuit stops instantly, no water is puring in the sump anymore.
+The third chamber is for equipement and water conditioning. This last chamber hosts the return pump, heating elements and maybe some crushed corals for pH.
+
+The number one benfit of a sump is the huge filtration capcity it brings compared to canister filters. The downside is that you have to do a lot of plumbing. If that plumbing is not done right, you could end up with leaks and water accidents. For our specific purpose, the tanks overflow by gravity and not by siphon, so there's no risk of the sump overflowing. When the main pump stops, the circuit stops instantly and no water is puring in the sump anymore.
 
 Let's consider the designs...
 
