@@ -118,10 +118,3 @@ This design is similar to design 2 except there are two dividers held by suction
 
 ### Final design
 
-The best overall designs are design 3 and 6 but I went with design 4. 
-
-I cut the legs of the rack too short so there is no room beneath the first shelf to put reinforcements to support the weight of the deep sand bed. So, I will have to figure out what to add to have denitrification. Probably I will have to add a second pump to do denitrification in an external filter.
-
-Design 6 is the most simple yet effective design. It offers a huge volume of media for filtration compared to design 4. I didn't chose that design because I need the convertibility option for the grow-out tank. 
-
-Each tank has a sponge filter so there's already sufficient surface area for filtration in design 4. Could design 4 support the bioload of the rack remains an open question. I would have to test it in practice to decide. The good thing with design 4 is that I could always revert to design 6 from it since the 60 by 60 cm space is availaible.

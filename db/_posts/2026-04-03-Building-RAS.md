@@ -225,7 +225,7 @@ Before elaborating on these two choices, lets review the configuration of the ta
 - At level L4 we have three 60 Liters tanks with UGFs (all other tanks have sponge filters).
 - At L3, two 90 Liters tanks.
 - At L2, one 60 Liters tank divided in two and one 120 Liters tank.
-- At L1, the sump I went with is very simple. It is divided in three compartments. The first one is 60x60 cm. Offering the same volume as the 120 Liters in L2. The remaining volume is 60x30 cm divided in two. A 20x30 cm compartment for the static media, sponge mats and filter floss; and the last compartment of 40x30 cm is where the main pump will be placed. The compartment where the static media is has 6 holes on the side connected the 120 Liters volume. Water flows through the holes then the static media, under the baffle and to the pump.
+
 
 So, basically, we have two 30 Liters, three 60 Liters, two 90 Liters and two 120 Liters. Plenty of space for the fry to grow and a configuration that can host many batches at a time. The 120 Liters volume I cleared in the sump can either be used as a grow out or an MBBR (Versatility !! :). In the later case, I wouldn't need to implement an external filtration.
 
