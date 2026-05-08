@@ -76,15 +76,28 @@ This design does not hold static media at all but the combined moving sand and b
 - Can't be converted to a grow-out tank.
 - Costs more to run the additional pump.
 - No room for upgrades.
-- Difficulty in getting rid of the sand if I drop the sand filtration (I would need to empty the sump and take it out from the rack).
+- Difficulty in getting rid of the sand if I drop the sand filtration feature (I would need to empty the sump and take it out from the rack).
 
 **Design 4: Convertible sump**
 
-The sump has three chambers. The first one is 60 by 60 cm and will host an MBBR. the remaining space from the 180 Liters aquarium is divided in two. A small 20 by 30 cm chamber where is placed filter floss, sponge mats and static media. water flows in that chamber through 4 holes from the side then goes to the last chamber passing underneath the divider baflle. The last compartment holds the return pump.
+The sump has three chambers. The first one is 60 by 60 cm and will host an MBBR. The remaining space in the 180 Liters aquarium is divided in two. A small 20 by 30 cm chamber where are placed filter floss, sponge mats and static media, and a big chamber of 40 by 30 cm where are placed heaters and the return pump. Water flows in to the small chamber through 4 holes on the side then goes to the big chamber passing underneath the divider baflle and to the return pump.
 
-The first divider has three more holes on the side to the last chamber for three overflow bulkheads. When the static media in the second compartment is clogged, water starts rising in the MBBR compartment and overflows to the last compartement bypassing the second compartment. When the water overflows through the three bulkheads, it is time to clean the filter floss and the sponge mats.
+The first divider has three more holes on the side to the last chamber for three overflow bulkheads. When the static media in the second chamber is clogged, water starts rising in the MBBR compartment and overflows to the last chamber bypassing the second chamber. When the water overflows through the three bulkheads, it means it is time to clean the filter floss and the sponge mats.
 
-This design is simple, has an MBBR that can be converted to a grow-out tank and holds static media that is easy to access and clean. Also, it uses only one pump for the return water. Like in design 2, and to protect the MBBR, an additional filter floss is put at the end of the gutter to catch particles from the tank.
+This design is simple, holds static media that is easy to access and clean and has an MBBR that can be converted to a grow-out tank. Unlike design 3, it uses only one pump for the return water. Like in design 2, and to protect the MBBR, an additional filter floss is put at the end of the gutter to catch particles from the tank.
 
 <ins>Negative aspects:</ins>
 - Does not achieve a full filtration cycle (The nitrates and phosphates are not removed).
+
+**Design 5: Good enough sump**
+
+This design is similar to design 4 but has an additional chamber of 15 by 60 cm where the gutter pours in water. This chamber is divided into 4 compartements where water flows beneath or above each baffle to reach the second chamber. The second chamber now of size 45 by 60 cm holds the MBBR.
+
+<ins>Negative aspects:</ins>
+- Does not achieve a full filtration cycle (The nitrates and phosphates are not removed).
+- Like in design 3, it is difficult to access the static media if the sides of the rack are out of reach.
+
+
+### Final design
+
+The best overall design is probably design 3 but I went with design 4 because I maid a mistake. I cut the legs of the rack too short and there is no room beneath the first shelf to put reinforcements to support the weight of the deep sand bed. So, I will have to figure out what to add to have denitrification. Probably I will have to add a second pump to do denitrification in an external filter.
