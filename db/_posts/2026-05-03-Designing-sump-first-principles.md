@@ -97,6 +97,17 @@ This design is similar to design 4 but has an additional chamber of 15 by 60 cm 
 - Does not achieve a full filtration cycle (The nitrates and phosphates are not removed).
 - Like in design 3, it is difficult to access the static media if the sides of the rack are out of reach.
 
+**Design 6: Regular sump**
+
+In this design the sump has 4 chambers. The chambers are seperated depthwise by baffles where water goes beneath or above each baffle. The first chamber is 15 by 60 cm, it holds filter floss and sponge mats. The second chamber is 15 by 60 cm and holds the static media. The third chamber holds the moving biopellets and is 30 by 60 cm. The last chamber is 30 by 60 cm and holds the heaters and the return pump.
+
+This design is simple and gives clear access to all the chambers from the front of the rack.
+
+<ins>Negative aspects:</ins>
+- Does not achieve a full filtration cycle (The nitrates and phosphates are not removed).
+- No room for upgrades except the last chamber.
+- Can't be converted into a grow-out tank.
+
 ### Final design
 
 The best overall design is design 3 but I went with design 4 because I maid a mistake. I cut the legs of the rack too short so there is no room beneath the first shelf to put reinforcements to support the weight of the deep sand bed. So, I will have to figure out what to add to have denitrification. Probably I will have to add a second pump to do denitrification in an external filter.

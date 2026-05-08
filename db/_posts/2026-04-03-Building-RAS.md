@@ -229,7 +229,7 @@ Before elaborating on these two choices, lets review the configuration of the ta
 
 So, basically, we have two 30 Liters, three 60 Liters, two 90 Liters and two 120 Liters. Plenty of space for the fry to grow and a configuration that can host many batches at a time. The 120 Liters volume I cleared in the sump can either be used as a grow out or an MBBR (Versatility !! :). In the later case, I wouldn't need to implement an external filtration.
 
-**Choice 1 : gravity fed filtration**
+**Choice 1 : Gravity fed filtration**
 
 In this configuration, the gutters tube continues to the bottom of a barrel that is filled with static media. The water must pass through this media going up then overflows into a second barrel filled with moving biopellets. That MBBR is run by a dedicated air pump with the same capacity as the one used for the sponge filters (Another replication opportunity here). The water then returns to the sump to continue its normal flow in the system.
 
@@ -237,7 +237,7 @@ The static media should not be too dense here since the force of water is only g
 
 Another problem that can occur here is if a fish manages to go to the gutters, it will be rotting at the bottom of the barrel (I don't have meshes on the overflow bulkheads. The intakes are perpendicular to the surface of the water in the tanks).
 
-**Choice 2 : use an additional pump**
+**Choice 2 : Use an additional pump**
 
 In this configuration the second pump feeds two circuits. One that goes to the bottom of a static media barrel, and then follows the same route as choice 1 to an MBBR barrel. The other feeds three valves above the 120 Liters volume in the sump. One valve to feed a denitrator and the two others to run a moving sand filter. Too much overkill ? The word on the streets is that 1 kg of sand can handle approximately 200 Liters of water for biological filtration. Yes, but what's the stocking density we are talking about here ?
 
