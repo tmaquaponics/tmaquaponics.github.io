@@ -108,6 +108,14 @@ This design is simple and gives clear access to all the chambers from the front 
 - No room for upgrades except the last chamber.
 - Can't be converted into a grow-out tank.
 
+**Design 7: Divided sump**
+
+This design is similar to design 2 except there are two dividers held by suction cups. This means I can resize the MBBR chamber as I want, create a grow-out space of variable size and still have a 180 L tank in case I want to convert the sump into a settling or full breeding/grow-out tank. This design is the most versatile since it can be converted at any time into any other design.
+
+<ins>Negative aspects:</ins>
+- Does not achieve a full filtration cycle (The nitrates and phosphates are not removed).
+- Need to often clean the filter floss at the end of the gutter.
+
 ### Final design
 
 The best overall designs are design 3 and 6 but I went with design 4. 
