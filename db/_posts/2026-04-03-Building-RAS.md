@@ -66,9 +66,9 @@ On the superior levels, each level has three overflow gutters. All overflow gutt
 ![Water flow system](/assets/img/IMG_20260406_060029.jpg)
 *Water flow system*
 
-> Why three taps and three overflows on each level ? To give us the ability to change the configuration of the tanks ;)
+> Why three taps and three overflows on each level ? To give me the ability to change the configuration of the tanks ;)
 
-Connecting all the tanks together will enable me to put in place a central filtration system. As we will see later, the filtration can be in sequential for maximum throughput or set up in parallel in case we want to re-purpose L1 with a breeding and grow-out tank. A central filtration lowers the cost of filtration since one pump will filter many tanks at once. But connecting the tanks has other advantages as well: a better water stability and an increased ease in water changes.
+Connecting all the tanks together will enable me to put in place a central filtration system. As we will see later, the filtration can be in sequential for maximum throughput or set up in parallel in case I want to re-purpose L1 with a breeding and grow-out tank. A central filtration lowers the cost of filtration since one pump will filter many tanks at once. But connecting the tanks has other advantages as well: a better water stability and an increased ease in water changes.
 
 Compared to a small tank, a big volume of water is less affected by fluctuations of temperature and toxicity levels of ammonia, nitrite and nitrate. This also means it's better to feed each tank in the rack at a different time to equally and gradually distribute the ammonia spike from the food on all the tanks. As for water changes, they can be performed, like in the previous design, simply by emptying and refilling one of the tanks.
 
@@ -117,14 +117,14 @@ A big portion of the clarification and solids removal will be done by the sump, 
 
 <ins>Sequential vs parallel filtration</ins>
 
-We talked previously about parallel vs sequential filtration. Let's see what's the difference :
+I talked previously about parallel vs sequential filtration. Let's see what's the difference :
 If we assume the main pump is 5000 L/h, and that we have 6 aquariums of 60 Liters and a settling tank of 180 Liters. This means that the overall volume of water is 540 Liters. If the settling tank was a sump, so a sequential filtration, we would filter the volume of water 10 times per hour. Whereas, if we transform one of the 60 Liters tank into a filter and keep all the others for breeding, including the settling tank, the 60 Liters tank would get 5000/6 = 833 Liters of volume of water per hour. Meaning, we would filter the entirety of the volume of water 833/540 = 1.54 times per hour. Not much compared to 10 times using a sump. Obviously, the more we add parallel filters, the more that number grows.
 
 Combining the sequential filtration of a sump and the parallel filtration of all the sponge and UGF filters plus the plant filtration tanks will guarantee pristine water quality.
 
 <ins>Denitrification</ins>
 
-Denitrification is the most important process in the entire build. Honestly, how to achieve it is not so straightforward given the information available online. However, creating anoxic zones that would convert nitrates to nitrogen gas is what got my attention. From what I gathered, it could be adapted and implemented in the build using the following methods:
+Denitrification is the most important process in the entire build. Honestly, how to achieve it is not so straightforward given the information available online. However, creating anoxic zones that would convert nitrates to nitrogen gas is what got my attention. From what I gathered, denitrification could be adapted and implemented in the build using the following methods:
 
 1. Deep sand beds in the UGFs filters: the substrate should be about 10 cm high. The first 3 to 4 cm would be aerobic and the rest would turn anoxic. For this to work, the flow of water through the sand must be reduced to a minimum.
 
@@ -142,9 +142,9 @@ I chose to dedicate two to three tanks in the design as a plant filtration tanks
 
 *Plants consume the nitrates produced from nitrification*. This is the 'usual' claim found online. In reality, plants play a different role in an aquatic ecosystem. In an article written by Diana Walstad [3], it is shown that plants prefer the absorption of ammonium in place of nitrates; which means, plants are competing with our beneficial bacteria to consume the ammonia present in the water. They do absorb nitrates but only when ammonia is depleted. More importantly for us, ammonia removal occurs regardless of the presence or absence of light, whereas nitrates removal necessitates light to take place.
 
-It's not a choice of putting plants into work or not but a choice of which species of plants to use. Since the top level has UGFs with coarse gravel, the choice was made to ditch rooted plants and to prioritize free floating ones like salvinia, water lettuce, hornwort and elodea. These plants are powerful in nitrogen and phosphorus absorption and can be easily maintained within dedicated aquariums.
-
 >The total ammonia nitrogen TAN is the amount of ammonium ($$NH4^{+}$$) and ammonia (NH3) in the water. The ratio between ($$NH4^{+}$$) and (NH3) is dependent on temperature and pH and forms an equilibrium. In a low pH, almost all TAN is ammonium. In a high pH more TAN shifts to free NH3. The same goes with temperature. Warmer water shifts the TAN towards NH3. The nitrifying bacteria consume the NH3 which pulls ($$NH4^{+}$$) towards NH3 to maintain equilibrium. So over time both are removed.
+
+It's not a choice of putting plants into work or not but a choice of which species of plants to use. Since the top level has UGFs with coarse gravel, the choice was made to ditch rooted plants and to prioritize free floating ones like salvinia, water lettuce, hornwort and elodea. These plants are powerful in nitrogen and phosphorus absorption and can be easily maintained within dedicated aquariums.
 
 The [phosphorus cycle](https://tmaquaponics.github.io/2026/04/26/The-phosphorus-cycle.html){:target="_blank"} occurs in an aquarium mostly from the introduction of fish food. It produces phosphates that quickly accumulate in the tank. Fortunately, plants consume phosphates to build their biomass; and that's the main method I chose to manage phosphates levels.
 
@@ -225,7 +225,7 @@ Before elaborating on these two choices, lets review the configuration of the ta
 - At level L4 we have three 60 Liters tanks with UGFs (all other tanks have sponge filters).
 - At L3, two 90 Liters tanks.
 - At L2, one 60 Liters tank divided in two and one 120 Liters tank.
-
+- At L1, the sump I went with is very simple. It is divided in three compartments. The first one is 60x60 cm. Offering the same volume as the 120 Liters in L2. The remaining volume is 60x30 cm divided in two. A 20x30 cm compartment for the static media, sponge mats and filter floss; and the last compartment of 40x30 cm is where the main pump will be placed. The compartment where the static media is has 6 holes on the side connected the 120 Liters volume. Water flows through the holes then the static media, under the baffle and to the pump.
 
 So, basically, we have two 30 Liters, three 60 Liters, two 90 Liters and two 120 Liters. Plenty of space for the fry to grow and a configuration that can host many batches at a time. The 120 Liters volume I cleared in the sump can either be used as a grow out or an MBBR (Versatility !! :). In the later case, I wouldn't need to implement an external filtration.
 
