@@ -88,7 +88,7 @@ This design is simple, holds static media that is easy to access and clean and h
 
 **Design 5: Good enough sump**
 
-This design is similar to design 4 but has an additional chamber of 15 by 60 cm where the gutter pours in water. This chamber is divided into 4 compartements where water flows beneath or above each baffle to reach the second chamber. The second chamber, now of size 45 by 60 cm, holds the MBBR.
+This design is similar to design 4 but has an additional chamber of 15 by 60 cm where the gutter pours in water. This chamber is divided into 4 compartments where water flows beneath or above each baffle to reach the second chamber. The second chamber, now of size 45 by 60 cm, holds the MBBR.
 
 <ins>Negative aspects:</ins>
 - Does not achieve a full filtration cycle (The nitrates and phosphates are not removed).
@@ -96,13 +96,13 @@ This design is similar to design 4 but has an additional chamber of 15 by 60 cm 
 
 **Design 6: Regular sump**
 
-In this design the sump has 4 chambers. The chambers are seperated depthwise by baffles where water goes beneath or above each baffle. The first chamber is 15 by 60 cm, it holds filter floss and sponge mats. The second chamber is 15 by 60 cm and holds the static media. The third chamber holds the moving biopellets and is 30 by 60 cm. The last chamber is 30 by 60 cm and holds the heaters and the return pump.
+In this design the sump has 4 chambers. The chambers are separated depth-wise by baffles where water goes beneath or above each baffle. The first chamber is 15 by 60 cm, it holds filter floss and sponge mats. The second chamber is 15 by 60 cm and holds the static media. The third chamber holds the moving biopellets and is 30 by 60 cm. The last chamber is 30 by 60 cm and holds the heaters and the return pump.
 
 This design is simple and gives clear access to all the chambers from the front of the rack.
 
 <ins>Negative aspects:</ins>
 - Does not achieve a full filtration cycle (The nitrates and phosphates are not removed).
-- No room for upgrades except the last chamber.
+- No room for upgrades except in the last chamber.
 - Can't be converted into a grow-out tank.
 
 **Design 7: Divider sump**
