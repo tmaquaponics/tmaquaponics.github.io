@@ -15,7 +15,7 @@ In my [fishroom in a rack build](https://tmaquaponics.github.io/2026/04/03/Build
 
 ### Introduction
 
-A sump is a central filtration system where water is filtered from chamber to chamber. Usually, a it contains at least 3 chambers. 
+A sump is a central filtration system where water is filtered from chamber to chamber. Usually, a sump contains at least 3 chambers. 
 
 The first chamber is for mechanical filtration. Most often this is done using filter floss or filter socks. Beneath that filter floss are coarse sponges that act as mechanical and biological filtration. The role of the first chamber is to protect the static media and equipment from particles in the water. 
 
@@ -25,7 +25,7 @@ The third chamber is for equipment and water conditioning. This last chamber hos
 
 The number one benefit of a sump is the huge filtration capacity it brings compared to canister filters. The downside is that you have to do a lot of plumbing. If that plumbing is not done right, you could end up with leaks and water accidents. For our specific purpose, the tanks in the rack overflow to the sump by gravity and not by siphon, so there's no risk of the sump overflowing (when the main pump stops, the circuit stops instantly and no water is purring in the sump anymore).
 
-In my ras setup, I decided to implement a central filtration system in the form of a &80 Liters sump. Since space is of utmost importance in a breeding setup, the sump needed to be versatile enough to be converted into a grow-out tank while serving as a central filtration most of the time. Essentially, I needed the sump to be demountable without requiring me to take apart the glass. It also needed to be a settling chamber where water can be drawn without requiring me to constantly do top-offs.
+In my ras setup, I decided to implement a central filtration system in the form of a 180 Liters sump. Since space is of utmost importance in a breeding setup, the sump needed to be versatile enough to be converted into a grow-out tank while serving as a central filtration most of the time. Essentially, I needed the sump to be demountable without requiring me to take apart the glass. It also needed to be a settling chamber where water can be drawn without requiring me to constantly do top-offs.
 
 Let's first lay out the requirements of the sump to have something we can ponder against later on:
 
@@ -41,6 +41,8 @@ From these requirements I sketched out the following designs :
 **Design 1: The sump has three equal chambers**
 
 In this design I considered the sump to be composed of three chambers of 60 liters each. Each chamber is depth-wise to the sump with clear access for me. Each dividing baffle has three holes for the water to circulate from chamber to chamber. The gutter pours in water in the front of the first chamber. Water circulates to the back of the first chamber passing through different filtration media, then enters the second chamber from the side through the three holes in the first baffle. In the second chamber, water flows from the back of the chamber to the front passing through the moving biopellets to enter the third chamber through the three holes on the side of the second baffle. In that last chamber, water flows from the front to the back of chamber and finally to the return pump. Two heaters are placed in that last chamber.
+
+![Sump design 1](/assets/img/sump-design-1.jpg)
 
 Pretty simple design, easy to clean and operate. 
 
